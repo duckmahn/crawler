@@ -1,0 +1,23 @@
+{
+  "id": "6Nqq76jnJdANNfb",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/514w10a7001_x0930",
+  "order_no": "1741951473646.960000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/514W10A7001_X0930",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/514w10a7001_x0930",
+    "id": "6Nqq76jnJdANNfb"
+  }
+}

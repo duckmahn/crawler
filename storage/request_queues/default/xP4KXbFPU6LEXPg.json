@@ -2,7 +2,7 @@
   "id": "xP4KXbFPU6LEXPg",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/hair-accessories",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:49.868101+00:00",
+  "handled_at": "2025-03-14 11:24:42.602761+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/hair-accessories",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/hair-accessories",
-    "handled_at": "2025-03-14 11:00:49.868101+00:00",
+    "handled_at": "2025-03-14 11:24:42.602761+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/hair-accessories",
     "id": "xP4KXbFPU6LEXPg"
   }

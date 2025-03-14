@@ -1,0 +1,23 @@
+{
+  "id": "l9YcWRiMP62ekPV",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/cdlka1uxr_f0a1",
+  "order_no": "1741951498896.965000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/CDLKA1UXR_F0A1",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/cdlka1uxr_f0a1",
+    "id": "l9YcWRiMP62ekPV"
+  }
+}

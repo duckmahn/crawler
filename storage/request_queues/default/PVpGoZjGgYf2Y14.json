@@ -1,0 +1,23 @@
+{
+  "id": "PVpGoZjGgYf2Y14",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/243c904m3010_c085",
+  "order_no": "1741951498845.269000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/243C904M3010_C085",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/243c904m3010_c085",
+    "id": "PVpGoZjGgYf2Y14"
+  }
+}

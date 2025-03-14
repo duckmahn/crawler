@@ -1,43 +1,4 @@
 {
   "brand": "dior",
-  "products": [
-    {
-      "code": "prd-52TJP331I207C520",
-      "name": "Toile de Jouy Papillon Sarong",
-      "description": "White and Blue Cotton",
-      "price": "15000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP331I207C520_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52TJP331I207_C520",
-      "variants": [
-        {
-          "color": "White and Blue Cotton",
-          "size": null,
-          "code": "52TJP331I207_C520",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP331I207C520_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-14CDO370I901C540",
-      "name": "Dior Oblique Hooded Poncho",
-      "description": "Navy Blue Cotton",
-      "price": "35000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/14CDO370I901C540_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/14CDO370I901_C540",
-      "variants": [
-        {
-          "color": "Navy Blue Cotton",
-          "size": null,
-          "code": "14CDO370I901_C540",
-          "price": "35000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/14CDO370I901C540_E01",
-          "additionalImages": []
-        }
-      ]
-    }
-  ]
+  "products": []
 }

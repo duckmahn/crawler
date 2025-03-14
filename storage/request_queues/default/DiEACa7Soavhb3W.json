@@ -1,8 +1,8 @@
 {
   "id": "DiEACa7Soavhb3W",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/jewellery",
-  "order_no": "1741950050296.003000",
-  "handled_at": null,
+  "order_no": null,
+  "handled_at": "2025-03-14 11:24:44.254641+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/jewellery",
     "method": "GET",
@@ -11,14 +11,13 @@
     "user_data": {
       "__crawlee": {
         "state": 3,
-        "sessionRotationCount": 1,
         "crawlDepth": 1
       }
     },
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/jewellery",
-    "handled_at": null,
+    "handled_at": "2025-03-14 11:24:44.254641+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/jewellery",
     "id": "DiEACa7Soavhb3W"
   }

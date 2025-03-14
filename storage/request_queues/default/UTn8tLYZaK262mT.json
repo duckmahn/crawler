@@ -2,7 +2,7 @@
   "id": "UTn8tLYZaK262mT",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/key-rings-and-bag-charms",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:44.584270+00:00",
+  "handled_at": "2025-03-14 11:24:38.473244+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/key-rings-and-bag-charms",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/key-rings-and-bag-charms",
-    "handled_at": "2025-03-14 11:00:44.584270+00:00",
+    "handled_at": "2025-03-14 11:24:38.473244+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/key-rings-and-bag-charms",
     "id": "UTn8tLYZaK262mT"
   }

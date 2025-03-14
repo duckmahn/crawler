@@ -2,7 +2,7 @@
   "id": "NRFOIoFpcPmvni2",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/dior-pacific",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:51.126149+00:00",
+  "handled_at": "2025-03-14 11:24:44.224362+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/dior-pacific",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/dior-pacific",
-    "handled_at": "2025-03-14 11:00:51.126149+00:00",
+    "handled_at": "2025-03-14 11:24:44.224362+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/dior-pacific",
     "id": "NRFOIoFpcPmvni2"
   }

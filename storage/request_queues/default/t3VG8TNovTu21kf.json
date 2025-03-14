@@ -2,7 +2,7 @@
   "id": "t3VG8TNovTu21kf",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/man",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:56.483232+00:00",
+  "handled_at": "2025-03-14 11:24:51.256900+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/man",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/man",
-    "handled_at": "2025-03-14 11:00:56.483232+00:00",
+    "handled_at": "2025-03-14 11:24:51.256900+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/man",
     "id": "t3VG8TNovTu21kf"
   }

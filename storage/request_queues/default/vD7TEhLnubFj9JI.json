@@ -2,7 +2,7 @@
   "id": "vD7TEhLnubFj9JI",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/socks",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:50.238517+00:00",
+  "handled_at": "2025-03-14 11:24:43.378435+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/socks",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/socks",
-    "handled_at": "2025-03-14 11:00:50.238517+00:00",
+    "handled_at": "2025-03-14 11:24:43.378435+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/socks",
     "id": "vD7TEhLnubFj9JI"
   }

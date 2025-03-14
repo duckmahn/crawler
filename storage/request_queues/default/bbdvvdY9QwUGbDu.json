@@ -2,7 +2,7 @@
   "id": "bbdvvdY9QwUGbDu",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/loafers-and-flat-shoes",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:54.066535+00:00",
+  "handled_at": "2025-03-14 11:24:48.129722+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/loafers-and-flat-shoes",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/loafers-and-flat-shoes",
-    "handled_at": "2025-03-14 11:00:54.066535+00:00",
+    "handled_at": "2025-03-14 11:24:48.129722+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/loafers-and-flat-shoes",
     "id": "bbdvvdY9QwUGbDu"
   }

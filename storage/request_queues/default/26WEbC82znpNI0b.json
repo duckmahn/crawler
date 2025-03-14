@@ -1,0 +1,23 @@
+{
+  "id": "26WEbC82znpNI0b",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/524w05a7022_x9330",
+  "order_no": "1741951473653.281000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/524W05A7022_X9330",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/524w05a7022_x9330",
+    "id": "26WEbC82znpNI0b"
+  }
+}

@@ -2,7 +2,7 @@
   "id": "H4Ze9lPzJwhBKZs",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/belts",
   "order_no": null,
-  "handled_at": "2025-03-14 11:01:05.452996+00:00",
+  "handled_at": "2025-03-14 11:24:57.770320+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/belts",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/belts",
-    "handled_at": "2025-03-14 11:01:05.452996+00:00",
+    "handled_at": "2025-03-14 11:24:57.770320+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/belts",
     "id": "H4Ze9lPzJwhBKZs"
   }

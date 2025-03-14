@@ -2,7 +2,7 @@
   "id": "YWjxPvt1Kkp34m0",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/belt-bags",
   "order_no": null,
-  "handled_at": "2025-03-14 11:01:02.462459+00:00",
+  "handled_at": "2025-03-14 11:24:54.965581+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/belt-bags",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/belt-bags",
-    "handled_at": "2025-03-14 11:01:02.462459+00:00",
+    "handled_at": "2025-03-14 11:24:54.965581+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/belt-bags",
     "id": "YWjxPvt1Kkp34m0"
   }

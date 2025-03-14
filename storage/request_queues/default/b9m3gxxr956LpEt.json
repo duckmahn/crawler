@@ -2,7 +2,7 @@
   "id": "b9m3gxxr956LpEt",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/homewear-lingerie",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:39.695761+00:00",
+  "handled_at": "2025-03-14 11:24:35.793054+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/homewear-lingerie",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/homewear-lingerie",
-    "handled_at": "2025-03-14 11:00:39.695761+00:00",
+    "handled_at": "2025-03-14 11:24:35.793054+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/homewear-lingerie",
     "id": "b9m3gxxr956LpEt"
   }

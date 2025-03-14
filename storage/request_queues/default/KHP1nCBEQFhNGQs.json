@@ -2,7 +2,7 @@
   "id": "KHP1nCBEQFhNGQs",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/cross-body-shoulder-bags",
   "order_no": null,
-  "handled_at": "2025-03-14 11:01:00.698097+00:00",
+  "handled_at": "2025-03-14 11:24:53.782407+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/cross-body-shoulder-bags",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/cross-body-shoulder-bags",
-    "handled_at": "2025-03-14 11:01:00.698097+00:00",
+    "handled_at": "2025-03-14 11:24:53.782407+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/cross-body-shoulder-bags",
     "id": "KHP1nCBEQFhNGQs"
   }

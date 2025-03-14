@@ -2,7 +2,7 @@
   "id": "fT6mgxU6vgUpJV6",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/ties-pocket-squares",
   "order_no": null,
-  "handled_at": "2025-03-14 11:01:05.636778+00:00",
+  "handled_at": "2025-03-14 11:24:57.708111+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/ties-pocket-squares",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/ties-pocket-squares",
-    "handled_at": "2025-03-14 11:01:05.636778+00:00",
+    "handled_at": "2025-03-14 11:24:57.708111+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/ties-pocket-squares",
     "id": "fT6mgxU6vgUpJV6"
   }

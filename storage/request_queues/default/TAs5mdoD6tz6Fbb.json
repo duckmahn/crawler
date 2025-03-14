@@ -2,7 +2,7 @@
   "id": "TAs5mdoD6tz6Fbb",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/sunglasses",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:49.250571+00:00",
+  "handled_at": "2025-03-14 11:24:42.611917+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/sunglasses",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/sunglasses",
-    "handled_at": "2025-03-14 11:00:49.250571+00:00",
+    "handled_at": "2025-03-14 11:24:42.611917+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/accessories/sunglasses",
     "id": "TAs5mdoD6tz6Fbb"
   }

@@ -2,7 +2,7 @@
   "id": "Go0V2QcWlWGitpN",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/earrings",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:51.145880+00:00",
+  "handled_at": "2025-03-14 11:24:46.026546+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/earrings",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/earrings",
-    "handled_at": "2025-03-14 11:00:51.145880+00:00",
+    "handled_at": "2025-03-14 11:24:46.026546+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/earrings",
     "id": "Go0V2QcWlWGitpN"
   }

@@ -2,7 +2,7 @@
   "id": "pWZpb6aK2Sz6SyR",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/dior-denim",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:59.604342+00:00",
+  "handled_at": "2025-03-14 11:24:52.495184+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/dior-denim",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/dior-denim",
-    "handled_at": "2025-03-14 11:00:59.604342+00:00",
+    "handled_at": "2025-03-14 11:24:52.495184+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/dior-denim",
     "id": "pWZpb6aK2Sz6SyR"
   }

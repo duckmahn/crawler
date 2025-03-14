@@ -2,7 +2,7 @@
   "id": "aeylKqzFFV0rhTP",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/lady-dior",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:45.799077+00:00",
+  "handled_at": "2025-03-14 11:24:39.142368+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/lady-dior",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/lady-dior",
-    "handled_at": "2025-03-14 11:00:45.799077+00:00",
+    "handled_at": "2025-03-14 11:24:39.142368+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/lady-dior",
     "id": "aeylKqzFFV0rhTP"
   }

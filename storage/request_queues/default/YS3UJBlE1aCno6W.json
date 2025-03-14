@@ -2,7 +2,7 @@
   "id": "YS3UJBlE1aCno6W",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/all-bags",
   "order_no": null,
-  "handled_at": "2025-03-14 11:01:00.289805+00:00",
+  "handled_at": "2025-03-14 11:24:53.761502+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/all-bags",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/all-bags",
-    "handled_at": "2025-03-14 11:01:00.289805+00:00",
+    "handled_at": "2025-03-14 11:24:53.761502+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/all-bags",
     "id": "YS3UJBlE1aCno6W"
   }

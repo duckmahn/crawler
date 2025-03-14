@@ -2,7 +2,7 @@
   "id": "LHNdHWyc6hnrxGL",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/small-leather-goods/long-wallets",
   "order_no": null,
-  "handled_at": "2025-03-14 11:01:03.474276+00:00",
+  "handled_at": "2025-03-14 11:24:57.693699+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/small-leather-goods/long-wallets",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/small-leather-goods/long-wallets",
-    "handled_at": "2025-03-14 11:01:03.474276+00:00",
+    "handled_at": "2025-03-14 11:24:57.693699+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/small-leather-goods/long-wallets",
     "id": "LHNdHWyc6hnrxGL"
   }

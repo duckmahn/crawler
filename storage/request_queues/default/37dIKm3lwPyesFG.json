@@ -1,0 +1,23 @@
+{
+  "id": "37dIKm3lwPyesFG",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/e1411tricy_d12p",
+  "order_no": "1741951484232.952000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/E1411TRICY_D12P",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/e1411tricy_d12p",
+    "id": "37dIKm3lwPyesFG"
+  }
+}

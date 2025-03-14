@@ -2,7 +2,7 @@
   "id": "dhbtmnw6deH1OH9",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/travel-bags",
   "order_no": null,
-  "handled_at": "2025-03-14 11:01:01.652418+00:00",
+  "handled_at": "2025-03-14 11:24:54.969384+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/travel-bags",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/travel-bags",
-    "handled_at": "2025-03-14 11:01:01.652418+00:00",
+    "handled_at": "2025-03-14 11:24:54.969384+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/travel-bags",
     "id": "dhbtmnw6deH1OH9"
   }
