@@ -1,0 +1,23 @@
+{
+  "id": "f5GLmLOBPuduKUT",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/m1325cetj_m46i",
+  "order_no": "1741950043114.359000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/M1325CETJ_M46I",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/m1325cetj_m46i",
+    "id": "f5GLmLOBPuduKUT"
+  }
+}

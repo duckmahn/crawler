@@ -1,0 +1,23 @@
+{
+  "id": "RN18msbfY8xEtnb",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/v1439homgm_d395",
+  "order_no": "1741950060054.990000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/V1439HOMGM_D395",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/v1439homgm_d395",
+    "id": "RN18msbfY8xEtnb"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "QMtRX9q1JkcRjtX",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/kdc200vnr_s12u",
+  "order_no": "1741950054105.198000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/KDC200VNR_S12U",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/kdc200vnr_s12u",
+    "id": "QMtRX9q1JkcRjtX"
+  }
+}

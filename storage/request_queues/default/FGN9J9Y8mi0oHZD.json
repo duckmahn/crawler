@@ -1,0 +1,23 @@
+{
+  "id": "FGN9J9Y8mi0oHZD",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/s0181ovrb_m77p",
+  "order_no": "1741950048096.025000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/S0181OVRB_M77P",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/s0181ovrb_m77p",
+    "id": "FGN9J9Y8mi0oHZD"
+  }
+}

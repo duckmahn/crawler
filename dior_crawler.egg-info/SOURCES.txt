@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+dior_crawler/__init__.py
+dior_crawler/__main__.py
+dior_crawler/main.py
+dior_crawler/routes.py
+dior_crawler.egg-info/PKG-INFO
+dior_crawler.egg-info/SOURCES.txt
+dior_crawler.egg-info/dependency_links.txt
+dior_crawler.egg-info/requires.txt
+dior_crawler.egg-info/top_level.txt

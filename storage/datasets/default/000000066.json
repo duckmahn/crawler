@@ -1,0 +1,171 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-KDV324BENS26W",
+      "name": "J'Adior Slingback Pump",
+      "description": "White Embroidered Cotton and Microbeads",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV324BENS26W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV324BEN_S26W",
+      "variants": [
+        {
+          "color": "White Embroidered Cotton and Microbeads",
+          "size": null,
+          "code": "KDV324BEN_S26W",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV324BENS26W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Embroidered Cotton and Silver-Tone Strass",
+          "size": null,
+          "code": "KDP867SEL_S03W",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP867SELS03W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White and Gold-Tone Millefiori Jacquard",
+          "size": null,
+          "code": "KDP920LJE_S09W",
+          "price": "32000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP920LJES09W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Transparent Mesh with Dior Chardons Embroidery in Gold-Tone Metallic Thread",
+          "size": null,
+          "code": "KDV039CXT_S62K",
+          "price": "38000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV039CXTS62K_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Transparent Mesh Embroidered with White Dior Cabinet de la Mer Motif",
+          "size": null,
+          "code": "KDV039CMT_S10W",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV039CMTS10W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Transparent Mesh Embroidered with White Dior Cabinet de la Mer Motif",
+          "size": null,
+          "code": "KDV038CMT_S10W",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV038CMTS10W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Technical Fabric",
+          "size": null,
+          "code": "KDC201TFL_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC201TFLS900_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Technical Fabric",
+          "size": null,
+          "code": "KDC200TFL_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC200TFLS900_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Technical Fabric with Cannage Motif",
+          "size": null,
+          "code": "KDV373TCE_S900",
+          "price": "30380000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV373TCES900_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Nude Technical Fabric",
+          "size": null,
+          "code": "KDC200TFL_S21U",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC200TFLS21U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Nude Patent Calfskin",
+          "size": null,
+          "code": "KDC200VNR_S12U",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC200VNRS12U_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Transparent Mesh with Black Dior Chardons Embroidery",
+          "size": null,
+          "code": "KDV038CDT_S900",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV038CDTS900_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Technical Fabric and Strass",
+          "size": null,
+          "code": "KDP867SCS_S05X",
+          "price": "51000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP867SCSS05X_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and Gold-Tone Millefiori Jacquard",
+          "size": null,
+          "code": "KDP920LJE_S21X",
+          "price": "32000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP920LJES21X_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White and Black Cotton Embroidered with Plan de Paris Motif",
+          "size": null,
+          "code": "KCP866KPY_S15W",
+          "price": "30380000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCP866KPYS15W_E02-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCB384TFLS900",
+      "name": "J'Adior Slingback Flat",
+      "description": "Black Technical Fabric",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB384TFLS900_E02-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCB384TFL_S900",
+      "variants": [
+        {
+          "color": "Black Technical Fabric",
+          "size": null,
+          "code": "KCB384TFL_S900",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB384TFLS900_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Nude Technical Fabric",
+          "size": null,
+          "code": "KCB384TFL_S21U",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB384TFLS21U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White and Black Cotton Embroidered with Plan de Paris Motif",
+          "size": null,
+          "code": "KCB660KPY_S15W",
+          "price": "27440000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB660KPYS15W_E02",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

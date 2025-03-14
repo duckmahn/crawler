@@ -1,0 +1,23 @@
+{
+  "id": "SqYjVFONVXYasa8",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/511j83a1761_x4175",
+  "order_no": "1741950039712.756000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/511J83A1761_X4175",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/511j83a1761_x4175",
+    "id": "SqYjVFONVXYasa8"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gTs3TuoQobfQKfu",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/5sbh11drsy_y28b",
+  "order_no": "1741950034302.562000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/5SBH11DRSY_Y28B",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/5sbh11drsy_y28b",
+    "id": "gTs3TuoQobfQKfu"
+  }
+}

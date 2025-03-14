@@ -1,0 +1,23 @@
+{
+  "id": "XOn1VS4RQcvXjJJ",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/5sbm11drsb_y32b",
+  "order_no": "1741950034299.133000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/5SBM11DRSB_Y32B",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/5sbm11drsb_y32b",
+    "id": "XOn1VS4RQcvXjJJ"
+  }
+}

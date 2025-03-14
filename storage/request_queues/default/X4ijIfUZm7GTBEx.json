@@ -1,0 +1,23 @@
+{
+  "id": "X4ijIfUZm7GTBEx",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/25tjv200i154_c543",
+  "order_no": "1741950050294.871000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/25TJV200I154_C543",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/25tjv200i154_c543",
+    "id": "X4ijIfUZm7GTBEx"
+  }
+}

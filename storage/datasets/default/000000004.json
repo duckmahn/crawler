@@ -1,0 +1,799 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-B2762HOMSTD970",
+      "name": "CD Icon Thin Chain Link Bracelet",
+      "description": "Gold-Plated Silver",
+      "price": "16500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2762HOMSTD970_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2762HOMST_D970",
+      "variants": [
+        {
+          "color": "Gold-Plated Silver",
+          "size": null,
+          "code": "B2762HOMST_D970",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2762HOMSTD970_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-3SN272ZIJH890",
+      "name": "B27 Uptown Low-Top Sneaker",
+      "description": "Dior Gray Smooth Calfskin and White Dior Oblique Galaxy Leather",
+      "price": "31000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SN272ZIJH890_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/3SN272ZIJ_H890",
+      "variants": [
+        {
+          "color": "Dior Gray Smooth Calfskin and White Dior Oblique Galaxy Leather",
+          "size": null,
+          "code": "3SN272ZIJ_H890",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SN272ZIJH890_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Smooth Calfskin, Blue Denim and White Dior Oblique Galaxy Leather",
+          "size": null,
+          "code": "3SN272ZAC_H580",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SN272ZACH580_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin and Black Dior Gravity Leather",
+          "size": null,
+          "code": "3SN272ZAY_H900",
+          "price": "32000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SN272ZAYH900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C542A6472C989",
+      "name": "CD Icon Embroidery Shirt",
+      "description": "Black Cotton Gabardine",
+      "price": "43000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C542A6472C989_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C542A6472_C989",
+      "variants": [
+        {
+          "color": "Black Cotton Gabardine",
+          "size": null,
+          "code": "513C542A6472_C989",
+          "price": "43000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C542A6472C989_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCH168OYYH958",
+      "name": "DIOR AND KAWS Saddle Magnetic Card Holder",
+      "description": "Black Grained Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH958_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCH168OYY_H958",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCH168OYY_H958",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH958_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-3SN318ZEXH053",
+      "name": "DIOR AND KAWS B57 Dribble Low-Top Sneaker – LIMITED AND NUMBERED EDITION",
+      "description": "White and Navy Blue Smooth Calfskin with White Suede",
+      "price": "39000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SN318ZEXH053_E02-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/3SN318ZEX_H053",
+      "variants": [
+        {
+          "color": "White and Navy Blue Smooth Calfskin with White Suede",
+          "size": null,
+          "code": "3SN318ZEX_H053",
+          "price": "39000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SN318ZEXH053_E02-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CDDMS3FXR45F5",
+      "name": "CD Diamond S3F",
+      "description": "Transparent Gray Square Sunglasses",
+      "price": "17660000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CDDMS3FXR45F5_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CDDMS3FXR_45F5",
+      "variants": [
+        {
+          "color": "Transparent Gray Square Sunglasses",
+          "size": null,
+          "code": "CDDMS3FXR_45F5",
+          "price": "17660000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CDDMS3FXR45F5_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-4965RVVARH00N",
+      "name": "CD Icon Dior Oblique Cosmo Belt Buckle",
+      "description": "Black Matte Lacquer-Finish Brass, 35 MM",
+      "price": "9300000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4965RVVARH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/4965RVVAR_H00N",
+      "variants": [
+        {
+          "color": "Black Matte Lacquer-Finish Brass, 35 MM",
+          "size": null,
+          "code": "4965RVVAR_H00N",
+          "price": "9300000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4965RVVARH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-1EIBO071YKYH27E",
+      "name": "Dior 8 Belt Bag",
+      "description": "Beige and Black Dior Oblique Jacquard",
+      "price": "57000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1EIBO071YKYH27E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/1EIBO071YKY_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "1EIBO071YKY_H27E",
+          "price": "57000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1EIBO071YKYH27E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "1EIBO071YKY_H03E",
+          "price": "57000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1EIBO071YKYH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-3SN303ZYSH068",
+      "name": "B33 Spin Sneaker",
+      "description": "White Smooth Calfskin and Dior Oblique Jacquard",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SN303ZYSH068_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/3SN303ZYS_H068",
+      "variants": [
+        {
+          "color": "White Smooth Calfskin and Dior Oblique Jacquard",
+          "size": null,
+          "code": "3SN303ZYS_H068",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SN303ZYSH068_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B2538HOMLED047",
+      "name": "Cannage Bracelet",
+      "description": "Silver-Finish Brass and Anthracite Gray Lambskin",
+      "price": "9100000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2538HOMLED047_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2538HOMLE_D047",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass and Anthracite Gray Lambskin",
+          "size": null,
+          "code": "B2538HOMLE_D047",
+          "price": "9100000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2538HOMLED047_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-413C914C6472C181",
+      "name": "CD Icon Cap",
+      "description": "Beige Cotton Gabardine",
+      "price": "17500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C914C6472C181_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/413C914C6472_C181",
+      "variants": [
+        {
+          "color": "Beige Cotton Gabardine",
+          "size": null,
+          "code": "413C914C6472_C181",
+          "price": "17500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C914C6472C181_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Gabardine",
+          "size": null,
+          "code": "413C914C6472_C989",
+          "price": "17500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C914C6472C989_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3200HOMSTD970",
+      "name": "CD Icon Thin Chain Link Necklace",
+      "description": "Gold-Plated Silver",
+      "price": "23500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3200HOMSTD970_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3200HOMST_D970",
+      "variants": [
+        {
+          "color": "Gold-Plated Silver",
+          "size": null,
+          "code": "N3200HOMST_D970",
+          "price": "23500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3200HOMSTD970_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-3SH126ZSAH961",
+      "name": "B23 League High-Top Sneaker",
+      "description": "Beige and Black Dior Oblique Jacquard",
+      "price": "31000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SH126ZSAH961_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/3SH126ZSA_H961",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "3SH126ZSA_H961",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SH126ZSAH961_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-DOBLS1FXR78A0",
+      "name": "DiorOblique S1F",
+      "description": "Transparent Beige Square Sunglasses",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DOBLS1FXR78A0_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DOBLS1FXR_78A0",
+      "variants": [
+        {
+          "color": "Transparent Beige Square Sunglasses",
+          "size": null,
+          "code": "DOBLS1FXR_78A0",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DOBLS1FXR78A0_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Transparent Black Square Sunglasses",
+          "size": null,
+          "code": "DOBLS1FXR_45A0",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DOBLS1FXR45A0_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-44E0001A1018C180",
+      "name": "Striped Cannage Scarf",
+      "description": "Beige and White Wool",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44E0001A1018C180_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/44E0001A1018_C180",
+      "variants": [
+        {
+          "color": "Beige and White Wool",
+          "size": null,
+          "code": "44E0001A1018_C180",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44E0001A1018C180_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-E4426HOMMTD000",
+      "name": "CD30 Earring Set",
+      "description": "Silver-Finish Brass",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E4426HOMMTD000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E4426HOMMT_D000",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass",
+          "size": null,
+          "code": "E4426HOMMT_D000",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E4426HOMMTD000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R3470HOMSTD990",
+      "name": "CD30 Chain Link Ring",
+      "description": "Silver",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R3470HOMSTD990_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R3470HOMST_D990",
+      "variants": [
+        {
+          "color": "Silver",
+          "size": null,
+          "code": "R3470HOMST_D990",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R3470HOMSTD990_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513J696A0677C089",
+      "name": "Dior Archives Labels T-Shirt, Relaxed Fit",
+      "description": "White Cotton Jersey",
+      "price": "23000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696A0677C089_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513J696A0677_C089",
+      "variants": [
+        {
+          "color": "White Cotton Jersey",
+          "size": null,
+          "code": "513J696A0677_C089",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696A0677C089_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Jersey",
+          "size": null,
+          "code": "513J696A0677_C980",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696A0677C980_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-31E0015A0814C900",
+      "name": "Cannage Scarf",
+      "description": "Black Cashmere",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31E0015A0814C900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/31E0015A0814_C900",
+      "variants": [
+        {
+          "color": "Black Cashmere",
+          "size": null,
+          "code": "31E0015A0814_C900",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31E0015A0814C900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N4002HOMMTD000",
+      "name": "CD30 Pendant Necklace",
+      "description": "Silver-Finish Brass",
+      "price": "14000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4002HOMMTD000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N4002HOMMT_D000",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass",
+          "size": null,
+          "code": "N4002HOMMT_D000",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4002HOMMTD000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC316CDIH00N",
+      "name": "CD Icon Zipped Coin Purse",
+      "description": "Black Grained Calfskin",
+      "price": "15000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC316CDIH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC316CDI_H00N",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESBC316CDI_H00N",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC316CDIH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2417HOMSTD970",
+      "name": "CD Icon Chain Link Ring",
+      "description": "Gold-Plated Silver",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2417HOMSTD970_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2417HOMST_D970",
+      "variants": [
+        {
+          "color": "Gold-Plated Silver",
+          "size": null,
+          "code": "R2417HOMST_D970",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2417HOMSTD970_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADKH462YSEH05E",
+      "name": "Saddle Case with Cord for AirPods Pro",
+      "description": "Beige and Black Dior Oblique Jacquard",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADKH462YSEH05E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADKH462YSE_H05E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADKH462YSE_H05E",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADKH462YSEH05E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-4912PNMETH12K",
+      "name": "CD Icon Belt Buckle",
+      "description": "Antique Silver-Finish Brass, 35 MM",
+      "price": "8800000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4912PNMETH12K_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/4912PNMET_H12K",
+      "variants": [
+        {
+          "color": "Antique Silver-Finish Brass, 35 MM",
+          "size": null,
+          "code": "4912PNMET_H12K",
+          "price": "8800000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4912PNMETH12K_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Matte Lacquer-Finish Brass, 35 MM",
+          "size": null,
+          "code": "4961RVVAR_H56E",
+          "price": "8800000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4961RVVARH56E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-4804ZZYSEH05E",
+      "name": "Reversible Belt Strap",
+      "description": "Beige and Black Dior Oblique Jacquard and Black Grained Calfskin, 40 MM",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4804ZZYSEH05E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/4804ZZYSE_H05E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard and Black Grained Calfskin, 40 MM",
+          "size": null,
+          "code": "4804ZZYSE_H05E",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4804ZZYSEH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Dior Oblique Jacquard and Black Grained Calfskin, 35 MM",
+          "size": null,
+          "code": "4800ZZYSE_H04E",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4800ZZYSEH04E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513M663A2007C089",
+      "name": "Dior Archives Labels Sweater",
+      "description": "White Wool Jersey",
+      "price": "51000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513M663A2007C089_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513M663A2007_C089",
+      "variants": [
+        {
+          "color": "White Wool Jersey",
+          "size": null,
+          "code": "513M663A2007_C089",
+          "price": "51000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513M663A2007C089_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N4005HOMMTD004",
+      "name": "Dior Oblique Pendant Necklace",
+      "description": "Silver- and Ruthenium-Finish Brass",
+      "price": "15500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4005HOMMTD004_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N4005HOMMT_D004",
+      "variants": [
+        {
+          "color": "Silver- and Ruthenium-Finish Brass",
+          "size": null,
+          "code": "N4005HOMMT_D004",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4005HOMMTD004_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-3BO358ZJQH900",
+      "name": "Dior Combat Jodhpur Boot",
+      "description": "Black Polished Calfskin",
+      "price": "47000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3BO358ZJQH900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/3BO358ZJQ_H900",
+      "variants": [
+        {
+          "color": "Black Polished Calfskin",
+          "size": null,
+          "code": "3BO358ZJQ_H900",
+          "price": "47000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3BO358ZJQH900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513MB13AT371C888",
+      "name": "CD Icon Beanie",
+      "description": "Dior Gray and Anthracite Gray Virgin Wool Knit",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513MB13AT371C888_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513MB13AT371_C888",
+      "variants": [
+        {
+          "color": "Dior Gray and Anthracite Gray Virgin Wool Knit",
+          "size": null,
+          "code": "513MB13AT371_C888",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513MB13AT371C888_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513ME02AT371C888",
+      "name": "CD Icon Scarf",
+      "description": "Dior Gray and Anthracite Gray Virgin Wool Knit",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513ME02AT371C888_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513ME02AT371_C888",
+      "variants": [
+        {
+          "color": "Dior Gray and Anthracite Gray Virgin Wool Knit",
+          "size": null,
+          "code": "513ME02AT371_C888",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513ME02AT371C888_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B3649HOMMTD000",
+      "name": "CD30 Chain Link Bracelet",
+      "description": "Silver-Finish Brass",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B3649HOMMTD000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B3649HOMMT_D000",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass",
+          "size": null,
+          "code": "B3649HOMMT_D000",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B3649HOMMTD000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-1ESDU134YKYH27E",
+      "name": "Weekender 40",
+      "description": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+      "price": "87000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ESDU134YKYH27E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/1ESDU134YKY_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "1ESDU134YKY_H27E",
+          "price": "87000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ESDU134YKYH27E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-1ESPO322LLGH00N",
+      "name": "Weekender 25",
+      "description": "Black Dior Gravity Leather and Black Grained Calfskin",
+      "price": "78000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ESPO322LLGH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/1ESPO322LLG_H00N",
+      "variants": [
+        {
+          "color": "Black Dior Gravity Leather and Black Grained Calfskin",
+          "size": null,
+          "code": "1ESPO322LLG_H00N",
+          "price": "78000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ESPO322LLGH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC319CDIH00N",
+      "name": "CD Icon Vertical Compact Card Holder",
+      "description": "Black Grained Calfskin",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC319CDIH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC319CDI_H00N",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESBC319CDI_H00N",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC319CDIH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-51C1047B0999C585",
+      "name": "CD Icon Striped Tie",
+      "description": "Navy Blue and Blue Silk",
+      "price": "6500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B0999C585_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/51C1047B0999_C585",
+      "variants": [
+        {
+          "color": "Navy Blue and Blue Silk",
+          "size": null,
+          "code": "51C1047B0999_C585",
+          "price": "6500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B0999C585_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and Gray Silk",
+          "size": null,
+          "code": "51C1047B0999_C988",
+          "price": "6500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B0999C988_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-1ADPO049YKSH53E",
+      "name": "Small Saddle Messenger Bag with Flap",
+      "description": "Navy Blue Dior Oblique Jacquard and Navy Blue Grained Calfskin",
+      "price": "67000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ADPO049YKSH53E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/1ADPO049YKS_H53E",
+      "variants": [
+        {
+          "color": "Navy Blue Dior Oblique Jacquard and Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "1ADPO049YKS_H53E",
+          "price": "67000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ADPO049YKSH53E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCH164YKSH53E",
+      "name": "Saddle Card Holder",
+      "description": "Navy Blue Grained Calfskin Marquetry and Navy Blue Dior Oblique Jacquard",
+      "price": "11500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH164YKSH53E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCH164YKS_H53E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin Marquetry and Navy Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADCH164YKS_H53E",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH164YKSH53E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R3471HOMSTD992",
+      "name": "Dior Oblique Ring Set",
+      "description": "Silver",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R3471HOMSTD992_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R3471HOMST_D992",
+      "variants": [
+        {
+          "color": "Silver",
+          "size": null,
+          "code": "R3471HOMST_D992",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R3471HOMSTD992_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

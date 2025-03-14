@@ -1,0 +1,23 @@
+{
+  "id": "Stq0kdf6eAHQ3Hc",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/s0980onmj_m059",
+  "order_no": "1741950044593.618000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/S0980ONMJ_M059",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/s0980onmj_m059",
+    "id": "Stq0kdf6eAHQ3Hc"
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-N3251WOMRSD301",
+      "name": "Petit CD Jolie Necklace",
+      "description": "Gold-Finish Metal and White Resin Pearl",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3251WOMRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3251WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearl",
+          "size": null,
+          "code": "N3251WOMRS_D301",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3251WOMRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3278WOMCYD03S",
+      "name": "Dio(r)evolution Necklace",
+      "description": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+      "price": "22000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3278WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3278WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+          "size": null,
+          "code": "N3278WOMCY_D03S",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3278WOMCYD03S_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "N3117WOMCY_D03S",
+          "price": "17500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3117WOMCYD03S_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal and White Crystals",
+          "size": null,
+          "code": "N1308DVOCY_D301",
+          "price": "18500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1308DVOCYD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N1390PTCRSD009",
+      "name": "Petit CD Necklace",
+      "description": "Palladium-Finish Metal and White Resin Pearl",
+      "price": "14000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1390PTCRSD009_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N1390PTCRS_D009",
+      "variants": [
+        {
+          "color": "Palladium-Finish Metal and White Resin Pearl",
+          "size": null,
+          "code": "N1390PTCRS_D009",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1390PTCRSD009_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal and White Resin Pearl",
+          "size": null,
+          "code": "N1390PTCRS_D301",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1390PTCRSD301_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+          "size": null,
+          "code": "N3116WOMCY_D03S",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3116WOMCYD03S_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "N2890WOMCY_D03S",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N2890WOMCYD03S_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "N2241WOMCY_D03S",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N2241WOMCYD03S_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Silver-Finish Metal and White Crystals",
+          "size": null,
+          "code": "N2241WOMCY_D001",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N2241WOMCYD001_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3225WOMCYD03S",
+      "name": "Petit CD Bee Necklace",
+      "description": "Gold-Finish Metal and Silver-Tone Crystals",
+      "price": "17500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3225WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3225WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "N3225WOMCY_D03S",
+          "price": "17500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3225WOMCYD03S_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3254WOMRSD301",
+      "name": "D-Vinity Choker",
+      "description": "Matte Gold-Finish Metal and White Resin Pearls",
+      "price": "63000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3254WOMRSD301_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3254WOMRS_D301",
+      "variants": [
+        {
+          "color": "Matte Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "N3254WOMRS_D301",
+          "price": "63000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3254WOMRSD301_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N1033CDLCYD301",
+      "name": "Clair D Lune Necklace",
+      "description": "Gold-Finish Metal, White Resin Pearls and White Crystals",
+      "price": "16000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1033CDLCYD301_E06",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N1033CDLCY_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal, White Resin Pearls and White Crystals",
+          "size": null,
+          "code": "N1033CDLCY_D301",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1033CDLCYD301_E06",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal and White Crystals",
+          "size": null,
+          "code": "N0717CDLCY_D301",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N0717CDLCYD301_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Silver-Finish Metal and White Crystals",
+          "size": null,
+          "code": "N0717CDLCY_D102",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N0717CDLCYD102_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3296WOMRSD301",
+      "name": "Lucky Dior Necklace",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "17500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3296WOMRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3296WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "N3296WOMRS_D301",
+          "price": "17500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3296WOMRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3252WOMRSD301",
+      "name": "Toile de Jouy Papillon Choker",
+      "description": "Matte Gold-Finish Metal and White Resin Pearls",
+      "price": "49500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3252WOMRSD301_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3252WOMRS_D301",
+      "variants": [
+        {
+          "color": "Matte Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "N3252WOMRS_D301",
+          "price": "49500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3252WOMRSD301_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3265WOMRSD301",
+      "name": "D-Vinity Necklace",
+      "description": "Matte Gold-Finish Metal and White Resin Pearl",
+      "price": "31500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3265WOMRSD301_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3265WOMRS_D301",
+      "variants": [
+        {
+          "color": "Matte Gold-Finish Metal and White Resin Pearl",
+          "size": null,
+          "code": "N3265WOMRS_D301",
+          "price": "31500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3265WOMRSD301_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3119WOMLQD309",
+      "name": "Dioramour Cœur des Curiosités Necklace",
+      "description": "Gold-Finish Metal and Red Lacquer",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3119WOMLQD309_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3119WOMLQ_D309",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Red Lacquer",
+          "size": null,
+          "code": "N3119WOMLQ_D309",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3119WOMLQD309_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3110WOMCYD03S",
+      "name": "Dior Astral Necklace",
+      "description": "Gold-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+      "price": "15000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3110WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3110WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+          "size": null,
+          "code": "N3110WOMCY_D03S",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3110WOMCYD03S_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3118WOMCYD03S",
+      "name": "CD Navy Necklace",
+      "description": "Gold-Finish Metal and Silver-Tone Crystals",
+      "price": "15500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3118WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3118WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "N3118WOMCY_D03S",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3118WOMCYD03S_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3125WOMCYD03S",
+      "name": "Le Nœud de Dior Necklace",
+      "description": "Champagne-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+      "price": "20500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3125WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3125WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Champagne-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+          "size": null,
+          "code": "N3125WOMCY_D03S",
+          "price": "20500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3125WOMCYD03S_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Champagne-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+          "size": null,
+          "code": "N3087WOMCY_D03S",
+          "price": "38000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3087WOMCYD03S_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3080WOMFWD301",
+      "name": "Dior Cabinet de Curiosités Necklace",
+      "description": "Gold-Finish Metal and a White Resin Pearl",
+      "price": "46000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3080WOMFWD301_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3080WOMFW_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and a White Resin Pearl",
+          "size": null,
+          "code": "N3080WOMFW_D301",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3080WOMFWD301_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3114WOMFWD301",
+      "name": "Dior Cabinet de Curiosités Long Necklace",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "63000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3114WOMFWD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3114WOMFW_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "N3114WOMFW_D301",
+          "price": "63000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3114WOMFWD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3161WOMFWD301",
+      "name": "Dior Cabinet de Curiosités Short Necklace",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "28500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3161WOMFWD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3161WOMFW_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "N3161WOMFW_D301",
+          "price": "28500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3161WOMFWD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N1116MTGRSD301",
+      "name": "30 Montaigne Short Necklace",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "22000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1116MTGRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N1116MTGRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "N1116MTGRS_D301",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1116MTGRSD301_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal",
+          "size": null,
+          "code": "N1713MTGMT_D300",
+          "price": "18500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1713MTGMTD300_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Pink-Finish Metal and Pink Resin Pearls",
+          "size": null,
+          "code": "N1921WOMRS_D09P",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1921WOMRSD09P_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3098WOMRSD301",
+      "name": "30 Montaigne Necklace",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3098WOMRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3098WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "N3098WOMRS_D301",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3098WOMRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N1583DVOCYD301",
+      "name": "Dio(r)evolution Choker",
+      "description": "Gold-Finish Metal and White Crystals",
+      "price": "22500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1583DVOCYD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N1583DVOCY_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Crystals",
+          "size": null,
+          "code": "N1583DVOCY_D301",
+          "price": "22500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1583DVOCYD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N2044WOMCYD03S",
+      "name": "30 Montaigne Long Necklace",
+      "description": "Gold-Finish Metal and Silver-Tone Crystals",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N2044WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N2044WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "N2044WOMCY_D03S",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N2044WOMCYD03S_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3259WOMLQD97P",
+      "name": "D-Dice Necklace",
+      "description": "Gold-Finish Metal with Pale Pink Lacquer and White Resin Pearls",
+      "price": "16500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3259WOMLQD97P_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3259WOMLQ_D97P",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal with Pale Pink Lacquer and White Resin Pearls",
+          "size": null,
+          "code": "N3259WOMLQ_D97P",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3259WOMLQD97P_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3272WOMRSD301",
+      "name": "Toile de Jouy Papillon Necklace",
+      "description": "Matte Gold-Finish Metal and White Resin Pearls",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3272WOMRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3272WOMRS_D301",
+      "variants": [
+        {
+          "color": "Matte Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "N3272WOMRS_D301",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3272WOMRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3128WOMCYD03S",
+      "name": "Petit CD Lucky Charms Necklace",
+      "description": "Gold-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+      "price": "15500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3128WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3128WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+          "size": null,
+          "code": "N3128WOMCY_D03S",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3128WOMCYD03S_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "g1bwIt4Cu5UKoLn",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/m1325czem_m49e",
+  "order_no": "1741950033037.670000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/M1325CZEM_M49E",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/m1325czem_m49e",
+    "id": "g1bwIt4Cu5UKoLn"
+  }
+}

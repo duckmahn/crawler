@@ -1,0 +1,23 @@
+{
+  "id": "kJm82e1p7j7UfWV",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/b3662homst_d990",
+  "order_no": "1741950059608.585000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/B3662HOMST_D990",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/b3662homst_d990",
+    "id": "kJm82e1p7j7UfWV"
+  }
+}

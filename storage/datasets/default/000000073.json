@@ -1,0 +1,393 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-B0178UWGBM01E",
+      "name": "30 Montaigne Reversible Belt",
+      "description": "Gold-Tone and Latte Smooth Calfskin, 20 MM",
+      "price": "18620000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0178UWGBM01E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0178UWGB_M01E",
+      "variants": [
+        {
+          "color": "Gold-Tone and Latte Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0178UWGB_M01E",
+          "price": "18620000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0178UWGBM01E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-E1520PTCRSD301",
+      "name": "Petit CD Earrings",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1520PTCRSD301_E01-3",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E1520PTCRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "E1520PTCRS_D301",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1520PTCRSD301_E01-3",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M0505OIBEM52U",
+      "name": "Mini Lady Dior Bag",
+      "description": "Caramel Beige Microbead-Embroidered Cotton with Cannage Motif",
+      "price": "165000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505OIBEM52U_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0505OIBE_M52U",
+      "variants": [
+        {
+          "color": "Caramel Beige Microbead-Embroidered Cotton with Cannage Motif",
+          "size": null,
+          "code": "M0505OIBE_M52U",
+          "price": "165000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505OIBEM52U_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-25CAN140I676CO90",
+      "name": "Dior Cannage Shawl",
+      "description": "Gold-Tone Silk Blend and Metallic Thread",
+      "price": "24010000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25CAN140I676CO90_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/25CAN140I676_CO90",
+      "variants": [
+        {
+          "color": "Gold-Tone Silk Blend and Metallic Thread",
+          "size": null,
+          "code": "25CAN140I676_CO90",
+          "price": "24010000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25CAN140I676CO90_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-JBDR950330000",
+      "name": "Bois de Rose Ring",
+      "description": "Yellow Gold",
+      "price": "37000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JBDR95033_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JBDR95033_0000",
+      "variants": [
+        {
+          "color": "Yellow Gold",
+          "size": null,
+          "code": "JBDR95033_0000",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JBDR95033_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-JOUI950510000",
+      "name": "Dioramour Necklace",
+      "description": "Yellow Gold and Diamond",
+      "price": "65000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JOUI95051_E06",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JOUI95051_0000",
+      "variants": [
+        {
+          "color": "Yellow Gold and Diamond",
+          "size": null,
+          "code": "JOUI95051_0000",
+          "price": "65000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JOUI95051_E06",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-JOUI950520000",
+      "name": "Dioramour Ring",
+      "description": "Yellow Gold and Diamond",
+      "price": "52000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JOUI95052_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JOUI95052_0000",
+      "variants": [
+        {
+          "color": "Yellow Gold and Diamond",
+          "size": null,
+          "code": "JOUI95052_0000",
+          "price": "52000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JOUI95052_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-JMRO950070000",
+      "name": "Mimirose Bracelet",
+      "description": "Yellow Gold and Diamonds",
+      "price": "60000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JMRO95007_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JMRO95007_0000",
+      "variants": [
+        {
+          "color": "Yellow Gold and Diamonds",
+          "size": null,
+          "code": "JMRO95007_0000",
+          "price": "60000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JMRO95007_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-25DOB140I160C010",
+      "name": "Dior Oblique Shawl",
+      "description": "White Wool, Silk and Cashmere",
+      "price": "19500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB140I160C010_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/25DOB140I160_C010",
+      "variants": [
+        {
+          "color": "White Wool, Silk and Cashmere",
+          "size": null,
+          "code": "25DOB140I160_C010",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB140I160C010_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-34DBP924G153C160",
+      "name": "D-Bobby Large Brim Hat",
+      "description": "Straw with Beige and Black Embroidered Band",
+      "price": "23000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34DBP924G153C160_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/34DBP924G153_C160",
+      "variants": [
+        {
+          "color": "Straw with Beige and Black Embroidered Band",
+          "size": null,
+          "code": "34DBP924G153_C160",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34DBP924G153C160_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R1009DVOCYD301",
+      "name": "Dio(r)evolution Ring",
+      "description": "Gold-Finish Metal and White Crystals",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1009DVOCYD301_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R1009DVOCY_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Crystals",
+          "size": null,
+          "code": "R1009DVOCY_D301",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1009DVOCYD301_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-E1742PTCCYD301",
+      "name": "Petit CD Stud Earrings",
+      "description": "Gold-Finish Metal and White Crystals",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1742PTCCYD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E1742PTCCY_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Crystals",
+          "size": null,
+          "code": "E1742PTCCY_D301",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1742PTCCYD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R1137CDLCYD301",
+      "name": "Clair D Lune Ring",
+      "description": "Gold-Finish Metal and White Crystals",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1137CDLCYD301_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R1137CDLCY_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Crystals",
+          "size": null,
+          "code": "R1137CDLCY_D301",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1137CDLCYD301_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N2241WOMCYD03S",
+      "name": "Petit CD Necklace",
+      "description": "Gold-Finish Metal and Silver-Tone Crystals",
+      "price": "14000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N2241WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N2241WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "N2241WOMCY_D03S",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N2241WOMCYD03S_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N1116MTGRSD301",
+      "name": "30 Montaigne Short Necklace",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "22000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1116MTGRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N1116MTGRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "N1116MTGRS_D301",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1116MTGRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-JGEM950210000",
+      "name": "GEM DIOR Ring",
+      "description": "Yellow Gold",
+      "price": "74000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JGEM95021_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JGEM95021_0000",
+      "variants": [
+        {
+          "color": "Yellow Gold",
+          "size": null,
+          "code": "JGEM95021_0000",
+          "price": "74000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JGEM95021_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-JMRO950010000",
+      "name": "Mimirose Ring",
+      "description": "Yellow Gold and Diamond",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JMRO95001_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JMRO95001_0000",
+      "variants": [
+        {
+          "color": "Yellow Gold and Diamond",
+          "size": null,
+          "code": "JMRO95001_0000",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JMRO95001_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-JRDV952320000",
+      "name": "Rose des Vents Single Earring",
+      "description": "Yellow Gold, Diamonds and Mother-of-Pearl",
+      "price": "125000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JRDV95232_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JRDV95232_0000",
+      "variants": [
+        {
+          "color": "Yellow Gold, Diamonds and Mother-of-Pearl",
+          "size": null,
+          "code": "JRDV95232_0000",
+          "price": "125000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JRDV95232_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-JRDV950010000",
+      "name": "Rose des Vents Bracelet",
+      "description": "Yellow Gold, Diamond and Mother-of-Pearl",
+      "price": "61000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JRDV95001_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JRDV95001_0000",
+      "variants": [
+        {
+          "color": "Yellow Gold, Diamond and Mother-of-Pearl",
+          "size": null,
+          "code": "JRDV95001_0000",
+          "price": "61000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JRDV95001_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CD04111X12480000",
+      "name": "La D My Dior",
+      "description": "Ø 25 mm, Steel and Diamonds",
+      "price": "230000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CD04111X1248_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CD04111X1248_0000",
+      "variants": [
+        {
+          "color": "Ø 25 mm, Steel and Diamonds",
+          "size": null,
+          "code": "CD04111X1248_0000",
+          "price": "230000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CD04111X1248_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ø 25 mm, Steel and Diamonds",
+          "size": null,
+          "code": "CD04111X1249_0000",
+          "price": "135000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CD04111X1249_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-313C509E5918C540",
+      "name": "DIOR AND KAWS Overshirt",
+      "description": "Navy Blue Technical Satin",
+      "price": "74000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C509E5918C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/313C509E5918_C540",
+      "variants": [
+        {
+          "color": "Navy Blue Technical Satin",
+          "size": null,
+          "code": "313C509E5918_C540",
+          "price": "74000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C509E5918C540_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cotton-Blend Denim",
+          "size": null,
+          "code": "513D595A321X_C584",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D595A321XC584_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-51E0007A1015C386",
+      "name": "DIOR AND KAWS Scarf",
+      "description": "Vermilion Red and White Wool",
+      "price": "18500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51E0007A1015C386_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/51E0007A1015_C386",
+      "variants": [
+        {
+          "color": "Vermilion Red and White Wool",
+          "size": null,
+          "code": "51E0007A1015_C386",
+          "price": "18500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51E0007A1015C386_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-443C146B4451C540",
+      "name": "DIOR AND KAWS Cargo Pants",
+      "description": "Navy Blue Cotton Faille",
+      "price": "46000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/443C146B4451C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/443C146B4451_C540",
+      "variants": [
+        {
+          "color": "Navy Blue Cotton Faille",
+          "size": null,
+          "code": "443C146B4451_C540",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/443C146B4451C540_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-3SN318ZEXH053",
+      "name": "DIOR AND KAWS B57 Dribble Low-Top Sneaker – LIMITED AND NUMBERED EDITION",
+      "description": "White and Navy Blue Smooth Calfskin with White Suede",
+      "price": "39000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SN318ZEXH053_E02-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/3SN318ZEX_H053",
+      "variants": [
+        {
+          "color": "White and Navy Blue Smooth Calfskin with White Suede",
+          "size": null,
+          "code": "3SN318ZEX_H053",
+          "price": "39000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/3SN318ZEXH053_E02-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513M655A2008C383",
+      "name": "DIOR AND KAWS Sweater",
+      "description": "Orange and Red Wool Knit",
+      "price": "62000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513M655A2008C383_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513M655A2008_C383",
+      "variants": [
+        {
+          "color": "Orange and Red Wool Knit",
+          "size": null,
+          "code": "513M655A2008_C383",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513M655A2008C383_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-483C901R4511C580",
+      "name": "DIOR AND KAWS Cap",
+      "description": "Navy Blue Cotton",
+      "price": "20000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/483C901R4511C580_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/483C901R4511_C580",
+      "variants": [
+        {
+          "color": "Navy Blue Cotton",
+          "size": null,
+          "code": "483C901R4511_C580",
+          "price": "20000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/483C901R4511C580_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N4013HOMMTD013",
+      "name": "DIOR AND KAWS Pendant Necklace",
+      "description": "Silver-Finish Brass with Green and Red Resin and Vermilion Red Crystal",
+      "price": "15500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4013HOMMTD013_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N4013HOMMT_D013",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass with Green and Red Resin and Vermilion Red Crystal",
+          "size": null,
+          "code": "N4013HOMMT_D013",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4013HOMMTD013_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCH168OYYH06E",
+      "name": "DIOR AND KAWS Saddle Magnetic Card Holder",
+      "description": "Navy Blue Grained Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH06E_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCH168OYY_H06E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ADCH168OYY_H06E",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH06E_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513L438A0700C580",
+      "name": "DIOR AND KAWS Varsity Jacket",
+      "description": "Blue Virgin Wool and Cashmere with Beige Cowhide Leather",
+      "price": "270000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L438A0700C580_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513L438A0700_C580",
+      "variants": [
+        {
+          "color": "Blue Virgin Wool and Cashmere with Beige Cowhide Leather",
+          "size": null,
+          "code": "513L438A0700_C580",
+          "price": "270000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L438A0700C580_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

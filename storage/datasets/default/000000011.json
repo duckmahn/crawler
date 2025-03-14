@@ -1,0 +1,157 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-M2416UTZQM928",
+      "name": "Small D-Journey Bag",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "108000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UTZQM928_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2416UTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "M2416UTZQ_M928",
+          "price": "108000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UTZQM928_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2416UBUQM030",
+      "name": "Small D-Journey Bag in Vintage Smooth Calfskin",
+      "description": "Latte Flat Macrocannage",
+      "price": "108000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UBUQM030_E03-3",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2416UBUQ_M030",
+      "variants": [
+        {
+          "color": "Latte Flat Macrocannage",
+          "size": null,
+          "code": "M2416UBUQ_M030",
+          "price": "108000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UBUQM030_E03-3",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2416UNUOM900",
+      "name": "Small D-Journey Bag in Crinkled Calfskin",
+      "description": "Black Flat Macrocannage",
+      "price": "108000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UNUOM900_E03-4",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2416UNUO_M900",
+      "variants": [
+        {
+          "color": "Black Flat Macrocannage",
+          "size": null,
+          "code": "M2416UNUO_M900",
+          "price": "108000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UNUOM900_E03-4",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2417UTZQM928",
+      "name": "Medium D-Journey Bag",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "118000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UTZQM928_E03-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2417UTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "M2417UTZQ_M928",
+          "price": "118000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UTZQM928_E03-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2417UNUOM900",
+      "name": "Medium D-Journey Bag in Crinkled Calfskin",
+      "description": "Black Flat Macrocannage",
+      "price": "118000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UNUOM900_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2417UNUO_M900",
+      "variants": [
+        {
+          "color": "Black Flat Macrocannage",
+          "size": null,
+          "code": "M2417UNUO_M900",
+          "price": "118000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UNUOM900_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2417UBUQM59M",
+      "name": "Medium D-Journey Bag in Vintage Smooth Calfskin",
+      "description": "Camel Flat Macrocannage",
+      "price": "118000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UBUQM59M_E03-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2417UBUQ_M59M",
+      "variants": [
+        {
+          "color": "Camel Flat Macrocannage",
+          "size": null,
+          "code": "M2417UBUQ_M59M",
+          "price": "118000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UBUQM59M_E03-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2418UTZQM928",
+      "name": "Large D-Journey Bag",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "140000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2418UTZQM928_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2418UTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "M2418UTZQ_M928",
+          "price": "140000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2418UTZQM928_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2418UNUOM900",
+      "name": "Large D-Journey Bag in Crinkled Calfskin",
+      "description": "Black Flat Macrocannage",
+      "price": "140000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2418UNUOM900_E03-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2418UNUO_M900",
+      "variants": [
+        {
+          "color": "Black Flat Macrocannage",
+          "size": null,
+          "code": "M2418UNUO_M900",
+          "price": "140000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2418UNUOM900_E03-2",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

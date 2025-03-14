@@ -1,0 +1,23 @@
+{
+  "id": "0qqTOexl7RPs9OT",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/193m638at662_c187",
+  "order_no": "1741950058544.302000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/193M638AT662_C187",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/193m638at662_c187",
+    "id": "0qqTOexl7RPs9OT"
+  }
+}

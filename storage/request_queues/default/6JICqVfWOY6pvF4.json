@@ -1,0 +1,23 @@
+{
+  "id": "6JICqVfWOY6pvF4",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/kcq718lab_s03w",
+  "order_no": "1741950055464.329000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/KCQ718LAB_S03W",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/kcq718lab_s03w",
+    "id": "6JICqVfWOY6pvF4"
+  }
+}

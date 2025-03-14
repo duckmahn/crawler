@@ -1,0 +1,466 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-523T09A4231X0893",
+      "name": "T-Shirt",
+      "description": "White, Black and Red Dior Race Cotton and Linen Jersey",
+      "price": "31000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T09A4231X0893_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/523T09A4231_X0893",
+      "variants": [
+        {
+          "color": "White, Black and Red Dior Race Cotton and Linen Jersey",
+          "size": null,
+          "code": "523T09A4231_X0893",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T09A4231X0893_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White and Black Cotton and Linen Jersey",
+          "size": null,
+          "code": "513T07B4222_X0810",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513T07B4222X0810_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton and Linen Jersey with Black Miss Dior Graffiti Motif",
+          "size": null,
+          "code": "453T40A4554_X0930",
+          "price": "32000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/453T40A4554X0930_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton and Linen Jersey with Blue Miss Dior Graffiti Motif",
+          "size": null,
+          "code": "453T40A4554_X5805",
+          "price": "32000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/453T40A4554X5805_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton and Linen Jersey with Fuchsia Miss Dior Graffiti Motif",
+          "size": null,
+          "code": "453T40A4554_X4804",
+          "price": "32000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/453T40A4554X4804_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White and Navy Blue Cotton Jersey",
+          "size": null,
+          "code": "143T04A4043_X0200",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/143T04A4043X0200_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton and Linen Jersey with Black Dior Cabinet de Curiosités Motif",
+          "size": null,
+          "code": "513T09A4221_X0810",
+          "price": "39000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513T09A4221X0810_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton and Linen Jersey with Black Toile de Jouy Scotland Motif",
+          "size": null,
+          "code": "513T09A4219_X0930",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513T09A4219X0930_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ecru Cotton Jersey with Black Dior Graphique Motif",
+          "size": null,
+          "code": "523T07A4289_X0200",
+          "price": "36000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T07A4289X0200_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton and Linen Jersey with Gray Christian Dior Papillon Motif",
+          "size": null,
+          "code": "523T39A4229_X0930",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T39A4229X0930_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton and Linen Jersey with Blue Toile de Jouy Papillon Print",
+          "size": null,
+          "code": "523T39A4228_X5807",
+          "price": "36000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T39A4228X5807_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-213T03TC001X0200",
+      "name": "J'Adior 8 T-Shirt",
+      "description": "White Cotton and Linen Jersey",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/213T03TC001X0200_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/213T03TC001_X0200",
+      "variants": [
+        {
+          "color": "White Cotton and Linen Jersey",
+          "size": null,
+          "code": "213T03TC001_X0200",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/213T03TC001X0200_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton and Linen Jersey",
+          "size": null,
+          "code": "213T03TC003_X0200",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/213T03TC003X0200_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton and Linen Jersey",
+          "size": null,
+          "code": "213T03TC001_X9000",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/213T03TC001X9000_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton and Linen Jersey",
+          "size": null,
+          "code": "213T03TC003_X9000",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/213T03TC003X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-343T50B4086X0200",
+      "name": "Tank Top",
+      "description": "White Ribbed Cotton Jersey",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/343T50B4086X0200_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/343T50B4086_X0200",
+      "variants": [
+        {
+          "color": "White Ribbed Cotton Jersey",
+          "size": null,
+          "code": "343T50B4086_X0200",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/343T50B4086X0200_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Ribbed Cotton Jersey",
+          "size": null,
+          "code": "343T50B4086_X9000",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/343T50B4086X9000_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Ribbed Cotton Jersey",
+          "size": null,
+          "code": "523T50D4086_X9000",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T50D4086X9000_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Ecru Silk Knit",
+          "size": null,
+          "code": "524T42A6002_X0200",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524T42A6002X0200_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Ribbed Cotton Jersey",
+          "size": null,
+          "code": "523T50D4086_X0200",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T50D4086X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-143T10A4047X0200",
+      "name": "Polo Shirt",
+      "description": "White and Navy Blue Cotton Jersey",
+      "price": "36000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/143T10A4047X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/143T10A4047_X0200",
+      "variants": [
+        {
+          "color": "White and Navy Blue Cotton Jersey",
+          "size": null,
+          "code": "143T10A4047_X0200",
+          "price": "36000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/143T10A4047X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513T09A4220X0838",
+      "name": "Dioramour Embroidered T-Shirt",
+      "description": "White Cotton and Linen Jersey with Multicolor Cœur des Curiosités Motif",
+      "price": "42000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513T09A4220X0838_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513T09A4220_X0838",
+      "variants": [
+        {
+          "color": "White Cotton and Linen Jersey with Multicolor Cœur des Curiosités Motif",
+          "size": null,
+          "code": "513T09A4220_X0838",
+          "price": "42000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513T09A4220X0838_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-213T03TA001X0200",
+      "name": "We Should All Be Feminists T-Shirt",
+      "description": "White Cotton and Linen Jersey",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/213T03TA001X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/213T03TA001_X0200",
+      "variants": [
+        {
+          "color": "White Cotton and Linen Jersey",
+          "size": null,
+          "code": "213T03TA001_X0200",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/213T03TA001X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513T09G4218X0894",
+      "name": "Embroidered T-Shirt",
+      "description": "White Cotton and Linen Jersey with Gold-Tone Dior Around the World Motif",
+      "price": "42000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513T09G4218X0894_E01-3",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513T09G4218_X0894",
+      "variants": [
+        {
+          "color": "White Cotton and Linen Jersey with Gold-Tone Dior Around the World Motif",
+          "size": null,
+          "code": "513T09G4218_X0894",
+          "price": "42000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513T09G4218X0894_E01-3",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton and Linen Jersey with Black Dior Around the World Motif",
+          "size": null,
+          "code": "513T09A4218_X0930",
+          "price": "34000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513T09A4218X0930_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Ecru Cotton and Linen Jersey",
+          "size": null,
+          "code": "453T34X4553_X0200",
+          "price": "68000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/453T34X4553X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524T43A6004X9000",
+      "name": "Asymmetric Tank Top",
+      "description": "Black Silk-Blend Knit",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524T43A6004X9000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524T43A6004_X9000",
+      "variants": [
+        {
+          "color": "Black Silk-Blend Knit",
+          "size": null,
+          "code": "524T43A6004_X9000",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524T43A6004X9000_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Ribbed Cotton Jersey",
+          "size": null,
+          "code": "523T03A4086_X9000",
+          "price": "39000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T03A4086X9000_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Ribbed Cotton Jersey",
+          "size": null,
+          "code": "523T02A4086_X0200",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T02A4086X0200_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Ribbed Cotton Jersey",
+          "size": null,
+          "code": "523T03A4086_X0200",
+          "price": "39000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T03A4086X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524E23A6004X9000",
+      "name": "Asymmetric Bodysuit",
+      "description": "Black Silk-Blend Knit",
+      "price": "55000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524E23A6004X9000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524E23A6004_X9000",
+      "variants": [
+        {
+          "color": "Black Silk-Blend Knit",
+          "size": null,
+          "code": "524E23A6004_X9000",
+          "price": "55000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524E23A6004X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524E02A5088X9000",
+      "name": "Bralette",
+      "description": "Black Compact Technical Knit with White Dior Graphique Motif",
+      "price": "42000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524E02A5088X9000_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524E02A5088_X9000",
+      "variants": [
+        {
+          "color": "Black Compact Technical Knit with White Dior Graphique Motif",
+          "size": null,
+          "code": "524E02A5088_X9000",
+          "price": "42000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524E02A5088X9000_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-443T50C4086X0200",
+      "name": "Dioriviera Tank Top",
+      "description": "Ecru Cotton Ribbed Jersey",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/443T50C4086X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/443T50C4086_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cotton Ribbed Jersey",
+          "size": null,
+          "code": "443T50C4086_X0200",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/443T50C4086X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-443T27A4537X0853",
+      "name": "Dioriviera T-Shirt",
+      "description": "Ecru and Navy Blue Cotton Jersey",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/443T27A4537X0853_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/443T27A4537_X0853",
+      "variants": [
+        {
+          "color": "Ecru and Navy Blue Cotton Jersey",
+          "size": null,
+          "code": "443T27A4537_X0853",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/443T27A4537X0853_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-451B86U1162X0150",
+      "name": "Embroidered Top",
+      "description": "White Wool and Silk",
+      "price": "130000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B86U1162X0150_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/451B86U1162_X0150",
+      "variants": [
+        {
+          "color": "White Wool and Silk",
+          "size": null,
+          "code": "451B86U1162_X0150",
+          "price": "130000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B86U1162X0150_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-444S36PM752X9101",
+      "name": "Macrocannage Short-Sleeved Top",
+      "description": "Black and White Technical Cotton and Silk Tweed",
+      "price": "41000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/444S36PM752X9101_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/444S36PM752_X9101",
+      "variants": [
+        {
+          "color": "Black and White Technical Cotton and Silk Tweed",
+          "size": null,
+          "code": "444S36PM752_X9101",
+          "price": "41000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/444S36PM752X9101_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-521B47A8261X0847",
+      "name": "Sleeveless Blouse",
+      "description": "White Cotton-Blend Lace with Multicolor Allover Butterfly Motif",
+      "price": "125000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B47A8261X0847_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/521B47A8261_X0847",
+      "variants": [
+        {
+          "color": "White Cotton-Blend Lace with Multicolor Allover Butterfly Motif",
+          "size": null,
+          "code": "521B47A8261_X0847",
+          "price": "125000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B47A8261X0847_E01-1",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

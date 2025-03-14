@@ -1,0 +1,23 @@
+{
+  "id": "oGF3hv8NaIIej5t",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/kco170roj_s28n",
+  "order_no": "1741950055460.414000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/KCO170ROJ_S28N",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/kco170roj_s28n",
+    "id": "oGF3hv8NaIIej5t"
+  }
+}

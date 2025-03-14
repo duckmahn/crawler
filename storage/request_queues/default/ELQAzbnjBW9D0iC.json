@@ -1,0 +1,23 @@
+{
+  "id": "ELQAzbnjBW9D0iC",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/3sbp31kdob_y353",
+  "order_no": "1741950032260.666000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/3SBP31KDOB_Y353",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/3sbp31kdob_y353",
+    "id": "ELQAzbnjBW9D0iC"
+  }
+}

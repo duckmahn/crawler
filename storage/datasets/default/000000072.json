@@ -1,0 +1,639 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-583C321C1001C188",
+      "name": "Coat",
+      "description": "Beige Virgin Wool and Linen",
+      "price": "135000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C321C1001C188_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C321C1001_C188",
+      "variants": [
+        {
+          "color": "Beige Virgin Wool and Linen",
+          "size": null,
+          "code": "583C321C1001_C188",
+          "price": "135000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C321C1001C188_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583L430A1002C700",
+      "name": "Christian Dior Couture Blouson Jacket",
+      "description": "Brown Calfskin",
+      "price": "210000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583L430A1002C700_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583L430A1002_C700",
+      "variants": [
+        {
+          "color": "Brown Calfskin",
+          "size": null,
+          "code": "583L430A1002_C700",
+          "price": "210000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583L430A1002C700_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-143C432I3004C588",
+      "name": "DIOR AND HYLTON NEL Bomber Jacket",
+      "description": "Navy Blue Cotton Blend",
+      "price": "89000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/143C432I3004C588_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/143C432I3004_C588",
+      "variants": [
+        {
+          "color": "Navy Blue Cotton Blend",
+          "size": null,
+          "code": "143C432I3004_C588",
+          "price": "89000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/143C432I3004C588_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513D497A3000C585",
+      "name": "CD Icon Zipped Jacket",
+      "description": "Navy Blue Cotton Twill",
+      "price": "65000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D497A3000C585_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513D497A3000_C585",
+      "variants": [
+        {
+          "color": "Navy Blue Cotton Twill",
+          "size": null,
+          "code": "513D497A3000_C585",
+          "price": "65000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D497A3000C585_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583D489A3010C085",
+      "name": "DIOR AND HYLTON NEL Overshirt",
+      "description": "White Cotton Denim",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583D489A3010C085_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583D489A3010_C085",
+      "variants": [
+        {
+          "color": "White Cotton Denim",
+          "size": null,
+          "code": "583D489A3010_C085",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583D489A3010C085_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Anthracite Gray Virgin Wool and Silk Twill",
+          "size": null,
+          "code": "583C552A1000_C978",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C552A1000C978_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583C208B1002C980",
+      "name": "Jacket with Spread Collar",
+      "description": "Black Striped Wool",
+      "price": "83000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C208B1002C980_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C208B1002_C980",
+      "variants": [
+        {
+          "color": "Black Striped Wool",
+          "size": null,
+          "code": "583C208B1002_C980",
+          "price": "83000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C208B1002C980_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583C670A3011C181",
+      "name": "Christian Dior Couture Vest",
+      "description": "Beige Cotton",
+      "price": "83000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C670A3011C181_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C670A3011_C181",
+      "variants": [
+        {
+          "color": "Beige Cotton",
+          "size": null,
+          "code": "583C670A3011_C181",
+          "price": "83000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C670A3011C181_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513L434A0700C081",
+      "name": "CD Icon Varsity Jacket",
+      "description": "Beige Cowhide Leather",
+      "price": "120000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L434A0700C081_E01-3",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513L434A0700_C081",
+      "variants": [
+        {
+          "color": "Beige Cowhide Leather",
+          "size": null,
+          "code": "513L434A0700_C081",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L434A0700C081_E01-3",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray Cowhide Leather",
+          "size": null,
+          "code": "513L434A0700_C888",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L434A0700C888_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583L434A0700C884",
+      "name": "DIOR AND HYLTON NEL Varsity Jacket",
+      "description": "Beige Cowhide Leather and Cotton Canvas",
+      "price": "115000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583L434A0700C884_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583L434A0700_C884",
+      "variants": [
+        {
+          "color": "Beige Cowhide Leather and Cotton Canvas",
+          "size": null,
+          "code": "583L434A0700_C884",
+          "price": "115000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583L434A0700C884_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513J425A0979C120",
+      "name": "Dior Oblique Track Jacket",
+      "description": "Beige Cotton-Blend Jersey",
+      "price": "77000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J425A0979C120_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513J425A0979_C120",
+      "variants": [
+        {
+          "color": "Beige Cotton-Blend Jersey",
+          "size": null,
+          "code": "513J425A0979_C120",
+          "price": "77000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J425A0979C120_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583C305A2010C088",
+      "name": "Knit Coat",
+      "description": "Beige Wool Jersey",
+      "price": "130000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C305A2010C088_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C305A2010_C088",
+      "variants": [
+        {
+          "color": "Beige Wool Jersey",
+          "size": null,
+          "code": "583C305A2010_C088",
+          "price": "130000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C305A2010C088_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583J405D1002C800",
+      "name": "Austrian Jacket",
+      "description": "Gray Virgin Wool Jersey",
+      "price": "86000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J405D1002C800_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583J405D1002_C800",
+      "variants": [
+        {
+          "color": "Gray Virgin Wool Jersey",
+          "size": null,
+          "code": "583J405D1002_C800",
+          "price": "86000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J405D1002C800_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513J405A0986C589",
+      "name": "DIOR AND KAWS Varsity Jacket",
+      "description": "Blue Virgin Wool Jersey",
+      "price": "115000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J405A0986C589_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513J405A0986_C589",
+      "variants": [
+        {
+          "color": "Blue Virgin Wool Jersey",
+          "size": null,
+          "code": "513J405A0986_C589",
+          "price": "115000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J405A0986C589_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Virgin Wool Jersey",
+          "size": null,
+          "code": "513J405A0986_C084",
+          "price": "115000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J405A0986C084_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Virgin Wool and Cashmere with Beige Cowhide Leather",
+          "size": null,
+          "code": "513L438A0700_C580",
+          "price": "270000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L438A0700C580_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Pink Virgin Wool and Cashmere with Beige Cowhide Leather",
+          "size": null,
+          "code": "513L438A0700_C480",
+          "price": "270000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L438A0700C480_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513D595A321XC584",
+      "name": "DIOR AND KAWS Overshirt",
+      "description": "Blue Cotton-Blend Denim",
+      "price": "58000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D595A321XC584_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513D595A321X_C584",
+      "variants": [
+        {
+          "color": "Blue Cotton-Blend Denim",
+          "size": null,
+          "code": "513D595A321X_C584",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D595A321XC584_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Pink Technical Satin",
+          "size": null,
+          "code": "313C509E5918_C400",
+          "price": "74000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C509E5918C400_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Technical Satin",
+          "size": null,
+          "code": "313C509E5918_C540",
+          "price": "74000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C509E5918C540_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513D590A297XC084",
+      "name": "DIOR AND KAWS Zipped Blouson Jacket",
+      "description": "White Cotton-Blend Corduroy",
+      "price": "83000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D590A297XC084_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513D590A297X_C084",
+      "variants": [
+        {
+          "color": "White Cotton-Blend Corduroy",
+          "size": null,
+          "code": "513D590A297X_C084",
+          "price": "83000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D590A297XC084_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513D499A3001C880",
+      "name": "Dior Oblique Zipped Blouson Jacket",
+      "description": "Gray Cotton Denim",
+      "price": "92000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D499A3001C880_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513D499A3001_C880",
+      "variants": [
+        {
+          "color": "Gray Cotton Denim",
+          "size": null,
+          "code": "513D499A3001_C880",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D499A3001C880_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513J501A0892C888",
+      "name": "Christian Dior Couture Zipped Overshirt",
+      "description": "Gray Blended Cotton and Virgin Wool Fleece",
+      "price": "89000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J501A0892C888_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513J501A0892_C888",
+      "variants": [
+        {
+          "color": "Gray Blended Cotton and Virgin Wool Fleece",
+          "size": null,
+          "code": "513J501A0892_C888",
+          "price": "89000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J501A0892C888_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C351A6472C120",
+      "name": "CD Icon Embroidery Trench Coat",
+      "description": "Beige Cotton Gabardine",
+      "price": "115000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C351A6472C120_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C351A6472_C120",
+      "variants": [
+        {
+          "color": "Beige Cotton Gabardine",
+          "size": null,
+          "code": "513C351A6472_C120",
+          "price": "115000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C351A6472C120_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513L430A8003C100",
+      "name": "Christian Dior Couture Hooded Parka",
+      "description": "Beige Shearling",
+      "price": "230000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L430A8003C100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513L430A8003_C100",
+      "variants": [
+        {
+          "color": "Beige Shearling",
+          "size": null,
+          "code": "513L430A8003_C100",
+          "price": "230000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L430A8003C100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513L433A1001C340",
+      "name": "Christian Dior Couture Bomber Jacket",
+      "description": "Burgundy Calfskin",
+      "price": "150000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L433A1001C340_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513L433A1001_C340",
+      "variants": [
+        {
+          "color": "Burgundy Calfskin",
+          "size": null,
+          "code": "513L433A1001_C340",
+          "price": "150000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L433A1001C340_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513L431A8000C888",
+      "name": "Cannage Bomber Jacket",
+      "description": "Gray Shearling",
+      "price": "260000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L431A8000C888_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513L431A8000_C888",
+      "variants": [
+        {
+          "color": "Gray Shearling",
+          "size": null,
+          "code": "513L431A8000_C888",
+          "price": "260000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L431A8000C888_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C408A6475C441",
+      "name": "Cannage Jacket",
+      "description": "Burgundy Technical Fabric",
+      "price": "115000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C408A6475C441_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C408A6475_C441",
+      "variants": [
+        {
+          "color": "Burgundy Technical Fabric",
+          "size": null,
+          "code": "513C408A6475_C441",
+          "price": "115000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C408A6475C441_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-143C432H6478C579",
+      "name": "Dior Archives Labels Bomber Jacket",
+      "description": "Blue Wool Blend",
+      "price": "92000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/143C432H6478C579_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/143C432H6478_C579",
+      "variants": [
+        {
+          "color": "Blue Wool Blend",
+          "size": null,
+          "code": "143C432H6478_C579",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/143C432H6478C579_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C211A6460C589",
+      "name": "Reversible Zipped Jacket",
+      "description": "Blue Virgin Wool",
+      "price": "92000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C211A6460C589_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C211A6460_C589",
+      "variants": [
+        {
+          "color": "Blue Virgin Wool",
+          "size": null,
+          "code": "513C211A6460_C589",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C211A6460C589_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C413A6479C579",
+      "name": "Dior Oblique Puffer Jacket",
+      "description": "Blue Technical Jacquard",
+      "price": "98000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C413A6479C579_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C413A6479_C579",
+      "variants": [
+        {
+          "color": "Blue Technical Jacquard",
+          "size": null,
+          "code": "513C413A6479_C579",
+          "price": "98000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C413A6479C579_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C350A6471C588",
+      "name": "Christian Dior Couture Embroidered Coat",
+      "description": "Blue Cotton-Blend Gabardine",
+      "price": "140000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C350A6471C588_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C350A6471_C588",
+      "variants": [
+        {
+          "color": "Blue Cotton-Blend Gabardine",
+          "size": null,
+          "code": "513C350A6471_C588",
+          "price": "140000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C350A6471C588_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C201A6296C100",
+      "name": "Oversized Overshirt",
+      "description": "Beige Cotton, Cashmere and Virgin Wool",
+      "price": "175000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C201A6296C100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C201A6296_C100",
+      "variants": [
+        {
+          "color": "Beige Cotton, Cashmere and Virgin Wool",
+          "size": null,
+          "code": "513C201A6296_C100",
+          "price": "175000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C201A6296C100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513D594A3005C580",
+      "name": "Dior Archives Labels Overshirt",
+      "description": "Navy Blue Cotton Twill",
+      "price": "77000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D594A3005C580_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513D594A3005_C580",
+      "variants": [
+        {
+          "color": "Navy Blue Cotton Twill",
+          "size": null,
+          "code": "513D594A3005_C580",
+          "price": "77000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D594A3005C580_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513D591A3002C585",
+      "name": "Overshirt with Checkered Interior",
+      "description": "Blue Cotton Denim",
+      "price": "68000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D591A3002C585_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513D591A3002_C585",
+      "variants": [
+        {
+          "color": "Blue Cotton Denim",
+          "size": null,
+          "code": "513D591A3002_C585",
+          "price": "68000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D591A3002C585_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-313C509AA475C989",
+      "name": "Cannage Overshirt",
+      "description": "Black Technical Fabric",
+      "price": "74000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C509AA475C989_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/313C509AA475_C989",
+      "variants": [
+        {
+          "color": "Black Technical Fabric",
+          "size": null,
+          "code": "313C509AA475_C989",
+          "price": "74000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C509AA475C989_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Technical Fabric",
+          "size": null,
+          "code": "313C509AA475_C585",
+          "price": "74000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C509AA475C585_E01-1",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

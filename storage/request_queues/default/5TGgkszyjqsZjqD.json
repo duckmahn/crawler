@@ -1,0 +1,23 @@
+{
+  "id": "5TGgkszyjqsZjqD",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/1adpo033lac_h00n",
+  "order_no": "1741950062448.144000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/1ADPO033LAC_H00N",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/1adpo033lac_h00n",
+    "id": "5TGgkszyjqsZjqD"
+  }
+}

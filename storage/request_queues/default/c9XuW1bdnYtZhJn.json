@@ -1,0 +1,23 @@
+{
+  "id": "c9XuW1bdnYtZhJn",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/513m617a2000_c989",
+  "order_no": "1741950058554.747000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/513M617A2000_C989",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/513m617a2000_c989",
+    "id": "c9XuW1bdnYtZhJn"
+  }
+}

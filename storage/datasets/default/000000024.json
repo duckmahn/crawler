@@ -1,0 +1,62 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-11BB01A2842X5803",
+      "name": "Bikini Top",
+      "description": "Blue Dior Oblique Technical Fabric",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/11BB01A2842X5803_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/11BB01A2842_X5803",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Technical Fabric",
+          "size": null,
+          "code": "11BB01A2842_X5803",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/11BB01A2842X5803_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-11BP01A2842X5803",
+      "name": "Bikini Bottom",
+      "description": "Blue Dior Oblique Technical Fabric",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/11BP01A2842X5803_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/11BP01A2842_X5803",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Technical Fabric",
+          "size": null,
+          "code": "11BP01A2842_X5803",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/11BP01A2842X5803_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-11BS01A2842X5803",
+      "name": "One-Piece Swimsuit",
+      "description": "Blue Dior Oblique Technical Fabric",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/11BS01A2842X5803_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/11BS01A2842_X5803",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Technical Fabric",
+          "size": null,
+          "code": "11BS01A2842_X5803",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/11BS01A2842X5803_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fR7enJ5dFTli1mA",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/521d04a6521_x4809",
+  "order_no": "1741950035563.830000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/521D04A6521_X4809",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/521d04a6521_x4809",
+    "id": "fR7enJ5dFTli1mA"
+  }
+}

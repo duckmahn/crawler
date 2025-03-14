@@ -1,0 +1,23 @@
+{
+  "id": "k9kgYghnjsD2lVZ",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/e1038tricy_d03s",
+  "order_no": "1741950051129.960000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/E1038TRICY_D03S",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/e1038tricy_d03s",
+    "id": "k9kgYghnjsD2lVZ"
+  }
+}

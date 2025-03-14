@@ -1,0 +1,23 @@
+{
+  "id": "e5guAfb3kmN0VMf",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/452v11a3381_x5697",
+  "order_no": "1741950039693.951000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/452V11A3381_X5697",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/452v11a3381_x5697",
+    "id": "e5guAfb3kmN0VMf"
+  }
+}

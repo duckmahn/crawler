@@ -1,0 +1,482 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-583J696C0554C085",
+      "name": "DIOR AND HYLTON NEL T-Shirt, Relaxed Fit",
+      "description": "White Cotton Jersey",
+      "price": "23000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J696C0554C085_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583J696C0554_C085",
+      "variants": [
+        {
+          "color": "White Cotton Jersey",
+          "size": null,
+          "code": "583J696C0554_C085",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J696C0554C085_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cotton Jersey",
+          "size": null,
+          "code": "583J696C0554_C585",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J696C0554C585_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cotton Jersey",
+          "size": null,
+          "code": "583J696B0817_C589",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J696B0817C589_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Jersey",
+          "size": null,
+          "code": "583J696B0817_C089",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J696B0817C089_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Cotton Jersey",
+          "size": null,
+          "code": "583J696A0849_C580",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J696A0849C580_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Yellow Cotton Jersey",
+          "size": null,
+          "code": "583J696A0849_C285",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J696A0849C285_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Jersey",
+          "size": null,
+          "code": "583J696A0849_C085",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J696A0849C085_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583M625AT823C580",
+      "name": "DIOR AND HYLTON NEL Knit T-Shirt",
+      "description": "Blue Cotton and Silk Jersey",
+      "price": "43000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583M625AT823C580_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583M625AT823_C580",
+      "variants": [
+        {
+          "color": "Blue Cotton and Silk Jersey",
+          "size": null,
+          "code": "583M625AT823_C580",
+          "price": "43000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583M625AT823C580_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583M625AT823C185",
+      "name": "DIOR AND HYLTON NEL Knit T-Shirt, Oversized Fit",
+      "description": "Beige Cotton and Silk Jersey",
+      "price": "43000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583M625AT823C185_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583M625AT823_C185",
+      "variants": [
+        {
+          "color": "Beige Cotton and Silk Jersey",
+          "size": null,
+          "code": "583M625AT823_C185",
+          "price": "43000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583M625AT823C185_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583J811A0448C085",
+      "name": "DIOR AND HYLTON NEL Polo Shirt",
+      "description": "White Cotton Piqué",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J811A0448C085_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583J811A0448_C085",
+      "variants": [
+        {
+          "color": "White Cotton Piqué",
+          "size": null,
+          "code": "583J811A0448_C085",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J811A0448C085_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-943J605A0554C080",
+      "name": "CD Icon Relaxed-Fit T-Shirt",
+      "description": "White Cotton Jersey",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/943J605A0554C080_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/943J605A0554_C080",
+      "variants": [
+        {
+          "color": "White Cotton Jersey",
+          "size": null,
+          "code": "943J605A0554_C080",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/943J605A0554C080_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Jersey",
+          "size": null,
+          "code": "943J605A0554_C989",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/943J605A0554C989_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-943J605A0554C591",
+      "name": "CD Icon T-Shirt, Relaxed Fit",
+      "description": "Blue Cotton Jersey",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/943J605A0554C591_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/943J605A0554_C591",
+      "variants": [
+        {
+          "color": "Blue Cotton Jersey",
+          "size": null,
+          "code": "943J605A0554_C591",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/943J605A0554C591_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray Cotton Jersey",
+          "size": null,
+          "code": "943J605F0554_C884",
+          "price": "18500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/943J605F0554C884_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray Cotton Jersey",
+          "size": null,
+          "code": "943J605A0554_C881",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/943J605A0554C881_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-343J696C0554C880",
+      "name": "Christian Dior Couture T-Shirt, Relaxed Fit",
+      "description": "Gray Cotton Jersey",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/343J696C0554C880_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/343J696C0554_C880",
+      "variants": [
+        {
+          "color": "Gray Cotton Jersey",
+          "size": null,
+          "code": "343J696C0554_C880",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/343J696C0554C880_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Jersey",
+          "size": null,
+          "code": "343J696C0554_C088",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/343J696C0554C088_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Jersey",
+          "size": null,
+          "code": "343J696C0554_C988",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/343J696C0554C988_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Distressed-Effect Cotton Jersey",
+          "size": null,
+          "code": "343J636A0849_C580",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/343J636A0849C580_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Distressed-Effect Cotton Jersey",
+          "size": null,
+          "code": "343J636A0849_C980",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/343J636A0849C980_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "White Distressed-Effect Cotton Jersey",
+          "size": null,
+          "code": "343J636A0849_C088",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/343J636A0849C088_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-013J800A0373C591",
+      "name": "CD Icon Polo Shirt",
+      "description": "Blue Cotton Piqué",
+      "price": "18000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013J800A0373C591_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/013J800A0373_C591",
+      "variants": [
+        {
+          "color": "Blue Cotton Piqué",
+          "size": null,
+          "code": "013J800A0373_C591",
+          "price": "18000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013J800A0373C591_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513J696F0554C084",
+      "name": "DIOR AND KAWS T-Shirt, Relaxed Fit",
+      "description": "White Cotton Jersey",
+      "price": "23000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696F0554C084_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513J696F0554_C084",
+      "variants": [
+        {
+          "color": "White Cotton Jersey",
+          "size": null,
+          "code": "513J696F0554_C084",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696F0554C084_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cotton Jersey",
+          "size": null,
+          "code": "513J696F0554_C580",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696F0554C580_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Orange and Red Cotton Jersey",
+          "size": null,
+          "code": "513J696E0554_C383",
+          "price": "40000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696E0554C383_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White and Yellow Cotton Jersey",
+          "size": null,
+          "code": "513J696B0554_C086",
+          "price": "40000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696B0554C086_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513J696D0554C580",
+      "name": "Dior Charm T-Shirt, Relaxed Fit",
+      "description": "Blue Cotton Jersey",
+      "price": "23000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696D0554C580_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513J696D0554_C580",
+      "variants": [
+        {
+          "color": "Blue Cotton Jersey",
+          "size": null,
+          "code": "513J696D0554_C580",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696D0554C580_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Jersey",
+          "size": null,
+          "code": "513J696D0554_C088",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696D0554C088_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Cotton Jersey",
+          "size": null,
+          "code": "513J696D0554_C180",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696D0554C180_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513J696A0677C089",
+      "name": "Dior Archives Labels T-Shirt, Relaxed Fit",
+      "description": "White Cotton Jersey",
+      "price": "23000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696A0677C089_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513J696A0677_C089",
+      "variants": [
+        {
+          "color": "White Cotton Jersey",
+          "size": null,
+          "code": "513J696A0677_C089",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696A0677C089_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Jersey",
+          "size": null,
+          "code": "513J696A0677_C980",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696A0677C980_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cotton Jersey",
+          "size": null,
+          "code": "513J696A0677_C580",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513J696A0677C580_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-413J650A0862C989",
+      "name": "Dior Icons T-Shirt, Regular Fit",
+      "description": "Black Sea Island Cotton Jersey",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413J650A0862C989_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/413J650A0862_C989",
+      "variants": [
+        {
+          "color": "Black Sea Island Cotton Jersey",
+          "size": null,
+          "code": "413J650A0862_C989",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413J650A0862C989_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Pink Sea Island Cotton Jersey",
+          "size": null,
+          "code": "413J650A0862_C484",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413J650A0862C484_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-493M801AT859C989",
+      "name": "Christian Dior Couture Polo Shirt",
+      "description": "Black Virgin Wool Jersey",
+      "price": "43000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/493M801AT859C989_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/493M801AT859_C989",
+      "variants": [
+        {
+          "color": "Black Virgin Wool Jersey",
+          "size": null,
+          "code": "493M801AT859_C989",
+          "price": "43000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/493M801AT859C989_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-293M832AT472C185",
+      "name": "Dior Oblique Polo Shirt",
+      "description": "Beige, Blue and Black Cotton Jacquard",
+      "price": "39000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/293M832AT472C185_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/293M832AT472_C185",
+      "variants": [
+        {
+          "color": "Beige, Blue and Black Cotton Jacquard",
+          "size": null,
+          "code": "293M832AT472_C185",
+          "price": "39000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/293M832AT472C185_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White, Blue and Brown Cotton Jacquard",
+          "size": null,
+          "code": "293M832AT396_C085",
+          "price": "39000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/293M832AT396C085_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-113J692A0614C020",
+      "name": "Dior Oblique Relaxed-Fit T-Shirt",
+      "description": "Off-White Terry Cotton Jacquard",
+      "price": "23000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/113J692A0614C020_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/113J692A0614_C020",
+      "variants": [
+        {
+          "color": "Off-White Terry Cotton Jacquard",
+          "size": null,
+          "code": "113J692A0614_C020",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/113J692A0614C020_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Terry Cotton Jacquard",
+          "size": null,
+          "code": "113J692A0614_C540",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/113J692A0614C540_E01-3",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

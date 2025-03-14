@@ -1,0 +1,23 @@
+{
+  "id": "ycYLcLUCa1hwZ2g",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/121v46a6608_x5803",
+  "order_no": "1741950039679.265000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/121V46A6608_X5803",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/121v46a6608_x5803",
+    "id": "ycYLcLUCa1hwZ2g"
+  }
+}

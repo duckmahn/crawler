@@ -1,0 +1,23 @@
+{
+  "id": "5hrdtVD5OzT7nHs",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/m1286zrgo_m35i",
+  "order_no": "1741950042154.924000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/M1286ZRGO_M35I",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/m1286zrgo_m35i",
+    "id": "5hrdtVD5OzT7nHs"
+  }
+}

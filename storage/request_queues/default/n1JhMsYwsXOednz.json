@@ -1,0 +1,23 @@
+{
+  "id": "n1JhMsYwsXOednz",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/2eskh457dor_h27e",
+  "order_no": "1741950064686.415000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/2ESKH457DOR_H27E",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/2eskh457dor_h27e",
+    "id": "n1JhMsYwsXOednz"
+  }
+}

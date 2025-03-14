@@ -1,0 +1,23 @@
+{
+  "id": "LBoTMO02SzC8tBr",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/444j14am533_x9000",
+  "order_no": "1741950039705.415000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/444J14AM533_X9000",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/444j14am533_x9000",
+    "id": "LBoTMO02SzC8tBr"
+  }
+}

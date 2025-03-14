@@ -1,0 +1,191 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-S0977ONMJM900",
+      "name": "My Dior - Dior Talk Phone Pouch",
+      "description": "Black Cannage Lambskin",
+      "price": "48000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0977ONMJM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S0977ONMJ_M900",
+      "variants": [
+        {
+          "color": "Black Cannage Lambskin",
+          "size": null,
+          "code": "S0977ONMJ_M900",
+          "price": "48000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0977ONMJM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte Cannage Lambskin",
+          "size": null,
+          "code": "S0977ONMJ_M030",
+          "price": "48000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0977ONMJM030_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Beige Cannage Lambskin",
+          "size": null,
+          "code": "S0977ONMJ_M51U",
+          "price": "48000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0977ONMJM51U_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Pink Cannage Lambskin",
+          "size": null,
+          "code": "S0977ONMJ_M413",
+          "price": "48000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0977ONMJM413_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S2114UTZQM928",
+      "name": "30 Montaigne Call'in Dior Phone Holder",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "35000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2114UTZQM928_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S2114UTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "S2114UTZQ_M928",
+          "price": "35000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2114UTZQM928_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S0872ONMJM900",
+      "name": "Lady Dior Call'in Dior Phone Holder",
+      "description": "Black Cannage Lambskin",
+      "price": "36500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0872ONMJM900_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S0872ONMJ_M900",
+      "variants": [
+        {
+          "color": "Black Cannage Lambskin",
+          "size": null,
+          "code": "S0872ONMJ_M900",
+          "price": "36500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0872ONMJM900_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Patent Cannage Calfskin",
+          "size": null,
+          "code": "S0872OVRB_M900",
+          "price": "36500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0872OVRBM900_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte Cannage Lambskin",
+          "size": null,
+          "code": "S0872ONMJ_M030",
+          "price": "36500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0872ONMJM030_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Cloud Blue Cannage Lambskin",
+          "size": null,
+          "code": "S0872ONMJ_M81B",
+          "price": "36500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0872ONMJM81B_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Beige Cannage Lambskin",
+          "size": null,
+          "code": "S0872ONMJ_M51U",
+          "price": "36500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0872ONMJM51U_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Sand-Colored Cannage Lambskin",
+          "size": null,
+          "code": "S0872ONMJ_M116",
+          "price": "36500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0872ONMJM116_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S5910CTZQM928",
+      "name": "Saddle Cover for iPhone 15 Pro",
+      "description": "Blue Grained Calfskin and Dior Oblique Jacquard",
+      "price": "13000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5910CTZQM928_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5910CTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Grained Calfskin and Dior Oblique Jacquard",
+          "size": null,
+          "code": "S5910CTZQ_M928",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5910CTZQM928_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray Grained Calfskin and Dior Oblique Jacquard",
+          "size": null,
+          "code": "S5910CTZQ_M932",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5910CTZQM932_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S6011ONMJM900",
+      "name": "Lady Dior Cover for iPhone 15",
+      "description": "Black Cannage Lambskin",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S6011ONMJM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S6011ONMJ_M900",
+      "variants": [
+        {
+          "color": "Black Cannage Lambskin",
+          "size": null,
+          "code": "S6011ONMJ_M900",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S6011ONMJM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S3706PNQUM31L",
+      "name": "Star Key Ring and Case for AirTag",
+      "description": "Metallic Silver-Tone Laminated Calfskin",
+      "price": "14000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3706PNQUM31L_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S3706PNQU_M31L",
+      "variants": [
+        {
+          "color": "Metallic Silver-Tone Laminated Calfskin",
+          "size": null,
+          "code": "S3706PNQU_M31L",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3706PNQUM31L_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

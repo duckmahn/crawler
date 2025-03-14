@@ -1,0 +1,23 @@
+{
+  "id": "4pK0CeroEZMuRmu",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/s3202udfd_m925",
+  "order_no": "1741950029037.121000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/S3202UDFD_M925",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/s3202udfd_m925",
+    "id": "4pK0CeroEZMuRmu"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3ojm2mtPS3G6diA",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/15dob090i600_c412",
+  "order_no": "1741950029057.988000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/15DOB090I600_C412",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/15dob090i600_c412",
+    "id": "3ojm2mtPS3G6diA"
+  }
+}

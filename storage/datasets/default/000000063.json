@@ -1,0 +1,264 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-KDF004LABS900",
+      "name": "D-Journey Lace-Up Ballet Flat",
+      "description": "Black Perforated Supple Lambskin",
+      "price": "26000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDF004LABS900_E02-3",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDF004LAB_S900",
+      "variants": [
+        {
+          "color": "Black Perforated Supple Lambskin",
+          "size": null,
+          "code": "KDF004LAB_S900",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDF004LABS900_E02-3",
+          "additionalImages": []
+        },
+        {
+          "color": "White Perforated Supple Lambskin",
+          "size": null,
+          "code": "KDF004LAB_S10W",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDF004LABS10W_E02-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCB384TFLS900",
+      "name": "J'Adior Slingback Flat",
+      "description": "Black Technical Fabric",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB384TFLS900_E02-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCB384TFL_S900",
+      "variants": [
+        {
+          "color": "Black Technical Fabric",
+          "size": null,
+          "code": "KCB384TFL_S900",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB384TFLS900_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Nude Technical Fabric",
+          "size": null,
+          "code": "KCB384TFL_S21U",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB384TFLS21U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White and Black Cotton Embroidered with Plan de Paris Motif",
+          "size": null,
+          "code": "KCB660KPY_S15W",
+          "price": "27440000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB660KPYS15W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDF009CELS10W",
+      "name": "Dior Toujours Slingback Flat",
+      "description": "White Perforated Supple Lambskin",
+      "price": "26000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDF009CELS10W_E02-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDF009CEL_S10W",
+      "variants": [
+        {
+          "color": "White Perforated Supple Lambskin",
+          "size": null,
+          "code": "KDF009CEL_S10W",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDF009CELS10W_E02-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDB860CQCS59U",
+      "name": "Dior Ballet Flat",
+      "description": "Light Biscuit Quilted Cannage Calfskin",
+      "price": "25500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB860CQCS59U_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDB860CQC_S59U",
+      "variants": [
+        {
+          "color": "Light Biscuit Quilted Cannage Calfskin",
+          "size": null,
+          "code": "KDB860CQC_S59U",
+          "price": "25500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB860CQCS59U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Nude Quilted Cannage Calfskin",
+          "size": null,
+          "code": "KDB877CQC_S21U",
+          "price": "25500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB877CQCS21U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Quilted Cannage Calfskin",
+          "size": null,
+          "code": "KDB877CQC_S900",
+          "price": "25500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB877CQCS900_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Cannage Tweed",
+          "size": null,
+          "code": "KDB900CTG_S60U",
+          "price": "25500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB900CTGS60U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cannage Embroidered Denim",
+          "size": null,
+          "code": "KDB940FJL_S70B",
+          "price": "25500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB940FJLS70B_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Silver-Tone Laminated Lambskin with Quilted Cannage Motif",
+          "size": null,
+          "code": "KDB860CQA_S46K",
+          "price": "25500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB860CQAS46K_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDB968CQCS21U",
+      "name": "Dior Ballet Slingback Pump",
+      "description": "Nude Quilted Cannage Calfskin",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB968CQCS21U_E02-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDB968CQC_S21U",
+      "variants": [
+        {
+          "color": "Nude Quilted Cannage Calfskin",
+          "size": null,
+          "code": "KDB968CQC_S21U",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB968CQCS21U_E02-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Quilted Cannage Calfskin",
+          "size": null,
+          "code": "KDB968CQC_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB968CQCS900_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cannage Tweed and Gold-Tone Metallic Thread",
+          "size": null,
+          "code": "KDB971CXG_S21X",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB971CXGS21X_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Tone Laminated Lambskin with Quilted Cannage Motif",
+          "size": null,
+          "code": "KDB968CQA_S49K",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB968CQAS49K_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDB892CQCS900",
+      "name": "Dior Ballet Pump",
+      "description": "Black Quilted Cannage Calfskin",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB892CQCS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDB892CQC_S900",
+      "variants": [
+        {
+          "color": "Black Quilted Cannage Calfskin",
+          "size": null,
+          "code": "KDB892CQC_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB892CQCS900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDB971CXGS09W",
+      "name": "Dior Or Dior Ballet Slingback Pump",
+      "description": "White and Gold-Tone Cannage Tweed with White Grosgrain",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB971CXGS09W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDB971CXG_S09W",
+      "variants": [
+        {
+          "color": "White and Gold-Tone Cannage Tweed with White Grosgrain",
+          "size": null,
+          "code": "KDB971CXG_S09W",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB971CXGS09W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDB946SCGS900",
+      "name": "Dior Punk Ballet Flat",
+      "description": "Black Supple Calfskin",
+      "price": "34000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB946SCGS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDB946SCG_S900",
+      "variants": [
+        {
+          "color": "Black Supple Calfskin",
+          "size": null,
+          "code": "KDB946SCG_S900",
+          "price": "34000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB946SCGS900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDB953GGNS900",
+      "name": "Adiorable Ballet Flat",
+      "description": "Black Fringed Grosgrain",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB953GGNS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDB953GGN_S900",
+      "variants": [
+        {
+          "color": "Black Fringed Grosgrain",
+          "size": null,
+          "code": "KDB953GGN_S900",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB953GGNS900_E02",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "qPgXP0D0iPzDEsg",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/2adch168oyy_h23e",
+  "order_no": "1741950063467.799000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/2ADCH168OYY_H23E",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/2adch168oyy_h23e",
+    "id": "qPgXP0D0iPzDEsg"
+  }
+}

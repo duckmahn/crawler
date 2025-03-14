@@ -1,0 +1,24 @@
+{
+  "id": "4Df3zqHOpz6Hn9F",
+  "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/card-holders-small-accessories",
+  "order_no": null,
+  "handled_at": "2025-03-14 11:00:47.039732+00:00",
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/card-holders-small-accessories",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/card-holders-small-accessories",
+    "handled_at": "2025-03-14 11:00:47.039732+00:00",
+    "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/card-holders-small-accessories",
+    "id": "4Df3zqHOpz6Hn9F"
+  }
+}

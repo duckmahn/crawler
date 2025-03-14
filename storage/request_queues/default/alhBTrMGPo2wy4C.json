@@ -1,0 +1,23 @@
+{
+  "id": "alhBTrMGPo2wy4C",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/r1508womcy_d001",
+  "order_no": "1741950052412.346000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/R1508WOMCY_D001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/r1508womcy_d001",
+    "id": "alhBTrMGPo2wy4C"
+  }
+}

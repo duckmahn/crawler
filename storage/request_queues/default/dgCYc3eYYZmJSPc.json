@@ -1,0 +1,23 @@
+{
+  "id": "dgCYc3eYYZmJSPc",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/m0505oibe_m52u",
+  "order_no": "1741950045788.625000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/M0505OIBE_M52U",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/m0505oibe_m52u",
+    "id": "dgCYc3eYYZmJSPc"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ut24xt4Z99udtYO",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/m1296zegc_m49e",
+  "order_no": "1741950043112.533000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/M1296ZEGC_M49E",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/m1296zegc_m49e",
+    "id": "ut24xt4Z99udtYO"
+  }
+}

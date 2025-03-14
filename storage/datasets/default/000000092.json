@@ -1,0 +1,423 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-2HTCA544YKYH03E",
+      "name": "Mini Dior Hit the Road Vertical Messenger Bag with Flap",
+      "description": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+      "price": "50000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2HTCA544YKYH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2HTCA544YKY_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2HTCA544YKY_H03E",
+          "price": "50000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2HTCA544YKYH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "2HTCA544YKY_H27E",
+          "price": "50000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2HTCA544YKYH27E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCA435YKSH27E",
+      "name": "Mini Saddle Messenger Bag with Flap",
+      "description": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+      "price": "54000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA435YKSH27E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCA435YKS_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCA435YKS_H27E",
+          "price": "54000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA435YKSH27E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCA435YKS_H03E",
+          "price": "54000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA435YKSH03E_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCA435YKK_H00N",
+          "price": "54000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA435YKKH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Dior Oblique Jacquard and Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ADCA435YKS_H53E",
+          "price": "54000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA435YKSH53E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESWS011YKYH03E",
+      "name": "Mini Safari Bag with Strap",
+      "description": "Black Dior Oblique Jacquard",
+      "price": "46000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS011YKYH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESWS011YKY_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESWS011YKY_H03E",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS011YKYH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESWS011YKY_H27E",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS011YKYH27E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCA543YKSH27E",
+      "name": "Mini Saddle Bag",
+      "description": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+      "price": "59000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA543YKSH27E_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCA543YKS_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCA543YKS_H27E",
+          "price": "59000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA543YKSH27E_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCA543YKS_H03E",
+          "price": "59000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA543YKSH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Icons Calfskin",
+          "size": null,
+          "code": "2ADCA543KEN_H00N",
+          "price": "68000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA543KENH00N_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Dior Icons Calfskin",
+          "size": null,
+          "code": "2ADCA543KEN_H174",
+          "price": "68000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA543KENH174_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Brown Dior Icons Calfskin",
+          "size": null,
+          "code": "2ADCA543KEN_H720",
+          "price": "68000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA543KENH720_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-1ESBO077OUPH563",
+      "name": "DIOR AND KAWS Rider 2.0 Belt Bag",
+      "description": "Navy Blue Dior Oblique Jacquard and Navy Blue Grained Calfskin",
+      "price": "57000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ESBO077OUPH563_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/1ESBO077OUP_H563",
+      "variants": [
+        {
+          "color": "Navy Blue Dior Oblique Jacquard and Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "1ESBO077OUP_H563",
+          "price": "57000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ESBO077OUPH563_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "1ESBO077OUP_H958",
+          "price": "57000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ESBO077OUPH958_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-1EIBO071YKYH03E",
+      "name": "Dior 8 Belt Bag",
+      "description": "Black Dior Oblique Jacquard",
+      "price": "57000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1EIBO071YKYH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/1EIBO071YKY_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "1EIBO071YKY_H03E",
+          "price": "57000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1EIBO071YKYH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "1EIBO071YKY_H27E",
+          "price": "57000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1EIBO071YKYH27E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESWS034OYYH958",
+      "name": "DIOR AND KAWS Mini Rider 2.0 Zipped Messenger Bag",
+      "description": "Black Grained Calfskin",
+      "price": "53000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034OYYH958_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESWS034OYY_H958",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESWS034OYY_H958",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034OYYH958_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Vermilion Red Grained Calfskin",
+          "size": null,
+          "code": "2ESWS034OYY_H23E",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034OYYH23E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESWS034YKSH03E",
+      "name": "Mini Rider 2.0 Zipped Messenger Bag",
+      "description": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+      "price": "53000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034YKSH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESWS034YKS_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ESWS034YKS_H03E",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034YKSH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "2ESWS034YKS_H27E",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034YKSH27E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-1ADPO033YKYH27E",
+      "name": "Mini Gallop Bag with Strap",
+      "description": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+      "price": "78000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ADPO033YKYH27E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/1ADPO033YKY_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "1ADPO033YKY_H27E",
+          "price": "78000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ADPO033YKYH27E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Taurillon Leather",
+          "size": null,
+          "code": "1ADPO033LAC_H00N",
+          "price": "78000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ADPO033LACH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2OBBC119YSEH03E",
+      "name": "Zipped Pouch with Strap",
+      "description": "Black Dior Oblique Jacquard",
+      "price": "46000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2OBBC119YSEH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2OBBC119YSE_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2OBBC119YSE_H03E",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2OBBC119YSEH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2OBBC119YSE_H05E",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2OBBC119YSEH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Gravity Leather",
+          "size": null,
+          "code": "2ESBC119LLG_H00N",
+          "price": "51000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC119LLGH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC119CDIH00N",
+      "name": "CD Icon Zipped Pouch with Strap",
+      "description": "Black Grained Calfskin",
+      "price": "46000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC119CDIH00N_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC119CDI_H00N",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESBC119CDI_H00N",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC119CDIH00N_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-1ESPO322YKYH27E",
+      "name": "Weekender 25",
+      "description": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+      "price": "67000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ESPO322YKYH27E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/1ESPO322YKY_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "1ESPO322YKY_H27E",
+          "price": "67000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ESPO322YKYH27E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Gravity Leather and Black Grained Calfskin",
+          "size": null,
+          "code": "1ESPO322LLG_H00N",
+          "price": "78000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ESPO322LLGH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "1ESPO322YKY_H03E",
+          "price": "67000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1ESPO322YKYH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-1EIPO312YKYH03E",
+      "name": "Mini Dior 8 Bag with Strap",
+      "description": "Black Dior Oblique Jacquard",
+      "price": "53000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1EIPO312YKYH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/1EIPO312YKY_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "1EIPO312YKY_H03E",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1EIPO312YKYH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESWS017YKYH27E",
+      "name": "Safari North-South Mini Tote Bag",
+      "description": "Beige and Black Dior Oblique Jacquard and Black Grained Calfskin",
+      "price": "46000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS017YKYH27E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESWS017YKY_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ESWS017YKY_H27E",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS017YKYH27E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Grained Calfskin",
+          "size": null,
+          "code": "2ESWS017YKY_H03E",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS017YKYH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

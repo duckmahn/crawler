@@ -1,0 +1,23 @@
+{
+  "id": "6FAZH69xBVwybzv",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/5sbm11peap_y32b",
+  "order_no": "1741950034299.565000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/5SBM11PEAP_Y32B",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/5sbm11peap_y32b",
+    "id": "6FAZH69xBVwybzv"
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-45DTE952X130C555",
+      "name": "Christian Dior Embroidered Dior Twist Bow",
+      "description": "Blue and White Embroidery",
+      "price": "16000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTE952X130C555_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/45DTE952X130_C555",
+      "variants": [
+        {
+          "color": "Blue and White Embroidery",
+          "size": null,
+          "code": "45DTE952X130_C555",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTE952X130C555_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Rose des Vents and White Embroidery",
+          "size": null,
+          "code": "45DTE952X130_C410",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTE952X130C410_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Tone Embroidery and Strass",
+          "size": null,
+          "code": "CPA0115XDTS_CO90",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0115XDTSCO90_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and White Embroidery",
+          "size": null,
+          "code": "45DTE952X130_C920",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTE952X130C920_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-45DTC952E132C440",
+      "name": "Dior Twist Bow",
+      "description": "Peony Pink Grosgrain",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTC952E132C440_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/45DTC952E132_C440",
+      "variants": [
+        {
+          "color": "Peony Pink Grosgrain",
+          "size": null,
+          "code": "45DTC952E132_C440",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTC952E132C440_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grosgrain",
+          "size": null,
+          "code": "45DTC952E132_C900",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTC952E132C900_E01-3",
+          "additionalImages": []
+        },
+        {
+          "color": "Garnet Red Grosgrain",
+          "size": null,
+          "code": "45DTC952E132_C334",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTC952E132C334_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPH0108XAIEC920",
+      "name": "AimeDior Headband",
+      "description": "Black and White Embroidery",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPH0108XAIEC920_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPH0108XAIE_C920",
+      "variants": [
+        {
+          "color": "Black and White Embroidery",
+          "size": null,
+          "code": "CPH0108XAIE_C920",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPH0108XAIEC920_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-34HBO988X131C540",
+      "name": "Dior Oblique Dior Band Headband",
+      "description": "Navy Blue Embroidery",
+      "price": "14000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34HBO988X131C540_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/34HBO988X131_C540",
+      "variants": [
+        {
+          "color": "Navy Blue Embroidery",
+          "size": null,
+          "code": "34HBO988X131_C540",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34HBO988X131C540_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPA0111EGGRC900",
+      "name": "Adiorable Barrette",
+      "description": "Black Fringed Grosgrain",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0111EGGRC900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPA0111EGGR_C900",
+      "variants": [
+        {
+          "color": "Black Fringed Grosgrain",
+          "size": null,
+          "code": "CPA0111EGGR_C900",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0111EGGRC900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPA0121ALCDC900",
+      "name": "Dior Idol Barrette",
+      "description": "Black Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0121ALCDC900_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPA0121ALCD_C900",
+      "variants": [
+        {
+          "color": "Black Calfskin",
+          "size": null,
+          "code": "CPA0121ALCD_C900",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0121ALCDC900_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Plum Calfskin",
+          "size": null,
+          "code": "CPA0121ALCD_C470",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0121ALCDC470_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPA0043EIDLC455",
+      "name": "Miss Dior - Dior Idol Barrette",
+      "description": "Bright Purple Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0043EIDLC455_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPA0043EIDL_C455",
+      "variants": [
+        {
+          "color": "Bright Purple Calfskin",
+          "size": null,
+          "code": "CPA0043EIDL_C455",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0043EIDLC455_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Pale Gold-Tone Calfskin",
+          "size": null,
+          "code": "CPA0066EIDL_CO90",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0066EIDLCO90_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Calfskin",
+          "size": null,
+          "code": "CPA0043EIDL_C900",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0043EIDLC900_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPA0051EDTBC482",
+      "name": "Miss Dior - Dior Twist Bow with Dior Bayadère Motif",
+      "description": "Pink and Purple Grosgrain",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0051EDTBC482_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPA0051EDTB_C482",
+      "variants": [
+        {
+          "color": "Pink and Purple Grosgrain",
+          "size": null,
+          "code": "CPA0051EDTB_C482",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0051EDTBC482_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1571WOMRSD301",
+      "name": "Lucky 30 Montaigne Barrette",
+      "description": "Gold-Finish Metal and White Resin Pearl",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1571WOMRSD301_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1571WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearl",
+          "size": null,
+          "code": "V1571WOMRS_D301",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1571WOMRSD301_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1410WOMCYD03S",
+      "name": "Le Nœud de Dior Barrette",
+      "description": "Champagne-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1410WOMCYD03S_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1410WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Champagne-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+          "size": null,
+          "code": "V1410WOMCY_D03S",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1410WOMCYD03S_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPH0037EHDSCO90",
+      "name": "Dior Band Headband",
+      "description": "Gold-Tone Cotton Blend and Strass",
+      "price": "22500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPH0037EHDSCO90_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPH0037EHDS_CO90",
+      "variants": [
+        {
+          "color": "Gold-Tone Cotton Blend and Strass",
+          "size": null,
+          "code": "CPH0037EHDS_CO90",
+          "price": "22500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPH0037EHDSCO90_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPA0060XLUNCO90",
+      "name": "Dior Twist - Dior Astral Bow",
+      "description": "White and Gold-Tone Embroidery",
+      "price": "16000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0060XLUNCO90_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPA0060XLUN_CO90",
+      "variants": [
+        {
+          "color": "White and Gold-Tone Embroidery",
+          "size": null,
+          "code": "CPA0060XLUN_CO90",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0060XLUNCO90_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1414WOMRSD301",
+      "name": "Dior Cabinet de Curiosités Barrette",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1414WOMRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1414WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "V1414WOMRS_D301",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1414WOMRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1417WOMCYD03S",
+      "name": "Dio(r)evolution Barrette",
+      "description": "Gold-Finish Metal and Silver-Tone Crystals",
+      "price": "15000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1417WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1417WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "V1417WOMCY_D03S",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1417WOMCYD03S_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

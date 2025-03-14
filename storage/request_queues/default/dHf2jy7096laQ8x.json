@@ -1,0 +1,23 @@
+{
+  "id": "dHf2jy7096laQ8x",
+  "unique_key": "https://www.dior.com/en_int/fashion/womens-fashion/bags/dior-book-tote",
+  "order_no": "1741950043143.175000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_int/fashion/womens-fashion/bags/dior-book-tote",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_int/fashion/womens-fashion/bags/dior-book-tote",
+    "id": "dHf2jy7096laQ8x"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4cAKgB5LVs1TzLi",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/44vmt979a153_c086",
+  "order_no": "1741950050294.021000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/44VMT979A153_C086",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/44vmt979a153_c086",
+    "id": "4cAKgB5LVs1TzLi"
+  }
+}

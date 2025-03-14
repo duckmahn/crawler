@@ -1,0 +1,23 @@
+{
+  "id": "WpDWmA3y0DfGW3R",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/e3213womrs_d97p",
+  "order_no": "1741950051134.464000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/E3213WOMRS_D97P",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/e3213womrs_d97p",
+    "id": "WpDWmA3y0DfGW3R"
+  }
+}

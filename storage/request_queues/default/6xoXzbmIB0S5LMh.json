@@ -1,0 +1,23 @@
+{
+  "id": "6xoXzbmIB0S5LMh",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/s8557cedd_m20e",
+  "order_no": "1741950044573.140000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/S8557CEDD_M20E",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/s8557cedd_m20e",
+    "id": "6xoXzbmIB0S5LMh"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w2VVsdg9E1lPfMN",
+  "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/shoes/all-shoes",
+  "order_no": "1741950027737.721000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/mens-fashion/shoes/all-shoes",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/shoes/all-shoes",
+    "id": "w2VVsdg9E1lPfMN"
+  }
+}

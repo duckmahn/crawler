@@ -1,0 +1,23 @@
+{
+  "id": "0tXZvBtudUCb3bZ",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/cpb9019gdbf_c900",
+  "order_no": "1741950050290.267000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/CPB9019GDBF_C900",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/cpb9019gdbf_c900",
+    "id": "0tXZvBtudUCb3bZ"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "r9GgHU0wTXRMBlJ",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/b2812womrs_d301",
+  "order_no": "1741950033039.536000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/B2812WOMRS_D301",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/b2812womrs_d301",
+    "id": "r9GgHU0wTXRMBlJ"
+  }
+}

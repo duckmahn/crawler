@@ -1,0 +1,24 @@
+{
+  "id": "Vps2W3HPDXefhdW",
+  "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/trousers-shorts",
+  "order_no": null,
+  "handled_at": "2025-03-14 11:00:58.618278+00:00",
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/trousers-shorts",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/trousers-shorts",
+    "handled_at": "2025-03-14 11:00:58.618278+00:00",
+    "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/trousers-shorts",
+    "id": "Vps2W3HPDXefhdW"
+  }
+}

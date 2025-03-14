@@ -1,0 +1,23 @@
+{
+  "id": "s1x8HgKK4O2xlC2",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/kck369sku_s26u",
+  "order_no": "1741950052433.086000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/KCK369SKU_S26U",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/kck369sku_s26u",
+    "id": "s1x8HgKK4O2xlC2"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-DPFCS3FXR10A0",
+      "name": "DiorPacific S3F",
+      "description": "Black Rectangular Sunglasses",
+      "price": "11500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS3FXR10A0_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCS3FXR_10A0",
+      "variants": [
+        {
+          "color": "Black Rectangular Sunglasses",
+          "size": null,
+          "code": "DPFCS3FXR_10A0",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS3FXR10A0_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Rectangular Sunglasses",
+          "size": null,
+          "code": "DPFCS3FXR_16I0",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS3FXR16I0_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-DPFCR1FXR10A0",
+      "name": "DiorPacific R1F",
+      "description": "Black Oval Sunglasses",
+      "price": "11500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCR1FXR10A0_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCR1FXR_10A0",
+      "variants": [
+        {
+          "color": "Black Oval Sunglasses",
+          "size": null,
+          "code": "DPFCR1FXR_10A0",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCR1FXR10A0_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Brown Tortoiseshell-Effect Oval Sunglasses",
+          "size": null,
+          "code": "DPFCR1FXR_20L0",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCR1FXR20L0_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-DPFCS2UQT95A8",
+      "name": "DiorPacific S2U",
+      "description": "White Rectangular Sunglasses",
+      "price": "13000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS2UQT95A8_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCS2UQT_95A8",
+      "variants": [
+        {
+          "color": "White Rectangular Sunglasses",
+          "size": null,
+          "code": "DPFCS2UQT_95A8",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS2UQT95A8_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Rectangular Sunglasses",
+          "size": null,
+          "code": "DPFCS2UQT_30B8",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS2UQT30B8_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Rectangular Sunglasses",
+          "size": null,
+          "code": "DPFCS2UQR_10A0",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS2UQR10A0_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-DPFCB2FQT95A8",
+      "name": "DiorPacific B2F",
+      "description": "White Round Sunglasses",
+      "price": "13000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCB2FQT95A8_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCB2FQT_95A8",
+      "variants": [
+        {
+          "color": "White Round Sunglasses",
+          "size": null,
+          "code": "DPFCB2FQT_95A8",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCB2FQT95A8_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Round Sunglasses",
+          "size": null,
+          "code": "DPFCB2FQT_30B8",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCB2FQT30B8_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Butterfly Sunglasses",
+          "size": null,
+          "code": "DPFCB2FQR_10A1",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCB2FQR10A1_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Transparent Pink Butterfly Sunglasses",
+          "size": null,
+          "code": "DPFCB2FQR_40D2",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCB2FQR40D2_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-DPFCS1UQR10A0",
+      "name": "DiorPacific S1U",
+      "description": "Black Square Sunglasses",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS1UQR10A0_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCS1UQR_10A0",
+      "variants": [
+        {
+          "color": "Black Square Sunglasses",
+          "size": null,
+          "code": "DPFCS1UQR_10A0",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS1UQR10A0_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "White Square Sunglasses",
+          "size": null,
+          "code": "DPFCS1UQR_95B0",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS1UQR95B0_E03",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

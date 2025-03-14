@@ -1,0 +1,23 @@
+{
+  "id": "o9wu39lesUkB0nB",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/9hbg51ddo2_y353",
+  "order_no": "1741950032255.116000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/9HBG51DDO2_Y353",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/9hbg51ddo2_y353",
+    "id": "o9wu39lesUkB0nB"
+  }
+}

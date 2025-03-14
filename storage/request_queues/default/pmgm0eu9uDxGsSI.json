@@ -1,0 +1,23 @@
+{
+  "id": "pmgm0eu9uDxGsSI",
+  "unique_key": "https://www.dior.com/en_vn/beauty/folder?fid=personal-data",
+  "order_no": "1741950027797.283000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/beauty/folder?fid=personal-data#content-detail-privacy-statement",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/beauty/folder?fid=personal-data",
+    "id": "pmgm0eu9uDxGsSI"
+  }
+}

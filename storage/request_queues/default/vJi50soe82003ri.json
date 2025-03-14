@@ -1,0 +1,23 @@
+{
+  "id": "vJi50soe82003ri",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/5sbk23teea_y013",
+  "order_no": "1741950031102.736000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/5SBK23TEEA_Y013",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/5sbk23teea_y013",
+    "id": "vJi50soe82003ri"
+  }
+}

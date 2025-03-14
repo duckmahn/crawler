@@ -1,0 +1,23 @@
+{
+  "id": "PlctMLjpnl9K2lZ",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/35dob200i608_c541",
+  "order_no": "1741950049220.785000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/35DOB200I608_C541",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/35dob200i608_c541",
+    "id": "PlctMLjpnl9K2lZ"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Ao0TkVnb2KmxNGd",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/3sn272zfp_h051",
+  "order_no": "1741950034120.646000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/3SN272ZFP_H051",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/3sn272zfp_h051",
+    "id": "Ao0TkVnb2KmxNGd"
+  }
+}

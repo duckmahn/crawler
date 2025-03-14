@@ -1,0 +1,334 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-2LLBC333KENH00N",
+      "name": "Dior Normandie Vertical Bifold Wallet",
+      "description": "Black Dior Icons Calfskin",
+      "price": "37000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2LLBC333KENH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2LLBC333KEN_H00N",
+      "variants": [
+        {
+          "color": "Black Dior Icons Calfskin",
+          "size": null,
+          "code": "2LLBC333KEN_H00N",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2LLBC333KENH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Dior Icons Calfskin",
+          "size": null,
+          "code": "2LLBC333KEN_H174",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2LLBC333KENH174_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADBC321YKSH27E",
+      "name": "Saddle Long Wallet",
+      "description": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+      "price": "26000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC321YKSH27E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADBC321YKS_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "2ADBC321YKS_H27E",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC321YKSH27E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ADBC321YKS_H03E",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC321YKSH03E_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ADBC321YKK_H00N",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC321YKKH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC252FLGH00N",
+      "name": "Zipped Long Wallet",
+      "description": "Black Dior Gravity Leather",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC252FLGH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC252FLG_H00N",
+      "variants": [
+        {
+          "color": "Black Dior Gravity Leather",
+          "size": null,
+          "code": "2ESBC252FLG_H00N",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC252FLGH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESBC252YSE_H03E",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC252YSEH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESBC252YSE_H05E",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC252YSEH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Deep Gray Dior Gravity Leather",
+          "size": null,
+          "code": "2ESBC252FLG_H830",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC252FLGH830_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADBC315YKSH05E",
+      "name": "Saddle Zipped Long Wallet",
+      "description": "Black Grained Calfskin Marquetry with Beige and Black Dior Oblique Jacquard",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC315YKSH05E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADBC315YKS_H05E",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin Marquetry with Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADBC315YKS_H05E",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC315YKSH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin Marquetry and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADBC315YKS_H03E",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC315YKSH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin Marquetry",
+          "size": null,
+          "code": "2ADBC315YKK_H00N",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC315YKKH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC252CDIH56E",
+      "name": "CD Icon Zipped Long Wallet",
+      "description": "Navy Blue Grained Calfskin",
+      "price": "22000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC252CDIH56E_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC252CDI_H56E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESBC252CDI_H56E",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC252CDIH56E_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESBC252CDI_H00N",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC252CDIH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC312YSEH27E",
+      "name": "Long Flap Wallet",
+      "description": "Beige and Black Dior Oblique Jacquard",
+      "price": "23000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC312YSEH27E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC312YSE_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESBC312YSE_H27E",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC312YSEH27E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESBC312YSE_H03E",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC312YSEH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Gravity Leather",
+          "size": null,
+          "code": "2ESBC328FLG_H00N",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC328FLGH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADBC330YKSH27E",
+      "name": "Saddle Vertical Long Wallet",
+      "description": "Black Grained Calfskin Marquetry with Beige and Black Dior Oblique Jacquard",
+      "price": "22000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC330YKSH27E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADBC330YKS_H27E",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin Marquetry with Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADBC330YKS_H27E",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC330YKSH27E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin Marquetry and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADBC330YKS_H03E",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC330YKSH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ADBC330YKK_H00N",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC330YKKH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2OBBC002YSEH05E",
+      "name": "Vertical Long Wallet",
+      "description": "Beige and Black Dior Oblique Jacquard",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2OBBC002YSEH05E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2OBBC002YSE_H05E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2OBBC002YSE_H05E",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2OBBC002YSEH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2OBBC002YSE_H03E",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2OBBC002YSEH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC002FLGH00N",
+      "name": "Vertical Bifold Wallet",
+      "description": "Black Dior Gravity Leather",
+      "price": "21000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC002FLGH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC002FLG_H00N",
+      "variants": [
+        {
+          "color": "Black Dior Gravity Leather",
+          "size": null,
+          "code": "2ESBC002FLG_H00N",
+          "price": "21000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC002FLGH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC002CDIH00N",
+      "name": "CD Icon Vertical Bifold Wallet",
+      "description": "Black Grained Calfskin",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC002CDIH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC002CDI_H00N",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESBC002CDI_H00N",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC002CDIH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC317YSEH03E",
+      "name": "Vertical Long Zipped Wallet",
+      "description": "Black Dior Oblique Jacquard",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC317YSEH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC317YSE_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESBC317YSE_H03E",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC317YSEH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESBC317YSE_H05E",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC317YSEH05E_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

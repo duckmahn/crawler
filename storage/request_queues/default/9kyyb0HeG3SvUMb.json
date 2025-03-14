@@ -1,0 +1,23 @@
+{
+  "id": "9kyyb0HeG3SvUMb",
+  "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/tote-bags",
+  "order_no": "1741950044600.899000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/tote-bags",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/tote-bags",
+    "id": "9kyyb0HeG3SvUMb"
+  }
+}

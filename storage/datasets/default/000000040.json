@@ -1,0 +1,110 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-M9335UTZQM928",
+      "name": "Dior Bobby East-West Bag",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "89000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9335UTZQM928_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M9335UTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "M9335UTZQ_M928",
+          "price": "89000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9335UTZQM928_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "M9335USKU_M900",
+          "price": "89000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9335USKUM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Biscuit Grained Calfskin",
+          "size": null,
+          "code": "M9335USKU_M55U",
+          "price": "89000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9335USKUM55U_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Natural Dior Oblique Jacquard",
+          "size": null,
+          "code": "M9335UTZQ_M925",
+          "price": "89000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9335UTZQM925_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M9337USKUM900",
+      "name": "Medium Dior Bobby Bag",
+      "description": "Black Grained Calfskin",
+      "price": "95000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9337USKUM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M9337USKU_M900",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "M9337USKU_M900",
+          "price": "95000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9337USKUM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "M9319UTZQ_M928",
+          "price": "100000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9319UTZQM928_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Box Calfskin",
+          "size": null,
+          "code": "M9319UMOL_M900",
+          "price": "100000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9319UMOLM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte Box Calfskin",
+          "size": null,
+          "code": "M9319UMOL_M030",
+          "price": "100000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9319UMOLM030_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M9320UBBYM911",
+      "name": "Large Dior Bobby Bag",
+      "description": "Black Grained Calfskin with Blue Dior Oblique Embroidered Shoulder Strap",
+      "price": "115000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9320UBBYM911_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M9320UBBY_M911",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin with Blue Dior Oblique Embroidered Shoulder Strap",
+          "size": null,
+          "code": "M9320UBBY_M911",
+          "price": "115000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9320UBBYM911_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

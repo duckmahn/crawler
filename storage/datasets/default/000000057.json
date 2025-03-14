@@ -1,0 +1,462 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-R2511WOMCYD03S",
+      "name": "Dior Céleste Ring",
+      "description": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2511WOMCYD03S_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2511WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+          "size": null,
+          "code": "R2511WOMCY_D03S",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2511WOMCYD03S_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R1009DVOCYD301",
+      "name": "Dio(r)evolution Ring",
+      "description": "Gold-Finish Metal and White Crystals",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1009DVOCYD301_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R1009DVOCY_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Crystals",
+          "size": null,
+          "code": "R1009DVOCY_D301",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1009DVOCYD301_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Silver-Finish Metal and White Crystals",
+          "size": null,
+          "code": "R1009DVOCY_D009",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1009DVOCYD009_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Pink-Finish Metal and Pink Crystals",
+          "size": null,
+          "code": "R1009DVOCY_D12P",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1009DVOCYD12P_E03-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal and White Crystals",
+          "size": null,
+          "code": "R1140DVOCY_D301",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1140DVOCYD301_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2278WOMLQD301",
+      "name": "Dior Night Code Ring",
+      "description": "Gold-Finish Metal with White Crystals and White Lacquer",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2278WOMLQD301_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2278WOMLQ_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal with White Crystals and White Lacquer",
+          "size": null,
+          "code": "R2278WOMLQ_D301",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2278WOMLQD301_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal with White Crystals and Pale Pink Lacquer",
+          "size": null,
+          "code": "R2278WOMLQ_D97P",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2278WOMLQD97P_E03-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal with White Crystals and Black Lacquer",
+          "size": null,
+          "code": "R2278WOMLQ_D307",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2278WOMLQD307_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2506WOMCYD03S",
+      "name": "Petit CD Bee Ring",
+      "description": "Gold-Finish Metal and Silver-Tone Crystals",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2506WOMCYD03S_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2506WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "R2506WOMCY_D03S",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2506WOMCYD03S_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R1508WOMCYD03S",
+      "name": "Petit CD Ring",
+      "description": "Gold-Finish Metal and Silver-Tone Crystals",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1508WOMCYD03S_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R1508WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "R1508WOMCY_D03S",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1508WOMCYD03S_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "R2232WOMCY_D03S",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2232WOMCYD03S_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Silver-Finish Metal with White Crystals",
+          "size": null,
+          "code": "R1508WOMCY_D001",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1508WOMCYD001_E03-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal with White Resin Pearls and a Silver-Tone Crystal",
+          "size": null,
+          "code": "R2364WOMCY_D03S",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2364WOMCYD03S_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2539WOMMTD327",
+      "name": "Dior Tribales New Look Ring",
+      "description": "Gold- and Palladium-Finish Metal",
+      "price": "10500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2539WOMMTD327_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2539WOMMT_D327",
+      "variants": [
+        {
+          "color": "Gold- and Palladium-Finish Metal",
+          "size": null,
+          "code": "R2539WOMMT_D327",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2539WOMMTD327_E03-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "R2137WOMRS_D301",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2137WOMRSD301_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Palladium-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+          "size": null,
+          "code": "R2370WOMCY_D13S",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2370WOMCYD13S_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2548WOMRSD301",
+      "name": "Toile de Jouy Papillon Ring",
+      "description": "Matte Gold-Finish Metal and White Resin Pearls",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2548WOMRSD301_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2548WOMRS_D301",
+      "variants": [
+        {
+          "color": "Matte Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "R2548WOMRS_D301",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2548WOMRSD301_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2534WOMRSD301",
+      "name": "D-Vinity Ring",
+      "description": "Matte Gold-Finish Metal and White Resin Pearl",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2534WOMRSD301_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2534WOMRS_D301",
+      "variants": [
+        {
+          "color": "Matte Gold-Finish Metal and White Resin Pearl",
+          "size": null,
+          "code": "R2534WOMRS_D301",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2534WOMRSD301_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2542WOMRSD301",
+      "name": "Lucky Dior Ring",
+      "description": "Gold-Finish Metal and White Resin Pearl",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2542WOMRSD301_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2542WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearl",
+          "size": null,
+          "code": "R2542WOMRS_D301",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2542WOMRSD301_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2366WOMLQD309",
+      "name": "Cœur des Curiosités Ring",
+      "description": "Gold-Finish Metal and Red Lacquer",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2366WOMLQD309_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2366WOMLQ_D309",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Red Lacquer",
+          "size": null,
+          "code": "R2366WOMLQ_D309",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2366WOMLQD309_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2395WOMCYD03S",
+      "name": "Dior Astral Ring",
+      "description": "Gold-Finish Metal and Silver-Tone Crystal",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2395WOMCYD03S_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2395WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystal",
+          "size": null,
+          "code": "R2395WOMCY_D03S",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2395WOMCYD03S_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2396WOMCYD03S",
+      "name": "CD Navy Ring",
+      "description": "Gold-Finish Metal and Silver-Tone Crystals",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2396WOMCYD03S_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2396WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "R2396WOMCY_D03S",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2396WOMCYD03S_E03-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-finish metal",
+          "size": null,
+          "code": "R1070CDNMT_D300",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1070CDNMTD300_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2385WOMCYD03S",
+      "name": "Petit CD Lucky Charms Ring",
+      "description": "Gold-Finish Metal and Silver-Tone Crystals",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2385WOMCYD03S_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2385WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "R2385WOMCY_D03S",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2385WOMCYD03S_E03-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Antique Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "R2386WOMCY_D03S",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2386WOMCYD03S_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R1287WOMCYD301",
+      "name": "Petit CD Ring Set",
+      "description": "Gold-Finish Metal and White Crystals",
+      "price": "15000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1287WOMCYD301_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R1287WOMCY_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Crystals",
+          "size": null,
+          "code": "R1287WOMCY_D301",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1287WOMCYD301_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R1137CDLCYD301",
+      "name": "Clair D Lune Ring",
+      "description": "Gold-Finish Metal and White Crystals",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1137CDLCYD301_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R1137CDLCY_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Crystals",
+          "size": null,
+          "code": "R1137CDLCY_D301",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1137CDLCYD301_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2365WOMCYD03S",
+      "name": "Dio(r)evolution Ring Set",
+      "description": "Antique Gold-Finish Metal and Silver-Tone Crystals",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2365WOMCYD03S_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2365WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Antique Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "R2365WOMCY_D03S",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2365WOMCYD03S_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R1256ODELQD03S",
+      "name": "Dior Code Ring Set",
+      "description": "Gold-Finish Metal with Silver-Tone Crystals and White Lacquer",
+      "price": "15500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1256ODELQD03S_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R1256ODELQ_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal with Silver-Tone Crystals and White Lacquer",
+          "size": null,
+          "code": "R1256ODELQ_D03S",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1256ODELQD03S_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2383WOMRSD301",
+      "name": "Dior Cabinet de Curiosités Ring",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2383WOMRSD301_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2383WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "R2383WOMRS_D301",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2383WOMRSD301_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R2320WOMCYD03S",
+      "name": "Le Nœud de Dior Ring",
+      "description": "Champagne-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+      "price": "15500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2320WOMCYD03S_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2320WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Champagne-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+          "size": null,
+          "code": "R2320WOMCY_D03S",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2320WOMCYD03S_E03",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-142V11B3394X5651",
+      "name": "Denim Couture Jacket",
+      "description": "Deep Blue Cotton Denim",
+      "price": "78400000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/142V11B3394X5651_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/142V11B3394_X5651",
+      "variants": [
+        {
+          "color": "Deep Blue Cotton Denim",
+          "size": null,
+          "code": "142V11B3394_X5651",
+          "price": "78400000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/142V11B3394X5651_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-522P04A3050X0200",
+      "name": "Flared Jeans",
+      "description": "Ecru Cotton Denim with Dior Oblique Interior",
+      "price": "62000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P04A3050X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522P04A3050_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "522P04A3050_X0200",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P04A3050X0200_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Stonewashed Cotton Denim",
+          "size": null,
+          "code": "522P91A3046_X5408",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P91A3046X5408_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Peach Blossom Pink Stonewashed Cotton Denim",
+          "size": null,
+          "code": "522P91A3052_X1225",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P91A3052X1225_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray Stonewashed Cotton Denim",
+          "size": null,
+          "code": "522P91A3052_X8247",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P91A3052X8247_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Stonewashed Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "452P72A3377_X5419",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452P72A3377X5419_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-522V46A3046X5408",
+      "name": "Oversized Hooded Jacket",
+      "description": "Blue Stonewashed Cotton Denim",
+      "price": "84000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522V46A3046X5408_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522V46A3046_X5408",
+      "variants": [
+        {
+          "color": "Blue Stonewashed Cotton Denim",
+          "size": null,
+          "code": "522V46A3046_X5408",
+          "price": "84000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522V46A3046X5408_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "442V34A3161_X5461",
+          "price": "88000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/442V34A3161X5461_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ecru Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "522V46A3050_X0200",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522V46A3050X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-522V93A3050X0200",
+      "name": "Jacket with Cap Sleeves",
+      "description": "Ecru Cotton Denim with Dior Oblique Interior",
+      "price": "75000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522V93A3050X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522V93A3050_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "522V93A3050_X0200",
+          "price": "75000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522V93A3050X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-522R93A3050X0200",
+      "name": "Short Belted Shirtdress",
+      "description": "Ecru Cotton Denim with Dior Oblique Interior",
+      "price": "87000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522R93A3050X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522R93A3050_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "522R93A3050_X0200",
+          "price": "87000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522R93A3050X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-522J72A3050X0200",
+      "name": "Belted Skirt",
+      "description": "Ecru Cotton Denim with Dior Oblique Interior",
+      "price": "68000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522J72A3050X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522J72A3050_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "522J72A3050_X0200",
+          "price": "68000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522J72A3050X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-912P01A3319X5740",
+      "name": "Boyfriend Jeans",
+      "description": "Blue Denim",
+      "price": "42000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/912P01A3319X5740_E01-3",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/912P01A3319_X5740",
+      "variants": [
+        {
+          "color": "Blue Denim",
+          "size": null,
+          "code": "912P01A3319_X5740",
+          "price": "42000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/912P01A3319X5740_E01-3",
+          "additionalImages": []
+        },
+        {
+          "color": "White Denim",
+          "size": null,
+          "code": "912P01A3322_X0150",
+          "price": "42000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/912P01A3322X0150_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "442P31A3161_X5461",
+          "price": "50000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/442P31A3161X5461_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Stonewashed Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "452P31A3377_X5419",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452P31A3377X5419_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Stonewashed Cotton Denim",
+          "size": null,
+          "code": "452P31A3381_X5697",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452P31A3381X5697_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-452P69A3377X5419",
+      "name": "Regular-Fit Jeans",
+      "description": "Blue Stonewashed Cotton Denim with Dior Oblique Interior",
+      "price": "58000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452P69A3377X5419_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/452P69A3377_X5419",
+      "variants": [
+        {
+          "color": "Blue Stonewashed Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "452P69A3377_X5419",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452P69A3377X5419_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-422P04A3830X5424",
+      "name": "Dior 8 Flared Jeans, D04",
+      "description": "Blue Stonewashed Cotton Denim",
+      "price": "43120000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/422P04A3830X5424_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/422P04A3830_X5424",
+      "variants": [
+        {
+          "color": "Blue Stonewashed Cotton Denim",
+          "size": null,
+          "code": "422P04A3830_X5424",
+          "price": "43120000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/422P04A3830X5424_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-142P30A3394X5651",
+      "name": "Denim Couture Flared Jeans",
+      "description": "Deep Blue Cotton Denim",
+      "price": "53900000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/142P30A3394X5651_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/142P30A3394_X5651",
+      "variants": [
+        {
+          "color": "Deep Blue Cotton Denim",
+          "size": null,
+          "code": "142P30A3394_X5651",
+          "price": "53900000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/142P30A3394X5651_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-512V11A3026X1998",
+      "name": "Dior Or Jacket",
+      "description": "Gold-Tone Cotton-Blend Denim",
+      "price": "94000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_F_25_1_LOOK_058_E04",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/512V11A3026_X1998",
+      "variants": [
+        {
+          "color": "Gold-Tone Cotton-Blend Denim",
+          "size": null,
+          "code": "512V11A3026_X1998",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_F_25_1_LOOK_058_E04",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-512J04A3027X1998",
+      "name": "Dior Or Mid-Length Pleated Skirt",
+      "description": "Gold-Tone Cotton-Blend Denim",
+      "price": "110000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512J04A3027X1998_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/512J04A3027_X1998",
+      "variants": [
+        {
+          "color": "Gold-Tone Cotton-Blend Denim",
+          "size": null,
+          "code": "512J04A3027_X1998",
+          "price": "110000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512J04A3027X1998_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-512P04A3026X1998",
+      "name": "Dior Or Flared Jeans",
+      "description": "Gold-Tone Cotton Denim",
+      "price": "68000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512P04A3026X1998_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/512P04A3026_X1998",
+      "variants": [
+        {
+          "color": "Gold-Tone Cotton Denim",
+          "size": null,
+          "code": "512P04A3026_X1998",
+          "price": "68000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512P04A3026X1998_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-512R43A3027X1998",
+      "name": "Dior Or Mid-Length Flared Dress",
+      "description": "Gold-Tone Cotton Denim",
+      "price": "190000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512R43A3027X1998_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/512R43A3027_X1998",
+      "variants": [
+        {
+          "color": "Gold-Tone Cotton Denim",
+          "size": null,
+          "code": "512R43A3027_X1998",
+          "price": "190000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512R43A3027X1998_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-512V11A3040X0876",
+      "name": "Jacket",
+      "description": "Ecru Cotton Denim with Multicolor Dior Around the World Motif",
+      "price": "87000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512V11A3040X0876_E08",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/512V11A3040_X0876",
+      "variants": [
+        {
+          "color": "Ecru Cotton Denim with Multicolor Dior Around the World Motif",
+          "size": null,
+          "code": "512V11A3040_X0876",
+          "price": "87000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512V11A3040X0876_E08",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Stonewashed Cotton Denim",
+          "size": null,
+          "code": "452V11A3381_X5697",
+          "price": "79000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452V11A3381X5697_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Denim with Blue Toile de Jouy Scotland Motif",
+          "size": null,
+          "code": "512V11A3015_X5855",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512V11A3015X5855_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Denim with Blue Miss Dior Graffiti Motif",
+          "size": null,
+          "code": "452V11A3387_X5803",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452V11A3387X5803_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-512V11A3033X0832",
+      "name": "Dioramour Jacket",
+      "description": "White Cotton Denim with Multicolor Cœur des Curiosités Motif",
+      "price": "94000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512V11A3033X0832_E08",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/512V11A3033_X0832",
+      "variants": [
+        {
+          "color": "White Cotton Denim with Multicolor Cœur des Curiosités Motif",
+          "size": null,
+          "code": "512V11A3033_X0832",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512V11A3033X0832_E08",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-452P69A3381X5697",
+      "name": "Straight Jeans",
+      "description": "Blue Stonewashed Cotton Denim",
+      "price": "52000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452P69A3381X5697_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/452P69A3381_X5697",
+      "variants": [
+        {
+          "color": "Blue Stonewashed Cotton Denim",
+          "size": null,
+          "code": "452P69A3381_X5697",
+          "price": "52000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452P69A3381X5697_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-512P44A3015X5855",
+      "name": "Shorts",
+      "description": "White Cotton Denim with Blue Toile de Jouy Scotland Motif",
+      "price": "53000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512P44A3015X5855_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/512P44A3015_X5855",
+      "variants": [
+        {
+          "color": "White Cotton Denim with Blue Toile de Jouy Scotland Motif",
+          "size": null,
+          "code": "512P44A3015_X5855",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512P44A3015X5855_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-512J04A3016X5855",
+      "name": "Pleated Mid-Length Skirt",
+      "description": "White Cotton Denim with Blue Toile de Jouy Scotland Motif",
+      "price": "91000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512J04A3016X5855_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/512J04A3016_X5855",
+      "variants": [
+        {
+          "color": "White Cotton Denim with Blue Toile de Jouy Scotland Motif",
+          "size": null,
+          "code": "512J04A3016_X5855",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512J04A3016X5855_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-512V16A3017X5899",
+      "name": "Caro Jacket",
+      "description": "White Cotton Denim with Blue Dior Chardons Motif",
+      "price": "68000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512V16A3017X5899_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/512V16A3017_X5899",
+      "variants": [
+        {
+          "color": "White Cotton Denim with Blue Dior Chardons Motif",
+          "size": null,
+          "code": "512V16A3017_X5899",
+          "price": "68000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512V16A3017X5899_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-512V18A3000X9210",
+      "name": "Oversized Studded Jacket",
+      "description": "Black Stonewashed Cotton Denim",
+      "price": "175000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512V18A3000X9210_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/512V18A3000_X9210",
+      "variants": [
+        {
+          "color": "Black Stonewashed Cotton Denim",
+          "size": null,
+          "code": "512V18A3000_X9210",
+          "price": "175000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512V18A3000X9210_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-512P24A3000X9210",
+      "name": "Flared Studded Jeans",
+      "description": "Black Stonewashed Cotton Denim",
+      "price": "115000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512P24A3000X9210_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/512P24A3000_X9210",
+      "variants": [
+        {
+          "color": "Black Stonewashed Cotton Denim",
+          "size": null,
+          "code": "512P24A3000_X9210",
+          "price": "115000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/512P24A3000X9210_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-452J41A3387X5803",
+      "name": "Flared Miniskirt",
+      "description": "White Cotton Denim with Blue Miss Dior Graffiti Motif",
+      "price": "52000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452J41A3387X5803_E08",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/452J41A3387_X5803",
+      "variants": [
+        {
+          "color": "White Cotton Denim with Blue Miss Dior Graffiti Motif",
+          "size": null,
+          "code": "452J41A3387_X5803",
+          "price": "52000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452J41A3387X5803_E08",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-452P04A3387X5803",
+      "name": "Flared Pants",
+      "description": "White Cotton Denim with Blue Miss Dior Graffiti Motif",
+      "price": "55000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452P04A3387X5803_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/452P04A3387_X5803",
+      "variants": [
+        {
+          "color": "White Cotton Denim with Blue Miss Dior Graffiti Motif",
+          "size": null,
+          "code": "452P04A3387_X5803",
+          "price": "55000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452P04A3387X5803_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-452V29A3377X5419",
+      "name": "Cropped Jacket",
+      "description": "Blue Stonewashed Cotton Denim with Dior Oblique Interior",
+      "price": "75000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452V29A3377X5419_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/452V29A3377_X5419",
+      "variants": [
+        {
+          "color": "Blue Stonewashed Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "452V29A3377_X5419",
+          "price": "75000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/452V29A3377X5419_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gVZYU543V22GTx0",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/35mon201i001_c089",
+  "order_no": "1741950049235.810000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/35MON201I001_C089",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/35mon201i001_c089",
+    "id": "gVZYU543V22GTx0"
+  }
+}

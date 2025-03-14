@@ -1,0 +1,23 @@
+{
+  "id": "b5VlXQXRE9ZhULQ",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/34dbp924g153_c160",
+  "order_no": "1741950050281.745000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/34DBP924G153_C160",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/34dbp924g153_c160",
+    "id": "b5VlXQXRE9ZhULQ"
+  }
+}

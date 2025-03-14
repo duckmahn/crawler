@@ -1,0 +1,23 @@
+{
+  "id": "fMAIa2dVJdEoB9W",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/154s09am305_x5801",
+  "order_no": "1741950029063.717000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/154S09AM305_X5801",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/154s09am305_x5801",
+    "id": "fMAIa2dVJdEoB9W"
+  }
+}

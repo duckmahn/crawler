@@ -1,0 +1,23 @@
+{
+  "id": "ONKMqGAxDicbIkg",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/3sn318zex_h053",
+  "order_no": "1741950030818.748000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/3SN318ZEX_H053",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/3sn318zex_h053",
+    "id": "ONKMqGAxDicbIkg"
+  }
+}

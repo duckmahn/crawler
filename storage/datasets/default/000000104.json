@@ -1,0 +1,270 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-58Z0001A0014C885",
+      "name": "DIOR AND HYLTON NEL Blanket",
+      "description": "Gray and Blue Wool and Cashmere",
+      "price": "77000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/58Z0001A0014C885_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/58Z0001A0014_C885",
+      "variants": [
+        {
+          "color": "Gray and Blue Wool and Cashmere",
+          "size": null,
+          "code": "58Z0001A0014_C885",
+          "price": "77000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/58Z0001A0014C885_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-58E0002A0018C085",
+      "name": "DIOR AND HYLTON NEL Stole",
+      "description": "Ecru and Blue Virgin Wool and Silk",
+      "price": "35000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/58E0002A0018C085_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/58E0002A0018_C085",
+      "variants": [
+        {
+          "color": "Ecru and Blue Virgin Wool and Silk",
+          "size": null,
+          "code": "58E0002A0018_C085",
+          "price": "35000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/58E0002A0018C085_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-58E0012A1000C085",
+      "name": "Dior Oblique Stole",
+      "description": "Navy Blue, Black and White Wool and Silk",
+      "price": "18000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/58E0012A1000C085_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/58E0012A1000_C085",
+      "variants": [
+        {
+          "color": "Navy Blue, Black and White Wool and Silk",
+          "size": null,
+          "code": "58E0012A1000_C085",
+          "price": "18000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/58E0012A1000C085_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-93E0015DH001C988",
+      "name": "Double-Sided CD Icon Scarf",
+      "description": "Black and Gray Silk",
+      "price": "15500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/93E0015DH001C988_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/93E0015DH001_C988",
+      "variants": [
+        {
+          "color": "Black and Gray Silk",
+          "size": null,
+          "code": "93E0015DH001_C988",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/93E0015DH001C988_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513ME02AT371C888",
+      "name": "CD Icon Scarf",
+      "description": "Dior Gray and Anthracite Gray Virgin Wool Knit",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513ME02AT371C888_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513ME02AT371_C888",
+      "variants": [
+        {
+          "color": "Dior Gray and Anthracite Gray Virgin Wool Knit",
+          "size": null,
+          "code": "513ME02AT371_C888",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513ME02AT371C888_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-51E0002A1006C888",
+      "name": "CD Icon Striped Scarf",
+      "description": "Anthracite Gray Wool",
+      "price": "14000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51E0002A1006C888_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/51E0002A1006_C888",
+      "variants": [
+        {
+          "color": "Anthracite Gray Wool",
+          "size": null,
+          "code": "51E0002A1006_C888",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51E0002A1006C888_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-44E0001A0981C588",
+      "name": "Striped Cannage Scarf",
+      "description": "Navy Blue, Gray and White Wool",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44E0001A0981C588_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/44E0001A0981_C588",
+      "variants": [
+        {
+          "color": "Navy Blue, Gray and White Wool",
+          "size": null,
+          "code": "44E0001A0981_C588",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44E0001A0981C588_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and White Wool",
+          "size": null,
+          "code": "44E0001A1018_C180",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44E0001A1018C180_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-31E0015A0814C820",
+      "name": "Cannage Scarf",
+      "description": "Gray Cashmere",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31E0015A0814C820_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/31E0015A0814_C820",
+      "variants": [
+        {
+          "color": "Gray Cashmere",
+          "size": null,
+          "code": "31E0015A0814_C820",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31E0015A0814C820_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cashmere",
+          "size": null,
+          "code": "31E0015A0814_C900",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31E0015A0814C900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-18E0005A0479C988",
+      "name": "Dior Oblique Scarf",
+      "description": "Black and Gray Wool",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/18E0005A0479C988_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/18E0005A0479_C988",
+      "variants": [
+        {
+          "color": "Black and Gray Wool",
+          "size": null,
+          "code": "18E0005A0479_C988",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/18E0005A0479C988_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray and White Wool",
+          "size": null,
+          "code": "18E0005A0479_C889",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/18E0005A0479C889_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-51E0007A1015C386",
+      "name": "DIOR AND KAWS Scarf",
+      "description": "Vermilion Red and White Wool",
+      "price": "18500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51E0007A1015C386_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/51E0007A1015_C386",
+      "variants": [
+        {
+          "color": "Vermilion Red and White Wool",
+          "size": null,
+          "code": "51E0007A1015_C386",
+          "price": "18500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51E0007A1015C386_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-49E0005A0982C881",
+      "name": "Dior Oblique Double-Sided Scarf",
+      "description": "Gray and Brown Wool and Cashmere",
+      "price": "22000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/49E0005A0982C881_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/49E0005A0982_C881",
+      "variants": [
+        {
+          "color": "Gray and Brown Wool and Cashmere",
+          "size": null,
+          "code": "49E0005A0982_C881",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/49E0005A0982C881_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray and Black Cashmere and Wool",
+          "size": null,
+          "code": "19E0001A0537_C889",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/19E0001A0537C889_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue and Navy Blue Cashmere and Wool",
+          "size": null,
+          "code": "19E0001A0537_C585",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/19E0001A0537C585_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Cashmere and Wool",
+          "size": null,
+          "code": "19E0001A0537_C171",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/19E0001A0537C171_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue and Gray Wool and Cashmere",
+          "size": null,
+          "code": "49E0005A0982_C588",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/49E0005A0982C588_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

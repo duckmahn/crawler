@@ -1,0 +1,23 @@
+{
+  "id": "6WOnMXDr0xVdoOQ",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/15jou090i602_c545",
+  "order_no": "1741950049201.368000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/15JOU090I602_C545",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/15jou090i602_c545",
+    "id": "6WOnMXDr0xVdoOQ"
+  }
+}

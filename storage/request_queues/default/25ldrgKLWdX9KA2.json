@@ -1,0 +1,23 @@
+{
+  "id": "25ldrgKLWdX9KA2",
+  "unique_key": "https://www.dior.com/en_vn/fashion/baby/boys/beachwear",
+  "order_no": "1741950027783.708000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/baby/boys/beachwear",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/baby/boys/beachwear",
+    "id": "25ldrgKLWdX9KA2"
+  }
+}

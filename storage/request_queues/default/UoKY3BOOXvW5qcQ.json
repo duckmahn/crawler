@@ -1,0 +1,23 @@
+{
+  "id": "UoKY3BOOXvW5qcQ",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/s3103unjb_m059",
+  "order_no": "1741950033051.953000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/S3103UNJB_M059",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/s3103unjb_m059",
+    "id": "UoKY3BOOXvW5qcQ"
+  }
+}

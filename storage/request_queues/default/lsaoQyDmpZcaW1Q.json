@@ -1,0 +1,23 @@
+{
+  "id": "lsaoQyDmpZcaW1Q",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/5sbk23pana_y538",
+  "order_no": "1741950031105.452000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/5SBK23PANA_Y538",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/5sbk23pana_y538",
+    "id": "lsaoQyDmpZcaW1Q"
+  }
+}

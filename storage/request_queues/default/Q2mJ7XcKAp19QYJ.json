@@ -1,0 +1,23 @@
+{
+  "id": "Q2mJ7XcKAp19QYJ",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/kcq893lab_s900",
+  "order_no": "1741950055475.379000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/KCQ893LAB_S900",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/kcq893lab_s900",
+    "id": "Q2mJ7XcKAp19QYJ"
+  }
+}

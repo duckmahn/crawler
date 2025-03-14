@@ -1,0 +1,616 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-2HTCA544YKYH03E",
+      "name": "Mini Dior Hit the Road Vertical Messenger Bag with Flap",
+      "description": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+      "price": "50000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2HTCA544YKYH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2HTCA544YKY_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2HTCA544YKY_H03E",
+          "price": "50000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2HTCA544YKYH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "2HTCA544YKY_H27E",
+          "price": "50000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2HTCA544YKYH27E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2OBBH027YSEH03E",
+      "name": "Wallet",
+      "description": "Black Dior Oblique Jacquard",
+      "price": "14000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2OBBH027YSEH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2OBBH027YSE_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2OBBH027YSE_H03E",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2OBBH027YSEH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH138YSEH03E",
+      "name": "Vertical Bifold Card Holder",
+      "description": "Black Dior Oblique Jacquard",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138YSEH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH138YSE_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESCH138YSE_H03E",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138YSEH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADBH076YKSH03E",
+      "name": "Saddle Bifold Wallet",
+      "description": "Black Grained Calfskin Marquetry and Black Dior Oblique Jacquard",
+      "price": "16000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBH076YKSH03E_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADBH076YKS_H03E",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin Marquetry and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADBH076YKS_H03E",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBH076YKSH03E_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBH027FLGH00N",
+      "name": "Bifold Wallet",
+      "description": "Black Dior Gravity Leather",
+      "price": "15500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBH027FLGH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBH027FLG_H00N",
+      "variants": [
+        {
+          "color": "Black Dior Gravity Leather",
+          "size": null,
+          "code": "2ESBH027FLG_H00N",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBH027FLGH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCA435YKSH27E",
+      "name": "Mini Saddle Messenger Bag with Flap",
+      "description": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+      "price": "54000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA435YKSH27E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCA435YKS_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCA435YKS_H27E",
+          "price": "54000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA435YKSH27E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCA435YKS_H03E",
+          "price": "54000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA435YKSH03E_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Dior Oblique Jacquard and Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ADCA435YKS_H53E",
+          "price": "54000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA435YKSH53E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCA435YKK_H00N",
+          "price": "54000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA435YKKH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESWS011YKYH03E",
+      "name": "Mini Safari Bag with Strap",
+      "description": "Black Dior Oblique Jacquard",
+      "price": "46000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS011YKYH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESWS011YKY_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESWS011YKY_H03E",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS011YKYH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESWS011YKY_H27E",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS011YKYH27E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESKH446KESH511",
+      "name": "DIOR AND HYLTON NEL Dior Yoyo Zipped Pouch",
+      "description": "White Grained Calfskin with Blue Print",
+      "price": "29000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESKH446KESH511_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESKH446KES_H511",
+      "variants": [
+        {
+          "color": "White Grained Calfskin with Blue Print",
+          "size": null,
+          "code": "2ESKH446KES_H511",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESKH446KESH511_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESKH502FEEH000",
+      "name": "DIOR AND HYLTON NEL Key Ring",
+      "description": "White Grained Calfskin with Blue Print",
+      "price": "9900000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESKH502FEEH000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESKH502FEE_H000",
+      "variants": [
+        {
+          "color": "White Grained Calfskin with Blue Print",
+          "size": null,
+          "code": "2ESKH502FEE_H000",
+          "price": "9900000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESKH502FEEH000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH138KESH511",
+      "name": "DIOR AND HYLTON NEL Vertical Bifold Card Holder",
+      "description": "White Grained Calfskin with Blue Print",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138KESH511_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH138KES_H511",
+      "variants": [
+        {
+          "color": "White Grained Calfskin with Blue Print",
+          "size": null,
+          "code": "2ESCH138KES_H511",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138KESH511_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Grained Calfskin with White Print",
+          "size": null,
+          "code": "2ESCH138FRY_H524",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138FRYH524_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH135KESH511",
+      "name": "DIOR AND HYLTON NEL Card Holder",
+      "description": "White Grained Calfskin with Blue Print",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135KESH511_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH135KES_H511",
+      "variants": [
+        {
+          "color": "White Grained Calfskin with Blue Print",
+          "size": null,
+          "code": "2ESCH135KES_H511",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135KESH511_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Grained Calfskin with White Print",
+          "size": null,
+          "code": "2ESCH135FRY_H524",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135FRYH524_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBH027FRYH524",
+      "name": "DIOR AND HYLTON NEL Bifold Wallet",
+      "description": "Navy Blue Grained Calfskin with White Print",
+      "price": "15000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBH027FRYH524_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBH027FRY_H524",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin with White Print",
+          "size": null,
+          "code": "2ESBH027FRY_H524",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBH027FRYH524_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Grained Calfskin with White Print",
+          "size": null,
+          "code": "2ESBC027FRY_H524",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC027FRYH524_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2LLBC333KENH00N",
+      "name": "Dior Normandie Vertical Bifold Wallet",
+      "description": "Black Dior Icons Calfskin",
+      "price": "37000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2LLBC333KENH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2LLBC333KEN_H00N",
+      "variants": [
+        {
+          "color": "Black Dior Icons Calfskin",
+          "size": null,
+          "code": "2LLBC333KEN_H00N",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2LLBC333KENH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Dior Icons Calfskin",
+          "size": null,
+          "code": "2LLBC333KEN_H174",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2LLBC333KENH174_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCA543YKSH27E",
+      "name": "Mini Saddle Bag",
+      "description": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+      "price": "59000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA543YKSH27E_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCA543YKS_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCA543YKS_H27E",
+          "price": "59000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA543YKSH27E_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCA543YKS_H03E",
+          "price": "59000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA543YKSH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Icons Calfskin",
+          "size": null,
+          "code": "2ADCA543KEN_H00N",
+          "price": "68000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCA543KENH00N_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESWS034OYYH06E",
+      "name": "DIOR AND KAWS Mini Rider 2.0 Zipped Messenger Bag",
+      "description": "Navy Blue Grained Calfskin",
+      "price": "53000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034OYYH06E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESWS034OYY_H06E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESWS034OYY_H06E",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034OYYH06E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESWS034OYY_H958",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034OYYH958_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Vermilion Red Grained Calfskin",
+          "size": null,
+          "code": "2ESWS034OYY_H23E",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034OYYH23E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH138OYYH958",
+      "name": "DIOR AND KAWS Vertical Bifold Card Holder",
+      "description": "Black Grained Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138OYYH958_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH138OYY_H958",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESCH138OYY_H958",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138OYYH958_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH135OYYH23E",
+      "name": "DIOR AND KAWS Card Holder",
+      "description": "Vermilion Red Grained Calfskin",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135OYYH23E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH135OYY_H23E",
+      "variants": [
+        {
+          "color": "Vermilion Red Grained Calfskin",
+          "size": null,
+          "code": "2ESCH135OYY_H23E",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135OYYH23E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESCH135OYY_H06E",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135OYYH06E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBH027OYYH958",
+      "name": "DIOR AND KAWS Bifold Wallet",
+      "description": "Black Grained Calfskin",
+      "price": "14000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBH027OYYH958_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBH027OYY_H958",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESBH027OYY_H958",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBH027OYYH958_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCH168OYYH958",
+      "name": "DIOR AND KAWS Saddle Magnetic Card Holder",
+      "description": "Black Grained Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH958_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCH168OYY_H958",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCH168OYY_H958",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH958_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Vermilion Red Grained Calfskin",
+          "size": null,
+          "code": "2ADCH168OYY_H23E",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH23E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ADCH168OYY_H06E",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH06E_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH135CDIH56E",
+      "name": "CD Icon Card Holder",
+      "description": "Navy Blue Grained Calfskin",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135CDIH56E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH135CDI_H56E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESCH135CDI_H56E",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135CDIH56E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH138CDIH56E",
+      "name": "CD Icon Vertical Bifold Card Holder",
+      "description": "Navy Blue Grained Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138CDIH56E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH138CDI_H56E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESCH138CDI_H56E",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138CDIH56E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC027CDIH56E",
+      "name": "CD Icon Bifold Wallet",
+      "description": "Navy Blue Grained Calfskin",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC027CDIH56E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC027CDI_H56E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESBC027CDI_H56E",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC027CDIH56E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESBH027CDI_H56E",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBH027CDIH56E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC252CDIH56E",
+      "name": "CD Icon Zipped Long Wallet",
+      "description": "Navy Blue Grained Calfskin",
+      "price": "22000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC252CDIH56E_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC252CDI_H56E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESBC252CDI_H56E",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC252CDIH56E_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-1EIPO312YKYH03E",
+      "name": "Mini Dior 8 Bag with Strap",
+      "description": "Black Dior Oblique Jacquard",
+      "price": "53000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1EIPO312YKYH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/1EIPO312YKY_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "1EIPO312YKY_H03E",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/1EIPO312YKYH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESWS034YKSH03E",
+      "name": "Mini Rider 2.0 Zipped Messenger Bag",
+      "description": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+      "price": "53000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034YKSH03E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESWS034YKS_H03E",
+      "variants": [
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ESWS034YKS_H03E",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESWS034YKSH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

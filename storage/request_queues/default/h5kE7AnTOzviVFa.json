@@ -1,0 +1,23 @@
+{
+  "id": "h5kE7AnTOzviVFa",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/b0178uwgb_m01e",
+  "order_no": "1741950057781.451000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/B0178UWGB_M01E",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/b0178uwgb_m01e",
+    "id": "h5kE7AnTOzviVFa"
+  }
+}

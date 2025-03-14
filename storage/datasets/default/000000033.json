@@ -1,0 +1,107 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-S8557CEEVM933",
+      "name": "Adjustable Shoulder Strap with Ring",
+      "description": "White Multicolor Toile de Jouy Papillon Embroidery",
+      "price": "36500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8557CEEVM933_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S8557CEEV_M933",
+      "variants": [
+        {
+          "color": "White Multicolor Toile de Jouy Papillon Embroidery",
+          "size": null,
+          "code": "S8557CEEV_M933",
+          "price": "36500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8557CEEVM933_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Christian Dior Paris Embroidery",
+          "size": null,
+          "code": "S8553CBTE_M911",
+          "price": "31500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8553CBTEM911_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Christian Dior Paris Embroidery",
+          "size": null,
+          "code": "S8553CBTE_M928",
+          "price": "31500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8553CBTEM928_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Christian Dior Paris Embroidery",
+          "size": null,
+          "code": "S8557CBTE_M911",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8557CBTEM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Christian Dior Paris Embroidery",
+          "size": null,
+          "code": "S8557CBTE_M928",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8557CBTEM928_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Yellow Multicolor Dior Chardons Embroidery",
+          "size": null,
+          "code": "S8557CEDD_M20E",
+          "price": "37500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8557CEDDM20E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ultramatte Black Christian Dior Paris Embroidery",
+          "size": null,
+          "code": "S8553SBTN_M941",
+          "price": "35000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8553SBTNM941_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ultramatte Black Christian Dior Paris Embroidery",
+          "size": null,
+          "code": "S8557SBTN_M941",
+          "price": "32500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8557SBTNM941_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Dior Oblique Embroidery",
+          "size": null,
+          "code": "S8558CTZQ_M928",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8558CTZQM928_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S8540CMPNM081",
+      "name": "Shoulder Strap with Ring",
+      "description": "Black and White '30 MONTAIGNE' Houndstooth Embroidery",
+      "price": "31500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8540CMPNM081_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S8540CMPN_M081",
+      "variants": [
+        {
+          "color": "Black and White '30 MONTAIGNE' Houndstooth Embroidery",
+          "size": null,
+          "code": "S8540CMPN_M081",
+          "price": "31500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S8540CMPNM081_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

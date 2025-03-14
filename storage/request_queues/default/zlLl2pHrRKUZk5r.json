@@ -1,0 +1,23 @@
+{
+  "id": "zlLl2pHrRKUZk5r",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/e1293tricy_d13s",
+  "order_no": "1741950051139.610000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/E1293TRICY_D13S",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/e1293tricy_d13s",
+    "id": "zlLl2pHrRKUZk5r"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "a0POv1JHc8zdpve",
+  "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/shoes/b44-blade",
+  "order_no": "1741950027743.189000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/mens-fashion/shoes/b44-blade",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/shoes/b44-blade",
+    "id": "a0POv1JHc8zdpve"
+  }
+}

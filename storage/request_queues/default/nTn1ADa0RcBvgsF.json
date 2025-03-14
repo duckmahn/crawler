@@ -1,0 +1,23 @@
+{
+  "id": "nTn1ADa0RcBvgsF",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/kdi929cmv_s17x",
+  "order_no": "1741950054055.955000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/KDI929CMV_S17X",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/kdi929cmv_s17x",
+    "id": "nTn1ADa0RcBvgsF"
+  }
+}

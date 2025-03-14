@@ -1,0 +1,23 @@
+{
+  "id": "4BL0hbgwj6U65pv",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/cph0108xaie_c920",
+  "order_no": "1741950033059.943000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/CPH0108XAIE_C920",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/cph0108xaie_c920",
+    "id": "4BL0hbgwj6U65pv"
+  }
+}

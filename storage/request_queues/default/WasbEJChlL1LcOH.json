@@ -1,0 +1,24 @@
+{
+  "id": "WasbEJChlL1LcOH",
+  "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/tailored-jackets",
+  "order_no": null,
+  "handled_at": "2025-03-14 11:00:58.944705+00:00",
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/tailored-jackets",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/tailored-jackets",
+    "handled_at": "2025-03-14 11:00:58.944705+00:00",
+    "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/tailored-jackets",
+    "id": "WasbEJChlL1LcOH"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "iPlQKf2ASLPjHji",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/s8557cbte_m911",
+  "order_no": "1741950044570.776000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/S8557CBTE_M911",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/s8557cbte_m911",
+    "id": "iPlQKf2ASLPjHji"
+  }
+}

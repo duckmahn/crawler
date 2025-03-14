@@ -1,0 +1,23 @@
+{
+  "id": "RA1Qs6Et0caREAi",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/524v53a7541_x4810",
+  "order_no": "1741950035561.554000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/524V53A7541_X4810",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/524v53a7541_x4810",
+    "id": "RA1Qs6Et0caREAi"
+  }
+}

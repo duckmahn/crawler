@@ -1,0 +1,24 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-14SOC503A203C585",
+      "name": "Dior Sporty Socks",
+      "description": "White and Navy Blue Cotton Mesh",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/14SOC503A203C585_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/14SOC503A203_C585",
+      "variants": [
+        {
+          "color": "White and Navy Blue Cotton Mesh",
+          "size": null,
+          "code": "14SOC503A203_C585",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/14SOC503A203C585_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

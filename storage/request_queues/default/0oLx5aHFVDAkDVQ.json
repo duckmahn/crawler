@@ -1,0 +1,23 @@
+{
+  "id": "0oLx5aHFVDAkDVQ",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/513d590a297x_c084",
+  "order_no": "1741950057131.780000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/513D590A297X_C084",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/513d590a297x_c084",
+    "id": "0oLx5aHFVDAkDVQ"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "IISE7PBE6eHW5FO",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/521j27a1690_x9331",
+  "order_no": "1741950039676.455000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/521J27A1690_X9331",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/521j27a1690_x9331",
+    "id": "IISE7PBE6eHW5FO"
+  }
+}

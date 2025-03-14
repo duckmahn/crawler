@@ -1,0 +1,23 @@
+{
+  "id": "H5NvKRDY3ghaAtS",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/34jou300i002_c810",
+  "order_no": "1741950049205.184000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/34JOU300I002_C810",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/34jou300i002_c810",
+    "id": "H5NvKRDY3ghaAtS"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Cq6s8KhU2WpERwS",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/2adch168flg_h830",
+  "order_no": "1741950062429.139000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/2ADCH168FLG_H830",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/2adch168flg_h830",
+    "id": "Cq6s8KhU2WpERwS"
+  }
+}

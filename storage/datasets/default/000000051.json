@@ -1,0 +1,636 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-CPB6084EDOCC511",
+      "name": "D-Bobby Dior Oblique Small Brim Bucket Hat",
+      "description": "Chambray Blue Jacquard and Ecru Raffia",
+      "price": "26500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6084EDOCC511_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPB6084EDOC_C511",
+      "variants": [
+        {
+          "color": "Chambray Blue Jacquard and Ecru Raffia",
+          "size": null,
+          "code": "CPB6084EDOC_C511",
+          "price": "26500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6084EDOCC511_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-11DOB923I132C810",
+      "name": "Dior Oblique Small Brim Bucket Hat",
+      "description": "White and Gray Embroidery",
+      "price": "33500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/11DOB923I132C810_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/11DOB923I132_C810",
+      "variants": [
+        {
+          "color": "White and Gray Embroidery",
+          "size": null,
+          "code": "11DOB923I132_C810",
+          "price": "33500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/11DOB923I132C810_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPB6044EAMDCO90",
+      "name": "Dior Or Teddy-D Miss Dior Allover Small-Brim Bucket Hat",
+      "description": "White Cotton Denim and Gold-Tone Metallic Thread",
+      "price": "24500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6044EAMDCO90_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPB6044EAMD_CO90",
+      "variants": [
+        {
+          "color": "White Cotton Denim and Gold-Tone Metallic Thread",
+          "size": null,
+          "code": "CPB6044EAMD_CO90",
+          "price": "24500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6044EAMDCO90_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPB9074ESTBC921",
+      "name": "D-Bobby Large Brim Hat",
+      "description": "Straw with Black and White Embroidered Band",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB9074ESTBC921_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPB9074ESTB_C921",
+      "variants": [
+        {
+          "color": "Straw with Black and White Embroidered Band",
+          "size": null,
+          "code": "CPB9074ESTB_C921",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB9074ESTBC921_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Straw with Beige and Black Embroidered Band",
+          "size": null,
+          "code": "34DBP924G153_C160",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34DBP924G153C160_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Straw with Blue and White Embroidered Band",
+          "size": null,
+          "code": "34DBP924G153_C086",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34DBP924G153C086_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPB9076ESPPC921",
+      "name": "D-Bobby Houndstooth Large Brim Hat",
+      "description": "Black and White Straw with White and Black Embroidered Band",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB9076ESPPC921_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPB9076ESPP_C921",
+      "variants": [
+        {
+          "color": "Black and White Straw with White and Black Embroidered Band",
+          "size": null,
+          "code": "CPB9076ESPP_C921",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB9076ESPPC921_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-95TDD923A130C563",
+      "name": "Reversible Teddy-D Small Brim Bucket Hat",
+      "description": "Blue Cotton Blend",
+      "price": "20500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/95TDD923A130C563_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/95TDD923A130_C563",
+      "variants": [
+        {
+          "color": "Blue Cotton Blend",
+          "size": null,
+          "code": "95TDD923A130_C563",
+          "price": "20500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/95TDD923A130C563_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Blend",
+          "size": null,
+          "code": "95TDD923A130_C900",
+          "price": "20500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/95TDD923A130C900_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Rose des Vents Cotton Blend",
+          "size": null,
+          "code": "95TDD923A130_C410",
+          "price": "20500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/95TDD923A130C410_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPC0093EDENC540",
+      "name": "D-Player Cap",
+      "description": "Deep Blue Cotton Denim",
+      "price": "22000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPC0093EDENC540_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPC0093EDEN_C540",
+      "variants": [
+        {
+          "color": "Deep Blue Cotton Denim",
+          "size": null,
+          "code": "CPC0093EDEN_C540",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPC0093EDENC540_E03-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Technical Moiré",
+          "size": null,
+          "code": "CPC0092ETMO_C900",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPC0092ETMOC900_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Corduroy",
+          "size": null,
+          "code": "45DPV918E141_C900",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DPV918E141C900_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPB6079EDCSC900",
+      "name": "D-Bobby Cannage Small Brim Bucket Hat",
+      "description": "Black Embroidered Cotton and Silver-Tone Strass",
+      "price": "28500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6079EDCSC900_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPB6079EDCS_C900",
+      "variants": [
+        {
+          "color": "Black Embroidered Cotton and Silver-Tone Strass",
+          "size": null,
+          "code": "CPB6079EDCS_C900",
+          "price": "28500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6079EDCSC900_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPC0090EDGTC900",
+      "name": "Dior Soul Dior Graphique Asymmetric Cap",
+      "description": "Black Technical Moiré",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPC0090EDGTC900_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPC0090EDGT_C900",
+      "variants": [
+        {
+          "color": "Black Technical Moiré",
+          "size": null,
+          "code": "CPC0090EDGT_C900",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPC0090EDGTC900_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-25GLO754G501C540",
+      "name": "Saddle Gloves",
+      "description": "Navy Blue Smooth Lambskin",
+      "price": "25970000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25GLO754G501C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/25GLO754G501_C540",
+      "variants": [
+        {
+          "color": "Navy Blue Smooth Lambskin",
+          "size": null,
+          "code": "25GLO754G501_C540",
+          "price": "25970000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25GLO754G501C540_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-95TDD924G130C900",
+      "name": "Teddy-D Large Brim Bucket Hat with Veil",
+      "description": "Black Cotton Blend",
+      "price": "23000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/95TDD924G130C900_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/95TDD924G130_C900",
+      "variants": [
+        {
+          "color": "Black Cotton Blend",
+          "size": null,
+          "code": "95TDD924G130_C900",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/95TDD924G130C900_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-25DOB701I099C540",
+      "name": "Dior Oblique Pompom Beanie",
+      "description": "Navy Blue Cashmere",
+      "price": "18000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB701I099C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/25DOB701I099_C540",
+      "variants": [
+        {
+          "color": "Navy Blue Cashmere",
+          "size": null,
+          "code": "25DOB701I099_C540",
+          "price": "18000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB701I099C540_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPV0099XTJPC515",
+      "name": "D-Smash Toile de Jouy Papillon Visor",
+      "description": "White and Navy Blue Embroidery",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPV0099XTJPC515_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPV0099XTJP_C515",
+      "variants": [
+        {
+          "color": "White and Navy Blue Embroidery",
+          "size": null,
+          "code": "CPV0099XTJP_C515",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPV0099XTJPC515_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "White Multicolor Embroidery",
+          "size": null,
+          "code": "CPV0099XTJP_C975",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPV0099XTJPC975_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPB6062XBCDC070",
+      "name": "D-Bobby Christian Dior 1947 Small-Brim Bucket Hat",
+      "description": "White Multicolor Embroidery",
+      "price": "26500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6062XBCDC070_E03-3",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPB6062XBCD_C070",
+      "variants": [
+        {
+          "color": "White Multicolor Embroidery",
+          "size": null,
+          "code": "CPB6062XBCD_C070",
+          "price": "26500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6062XBCDC070_E03-3",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPB6061ATMFCO90",
+      "name": "D-Bobby Millefiori Small-Brim Bucket Hat",
+      "description": "White Cotton Blend and Gold-Tone Metallic Thread",
+      "price": "26500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6061ATMFCO90_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPB6061ATMF_CO90",
+      "variants": [
+        {
+          "color": "White Cotton Blend and Gold-Tone Metallic Thread",
+          "size": null,
+          "code": "CPB6061ATMF_CO90",
+          "price": "26500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6061ATMFCO90_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPB6022XDBCC500",
+      "name": "D-Bobby Dior Chardons Small-Brim Bucket Hat",
+      "description": "Blue and White Embroidery",
+      "price": "26500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6022XDBCC500_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPB6022XDBC_C500",
+      "variants": [
+        {
+          "color": "Blue and White Embroidery",
+          "size": null,
+          "code": "CPB6022XDBC_C500",
+          "price": "26500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6022XDBCC500_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPB6021XDBSC530",
+      "name": "D-Bobby Toile de Jouy Scotland Small-Brim Bucket Hat",
+      "description": "White and Blue Embroidery",
+      "price": "26500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6021XDBSC530_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPB6021XDBS_C530",
+      "variants": [
+        {
+          "color": "White and Blue Embroidery",
+          "size": null,
+          "code": "CPB6021XDBS_C530",
+          "price": "26500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6021XDBSC530_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-41DTF920G103C900",
+      "name": "Dior Travel Cap",
+      "description": "Black Wool Felt",
+      "price": "23500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/41DTF920G103C900_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/41DTF920G103_C900",
+      "variants": [
+        {
+          "color": "Black Wool Felt",
+          "size": null,
+          "code": "41DTF920G103_C900",
+          "price": "23500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/41DTF920G103C900_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPB9019GDBFC110",
+      "name": "D-Bobby Large-Brim Hat",
+      "description": "Beige Rabbit Felt",
+      "price": "31000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB9019GDBFC110_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPB9019GDBF_C110",
+      "variants": [
+        {
+          "color": "Beige Rabbit Felt",
+          "size": null,
+          "code": "CPB9019GDBF_C110",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB9019GDBFC110_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Rabbit Felt",
+          "size": null,
+          "code": "CPB9019GDBF_C900",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB9019GDBFC900_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPT9015IDTCC880",
+      "name": "D-Tulipe Check'n'Dior Large-Brim Reversible Cloche",
+      "description": "Black and Gray Virgin Wool",
+      "price": "24500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPT9015IDTCC880_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPT9015IDTC_C880",
+      "variants": [
+        {
+          "color": "Black and Gray Virgin Wool",
+          "size": null,
+          "code": "CPT9015IDTC_C880",
+          "price": "24500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPT9015IDTCC880_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPF0028IDTCC920",
+      "name": "Dior Travel Cannage Cap",
+      "description": "Black and White Tweed",
+      "price": "27500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPF0028IDTCC920_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPF0028IDTC_C920",
+      "variants": [
+        {
+          "color": "Black and White Tweed",
+          "size": null,
+          "code": "CPF0028IDTC_C920",
+          "price": "27500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPF0028IDTCC920_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-41DIO985A130C900",
+      "name": "D-Tulipe Small Brim Cloche",
+      "description": "Black Rabbit Felt",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/41DIO985A130C900_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/41DIO985A130_C900",
+      "variants": [
+        {
+          "color": "Black Rabbit Felt",
+          "size": null,
+          "code": "41DIO985A130_C900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/41DIO985A130C900_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-44DTK985A134C086",
+      "name": "Dioriviera D-Tulipe Small Brim Cloche",
+      "description": "Navy Blue and White Cotton-Blend Knit",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44DTK985A134C086_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/44DTK985A134_C086",
+      "variants": [
+        {
+          "color": "Navy Blue and White Cotton-Blend Knit",
+          "size": null,
+          "code": "44DTK985A134_C086",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44DTK985A134C086_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-31CDE985I131C580",
+      "name": "D-Tulipe Cloche",
+      "description": "Blue and White Cotton Knit Blend",
+      "price": "20500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31CDE985I131C580_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/31CDE985I131_C580",
+      "variants": [
+        {
+          "color": "Blue and White Cotton Knit Blend",
+          "size": null,
+          "code": "31CDE985I131_C580",
+          "price": "20500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31CDE985I131C580_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-34DBP923G153C410",
+      "name": "D-Bobby Small Brim Hat",
+      "description": "Straw with Rose des Vents and White Embroidered Band",
+      "price": "21500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34DBP923G153C410_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/34DBP923G153_C410",
+      "variants": [
+        {
+          "color": "Straw with Rose des Vents and White Embroidered Band",
+          "size": null,
+          "code": "34DBP923G153_C410",
+          "price": "21500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34DBP923G153C410_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Straw with Navy Blue and Ecru Embroidered Band",
+          "size": null,
+          "code": "34DBP923G153_C086",
+          "price": "21500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34DBP923G153C086_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-44VMT979A153C086",
+      "name": "Dioriviera D-Ocean Visor with Mitzah",
+      "description": "Straw with Navy Blue and White Embroidered Band",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44VMT979A153C086_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/44VMT979A153_C086",
+      "variants": [
+        {
+          "color": "Straw with Navy Blue and White Embroidered Band",
+          "size": null,
+          "code": "44VMT979A153_C086",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44VMT979A153C086_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-34VMT978A153C086",
+      "name": "D-Ocean Visor with Mitzah",
+      "description": "Straw with Blue and White Embroidered Band",
+      "price": "23000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34VMT978A153C086_E04",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/34VMT978A153_C086",
+      "variants": [
+        {
+          "color": "Straw with Blue and White Embroidered Band",
+          "size": null,
+          "code": "34VMT978A153_C086",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34VMT978A153C086_E04",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-25TJV200I154C543",
+      "name": "Walk'n'Dior Umbrella",
+      "description": "Ivory and Navy Blue Toile de Jouy Jacquard",
+      "price": "41500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25TJV200I154C543_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/25TJV200I154_C543",
+      "variants": [
+        {
+          "color": "Ivory and Navy Blue Toile de Jouy Jacquard",
+          "size": null,
+          "code": "25TJV200I154_C543",
+          "price": "41500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25TJV200I154C543_E03",
+          "additionalImages": []
+        },
+        {
+          "color": "Ecru and Navy Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "25DOB200I154_C540",
+          "price": "41500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB200I154C540_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-52GLO752G502C900",
+      "name": "Dior Tribales Long Gloves",
+      "description": "Black Stretch Lambskin",
+      "price": "44500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52GLO752G502C900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52GLO752G502_C900",
+      "variants": [
+        {
+          "color": "Black Stretch Lambskin",
+          "size": null,
+          "code": "52GLO752G502_C900",
+          "price": "44500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52GLO752G502C900_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

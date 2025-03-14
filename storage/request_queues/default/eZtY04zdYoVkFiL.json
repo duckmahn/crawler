@@ -1,0 +1,23 @@
+{
+  "id": "eZtY04zdYoVkFiL",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/3de343zfv_h900",
+  "order_no": "1741950060050.301000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/3DE343ZFV_H900",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/3de343zfv_h900",
+    "id": "eZtY04zdYoVkFiL"
+  }
+}

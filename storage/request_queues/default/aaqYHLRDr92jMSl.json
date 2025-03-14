@@ -1,0 +1,23 @@
+{
+  "id": "aaqYHLRDr92jMSl",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/41dtf920g103_c900",
+  "order_no": "1741950050289.409000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/41DTF920G103_C900",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/41dtf920g103_c900",
+    "id": "aaqYHLRDr92jMSl"
+  }
+}

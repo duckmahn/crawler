@@ -1,0 +1,23 @@
+{
+  "id": "k0nEw57tiH2TFY9",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/e3886womcy_d39s",
+  "order_no": "1741950051121.177000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/E3886WOMCY_D39S",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/e3886womcy_d39s",
+    "id": "k0nEw57tiH2TFY9"
+  }
+}

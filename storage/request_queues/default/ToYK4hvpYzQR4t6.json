@@ -1,0 +1,23 @@
+{
+  "id": "ToYK4hvpYzQR4t6",
+  "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/summer-collection-shop-by-look",
+  "order_no": "1741950059354.327000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/mens-fashion/summer-collection-shop-by-look",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/summer-collection-shop-by-look",
+    "id": "ToYK4hvpYzQR4t6"
+  }
+}

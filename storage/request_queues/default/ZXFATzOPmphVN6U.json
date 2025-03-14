@@ -1,0 +1,23 @@
+{
+  "id": "ZXFATzOPmphVN6U",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/2esca491yse_h05e",
+  "order_no": "1741950064572.066000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/2ESCA491YSE_H05E",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/2esca491yse_h05e",
+    "id": "ZXFATzOPmphVN6U"
+  }
+}

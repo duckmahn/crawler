@@ -1,0 +1,23 @@
+{
+  "id": "gNbqARK5iJ2JiQF",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/m0538ogbe_m030",
+  "order_no": "1741950045754.744000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/M0538OGBE_M030",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/m0538ogbe_m030",
+    "id": "gNbqARK5iJ2JiQF"
+  }
+}

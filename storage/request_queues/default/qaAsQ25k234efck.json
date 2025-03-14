@@ -1,0 +1,23 @@
+{
+  "id": "qaAsQ25k234efck",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/7abm53kdoa_y39h",
+  "order_no": "1741950032251.184000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/7ABM53KDOA_Y39H",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/7abm53kdoa_y39h",
+    "id": "qaAsQ25k234efck"
+  }
+}

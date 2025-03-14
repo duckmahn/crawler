@@ -1,0 +1,23 @@
+{
+  "id": "TN3SoQKdjtkLD3H",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/b0446jwga_m911",
+  "order_no": "1741950050244.874000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/B0446JWGA_M911",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/b0446jwga_m911",
+    "id": "TN3SoQKdjtkLD3H"
+  }
+}

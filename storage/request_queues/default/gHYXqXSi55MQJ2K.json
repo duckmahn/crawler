@@ -1,0 +1,23 @@
+{
+  "id": "gHYXqXSi55MQJ2K",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/kco016lab_s30p",
+  "order_no": "1741950055461.965000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/KCO016LAB_S30P",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/kco016lab_s30p",
+    "id": "gHYXqXSi55MQJ2K"
+  }
+}

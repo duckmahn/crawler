@@ -1,0 +1,23 @@
+{
+  "id": "SNSMetfPi49cocP",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/n3251womrs_d301",
+  "order_no": "1741950033044.089000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/N3251WOMRS_D301",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/n3251womrs_d301",
+    "id": "SNSMetfPi49cocP"
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-524S13A7025X0883",
+      "name": "Dior Marinière Sweater",
+      "description": "White and Navy Blue Ribbed Cotton Knit",
+      "price": "71000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S13A7025X0883_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524S13A7025_X0883",
+      "variants": [
+        {
+          "color": "White and Navy Blue Ribbed Cotton Knit",
+          "size": null,
+          "code": "524S13A7025_X0883",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S13A7025X0883_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White and Navy Blue Ribbed Cotton Knit",
+          "size": null,
+          "code": "524S31A7025_X0883",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S31A7025X0883_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-522P91A3046X5408",
+      "name": "Flared Jeans",
+      "description": "Blue Stonewashed Cotton Denim",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P91A3046X5408_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522P91A3046_X5408",
+      "variants": [
+        {
+          "color": "Blue Stonewashed Cotton Denim",
+          "size": null,
+          "code": "522P91A3046_X5408",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P91A3046X5408_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ecru Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "522P04A3050_X0200",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P04A3050X0200_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray Stonewashed Cotton Denim",
+          "size": null,
+          "code": "522P91A3052_X8247",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P91A3052X8247_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Peach Blossom Pink Stonewashed Cotton Denim",
+          "size": null,
+          "code": "522P91A3052_X1225",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P91A3052X1225_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524R28A7019X0883",
+      "name": "Short Dress",
+      "description": "Navy Blue and White Cotton Knit with Dior Graphique Motif",
+      "price": "71000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524R28A7019X0883_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524R28A7019_X0883",
+      "variants": [
+        {
+          "color": "Navy Blue and White Cotton Knit with Dior Graphique Motif",
+          "size": null,
+          "code": "524R28A7019_X0883",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524R28A7019X0883_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and White Wool and Silk with Dior Graphique Motif",
+          "size": null,
+          "code": "521R83A1691_X9330",
+          "price": "87000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R83A1691X9330_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524G03A7026X0883",
+      "name": "Dior Marinière Cardigan",
+      "description": "White and Navy Blue Cotton and Silk Knit",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524G03A7026X0883_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524G03A7026_X0883",
+      "variants": [
+        {
+          "color": "White and Navy Blue Cotton and Silk Knit",
+          "size": null,
+          "code": "524G03A7026_X0883",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524G03A7026X0883_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524S24A7026X0883",
+      "name": "Dior Marinière Short-Sleeved Sweater",
+      "description": "White and Navy Blue Cotton and Silk Knit",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S24A7026X0883_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524S24A7026_X0883",
+      "variants": [
+        {
+          "color": "White and Navy Blue Cotton and Silk Knit",
+          "size": null,
+          "code": "524S24A7026_X0883",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S24A7026X0883_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524V23A5088X0200",
+      "name": "Cropped Jacket",
+      "description": "Ecru Compact Technical Knit with Black Dior Graphique Motif",
+      "price": "91000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524V23A5088X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524V23A5088_X0200",
+      "variants": [
+        {
+          "color": "Ecru Compact Technical Knit with Black Dior Graphique Motif",
+          "size": null,
+          "code": "524V23A5088_X0200",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524V23A5088X0200_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Peach Blossom Pink Virgin Wool- and Cotton-Blend Bouclé",
+          "size": null,
+          "code": "521V84A1761_X4230",
+          "price": "84000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521V84A1761X4230_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Plum Virgin Wool- and Cotton-Blend Bouclé",
+          "size": null,
+          "code": "421V58A1761_X3780",
+          "price": "100000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/421V58A1761X3780_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-527P15A2205X9330",
+      "name": "Skort",
+      "description": "Black Technical Jacquard Taffeta with White Dior Graphique Motif",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/527P15A2205X9330_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/527P15A2205_X9330",
+      "variants": [
+        {
+          "color": "Black Technical Jacquard Taffeta with White Dior Graphique Motif",
+          "size": null,
+          "code": "527P15A2205_X9330",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/527P15A2205X9330_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Technical Jacquard Taffeta with Dior Oblique Motif",
+          "size": null,
+          "code": "357P15A2970_X1827",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/357P15A2970X1827_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-521B67A3356X9000",
+      "name": "Blouse",
+      "description": "Black Cotton Poplin",
+      "price": "58000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B67A3356X9000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/521B67A3356_X9000",
+      "variants": [
+        {
+          "color": "Black Cotton Poplin",
+          "size": null,
+          "code": "521B67A3356_X9000",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B67A3356X9000_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "521B67A3356_X0100",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B67A3356X0100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-521V54A1758X0200",
+      "name": "Oversized Blazer",
+      "description": "Ecru Virgin Wool and Silk Grain de Poudre",
+      "price": "120000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521V54A1758X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/521V54A1758_X0200",
+      "variants": [
+        {
+          "color": "Ecru Virgin Wool and Silk Grain de Poudre",
+          "size": null,
+          "code": "521V54A1758_X0200",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521V54A1758X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524P06S5088X0200",
+      "name": "Flared Pants",
+      "description": "Ecru Compact Technical Knit with Black Dior Graphique Motif",
+      "price": "94000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524P06S5088X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524P06S5088_X0200",
+      "variants": [
+        {
+          "color": "Ecru Compact Technical Knit with Black Dior Graphique Motif",
+          "size": null,
+          "code": "524P06S5088_X0200",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524P06S5088X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-523T07A4289X0200",
+      "name": "T-Shirt",
+      "description": "Ecru Cotton Jersey with Black Dior Graphique Motif",
+      "price": "36000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T07A4289X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/523T07A4289_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cotton Jersey with Black Dior Graphique Motif",
+          "size": null,
+          "code": "523T07A4289_X0200",
+          "price": "36000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T07A4289X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524T42A6002X0200",
+      "name": "Tank Top",
+      "description": "Ecru Silk Knit",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524T42A6002X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524T42A6002_X0200",
+      "variants": [
+        {
+          "color": "Ecru Silk Knit",
+          "size": null,
+          "code": "524T42A6002_X0200",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524T42A6002X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-054G12AM055X1871",
+      "name": "Reversible Zipped Cardigan with Hood",
+      "description": "Beige Cashmere-Blend Knit with Dior Oblique Motif",
+      "price": "100000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/054G12AM055X1871_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/054G12AM055_X1871",
+      "variants": [
+        {
+          "color": "Beige Cashmere-Blend Knit with Dior Oblique Motif",
+          "size": null,
+          "code": "054G12AM055_X1871",
+          "price": "100000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/054G12AM055X1871_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-344S98AM003X1650",
+      "name": "Short-Sleeved Sweater",
+      "description": "Beige Cashmere Knit",
+      "price": "46000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/344S98AM003X1650_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/344S98AM003_X1650",
+      "variants": [
+        {
+          "color": "Beige Cashmere Knit",
+          "size": null,
+          "code": "344S98AM003_X1650",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/344S98AM003X1650_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ecru Wool and Cashmere Knit",
+          "size": null,
+          "code": "154S09AM305_X5801",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/154S09AM305X5801_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cashmere Knit",
+          "size": null,
+          "code": "344S98AM003_X5051",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/344S98AM003X5051_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-527C71A2970X1827",
+      "name": "Cropped Hooded Jacket",
+      "description": "Beige Technical Jacquard Taffeta with Dior Oblique Motif",
+      "price": "110000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/527C71A2970X1827_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/527C71A2970_X1827",
+      "variants": [
+        {
+          "color": "Beige Technical Jacquard Taffeta with Dior Oblique Motif",
+          "size": null,
+          "code": "527C71A2970_X1827",
+          "price": "110000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/527C71A2970X1827_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-522V93A3050X0200",
+      "name": "Jacket with Cap Sleeves",
+      "description": "Ecru Cotton Denim with Dior Oblique Interior",
+      "price": "75000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522V93A3050X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522V93A3050_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "522V93A3050_X0200",
+          "price": "75000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522V93A3050X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-514G60A0550X1871",
+      "name": "Reversible Cardigan",
+      "description": "Beige Cashmere-Blend Knit with Dior Oblique Motif",
+      "price": "105000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514G60A0550X1871_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/514G60A0550_X1871",
+      "variants": [
+        {
+          "color": "Beige Cashmere-Blend Knit with Dior Oblique Motif",
+          "size": null,
+          "code": "514G60A0550_X1871",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514G60A0550X1871_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-522R93A3050X0200",
+      "name": "Short Belted Shirtdress",
+      "description": "Ecru Cotton Denim with Dior Oblique Interior",
+      "price": "87000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522R93A3050X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522R93A3050_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "522R93A3050_X0200",
+          "price": "87000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522R93A3050X0200_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Peach Blossom Pink and White Silk Twill with D-Butterfly Paisley Motif",
+          "size": null,
+          "code": "521D04A6521_X4809",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521D04A6521X4809_E08",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-514G14A3400X0200",
+      "name": "Cannage Cardigan",
+      "description": "Ecru Blended Wool and Cashmere Textured Knit",
+      "price": "84000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514G14A3400X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/514G14A3400_X0200",
+      "variants": [
+        {
+          "color": "Ecru Blended Wool and Cashmere Textured Knit",
+          "size": null,
+          "code": "514G14A3400_X0200",
+          "price": "84000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514G14A3400X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-351B07A3356X0100",
+      "name": "Blouse with Puff Sleeves",
+      "description": "White Cotton Poplin",
+      "price": "59000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/351B07A3356X0100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/351B07A3356_X0100",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "351B07A3356_X0100",
+          "price": "59000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/351B07A3356X0100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-522V46A3046X5408",
+      "name": "Oversized Hooded Jacket",
+      "description": "Blue Stonewashed Cotton Denim",
+      "price": "84000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522V46A3046X5408_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522V46A3046_X5408",
+      "variants": [
+        {
+          "color": "Blue Stonewashed Cotton Denim",
+          "size": null,
+          "code": "522V46A3046_X5408",
+          "price": "84000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522V46A3046X5408_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524V13A7541X5810",
+      "name": "Macrocannage Jacket",
+      "description": "Sky Blue Cotton-Blend Tweed Knit",
+      "price": "84000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524V13A7541X5810_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524V13A7541_X5810",
+      "variants": [
+        {
+          "color": "Sky Blue Cotton-Blend Tweed Knit",
+          "size": null,
+          "code": "524V13A7541_X5810",
+          "price": "84000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524V13A7541X5810_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Peach Blossom Pink Cotton-Blend Tweed Knit",
+          "size": null,
+          "code": "524V53A7541_X4810",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524V53A7541X4810_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524J03A7541X5810",
+      "name": "Macrocannage Miniskirt",
+      "description": "Sky Blue Cotton-Blend Tweed Knit",
+      "price": "42000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524J03A7541X5810_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524J03A7541_X5810",
+      "variants": [
+        {
+          "color": "Sky Blue Cotton-Blend Tweed Knit",
+          "size": null,
+          "code": "524J03A7541_X5810",
+          "price": "42000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524J03A7541X5810_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Peach Blossom Pink Cotton-Blend Tweed Knit",
+          "size": null,
+          "code": "524J03A7541_X4810",
+          "price": "42000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524J03A7541X4810_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-521R77A1761X3780",
+      "name": "Mid-Length Belted Dress",
+      "description": "Plum Virgin Wool- and Cotton-Blend Bouclé",
+      "price": "135000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R77A1761X3780_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/521R77A1761_X3780",
+      "variants": [
+        {
+          "color": "Plum Virgin Wool- and Cotton-Blend Bouclé",
+          "size": null,
+          "code": "521R77A1761_X3780",
+          "price": "135000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R77A1761X3780_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-511V01A1761X5640",
+      "name": "Bar Jacket",
+      "description": "Blue Virgin Wool- and Cotton-Blend Bouclé",
+      "price": "130000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511V01A1761X5640_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/511V01A1761_X5640",
+      "variants": [
+        {
+          "color": "Blue Virgin Wool- and Cotton-Blend Bouclé",
+          "size": null,
+          "code": "511V01A1761_X5640",
+          "price": "130000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511V01A1761X5640_E01-1",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-KCK431CTFS19W",
+      "name": "Dior First High-Top Sneaker",
+      "description": "Black and White Calfskin with Two-Tone Laces",
+      "price": "34000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK431CTFS19W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK431CTF_S19W",
+      "variants": [
+        {
+          "color": "Black and White Calfskin with Two-Tone Laces",
+          "size": null,
+          "code": "KCK431CTF_S19W",
+          "price": "34000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK431CTFS19W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Calfskin and Two-Tone Laces",
+          "size": null,
+          "code": "KCK431CTF_S10W",
+          "price": "34000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK431CTFS10W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCK441CVAS900",
+      "name": "Walk'n'Dior Platform Sneaker",
+      "description": "Black and White Fringed Cotton Canvas with Dior Graphique Motif",
+      "price": "29000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK441CVAS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK441CVA_S900",
+      "variants": [
+        {
+          "color": "Black and White Fringed Cotton Canvas with Dior Graphique Motif",
+          "size": null,
+          "code": "KCK441CVA_S900",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK441CVAS900_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and White Fringed Cotton Canvas with Dior Graphique Motif",
+          "size": null,
+          "code": "KCK441CVA_S10W",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK441CVAS10W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Multicolor Embroidered Cotton with Dior Cabinet de Curiosités Motif",
+          "size": null,
+          "code": "KCK385CBN_S10W",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK385CBNS10W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Deep Blue Dior Oblique Embroidered Cotton and White Shearling",
+          "size": null,
+          "code": "KCK398OCH_S56B",
+          "price": "35000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK398OCHS56B_E02-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCK427MPAS10W",
+      "name": "D-Sketch Sneaker",
+      "description": "White Nylon and Calfskin",
+      "price": "29000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK427MPAS10W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK427MPA_S10W",
+      "variants": [
+        {
+          "color": "White Nylon and Calfskin",
+          "size": null,
+          "code": "KCK427MPA_S10W",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK427MPAS10W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Nylon and Calfskin",
+          "size": null,
+          "code": "KCK427MPA_S900",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK427MPAS900_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Silver-Tone Crinkled Lambskin and Laminated Calfskin",
+          "size": null,
+          "code": "KCK445LPA_S46K",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK445LPAS46K_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCK416DSKS24W",
+      "name": "Dior Star Sneaker",
+      "description": "White Technical Mesh",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK416DSKS24W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK416DSK_S24W",
+      "variants": [
+        {
+          "color": "White Technical Mesh",
+          "size": null,
+          "code": "KCK416DSK_S24W",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK416DSKS24W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Deep Blue Technical Mesh",
+          "size": null,
+          "code": "KCK416DSK_S15N",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK416DSKS15N_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCK413CLDS19W",
+      "name": "Dior Star Platform Sneaker",
+      "description": "White Calfskin and Suede Calfskin",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK413CLDS19W_E02-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK413CLD_S19W",
+      "variants": [
+        {
+          "color": "White Calfskin and Suede Calfskin",
+          "size": null,
+          "code": "KCK413CLD_S19W",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK413CLDS19W_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Silver-Tone Crinkled-Effect Lambskin and White Calfskin",
+          "size": null,
+          "code": "KCK426SLM_S46K",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK426SLMS46K_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCK414TRMS19W",
+      "name": "Dior Chrono Sneaker",
+      "description": "Mesh with White and Black Leather-Effect Panels",
+      "price": "30000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS19W_E02-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK414TRM_S19W",
+      "variants": [
+        {
+          "color": "Mesh with White and Black Leather-Effect Panels",
+          "size": null,
+          "code": "KCK414TRM_S19W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS19W_E02-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray Mesh with Silver-Tone Laminated Leather-Effect Panels",
+          "size": null,
+          "code": "KCK414TRL_S59K",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRLS59K_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Mesh and White Leather-Effect Panels",
+          "size": null,
+          "code": "KCK414TRM_S10W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS10W_E02-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDB920SUES16T",
+      "name": "Dior Boy Mule",
+      "description": "Rope Beige Suede Calfskin",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB920SUES16T_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDB920SUE_S16T",
+      "variants": [
+        {
+          "color": "Rope Beige Suede Calfskin",
+          "size": null,
+          "code": "KDB920SUE_S16T",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB920SUES16T_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Cotton Embroidered with Dior Oblique Motif and Calfskin Panels",
+          "size": null,
+          "code": "KDB972OLF_S15T",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB972OLFS15T_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Light Beige Suede Calfskin",
+          "size": null,
+          "code": "KDB920SUE_S10W",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB920SUES10W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCO016LABS59U",
+      "name": "Dioract Platform Sandal",
+      "description": "Light Biscuit Lambskin",
+      "price": "33000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO016LABS59U_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO016LAB_S59U",
+      "variants": [
+        {
+          "color": "Light Biscuit Lambskin",
+          "size": null,
+          "code": "KCO016LAB_S59U",
+          "price": "33000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO016LABS59U_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDO291MLCS46M",
+      "name": "D-Lane Heeled Slide",
+      "description": "Camel Calfskin with Openwork Microcannage Motif",
+      "price": "29000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDO291MLCS46M_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDO291MLC_S46M",
+      "variants": [
+        {
+          "color": "Camel Calfskin with Openwork Microcannage Motif",
+          "size": null,
+          "code": "KDO291MLC_S46M",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDO291MLCS46M_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Calfskin with Openwork Microcannage Motif",
+          "size": null,
+          "code": "KDO291MLC_S900",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDO291MLCS900_E02-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Light Biscuit Calfskin with Openwork Microcannage Motif",
+          "size": null,
+          "code": "KDO247MLC_S59U",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDO247MLCS59U_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCQ915DLCS17X",
+      "name": "Dway Heeled Slide",
+      "description": "Black and White Cotton Embroidered with Dior Graphique Motif",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ915DLCS17X_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCQ915DLC_S17X",
+      "variants": [
+        {
+          "color": "Black and White Cotton Embroidered with Dior Graphique Motif",
+          "size": null,
+          "code": "KCQ915DLC_S17X",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ915DLCS17X_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCO270ERCS56B",
+      "name": "Dway Wedge Sandal",
+      "description": "Deep Blue Embroidered Cotton",
+      "price": "37000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO270ERCS56B_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO270ERC_S56B",
+      "variants": [
+        {
+          "color": "Deep Blue Embroidered Cotton",
+          "size": null,
+          "code": "KCO270ERC_S56B",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO270ERCS56B_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCO258ERCS56B",
+      "name": "Dway Platform Slide",
+      "description": "Deep Blue Embroidered Cotton",
+      "price": "26000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO258ERCS56B_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO258ERC_S56B",
+      "variants": [
+        {
+          "color": "Deep Blue Embroidered Cotton",
+          "size": null,
+          "code": "KCO258ERC_S56B",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO258ERCS56B_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Deep Blue Embroidered Cotton",
+          "size": null,
+          "code": "KCO116ERC_S56B",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO116ERCS56B_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCO279TRIS17X",
+      "name": "D-Wander Slide",
+      "description": "Black and White Technical Fabric with Dior Graphique Motif",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO279TRIS17X_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO279TRI_S17X",
+      "variants": [
+        {
+          "color": "Black and White Technical Fabric with Dior Graphique Motif",
+          "size": null,
+          "code": "KCO279TRI_S17X",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO279TRIS17X_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDF004LABS900",
+      "name": "D-Journey Lace-Up Ballet Flat",
+      "description": "Black Perforated Supple Lambskin",
+      "price": "26000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDF004LABS900_E02-3",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDF004LAB_S900",
+      "variants": [
+        {
+          "color": "Black Perforated Supple Lambskin",
+          "size": null,
+          "code": "KDF004LAB_S900",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDF004LABS900_E02-3",
+          "additionalImages": []
+        },
+        {
+          "color": "White Perforated Supple Lambskin",
+          "size": null,
+          "code": "KDF004LAB_S10W",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDF004LABS10W_E02-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV329LABS10W",
+      "name": "D-Journey Lace-Up Pump",
+      "description": "White Perforated Supple Lambskin",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV329LABS10W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV329LAB_S10W",
+      "variants": [
+        {
+          "color": "White Perforated Supple Lambskin",
+          "size": null,
+          "code": "KDV329LAB_S10W",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV329LABS10W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV370CELS900",
+      "name": "Dior Toujours Slingback Pump",
+      "description": "Black Perforated Supple Lambskin",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV370CELS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV370CEL_S900",
+      "variants": [
+        {
+          "color": "Black Perforated Supple Lambskin",
+          "size": null,
+          "code": "KDV370CEL_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV370CELS900_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Perforated Supple Lambskin",
+          "size": null,
+          "code": "KDV370CEL_S10W",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV370CELS10W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDF009CELS10W",
+      "name": "Dior Toujours Slingback Flat",
+      "description": "White Perforated Supple Lambskin",
+      "price": "26000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDF009CELS10W_E02-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDF009CEL_S10W",
+      "variants": [
+        {
+          "color": "White Perforated Supple Lambskin",
+          "size": null,
+          "code": "KDF009CEL_S10W",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDF009CELS10W_E02-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV334VSOS900",
+      "name": "My Dior Pump",
+      "description": "Black Supple Calfskin",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV334VSOS900_E02-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV334VSO_S900",
+      "variants": [
+        {
+          "color": "Black Supple Calfskin",
+          "size": null,
+          "code": "KDV334VSO_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV334VSOS900_E02-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV336VNIS26W",
+      "name": "My Dior Slingback Pump",
+      "description": "White Patent Calfskin",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV336VNIS26W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV336VNI_S26W",
+      "variants": [
+        {
+          "color": "White Patent Calfskin",
+          "size": null,
+          "code": "KDV336VNI_S26W",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV336VNIS26W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDO257SATS01U",
+      "name": "My Dior Heeled Slide",
+      "description": "Champagne Satin",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDO257SATS01U_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDO257SAT_S01U",
+      "variants": [
+        {
+          "color": "Champagne Satin",
+          "size": null,
+          "code": "KDO257SAT_S01U",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDO257SATS01U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Satin",
+          "size": null,
+          "code": "KDO256SAT_S900",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDO256SATS900_E02",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

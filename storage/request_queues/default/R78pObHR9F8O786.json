@@ -1,0 +1,23 @@
+{
+  "id": "R78pObHR9F8O786",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/e3729womlq_d309",
+  "order_no": "1741950051129.083000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/E3729WOMLQ_D309",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/e3729womlq_d309",
+    "id": "R78pObHR9F8O786"
+  }
+}

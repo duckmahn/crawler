@@ -1,0 +1,23 @@
+{
+  "id": "VQS22TLY5lhtk4V",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/453t34x4553_x0200",
+  "order_no": "1741950038203.403000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/453T34X4553_X0200",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/453t34x4553_x0200",
+    "id": "VQS22TLY5lhtk4V"
+  }
+}

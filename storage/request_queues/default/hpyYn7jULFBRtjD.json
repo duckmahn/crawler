@@ -1,0 +1,23 @@
+{
+  "id": "hpyYn7jULFBRtjD",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/m9334uhel_m900",
+  "order_no": "1741950042120.980000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/M9334UHEL_M900",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/m9334uhel_m900",
+    "id": "hpyYn7jULFBRtjD"
+  }
+}

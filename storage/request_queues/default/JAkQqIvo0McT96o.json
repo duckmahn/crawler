@@ -1,0 +1,23 @@
+{
+  "id": "JAkQqIvo0McT96o",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/1wbs25shoc_y43c",
+  "order_no": "1741950031119.438000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/1WBS25SHOC_Y43C",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/1wbs25shoc_y43c",
+    "id": "JAkQqIvo0McT96o"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hZhOzohnM3pxoTx",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/m0531owcb_m413",
+  "order_no": "1741950045790.414000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/M0531OWCB_M413",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/m0531owcb_m413",
+    "id": "hZhOzohnM3pxoTx"
+  }
+}

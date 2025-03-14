@@ -1,0 +1,100 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-V1572WOMLQD97P",
+      "name": "D-Dice Bag Charm",
+      "description": "Gold-Finish Metal with Pale Pink Lacquer and White Resin Pearl",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1572WOMLQD97P_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1572WOMLQ_D97P",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal with Pale Pink Lacquer and White Resin Pearl",
+          "size": null,
+          "code": "V1572WOMLQ_D97P",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1572WOMLQD97P_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1575WOMRSD307",
+      "name": "Lucky 30 Montaigne Bag Charm",
+      "description": "Pale Gold-Finish Metal with Black Grosgrain and White Resin Pearls",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1575WOMRSD307_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1575WOMRS_D307",
+      "variants": [
+        {
+          "color": "Pale Gold-Finish Metal with Black Grosgrain and White Resin Pearls",
+          "size": null,
+          "code": "V1575WOMRS_D307",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1575WOMRSD307_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1562WOMLQD307",
+      "name": "Toile de Jouy Papillon Bag Charm",
+      "description": "Champagne-Finish Metal with White Resin Pearls and Black Lacquer",
+      "price": "31500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1562WOMLQD307_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1562WOMLQ_D307",
+      "variants": [
+        {
+          "color": "Champagne-Finish Metal with White Resin Pearls and Black Lacquer",
+          "size": null,
+          "code": "V1562WOMLQ_D307",
+          "price": "31500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1562WOMLQD307_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1561WOMRSD301",
+      "name": "Lucky Dior Bag Charm",
+      "description": "Champagne- and Palladium-Finish Metal with White Resin Pearls",
+      "price": "28500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1561WOMRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1561WOMRS_D301",
+      "variants": [
+        {
+          "color": "Champagne- and Palladium-Finish Metal with White Resin Pearls",
+          "size": null,
+          "code": "V1561WOMRS_D301",
+          "price": "28500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1561WOMRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V0981MTGLQD307",
+      "name": "30 Montaigne Bag Charm",
+      "description": "Gold-Finish Metal and Black Lacquer",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V0981MTGLQD307_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V0981MTGLQ_D307",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Black Lacquer",
+          "size": null,
+          "code": "V0981MTGLQ_D307",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V0981MTGLQD307_E01-1",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

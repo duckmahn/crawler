@@ -1,0 +1,23 @@
+{
+  "id": "s5WoBFiwnE13Bsr",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/583m626a2012_c587",
+  "order_no": "1741950034108.457000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/583M626A2012_C587",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/583m626a2012_c587",
+    "id": "s5WoBFiwnE13Bsr"
+  }
+}

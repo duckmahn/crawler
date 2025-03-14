@@ -1,0 +1,374 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-521B67A3356X0100",
+      "name": "Blouse",
+      "description": "White Cotton Poplin",
+      "price": "58000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B67A3356X0100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/521B67A3356_X0100",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "521B67A3356_X0100",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B67A3356X0100_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Poplin",
+          "size": null,
+          "code": "521B67A3356_X9000",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B67A3356X9000_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Poplin",
+          "size": null,
+          "code": "521B85A3356_X9000",
+          "price": "65000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B85A3356X9000_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "521B85A3356_X0100",
+          "price": "65000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B85A3356X0100_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Poplin",
+          "size": null,
+          "code": "521B87A3356_X9000",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B87A3356X9000_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "521B87A3356_X0100",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B87A3356X0100_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Muslin with Multicolor Toile de Jouy Papillon Motif",
+          "size": null,
+          "code": "521B68A3A48_X0807",
+          "price": "45000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B68A3A48X0807_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Muslin with Blue Toile de Jouy Papillon Motif",
+          "size": null,
+          "code": "521B68A3A48_X5807",
+          "price": "45000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B68A3A48X5807_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "441B14A3356_X0100",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B14A3356X0100_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Muslin with Navy Blue Miss Dior Allover Motif",
+          "size": null,
+          "code": "451B55A3946_X5805",
+          "price": "55000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B55A3946X5805_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton and Silk Poplin with Black Miss Dior Graffiti Motif",
+          "size": null,
+          "code": "451B28A3433_X0901",
+          "price": "64000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B28A3433X0901_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton",
+          "size": null,
+          "code": "041B27A3356_X0100",
+          "price": "43000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/041B27A3356X0100_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Poplin",
+          "size": null,
+          "code": "451B72A3356_X9000",
+          "price": "64000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B72A3356X9000_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "451B72A3356_X0100",
+          "price": "64000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B72A3356X0100_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "411B44A3356_X0100",
+          "price": "65000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/411B44A3356X0100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-421B75A3356X0100",
+      "name": "Asymmetric Shirt",
+      "description": "White Cotton Poplin",
+      "price": "50000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/421B75A3356X0100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/421B75A3356_X0100",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "421B75A3356_X0100",
+          "price": "50000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/421B75A3356X0100_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Poplin",
+          "size": null,
+          "code": "421B75A3356_X9000",
+          "price": "50000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/421B75A3356X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-841B05A3356X0100",
+      "name": "Blouse with Plastron",
+      "description": "White Cotton Poplin",
+      "price": "35000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B05A3356X0100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/841B05A3356_X0100",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "841B05A3356_X0100",
+          "price": "35000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B05A3356X0100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-511B55A3A16X0864",
+      "name": "Long Blouse",
+      "description": "White Cotton Muslin with Multicolor Dior Cabinet de Curiosités Motif",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B55A3A16X0864_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/511B55A3A16_X0864",
+      "variants": [
+        {
+          "color": "White Cotton Muslin with Multicolor Dior Cabinet de Curiosités Motif",
+          "size": null,
+          "code": "511B55A3A16_X0864",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B55A3A16X0864_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Muslin with Blue Dior Chardons Motif",
+          "size": null,
+          "code": "511B55A3A17_X5899",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B55A3A17X5899_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "White Toile de Jouy Cotton Voile",
+          "size": null,
+          "code": "911B54A3802_X0961",
+          "price": "50000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/911B54A3802X0961_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "511B36A3356_X0100",
+          "price": "73000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B36A3356X0100_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Muslin with Black Toile de Jouy Scotland Motif",
+          "size": null,
+          "code": "511B36A3A09_X0930",
+          "price": "52000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B36A3A09X0930_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Poplin",
+          "size": null,
+          "code": "511B36A3356_X9000",
+          "price": "73000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B36A3356X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-441B39A3356X0100",
+      "name": "Ascot Blouse",
+      "description": "White Cotton Poplin",
+      "price": "57000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B39A3356X0100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/441B39A3356_X0100",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "441B39A3356_X0100",
+          "price": "57000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B39A3356X0100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-841B41A3356X0100",
+      "name": "Sleeveless Blouse with Plastron",
+      "description": "White Cotton Poplin",
+      "price": "35000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B41A3356X0100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/841B41A3356_X0100",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "841B41A3356_X0100",
+          "price": "35000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B41A3356X0100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-111B61A3356X0100",
+      "name": "Cropped Button-Up Blouse",
+      "description": "White Cotton Poplin",
+      "price": "36000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/111B61A3356X0100_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/111B61A3356_X0100",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "111B61A3356_X0100",
+          "price": "36000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/111B61A3356X0100_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-351B07A3356X0100",
+      "name": "Blouse with Puff Sleeves",
+      "description": "White Cotton Poplin",
+      "price": "59000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/351B07A3356X0100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/351B07A3356_X0100",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "351B07A3356_X0100",
+          "price": "59000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/351B07A3356X0100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-441B49A3356X0100",
+      "name": "Blouse with Sailor Collar",
+      "description": "White Cotton Poplin",
+      "price": "60000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B49A3356X0100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/441B49A3356_X0100",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "441B49A3356_X0100",
+          "price": "60000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B49A3356X0100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-451B71A3356X9000",
+      "name": "Short-Sleeved Blouse",
+      "description": "Black Cotton Poplin",
+      "price": "68000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B71A3356X9000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/451B71A3356_X9000",
+      "variants": [
+        {
+          "color": "Black Cotton Poplin",
+          "size": null,
+          "code": "451B71A3356_X9000",
+          "price": "68000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B71A3356X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-841B42A8810X9000",
+      "name": "Sheer Blouse with Plastron",
+      "description": "Black Plumetis Tulle",
+      "price": "55000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B42A8810X9000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/841B42A8810_X9000",
+      "variants": [
+        {
+          "color": "Black Plumetis Tulle",
+          "size": null,
+          "code": "841B42A8810_X9000",
+          "price": "55000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B42A8810X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

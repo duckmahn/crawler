@@ -1,0 +1,23 @@
+{
+  "id": "TJfIL7n3Bnaq6OC",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/3sbm11srtg_y001",
+  "order_no": "1741950031121.517000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/3SBM11SRTG_Y001",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/3sbm11srtg_y001",
+    "id": "TJfIL7n3Bnaq6OC"
+  }
+}

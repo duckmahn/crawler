@@ -1,0 +1,23 @@
+{
+  "id": "NKpNJ6E9x57zdUn",
+  "unique_key": "https://www.dior.com/en_vn/fashion/baby/girls/beachwear",
+  "order_no": "1741950027778.537000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/baby/girls/beachwear",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/baby/girls/beachwear",
+    "id": "NKpNJ6E9x57zdUn"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "UvCT8OPmdphKi6s",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/n3117womcy_d03s",
+  "order_no": "1741950051545.857000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/N3117WOMCY_D03S",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/n3117womcy_d03s",
+    "id": "UvCT8OPmdphKi6s"
+  }
+}

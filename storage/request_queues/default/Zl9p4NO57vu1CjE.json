@@ -1,0 +1,23 @@
+{
+  "id": "Zl9p4NO57vu1CjE",
+  "unique_key": "https://www.dior.com/en_vn/fashion/news-savoir-faire/folder-news-and-events/spring-2025-mens-campaign",
+  "order_no": "1741950064577.725000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/news-savoir-faire/folder-news-and-events/spring-2025-mens-campaign",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/news-savoir-faire/folder-news-and-events/spring-2025-mens-campaign",
+    "id": "Zl9p4NO57vu1CjE"
+  }
+}

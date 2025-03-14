@@ -1,0 +1,23 @@
+{
+  "id": "T8stQD4xh6vqTg4",
+  "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewelry/brooches",
+  "order_no": "1741950042159.196000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewelry/brooches",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewelry/brooches",
+    "id": "T8stQD4xh6vqTg4"
+  }
+}

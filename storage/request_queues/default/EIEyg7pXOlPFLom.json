@@ -1,0 +1,23 @@
+{
+  "id": "EIEyg7pXOlPFLom",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/kco264ctg_s24u",
+  "order_no": "1741950056136.279000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/KCO264CTG_S24U",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/kco264ctg_s24u",
+    "id": "EIEyg7pXOlPFLom"
+  }
+}

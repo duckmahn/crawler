@@ -1,0 +1,23 @@
+{
+  "id": "xlqxmF5i5Ud274U",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/2esbh069yse_h05e",
+  "order_no": "1741950063465.282000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/2ESBH069YSE_H05E",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/2esbh069yse_h05e",
+    "id": "xlqxmF5i5Ud274U"
+  }
+}

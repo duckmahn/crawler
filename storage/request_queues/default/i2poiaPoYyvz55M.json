@@ -1,0 +1,23 @@
+{
+  "id": "i2poiaPoYyvz55M",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/521r55a1758_x0200",
+  "order_no": "1741950037144.334000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/521R55A1758_X0200",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/521r55a1758_x0200",
+    "id": "i2poiaPoYyvz55M"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "CMo10J6MxZALjCr",
+  "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/haute-couture-shows/spring-summer-2025-haute-couture-show",
+  "order_no": "1741950027787.373000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/womens-fashion/haute-couture-shows/spring-summer-2025-haute-couture-show",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/haute-couture-shows/spring-summer-2025-haute-couture-show",
+    "id": "CMo10J6MxZALjCr"
+  }
+}

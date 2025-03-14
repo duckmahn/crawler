@@ -1,0 +1,23 @@
+{
+  "id": "plR4KiIITtBw3U0",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/213m233at344_c584",
+  "order_no": "1741950058561.295000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/213M233AT344_C584",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/213m233at344_c584",
+    "id": "plR4KiIITtBw3U0"
+  }
+}

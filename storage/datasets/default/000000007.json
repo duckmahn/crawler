@@ -1,0 +1,691 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-344S98AM003X5051",
+      "name": "Short-Sleeved Sweater",
+      "description": "Blue Cashmere Knit",
+      "price": "46000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/344S98AM003X5051_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/344S98AM003_X5051",
+      "variants": [
+        {
+          "color": "Blue Cashmere Knit",
+          "size": null,
+          "code": "344S98AM003_X5051",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/344S98AM003X5051_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Cashmere Knit",
+          "size": null,
+          "code": "344S98AM003_X1650",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/344S98AM003X1650_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-522P91A3046X5408",
+      "name": "Flared Jeans",
+      "description": "Blue Stonewashed Cotton Denim",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P91A3046X5408_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522P91A3046_X5408",
+      "variants": [
+        {
+          "color": "Blue Stonewashed Cotton Denim",
+          "size": null,
+          "code": "522P91A3046_X5408",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P91A3046X5408_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ecru Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "522P04A3050_X0200",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522P04A3050X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M1325CZEMM49E",
+      "name": "Small Dior Book Tote",
+      "description": "Blue Dior Oblique Chambray Embroidery and Latte Calfskin (26.5 x 22 x 14 cm)",
+      "price": "92000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325CZEMM49E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M1325CZEM_M49E",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Chambray Embroidery and Latte Calfskin (26.5 x 22 x 14 cm)",
+          "size": null,
+          "code": "M1325CZEM_M49E",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325CZEMM49E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDB920SUES10W",
+      "name": "Dior Boy Mule",
+      "description": "Light Beige Suede Calfskin",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB920SUES10W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDB920SUE_S10W",
+      "variants": [
+        {
+          "color": "Light Beige Suede Calfskin",
+          "size": null,
+          "code": "KDB920SUE_S10W",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB920SUES10W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Rope Beige Suede Calfskin",
+          "size": null,
+          "code": "KDB920SUE_S16T",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB920SUES16T_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B2812WOMRSD301",
+      "name": "Petit CD Jolie Bracelet",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2812WOMRSD301_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2812WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "B2812WOMRS_D301",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2812WOMRSD301_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M0465CBUWM59M",
+      "name": "Mini Soft Saddle Bag with Strap",
+      "description": "Camel Vintage Smooth Calfskin",
+      "price": "105000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0465CBUWM59M_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0465CBUW_M59M",
+      "variants": [
+        {
+          "color": "Camel Vintage Smooth Calfskin",
+          "size": null,
+          "code": "M0465CBUW_M59M",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0465CBUWM59M_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-527C71A2970X1827",
+      "name": "Cropped Hooded Jacket",
+      "description": "Beige Technical Jacquard Taffeta with Dior Oblique Motif",
+      "price": "110000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/527C71A2970X1827_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/527C71A2970_X1827",
+      "variants": [
+        {
+          "color": "Beige Technical Jacquard Taffeta with Dior Oblique Motif",
+          "size": null,
+          "code": "527C71A2970_X1827",
+          "price": "110000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/527C71A2970X1827_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-42DOB070I600C420",
+      "name": "Dior Oblique 70 Square Scarf",
+      "description": "Rose des Vents Silk Twill",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/42DOB070I600C420_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/42DOB070I600_C420",
+      "variants": [
+        {
+          "color": "Rose des Vents Silk Twill",
+          "size": null,
+          "code": "42DOB070I600_C420",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/42DOB070I600C420_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCO016LABS59U",
+      "name": "Dioract Platform Sandal",
+      "description": "Light Biscuit Lambskin",
+      "price": "33000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO016LABS59U_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO016LAB_S59U",
+      "variants": [
+        {
+          "color": "Light Biscuit Lambskin",
+          "size": null,
+          "code": "KCO016LAB_S59U",
+          "price": "33000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO016LABS59U_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-E3950WOMRSD301",
+      "name": "Medium Petit CD Jolie Stud Earrings",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3950WOMRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3950WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "E3950WOMRS_D301",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3950WOMRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-15DOB106I600C118",
+      "name": "Dior Oblique Mitzah Scarf",
+      "description": "Beige Silk Twill",
+      "price": "6700000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB106I600C118_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/15DOB106I600_C118",
+      "variants": [
+        {
+          "color": "Beige Silk Twill",
+          "size": null,
+          "code": "15DOB106I600_C118",
+          "price": "6700000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB106I600C118_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-054G12AM055X1871",
+      "name": "Reversible Zipped Cardigan with Hood",
+      "description": "Beige Cashmere-Blend Knit with Dior Oblique Motif",
+      "price": "100000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/054G12AM055X1871_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/054G12AM055_X1871",
+      "variants": [
+        {
+          "color": "Beige Cashmere-Blend Knit with Dior Oblique Motif",
+          "size": null,
+          "code": "054G12AM055_X1871",
+          "price": "100000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/054G12AM055X1871_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N3251WOMRSD301",
+      "name": "Petit CD Jolie Necklace",
+      "description": "Gold-Finish Metal and White Resin Pearl",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3251WOMRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3251WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearl",
+          "size": null,
+          "code": "N3251WOMRS_D301",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3251WOMRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-522V46A3050X0200",
+      "name": "Oversized Hooded Jacket",
+      "description": "Ecru Cotton Denim with Dior Oblique Interior",
+      "price": "91000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522V46A3050X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522V46A3050_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cotton Denim with Dior Oblique Interior",
+          "size": null,
+          "code": "522V46A3050_X0200",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522V46A3050X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPB6084EDOCC511",
+      "name": "D-Bobby Dior Oblique Small Brim Bucket Hat",
+      "description": "Chambray Blue Jacquard and Ecru Raffia",
+      "price": "26500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6084EDOCC511_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPB6084EDOC_C511",
+      "variants": [
+        {
+          "color": "Chambray Blue Jacquard and Ecru Raffia",
+          "size": null,
+          "code": "CPB6084EDOC_C511",
+          "price": "26500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPB6084EDOCC511_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-523T09A4231X0893",
+      "name": "T-Shirt",
+      "description": "White, Black and Red Dior Race Cotton and Linen Jersey",
+      "price": "31000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T09A4231X0893_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/523T09A4231_X0893",
+      "variants": [
+        {
+          "color": "White, Black and Red Dior Race Cotton and Linen Jersey",
+          "size": null,
+          "code": "523T09A4231_X0893",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/523T09A4231X0893_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-E3213WOMRSD009",
+      "name": "Dior Tribales Earrings",
+      "description": "Palladium-Finish Metal and White Resin Pearls",
+      "price": "15000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3213WOMRSD009_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3213WOMRS_D009",
+      "variants": [
+        {
+          "color": "Palladium-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "E3213WOMRS_D009",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3213WOMRSD009_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCK441CVAS900",
+      "name": "Walk'n'Dior Platform Sneaker",
+      "description": "Black and White Fringed Cotton Canvas with Dior Graphique Motif",
+      "price": "29000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK441CVAS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK441CVA_S900",
+      "variants": [
+        {
+          "color": "Black and White Fringed Cotton Canvas with Dior Graphique Motif",
+          "size": null,
+          "code": "KCK441CVA_S900",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK441CVAS900_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and White Fringed Cotton Canvas with Dior Graphique Motif",
+          "size": null,
+          "code": "KCK441CVA_S10W",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK441CVAS10W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524S13A7025X0883",
+      "name": "Dior Marinière Sweater",
+      "description": "White and Navy Blue Ribbed Cotton Knit",
+      "price": "71000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S13A7025X0883_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524S13A7025_X0883",
+      "variants": [
+        {
+          "color": "White and Navy Blue Ribbed Cotton Knit",
+          "size": null,
+          "code": "524S13A7025_X0883",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S13A7025X0883_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White and Navy Blue Ribbed Cotton Knit",
+          "size": null,
+          "code": "524S31A7025_X0883",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S31A7025X0883_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2836PNUCM900",
+      "name": "Medium Dior Toujours Vertical Tote Bag",
+      "description": "Black Macrocannage Crinkled Calfskin",
+      "price": "115000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2836PNUCM900_E03-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2836PNUC_M900",
+      "variants": [
+        {
+          "color": "Black Macrocannage Crinkled Calfskin",
+          "size": null,
+          "code": "M2836PNUC_M900",
+          "price": "115000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2836PNUCM900_E03-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-E3170WOMRSD009",
+      "name": "Mini Petit CD Jolie Stud Earrings",
+      "description": "Palladium-Finish Metal and White Resin Pearls",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3170WOMRSD009_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3170WOMRS_D009",
+      "variants": [
+        {
+          "color": "Palladium-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "E3170WOMRS_D009",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3170WOMRSD009_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-DPFCS3FXR10A0",
+      "name": "DiorPacific S3F",
+      "description": "Black Rectangular Sunglasses",
+      "price": "11500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS3FXR10A0_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCS3FXR_10A0",
+      "variants": [
+        {
+          "color": "Black Rectangular Sunglasses",
+          "size": null,
+          "code": "DPFCS3FXR_10A0",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS3FXR10A0_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0176UVWVM900",
+      "name": "D-Dream Belt",
+      "description": "Black Smooth Calfskin, 20 MM",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0176UVWVM900_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0176UVWV_M900",
+      "variants": [
+        {
+          "color": "Black Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0176UVWV_M900",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0176UVWVM900_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524S24A7026X0883",
+      "name": "Dior Marinière Short-Sleeved Sweater",
+      "description": "White and Navy Blue Cotton and Silk Knit",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S24A7026X0883_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524S24A7026_X0883",
+      "variants": [
+        {
+          "color": "White and Navy Blue Cotton and Silk Knit",
+          "size": null,
+          "code": "524S24A7026_X0883",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S24A7026X0883_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCO282GGNS900",
+      "name": "Adiorable Slide",
+      "description": "Black Fringed Grosgrain",
+      "price": "29000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO282GGNS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO282GGN_S900",
+      "variants": [
+        {
+          "color": "Black Fringed Grosgrain",
+          "size": null,
+          "code": "KCO282GGN_S900",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO282GGNS900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-E3916WOMCYD03S",
+      "name": "Dio(r)evolution Earrings",
+      "description": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3916WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3916WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+          "size": null,
+          "code": "E3916WOMCY_D03S",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3916WOMCYD03S_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-24FCO106I606C084",
+      "name": "D-Floral Mitzah Scarf",
+      "description": "White Multicolor Silk Twill",
+      "price": "6566000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/24FCO106I606C084_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/24FCO106I606_C084",
+      "variants": [
+        {
+          "color": "White Multicolor Silk Twill",
+          "size": null,
+          "code": "24FCO106I606_C084",
+          "price": "6566000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/24FCO106I606C084_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-52PAC106I608C115",
+      "name": "Dior Camo Papillon Mitzah Scarf",
+      "description": "White and Beige Silk Jacquard",
+      "price": "6700000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAC106I608C115_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52PAC106I608_C115",
+      "variants": [
+        {
+          "color": "White and Beige Silk Jacquard",
+          "size": null,
+          "code": "52PAC106I608_C115",
+          "price": "6700000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAC106I608C115_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S3103UNJBM059",
+      "name": "Dior Jolie Freesia Card Holder",
+      "description": "Linen Beige Cannage Lambskin",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3103UNJBM059_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S3103UNJB_M059",
+      "variants": [
+        {
+          "color": "Linen Beige Cannage Lambskin",
+          "size": null,
+          "code": "S3103UNJB_M059",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3103UNJBM059_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B2855WOMRSD05K",
+      "name": "Christian Dior Bracelet Set",
+      "description": "Black and Pale Pink Cotton with Gold-Finish Metal and White Resin Pearls",
+      "price": "13000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2855WOMRSD05K_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2855WOMRS_D05K",
+      "variants": [
+        {
+          "color": "Black and Pale Pink Cotton with Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "B2855WOMRS_D05K",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2855WOMRSD05K_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-DPFCR1FXR20L0",
+      "name": "DiorPacific R1F",
+      "description": "Brown Tortoiseshell-Effect Oval Sunglasses",
+      "price": "11500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCR1FXR20L0_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCR1FXR_20L0",
+      "variants": [
+        {
+          "color": "Brown Tortoiseshell-Effect Oval Sunglasses",
+          "size": null,
+          "code": "DPFCR1FXR_20L0",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCR1FXR20L0_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B2866WOMCYD03S",
+      "name": "Dio(r)evolution Bracelet",
+      "description": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+      "price": "17500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2866WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2866WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+          "size": null,
+          "code": "B2866WOMCY_D03S",
+          "price": "17500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2866WOMCYD03S_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-35FCO090I610C084",
+      "name": "D-Floral 90 Square Scarf",
+      "description": "White Multicolor Silk Twill",
+      "price": "14000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/35FCO090I610C084_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/35FCO090I610_C084",
+      "variants": [
+        {
+          "color": "White Multicolor Silk Twill",
+          "size": null,
+          "code": "35FCO090I610_C084",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/35FCO090I610C084_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S6037ONMJM26Z",
+      "name": "Lady Dior Dahlia Wallet",
+      "description": "Shirt Blue Cannage Lambskin",
+      "price": "19500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S6037ONMJM26Z_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S6037ONMJ_M26Z",
+      "variants": [
+        {
+          "color": "Shirt Blue Cannage Lambskin",
+          "size": null,
+          "code": "S6037ONMJ_M26Z",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S6037ONMJM26Z_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

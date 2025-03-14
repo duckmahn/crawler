@@ -1,0 +1,23 @@
+{
+  "id": "pBlqF1JvO1dTmuH",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/r3471homst_d992",
+  "order_no": "1741950030837.153000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/R3471HOMST_D992",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/r3471homst_d992",
+    "id": "pBlqF1JvO1dTmuH"
+  }
+}

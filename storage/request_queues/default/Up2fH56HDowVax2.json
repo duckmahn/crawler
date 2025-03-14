@@ -1,0 +1,24 @@
+{
+  "id": "Up2fH56HDowVax2",
+  "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/saddle",
+  "order_no": null,
+  "handled_at": "2025-03-14 11:00:45.778501+00:00",
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/saddle",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/saddle",
+    "handled_at": "2025-03-14 11:00:45.778501+00:00",
+    "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/saddle",
+    "id": "Up2fH56HDowVax2"
+  }
+}

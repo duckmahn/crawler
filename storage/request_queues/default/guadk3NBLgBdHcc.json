@@ -1,0 +1,23 @@
+{
+  "id": "guadk3NBLgBdHcc",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/s5130uwhc_m413",
+  "order_no": "1741950047016.593000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/S5130UWHC_M413",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/s5130uwhc_m413",
+    "id": "guadk3NBLgBdHcc"
+  }
+}

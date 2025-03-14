@@ -1,0 +1,23 @@
+{
+  "id": "MM5Lc7UH1iHJlWm",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/kdi993cfm_s900",
+  "order_no": "1741950053045.436000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/KDI993CFM_S900",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/kdi993cfm_s900",
+    "id": "MM5Lc7UH1iHJlWm"
+  }
+}

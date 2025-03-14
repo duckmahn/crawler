@@ -1,0 +1,23 @@
+{
+  "id": "o0A34KuSNz0hmH1",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/3sbs15shol_y296",
+  "order_no": "1741950031113.077000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/3SBS15SHOL_Y296",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/3sbs15shol_y296",
+    "id": "o0A34KuSNz0hmH1"
+  }
+}

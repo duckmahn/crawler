@@ -1,0 +1,23 @@
+{
+  "id": "A7sKtWh4XnEabHz",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/583j405d1002_c800",
+  "order_no": "1741950057128.427000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/583J405D1002_C800",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/583j405d1002_c800",
+    "id": "A7sKtWh4XnEabHz"
+  }
+}

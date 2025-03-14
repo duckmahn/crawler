@@ -1,0 +1,23 @@
+{
+  "id": "YQ2cJp23Blglm3H",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/511r45a3604_x0200",
+  "order_no": "1741950037148.000000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/511R45A3604_X0200",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/511r45a3604_x0200",
+    "id": "YQ2cJp23Blglm3H"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "27v1TxyMhf7Pw7f",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/m0538ozdo_m941",
+  "order_no": "1741950045771.732000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/M0538OZDO_M941",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/m0538ozdo_m941",
+    "id": "27v1TxyMhf7Pw7f"
+  }
+}

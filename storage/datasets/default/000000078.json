@@ -1,0 +1,522 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-583C203A3011C100",
+      "name": "Officer Collar Jacket",
+      "description": "Beige Cotton",
+      "price": "77000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C203A3011C100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C203A3011_C100",
+      "variants": [
+        {
+          "color": "Beige Cotton",
+          "size": null,
+          "code": "583C203A3011_C100",
+          "price": "77000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C203A3011C100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583C204A6005C781",
+      "name": "Jacket with Buttoned Collar",
+      "description": "Brown Striped Silk-Blend Seersucker",
+      "price": "95000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C204A6005C781_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C204A6005_C781",
+      "variants": [
+        {
+          "color": "Brown Striped Silk-Blend Seersucker",
+          "size": null,
+          "code": "583C204A6005_C781",
+          "price": "95000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C204A6005C781_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Virgin Wool and Silk Twill",
+          "size": null,
+          "code": "583C204A1000_C582",
+          "price": "80000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C204A1000C582_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583C201B1001C188",
+      "name": "Jacket with Resist-Printed Lines",
+      "description": "Beige Virgin Wool and Linen",
+      "price": "115000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C201B1001C188_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C201B1001_C188",
+      "variants": [
+        {
+          "color": "Beige Virgin Wool and Linen",
+          "size": null,
+          "code": "583C201B1001_C188",
+          "price": "115000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C201B1001C188_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583C201A1001C800",
+      "name": "Jacket with Rounded Closure",
+      "description": "Beige Virgin Wool and Linen",
+      "price": "86000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C201A1001C800_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C201A1001_C800",
+      "variants": [
+        {
+          "color": "Beige Virgin Wool and Linen",
+          "size": null,
+          "code": "583C201A1001_C800",
+          "price": "86000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C201A1001C800_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Anthracite Gray Virgin Wool and Silk Twill",
+          "size": null,
+          "code": "583C201A1000_C980",
+          "price": "89000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C201A1000C980_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583C208B1002C980",
+      "name": "Jacket with Spread Collar",
+      "description": "Black Striped Wool",
+      "price": "83000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C208B1002C980_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C208B1002_C980",
+      "variants": [
+        {
+          "color": "Black Striped Wool",
+          "size": null,
+          "code": "583C208B1002_C980",
+          "price": "83000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C208B1002C980_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583J405D1002C800",
+      "name": "Austrian Jacket",
+      "description": "Gray Virgin Wool Jersey",
+      "price": "86000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J405D1002C800_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583J405D1002_C800",
+      "variants": [
+        {
+          "color": "Gray Virgin Wool Jersey",
+          "size": null,
+          "code": "583J405D1002_C800",
+          "price": "86000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583J405D1002C800_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583C208A3007C185",
+      "name": "Jacket with Contrasting Spread Collar",
+      "description": "Beige Cotton",
+      "price": "77000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C208A3007C185_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C208A3007_C185",
+      "variants": [
+        {
+          "color": "Beige Cotton",
+          "size": null,
+          "code": "583C208A3007_C185",
+          "price": "77000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C208A3007C185_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-113C282A6396C540",
+      "name": "Double-Breasted Jacket with Buttoned Strap",
+      "description": "Navy Blue Virgin Wool Blend",
+      "price": "89000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/113C282A6396C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/113C282A6396_C540",
+      "variants": [
+        {
+          "color": "Navy Blue Virgin Wool Blend",
+          "size": null,
+          "code": "113C282A6396_C540",
+          "price": "89000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/113C282A6396C540_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Virgin Wool and Mohair",
+          "size": null,
+          "code": "113C282A4993_C900",
+          "price": "72000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/113C282A4993C900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Checkered Wool",
+          "size": null,
+          "code": "113C282A6327_C980",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/113C282A6327C980_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-013C216A3226C900",
+      "name": "Jacket with Buttoned Strap",
+      "description": "Black Virgin Wool Twill",
+      "price": "65000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013C216A3226C900_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/013C216A3226_C900",
+      "variants": [
+        {
+          "color": "Black Virgin Wool Twill",
+          "size": null,
+          "code": "013C216A3226_C900",
+          "price": "65000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013C216A3226C900_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-033C228B4739C989",
+      "name": "Jacket with Dior Oblique Asymmetric Shawl Collar",
+      "description": "Black Virgin Wool Twill",
+      "price": "84000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/033C228B4739C989_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/033C228B4739_C989",
+      "variants": [
+        {
+          "color": "Black Virgin Wool Twill",
+          "size": null,
+          "code": "033C228B4739_C989",
+          "price": "84000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/033C228B4739C989_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-413C209A6069C588",
+      "name": "Dior Icons Workwear Jacket",
+      "description": "Navy Blue Double-Sided Virgin Wool and Cashmere",
+      "price": "155000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C209A6069C588_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/413C209A6069_C588",
+      "variants": [
+        {
+          "color": "Navy Blue Double-Sided Virgin Wool and Cashmere",
+          "size": null,
+          "code": "413C209A6069_C588",
+          "price": "155000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C209A6069C588_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Double-Sided Virgin Wool and Cashmere",
+          "size": null,
+          "code": "413C209A6069_C988",
+          "price": "155000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C209A6069C988_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray Double-Sided Virgin Wool, Cashmere and Silk Blend",
+          "size": null,
+          "code": "413C209A6264_C888",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C209A6264C888_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-413C225D6488C900",
+      "name": "Dior Icons Jacket",
+      "description": "Black Cashmere Flannel",
+      "price": "140000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C225D6488C900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/413C225D6488_C900",
+      "variants": [
+        {
+          "color": "Black Cashmere Flannel",
+          "size": null,
+          "code": "413C225D6488_C900",
+          "price": "140000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C225D6488C900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray Cashmere",
+          "size": null,
+          "code": "413C225D6487_C800",
+          "price": "130000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C225D6487C800_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cashmere and Silk Twill",
+          "size": null,
+          "code": "413C233A6240_C540",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C233A6240C540_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Double-Sided Virgin Wool and Cashmere",
+          "size": null,
+          "code": "513C219A6069_C578",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C219A6069C578_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Double-Sided Virgin Wool and Cashmere",
+          "size": null,
+          "code": "513C219A6069_C988",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C219A6069C988_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C203A6565C984",
+      "name": "Classic Checkered Jacket",
+      "description": "Black Checkered Wool Blend",
+      "price": "92000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C203A6565C984_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C203A6565_C984",
+      "variants": [
+        {
+          "color": "Black Checkered Wool Blend",
+          "size": null,
+          "code": "513C203A6565_C984",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C203A6565C984_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-033C228B6092C889",
+      "name": "Jacket with Asymmetric Shawl Collar",
+      "description": "Gray Wool and Mohair Twill",
+      "price": "98000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/033C228B6092C889_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/033C228B6092_C889",
+      "variants": [
+        {
+          "color": "Gray Wool and Mohair Twill",
+          "size": null,
+          "code": "033C228B6092_C889",
+          "price": "98000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/033C228B6092C889_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-443C257A6270C089",
+      "name": "Zipped Jacket",
+      "description": "Gray Virgin Wool Twill",
+      "price": "71000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/443C257A6270C089_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/443C257A6270_C089",
+      "variants": [
+        {
+          "color": "Gray Virgin Wool Twill",
+          "size": null,
+          "code": "443C257A6270_C089",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/443C257A6270C089_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-443C250A6267C840",
+      "name": "Classic Jacket",
+      "description": "Anthracite Gray Virgin Wool and Mohair",
+      "price": "83000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/443C250A6267C840_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/443C250A6267_C840",
+      "variants": [
+        {
+          "color": "Anthracite Gray Virgin Wool and Mohair",
+          "size": null,
+          "code": "443C250A6267_C840",
+          "price": "83000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/443C250A6267C840_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-313C203A6326C840",
+      "name": "Classic Workwear Jacket",
+      "description": "Gray Wool-Blend Twill",
+      "price": "91000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C203A6326C840_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/313C203A6326_C840",
+      "variants": [
+        {
+          "color": "Gray Wool-Blend Twill",
+          "size": null,
+          "code": "313C203A6326_C840",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C203A6326C840_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-193C243C6326C840",
+      "name": "Classic Zip Jacket",
+      "description": "Gray Wool-Blend Twill",
+      "price": "82000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/193C243C6326C840_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/193C243C6326_C840",
+      "variants": [
+        {
+          "color": "Gray Wool-Blend Twill",
+          "size": null,
+          "code": "193C243C6326_C840",
+          "price": "82000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/193C243C6326C840_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-413C214A6240C100",
+      "name": "Dior Icons Oblique Jacket",
+      "description": "Beige Cashmere and Silk Twill",
+      "price": "105000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C214A6240C100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/413C214A6240_C100",
+      "variants": [
+        {
+          "color": "Beige Cashmere and Silk Twill",
+          "size": null,
+          "code": "413C214A6240_C100",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C214A6240C100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C237B6460C830",
+      "name": "Oblique Jacket with Buttoned Strap",
+      "description": "Gray Virgin Wool",
+      "price": "88000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C237B6460C830_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C237B6460_C830",
+      "variants": [
+        {
+          "color": "Gray Virgin Wool",
+          "size": null,
+          "code": "513C237B6460_C830",
+          "price": "88000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C237B6460C830_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-013C218A3226C900",
+      "name": "Jacket with Bee Jewel",
+      "description": "Black Virgin Wool Twill",
+      "price": "74000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013C218A3226C900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/013C218A3226_C900",
+      "variants": [
+        {
+          "color": "Black Virgin Wool Twill",
+          "size": null,
+          "code": "013C218A3226_C900",
+          "price": "74000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013C218A3226C900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-113C278A4995C980",
+      "name": "Prince of Wales Workwear Jacket",
+      "description": "Gray Wool",
+      "price": "67000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/113C278A4995C980_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/113C278A4995_C980",
+      "variants": [
+        {
+          "color": "Gray Wool",
+          "size": null,
+          "code": "113C278A4995_C980",
+          "price": "67000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/113C278A4995C980_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C237A6461C120",
+      "name": "Oblique Jacket with Buttoned Strap and CD Icon Embroidery",
+      "description": "Beige Blended Cotton",
+      "price": "82000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C237A6461C120_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C237A6461_C120",
+      "variants": [
+        {
+          "color": "Beige Blended Cotton",
+          "size": null,
+          "code": "513C237A6461_C120",
+          "price": "82000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C237A6461C120_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

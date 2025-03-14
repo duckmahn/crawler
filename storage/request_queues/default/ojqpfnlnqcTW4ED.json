@@ -1,0 +1,23 @@
+{
+  "id": "ojqpfnlnqcTW4ED",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/440m35a1116_x4220",
+  "order_no": "1741950035732.515000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/440M35A1116_X4220",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/440m35a1116_x4220",
+    "id": "ojqpfnlnqcTW4ED"
+  }
+}

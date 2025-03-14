@@ -1,0 +1,23 @@
+{
+  "id": "XxZIHmERgZ4Fm69",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/52dob101i600_c540",
+  "order_no": "1741950040701.098000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/52DOB101I600_C540",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/52dob101i600_c540",
+    "id": "XxZIHmERgZ4Fm69"
+  }
+}

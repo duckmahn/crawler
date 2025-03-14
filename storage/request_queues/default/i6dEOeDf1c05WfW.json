@@ -1,0 +1,23 @@
+{
+  "id": "i6dEOeDf1c05WfW",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/511v93a1761_x5247",
+  "order_no": "1741950035638.378000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/511V93A1761_X5247",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/511v93a1761_x5247",
+    "id": "i6dEOeDf1c05WfW"
+  }
+}

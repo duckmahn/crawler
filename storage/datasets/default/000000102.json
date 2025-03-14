@@ -1,0 +1,139 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-4333RUTAMH56E",
+      "name": "Belt",
+      "description": "Navy Blue Grained Calfskin, 35 MM",
+      "price": "16500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4333RUTAMH56E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/4333RUTAM_H56E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin, 35 MM",
+          "size": null,
+          "code": "4333RUTAM_H56E",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4333RUTAMH56E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Brown Grained Calfskin, 35 MM",
+          "size": null,
+          "code": "4333RUTAM_H00M",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4333RUTAMH00M_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Brown Smooth Calfskin, 30 MM",
+          "size": null,
+          "code": "4479RUVJE_H45E",
+          "price": "20000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4479RUVJEH45E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin, 35 MM",
+          "size": null,
+          "code": "4333PLYMJ_H00N",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4333PLYMJH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Gravity Leather, 35 MM",
+          "size": null,
+          "code": "4333RUFLG_H00N",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4333RUFLGH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Micro Dior Oblique Jacquard, 35 MM",
+          "size": null,
+          "code": "4333RUDOR_H27E",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4333RUDORH27E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Micro Dior Oblique Jacquard, 35 MM",
+          "size": null,
+          "code": "4333RUDOR_H03E",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4333RUDORH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin, 35 MM",
+          "size": null,
+          "code": "4333PLYSE_H05E",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4333PLYSEH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin, 35 MM",
+          "size": null,
+          "code": "4333PLYSE_H03E",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4333PLYSEH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Galaxy Leather, 35 MM",
+          "size": null,
+          "code": "4333PLVPD_H03E",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4333PLVPDH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cannage Kumo Leather, 35 MM",
+          "size": null,
+          "code": "4333RUCCB_H00N",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4333RUCCBH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Brushed Calfskin, 30 MM",
+          "size": null,
+          "code": "4307PLYGL_H03E",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4307PLYGLH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-4403PLXQUH41Q",
+      "name": "Reversible Belt",
+      "description": "Black and Navy Blue Smooth Calfskin, 30 MM",
+      "price": "19500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4403PLXQUH41Q_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/4403PLXQU_H41Q",
+      "variants": [
+        {
+          "color": "Black and Navy Blue Smooth Calfskin, 30 MM",
+          "size": null,
+          "code": "4403PLXQU_H41Q",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4403PLXQUH41Q_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and Brown Smooth Calfskin, 30 MM",
+          "size": null,
+          "code": "4435ORVVZ_H24E",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4435ORVVZH24E_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

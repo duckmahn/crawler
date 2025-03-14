@@ -1,0 +1,23 @@
+{
+  "id": "DmlRXJpEhe1OJIp",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/452v29a3377_x5419",
+  "order_no": "1741950039706.352000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/452V29A3377_X5419",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/452v29a3377_x5419",
+    "id": "DmlRXJpEhe1OJIp"
+  }
+}

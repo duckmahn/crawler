@@ -1,0 +1,23 @@
+{
+  "id": "ljm4C6goaHfUu7Z",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/214v44am114_x0200",
+  "order_no": "1741950035571.308000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/214V44AM114_X0200",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/214v44am114_x0200",
+    "id": "ljm4C6goaHfUu7Z"
+  }
+}

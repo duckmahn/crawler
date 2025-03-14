@@ -1,0 +1,360 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-5SBM13TEEMY564",
+      "name": "Kids' Tank Top",
+      "description": "Indigo Blue Ribbed Cotton Jersey",
+      "price": "9500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM13TEEMY564_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM13TEEM_Y564",
+      "variants": [
+        {
+          "color": "Indigo Blue Ribbed Cotton Jersey",
+          "size": null,
+          "code": "5SBM13TEEM_Y564",
+          "price": "9500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM13TEEMY564_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ivory Ribbed Cotton Jersey",
+          "size": null,
+          "code": "5SBM13TEEM_Y013",
+          "price": "9500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM13TEEMY013_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM11SKT1Y564",
+      "name": "Kids' Long Skirt",
+      "description": "Indigo Blue Tulle with Blue Seasonal Floral Motif",
+      "price": "30000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11SKT1Y564_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM11SKT1_Y564",
+      "variants": [
+        {
+          "color": "Indigo Blue Tulle with Blue Seasonal Floral Motif",
+          "size": null,
+          "code": "5SBM11SKT1_Y564",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11SKT1Y564_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cotton Denim and Tulle Embroidered with Ivory Seasonal Floral Motif and Sequins",
+          "size": null,
+          "code": "5SBM12SKTI_Y533",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM12SKTIY533_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBS15SHOLY29B",
+      "name": "Kids' Sandal",
+      "description": "White and Navy Blue Calfskin",
+      "price": "16000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBS15SHOLY29B_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBS15SHOL_Y29B",
+      "variants": [
+        {
+          "color": "White and Navy Blue Calfskin",
+          "size": null,
+          "code": "5SBS15SHOL_Y29B",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBS15SHOLY29B_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM12JKTIY533",
+      "name": "Kids' Jacket",
+      "description": "Blue Cotton Denim Embroidered with Ivory Seasonal Floral Motif and Sequins",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM12JKTIY533_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM12JKTI_Y533",
+      "variants": [
+        {
+          "color": "Blue Cotton Denim Embroidered with Ivory Seasonal Floral Motif and Sequins",
+          "size": null,
+          "code": "5SBM12JKTI_Y533",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM12JKTIY533_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM13TEE5Y013",
+      "name": "Kids' T-Shirt",
+      "description": "Ivory Cotton Jersey",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM13TEE5Y013_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM13TEE5_Y013",
+      "variants": [
+        {
+          "color": "Ivory Cotton Jersey",
+          "size": null,
+          "code": "5SBM13TEE5_Y013",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM13TEE5Y013_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM13SWEDY013",
+      "name": "Kids' Sweatshirt",
+      "description": "Ivory Cotton Fleece",
+      "price": "16500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM13SWEDY013_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM13SWED_Y013",
+      "variants": [
+        {
+          "color": "Ivory Cotton Fleece",
+          "size": null,
+          "code": "5SBM13SWED_Y013",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM13SWEDY013_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM12PANIY533",
+      "name": "Kids' Pants",
+      "description": "Blue Cotton Denim Embroidered with Ivory Seasonal Floral Motif and Sequins",
+      "price": "21000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM12PANIY533_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM12PANI_Y533",
+      "variants": [
+        {
+          "color": "Blue Cotton Denim Embroidered with Ivory Seasonal Floral Motif and Sequins",
+          "size": null,
+          "code": "5SBM12PANI_Y533",
+          "price": "21000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM12PANIY533_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM11DRSBY32B",
+      "name": "Kids' Flared Dress",
+      "description": "Navy Blue and Silver-Tone Striped Cotton",
+      "price": "22000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11DRSBY32B_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM11DRSB_Y32B",
+      "variants": [
+        {
+          "color": "Navy Blue and Silver-Tone Striped Cotton",
+          "size": null,
+          "code": "5SBM11DRSB_Y32B",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11DRSBY32B_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ivory Tulle with Light Blue and Silver-Tone Seasonal Floral Motif",
+          "size": null,
+          "code": "5SBH11DRSY_Y28B",
+          "price": "47000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBH11DRSYY28B_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Indigo Blue Chiffon with Light Blue and Silver-Tone Floral Motif",
+          "size": null,
+          "code": "5SBH11DRS3_Y564",
+          "price": "53000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBH11DRS3Y564_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM11PEAPY32B",
+      "name": "Kids' Bomber Jacket",
+      "description": "Navy Blue and Silver-Tone Striped Cotton",
+      "price": "42000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11PEAPY32B_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM11PEAP_Y32B",
+      "variants": [
+        {
+          "color": "Navy Blue and Silver-Tone Striped Cotton",
+          "size": null,
+          "code": "5SBM11PEAP_Y32B",
+          "price": "42000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11PEAPY32B_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM11JKT0Y533",
+      "name": "Kids' Sleeveless Jacket",
+      "description": "Blue Pleated Cotton Blend with Seasonal Floral Motif",
+      "price": "30000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11JKT0Y533_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM11JKT0_Y533",
+      "variants": [
+        {
+          "color": "Blue Pleated Cotton Blend with Seasonal Floral Motif",
+          "size": null,
+          "code": "5SBM11JKT0_Y533",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11JKT0Y533_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM11SKT0Y533",
+      "name": "Kids' Wrap Skirt",
+      "description": "Blue Pleated Cotton Blend with Seasonal Floral Motif",
+      "price": "17500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11SKT0Y533_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM11SKT0_Y533",
+      "variants": [
+        {
+          "color": "Blue Pleated Cotton Blend with Seasonal Floral Motif",
+          "size": null,
+          "code": "5SBM11SKT0_Y533",
+          "price": "17500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11SKT0Y533_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM11SKTOY28B",
+      "name": "Kids' Short Flared Skirt",
+      "description": "Ivory Cotton Poplin with Blue Seasonal Floral Motif",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11SKTOY28B_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM11SKTO_Y28B",
+      "variants": [
+        {
+          "color": "Ivory Cotton Poplin with Blue Seasonal Floral Motif",
+          "size": null,
+          "code": "5SBM11SKTO_Y28B",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11SKTOY28B_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM11KDOZY28B",
+      "name": "Kids' Scrunchies",
+      "description": "Blue Technical Fabric and Cotton Poplin with Seasonal Floral Motif",
+      "price": "9800000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11KDOZY28B_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM11KDOZ_Y28B",
+      "variants": [
+        {
+          "color": "Blue Technical Fabric and Cotton Poplin with Seasonal Floral Motif",
+          "size": null,
+          "code": "5SBM11KDOZ_Y28B",
+          "price": "9800000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11KDOZY28B_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M1525RBTZM932",
+      "name": "Kids' Rider Backpack",
+      "description": "Deep Gray Dior Oblique Jacquard and Calfskin",
+      "price": "67000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1525RBTZM932_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M1525RBTZ_M932",
+      "variants": [
+        {
+          "color": "Deep Gray Dior Oblique Jacquard and Calfskin",
+          "size": null,
+          "code": "M1525RBTZ_M932",
+          "price": "67000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1525RBTZM932_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-4SBS15SHOLY001",
+      "name": "Kids' Ballet Flat",
+      "description": "White Patent Calfskin",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4SBS15SHOLY001_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/4SBS15SHOL_Y001",
+      "variants": [
+        {
+          "color": "White Patent Calfskin",
+          "size": null,
+          "code": "4SBS15SHOL_Y001",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/4SBS15SHOLY001_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM11SRTKY32B",
+      "name": "Kids' Shirt",
+      "description": "Navy Blue Striped Cotton and Silk Poplin with Ivory Embroidered Seasonal Floral Motif",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11SRTKY32B_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM11SRTK_Y32B",
+      "variants": [
+        {
+          "color": "Navy Blue Striped Cotton and Silk Poplin with Ivory Embroidered Seasonal Floral Motif",
+          "size": null,
+          "code": "5SBM11SRTK_Y32B",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM11SRTKY32B_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-5SBM14CARRY013",
+      "name": "Kids' Cardigan",
+      "description": "Ivory Knit Blend",
+      "price": "18000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM14CARRY013_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/5SBM14CARR_Y013",
+      "variants": [
+        {
+          "color": "Ivory Knit Blend",
+          "size": null,
+          "code": "5SBM14CARR_Y013",
+          "price": "18000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/5SBM14CARRY013_E01-1",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

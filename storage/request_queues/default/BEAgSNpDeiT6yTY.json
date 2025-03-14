@@ -1,0 +1,23 @@
+{
+  "id": "BEAgSNpDeiT6yTY",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/511v47a7795_x9101",
+  "order_no": "1741950036924.260000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/511V47A7795_X9101",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/511v47a7795_x9101",
+    "id": "BEAgSNpDeiT6yTY"
+  }
+}

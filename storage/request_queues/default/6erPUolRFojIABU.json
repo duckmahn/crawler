@@ -1,0 +1,23 @@
+{
+  "id": "6erPUolRFojIABU",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/583l434a0700_c884",
+  "order_no": "1741950057126.725000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/583L434A0700_C884",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/583l434a0700_c884",
+    "id": "6erPUolRFojIABU"
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "brand": "dior",
+  "products": [
+    {
+      "code": "prd-B0422UBVWM900",
+      "name": "30 Montaigne Belt",
+      "description": "Black Smooth Calfskin, 25 MM",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0422UBVWM900_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0422UBVW_M900",
+      "variants": [
+        {
+          "color": "Black Smooth Calfskin, 25 MM",
+          "size": null,
+          "code": "B0422UBVW_M900",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0422UBVWM900_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Brown Smooth Calfskin, 25 MM",
+          "size": null,
+          "code": "B0422UBVW_M59M",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0422UBVWM59M_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Smooth Calfskin and Silver-Tone Crystals, 20 MM",
+          "size": null,
+          "code": "B0448OETB_M900",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0448OETBM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Smooth Calfskin, 25 MM",
+          "size": null,
+          "code": "B0422WWHV_M911",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0422WWHVM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Smooth Calfskin and White Resin Pearls, 18 MM",
+          "size": null,
+          "code": "B0155UWFP_M900",
+          "price": "21000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0155UWFPM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Smooth Calfskin and White Resin Pearls, 25 MM",
+          "size": null,
+          "code": "B0422UWFP_M900",
+          "price": "22500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0422UWFPM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cannage Calfskin, 30 MM",
+          "size": null,
+          "code": "B0436UWHN_M900",
+          "price": "20500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0436UWHNM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte Cannage Calfskin, 30 MM",
+          "size": null,
+          "code": "B0436UWHN_M030",
+          "price": "20500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0436UWHNM030_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Calfskin, 17 MM",
+          "size": null,
+          "code": "B04589BVN_M900",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B04589BVNM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0176UVWVM900",
+      "name": "D-Dream Belt",
+      "description": "Black Smooth Calfskin, 20 MM",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0176UVWVM900_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0176UVWV_M900",
+      "variants": [
+        {
+          "color": "Black Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0176UVWV_M900",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0176UVWVM900_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0176UVWV_M030",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0176UVWVM030_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0448UBXXM900",
+      "name": "Lucky 30 Montaigne Star Belt",
+      "description": "Black Smooth Calfskin, 20 MM",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0448UBXXM900_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0448UBXX_M900",
+      "variants": [
+        {
+          "color": "Black Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0448UBXX_M900",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0448UBXXM900_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0667UBGOM900",
+      "name": "Dior Chic Belt",
+      "description": "Black Smooth Calfskin, 20 MM",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0667UBGOM900_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0667UBGO_M900",
+      "variants": [
+        {
+          "color": "Black Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0667UBGO_M900",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0667UBGOM900_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0664UCIFM900",
+      "name": "Dior Chase belt",
+      "description": "Black Smooth Calfskin and Elastic Band, 80 MM",
+      "price": "38000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0664UCIFM900_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0664UCIF_M900",
+      "variants": [
+        {
+          "color": "Black Smooth Calfskin and Elastic Band, 80 MM",
+          "size": null,
+          "code": "B0664UCIF_M900",
+          "price": "38000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0664UCIFM900_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0446PWGAM911",
+      "name": "30 Montaigne Reversible Belt",
+      "description": "Black and Latte Smooth Calfskin, 20 MM",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0446PWGAM911_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0446PWGA_M911",
+      "variants": [
+        {
+          "color": "Black and Latte Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0446PWGA_M911",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0446PWGAM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and Latte Smooth Calfskin, 35 MM",
+          "size": null,
+          "code": "B0447PWGA_M911",
+          "price": "23500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0447PWGAM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and Latte Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0446UWGA_M911",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0446UWGAM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and Latte Smooth Calfskin, 35 MM",
+          "size": null,
+          "code": "B0447UWGA_M911",
+          "price": "23500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0447UWGAM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Smooth Calfskin and Dior Oblique Jacquard, 20 MM",
+          "size": null,
+          "code": "B0446PWEO_M928",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0446PWEOM928_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Smooth Calfskin and Dior Oblique Jacquard, 35 MM",
+          "size": null,
+          "code": "B0447PWEO_M928",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0447PWEOM928_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Smooth Calfskin and Dior Oblique Jacquard, 20 MM",
+          "size": null,
+          "code": "B0446UWEO_M928",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0446UWEOM928_E07",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Smooth Calfskin and Dior Oblique Jacquard, 35 MM",
+          "size": null,
+          "code": "B0447UWEO_M928",
+          "price": "23500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0447UWEOM928_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and Biscuit Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0446PWGA_M220",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0446PWGAM220_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte and Black Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0446JWGA_M911",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0446JWGAM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Hazelnut and Black Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0446UWGA_M87E",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0446UWGAM87E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B06216WFSM900",
+      "name": "Le Nœud de Dior Belt",
+      "description": "Black Smooth Calfskin and White Crystals, 18 MM",
+      "price": "25500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B06216WFSM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B06216WFS_M900",
+      "variants": [
+        {
+          "color": "Black Smooth Calfskin and White Crystals, 18 MM",
+          "size": null,
+          "code": "B06216WFS_M900",
+          "price": "25500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B06216WFSM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0329UVWVM900",
+      "name": "C'est Dior Belt",
+      "description": "Black Smooth Calfskin, 20 MM",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0329UVWVM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0329UVWV_M900",
+      "variants": [
+        {
+          "color": "Black Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0329UVWV_M900",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0329UVWVM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0335CWGAM220",
+      "name": "Reversible Saddle Belt",
+      "description": "Black and Powder Beige Smooth Calfskin, 20 MM",
+      "price": "18000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0335CWGAM220_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0335CWGA_M220",
+      "variants": [
+        {
+          "color": "Black and Powder Beige Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0335CWGA_M220",
+          "price": "18000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0335CWGAM220_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Biscuit and Dusty Ivory Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0335CWGA_M868",
+          "price": "18000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0335CWGAM868_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Trench Beige and Biscuit Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0335CWGA_M29I",
+          "price": "18000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0335CWGAM29I_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and Latte Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0335CWGA_M911",
+          "price": "18000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0335CWGAM911_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Golden Saddle and Caramel Beige Smooth Calfskin, 20 MM",
+          "size": null,
+          "code": "B0335CWGA_M16E",
+          "price": "18000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0335CWGAM16E_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0445CWGHM900",
+      "name": "Saddle Belt",
+      "description": "Black Ultrasoft Calfskin, 20 MM",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0445CWGHM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0445CWGH_M900",
+      "variants": [
+        {
+          "color": "Black Ultrasoft Calfskin, 20 MM",
+          "size": null,
+          "code": "B0445CWGH_M900",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0445CWGHM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte Ultrasoft Calfskin, 20 MM",
+          "size": null,
+          "code": "B0042CWGH_M030",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0042CWGHM030_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0536CCIMM900",
+      "name": "Saddle Belt with Pouch",
+      "description": "Matte Black Supple Calfskin and Black Technical Fabric, 60 MM",
+      "price": "54000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0536CCIMM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0536CCIM_M900",
+      "variants": [
+        {
+          "color": "Matte Black Supple Calfskin and Black Technical Fabric, 60 MM",
+          "size": null,
+          "code": "B0536CCIM_M900",
+          "price": "54000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0536CCIMM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0336CVWVM911",
+      "name": "D-Fence Reversible Belt",
+      "description": "Black and Latte Smooth Calfskin, 30 MM",
+      "price": "22500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0336CVWVM911_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0336CVWV_M911",
+      "variants": [
+        {
+          "color": "Black and Latte Smooth Calfskin, 30 MM",
+          "size": null,
+          "code": "B0336CVWV_M911",
+          "price": "22500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0336CVWVM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Golden Saddle and Black Smooth Calfskin, 30 MM",
+          "size": null,
+          "code": "B0336CVWV_M62E",
+          "price": "22500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0336CVWVM62E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B0395UWGTM900",
+      "name": "30 Montaigne Jolie Belt",
+      "description": "Black Smooth Calfskin and White Resin Pearl, 20 MM",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0395UWGTM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0395UWGT_M900",
+      "variants": [
+        {
+          "color": "Black Smooth Calfskin and White Resin Pearl, 20 MM",
+          "size": null,
+          "code": "B0395UWGT_M900",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0395UWGTM900_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
+}

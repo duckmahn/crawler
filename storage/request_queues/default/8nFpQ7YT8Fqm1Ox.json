@@ -1,0 +1,23 @@
+{
+  "id": "8nFpQ7YT8Fqm1Ox",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/454s31am103_x0930",
+  "order_no": "1741950035576.845000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/454S31AM103_X0930",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/454s31am103_x0930",
+    "id": "8nFpQ7YT8Fqm1Ox"
+  }
+}

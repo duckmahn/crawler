@@ -1,0 +1,23 @@
+{
+  "id": "Ornx0LF6WP3WNOh",
+  "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/dior-star",
+  "order_no": "1741950054772.798000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/dior-star",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/dior-star",
+    "id": "Ornx0LF6WP3WNOh"
+  }
+}
