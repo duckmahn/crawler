@@ -2,7 +2,7 @@
   "id": "pG0rAt822nIAA4O",
   "unique_key": "https://www.dior.com/en_vn/fashion/news-savoir-faire/folder-news-and-events/the-dior-toujours-bag",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:47.034439+00:00",
+  "handled_at": "2025-03-17 04:06:55.572283+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/news-savoir-faire/folder-news-and-events/the-dior-toujours-bag",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/news-savoir-faire/folder-news-and-events/the-dior-toujours-bag",
-    "handled_at": "2025-03-14 11:00:47.034439+00:00",
+    "handled_at": "2025-03-17 04:06:55.572283+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/news-savoir-faire/folder-news-and-events/the-dior-toujours-bag",
     "id": "pG0rAt822nIAA4O"
   }

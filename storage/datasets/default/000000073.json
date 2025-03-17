@@ -2,389 +2,624 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-B0178UWGBM01E",
-      "name": "30 Montaigne Reversible Belt",
-      "description": "Gold-Tone and Latte Smooth Calfskin, 20 MM",
-      "price": "18620000",
+      "code": "prd-583C559A3006C585",
+      "name": "DIOR AND HYLTON NEL Oversized Shirt",
+      "description": "Blue and White Striped Cotton Oxford",
+      "price": "26000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0178UWGBM01E_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0178UWGB_M01E",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C559A3006C585_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C559A3006_C585",
       "variants": [
         {
-          "color": "Gold-Tone and Latte Smooth Calfskin, 20 MM",
+          "color": "Blue and White Striped Cotton Oxford",
           "size": null,
-          "code": "B0178UWGB_M01E",
-          "price": "18620000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0178UWGBM01E_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E1520PTCRSD301",
-      "name": "Petit CD Earrings",
-      "description": "Gold-Finish Metal and White Resin Pearls",
-      "price": "11000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1520PTCRSD301_E01-3",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E1520PTCRS_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E1520PTCRS_D301",
-          "price": "11000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1520PTCRSD301_E01-3",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-M0505OIBEM52U",
-      "name": "Mini Lady Dior Bag",
-      "description": "Caramel Beige Microbead-Embroidered Cotton with Cannage Motif",
-      "price": "165000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505OIBEM52U_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0505OIBE_M52U",
-      "variants": [
-        {
-          "color": "Caramel Beige Microbead-Embroidered Cotton with Cannage Motif",
-          "size": null,
-          "code": "M0505OIBE_M52U",
-          "price": "165000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505OIBEM52U_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-25CAN140I676CO90",
-      "name": "Dior Cannage Shawl",
-      "description": "Gold-Tone Silk Blend and Metallic Thread",
-      "price": "24010000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25CAN140I676CO90_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/25CAN140I676_CO90",
-      "variants": [
-        {
-          "color": "Gold-Tone Silk Blend and Metallic Thread",
-          "size": null,
-          "code": "25CAN140I676_CO90",
-          "price": "24010000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25CAN140I676CO90_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-JBDR950330000",
-      "name": "Bois de Rose Ring",
-      "description": "Yellow Gold",
-      "price": "37000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JBDR95033_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JBDR95033_0000",
-      "variants": [
-        {
-          "color": "Yellow Gold",
-          "size": null,
-          "code": "JBDR95033_0000",
-          "price": "37000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JBDR95033_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-JOUI950510000",
-      "name": "Dioramour Necklace",
-      "description": "Yellow Gold and Diamond",
-      "price": "65000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JOUI95051_E06",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JOUI95051_0000",
-      "variants": [
-        {
-          "color": "Yellow Gold and Diamond",
-          "size": null,
-          "code": "JOUI95051_0000",
-          "price": "65000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JOUI95051_E06",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-JOUI950520000",
-      "name": "Dioramour Ring",
-      "description": "Yellow Gold and Diamond",
-      "price": "52000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JOUI95052_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JOUI95052_0000",
-      "variants": [
-        {
-          "color": "Yellow Gold and Diamond",
-          "size": null,
-          "code": "JOUI95052_0000",
-          "price": "52000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JOUI95052_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-JMRO950070000",
-      "name": "Mimirose Bracelet",
-      "description": "Yellow Gold and Diamonds",
-      "price": "60000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JMRO95007_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JMRO95007_0000",
-      "variants": [
-        {
-          "color": "Yellow Gold and Diamonds",
-          "size": null,
-          "code": "JMRO95007_0000",
-          "price": "60000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JMRO95007_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-25DOB140I160C010",
-      "name": "Dior Oblique Shawl",
-      "description": "White Wool, Silk and Cashmere",
-      "price": "19500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB140I160C010_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/25DOB140I160_C010",
-      "variants": [
-        {
-          "color": "White Wool, Silk and Cashmere",
-          "size": null,
-          "code": "25DOB140I160_C010",
-          "price": "19500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB140I160C010_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-34DBP924G153C160",
-      "name": "D-Bobby Large Brim Hat",
-      "description": "Straw with Beige and Black Embroidered Band",
-      "price": "23000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34DBP924G153C160_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/34DBP924G153_C160",
-      "variants": [
-        {
-          "color": "Straw with Beige and Black Embroidered Band",
-          "size": null,
-          "code": "34DBP924G153_C160",
-          "price": "23000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34DBP924G153C160_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-R1009DVOCYD301",
-      "name": "Dio(r)evolution Ring",
-      "description": "Gold-Finish Metal and White Crystals",
-      "price": "10000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1009DVOCYD301_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R1009DVOCY_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Crystals",
-          "size": null,
-          "code": "R1009DVOCY_D301",
-          "price": "10000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1009DVOCYD301_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E1742PTCCYD301",
-      "name": "Petit CD Stud Earrings",
-      "description": "Gold-Finish Metal and White Crystals",
-      "price": "12500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1742PTCCYD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E1742PTCCY_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Crystals",
-          "size": null,
-          "code": "E1742PTCCY_D301",
-          "price": "12500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1742PTCCYD301_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-R1137CDLCYD301",
-      "name": "Clair D Lune Ring",
-      "description": "Gold-Finish Metal and White Crystals",
-      "price": "11000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1137CDLCYD301_E03-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R1137CDLCY_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Crystals",
-          "size": null,
-          "code": "R1137CDLCY_D301",
-          "price": "11000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1137CDLCYD301_E03-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-N2241WOMCYD03S",
-      "name": "Petit CD Necklace",
-      "description": "Gold-Finish Metal and Silver-Tone Crystals",
-      "price": "14000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N2241WOMCYD03S_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N2241WOMCY_D03S",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and Silver-Tone Crystals",
-          "size": null,
-          "code": "N2241WOMCY_D03S",
-          "price": "14000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N2241WOMCYD03S_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-N1116MTGRSD301",
-      "name": "30 Montaigne Short Necklace",
-      "description": "Gold-Finish Metal and White Resin Pearls",
-      "price": "22000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1116MTGRSD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N1116MTGRS_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "N1116MTGRS_D301",
-          "price": "22000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1116MTGRSD301_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-JGEM950210000",
-      "name": "GEM DIOR Ring",
-      "description": "Yellow Gold",
-      "price": "74000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JGEM95021_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JGEM95021_0000",
-      "variants": [
-        {
-          "color": "Yellow Gold",
-          "size": null,
-          "code": "JGEM95021_0000",
-          "price": "74000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JGEM95021_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-JMRO950010000",
-      "name": "Mimirose Ring",
-      "description": "Yellow Gold and Diamond",
-      "price": "25000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JMRO95001_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JMRO95001_0000",
-      "variants": [
-        {
-          "color": "Yellow Gold and Diamond",
-          "size": null,
-          "code": "JMRO95001_0000",
-          "price": "25000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JMRO95001_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-JRDV952320000",
-      "name": "Rose des Vents Single Earring",
-      "description": "Yellow Gold, Diamonds and Mother-of-Pearl",
-      "price": "125000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JRDV95232_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JRDV95232_0000",
-      "variants": [
-        {
-          "color": "Yellow Gold, Diamonds and Mother-of-Pearl",
-          "size": null,
-          "code": "JRDV95232_0000",
-          "price": "125000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JRDV95232_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-JRDV950010000",
-      "name": "Rose des Vents Bracelet",
-      "description": "Yellow Gold, Diamond and Mother-of-Pearl",
-      "price": "61000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JRDV95001_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/JRDV95001_0000",
-      "variants": [
-        {
-          "color": "Yellow Gold, Diamond and Mother-of-Pearl",
-          "size": null,
-          "code": "JRDV95001_0000",
-          "price": "61000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/JRDV95001_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-CD04111X12480000",
-      "name": "La D My Dior",
-      "description": "Ø 25 mm, Steel and Diamonds",
-      "price": "230000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CD04111X1248_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CD04111X1248_0000",
-      "variants": [
-        {
-          "color": "Ø 25 mm, Steel and Diamonds",
-          "size": null,
-          "code": "CD04111X1248_0000",
-          "price": "230000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CD04111X1248_E01",
+          "code": "583C559A3006_C585",
+          "price": "26000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C559A3006C585_E01",
           "additionalImages": []
         },
         {
-          "color": "Ø 25 mm, Steel and Diamonds",
+          "color": "White Cotton Poplin with Pink Stripes",
           "size": null,
-          "code": "CD04111X1249_0000",
-          "price": "135000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CD04111X1249_E01",
+          "code": "583C559B3013_C074",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C559B3013C074_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Poplin with Blue Stripes",
+          "size": null,
+          "code": "583C559B3013_C075",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C559B3013C075_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-413C513A6009C683",
+      "name": "DIOR AND HYLTON NEL Shirt",
+      "description": "Green Silk Twill",
+      "price": "55000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C513A6009C683_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/413C513A6009_C683",
+      "variants": [
+        {
+          "color": "Green Silk Twill",
+          "size": null,
+          "code": "413C513A6009_C683",
+          "price": "55000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C513A6009C683_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-493C516A6010C885",
+      "name": "DIOR AND HYLTON NEL Short-Sleeved Shirt",
+      "description": "Light Blue Silk Jacquard",
+      "price": "46000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/493C516A6010C885_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/493C516A6010_C885",
+      "variants": [
+        {
+          "color": "Light Blue Silk Jacquard",
+          "size": null,
+          "code": "493C516A6010_C885",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/493C516A6010C885_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583C552A1000C978",
+      "name": "DIOR AND HYLTON NEL Overshirt",
+      "description": "Anthracite Gray Virgin Wool and Silk Twill",
+      "price": "62000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C552A1000C978_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C552A1000_C978",
+      "variants": [
+        {
+          "color": "Anthracite Gray Virgin Wool and Silk Twill",
+          "size": null,
+          "code": "583C552A1000_C978",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C552A1000C978_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-583C557A7017C020",
+      "name": "DIOR AND HYLTON NEL Zipped Shirt",
+      "description": "White Cotton Twill",
+      "price": "38000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C557A7017C020_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583C557A7017_C020",
+      "variants": [
+        {
+          "color": "White Cotton Twill",
+          "size": null,
+          "code": "583C557A7017_C020",
+          "price": "38000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583C557A7017C020_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-013C502A6006C085",
+      "name": "Dior Oblique Shirt",
+      "description": "White and Blue Silk Twill",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013C502A6006C085_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/013C502A6006_C085",
+      "variants": [
+        {
+          "color": "White and Blue Silk Twill",
+          "size": null,
+          "code": "013C502A6006_C085",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013C502A6006C085_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Jacquard",
+          "size": null,
+          "code": "013C502A4743_C080",
+          "price": "20000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013C502A4743C080_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cotton Jacquard",
+          "size": null,
+          "code": "013C502A4743_C989",
+          "price": "20000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013C502A4743C989_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-193C545A6006C085",
+      "name": "Dior Oblique Short-Sleeved Shirt",
+      "description": "White and Navy Blue Silk Twill",
+      "price": "48000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/193C545A6006C085_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/193C545A6006_C085",
+      "variants": [
+        {
+          "color": "White and Navy Blue Silk Twill",
+          "size": null,
+          "code": "193C545A6006_C085",
+          "price": "48000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/193C545A6006C085_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Jacquard",
+          "size": null,
+          "code": "013C503A4743_C080",
+          "price": "18500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013C503A4743C080_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513D595A321XC584",
+      "name": "DIOR AND KAWS Overshirt",
+      "description": "Blue Cotton-Blend Denim",
+      "price": "58000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D595A321XC584_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513D595A321X_C584",
+      "variants": [
+        {
+          "color": "Blue Cotton-Blend Denim",
+          "size": null,
+          "code": "513D595A321X_C584",
+          "price": "58000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D595A321XC584_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Pink Technical Satin",
+          "size": null,
+          "code": "313C509E5918_C400",
+          "price": "74000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C509E5918C400_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-393C532E7017C020",
+      "name": "DIOR AND KAWS Short-Sleeved Shirt",
+      "description": "Off-White Cotton Twill",
+      "price": "29000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/393C532E7017C020_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/393C532E7017_C020",
+      "variants": [
+        {
+          "color": "Off-White Cotton Twill",
+          "size": null,
+          "code": "393C532E7017_C020",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/393C532E7017C020_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-493C512B7017C020",
+      "name": "DIOR AND KAWS Shirt",
+      "description": "Off-White Cotton Twill",
+      "price": "31000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/493C512B7017C020_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/493C512B7017_C020",
+      "variants": [
+        {
+          "color": "Off-White Cotton Twill",
+          "size": null,
+          "code": "493C512B7017_C020",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/493C512B7017C020_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C540A6474C880",
+      "name": "Checkered Zipped Shirt",
+      "description": "Gray Checkered Wool",
+      "price": "83000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C540A6474C880_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C540A6474_C880",
+      "variants": [
+        {
+          "color": "Gray Checkered Wool",
+          "size": null,
+          "code": "513C540A6474_C880",
+          "price": "83000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C540A6474C880_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C531A6485C989",
+      "name": "Christian Dior Couture Embroidery Pullover Shirt",
+      "description": "Black Silk",
+      "price": "65000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C531A6485C989_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C531A6485_C989",
+      "variants": [
+        {
+          "color": "Black Silk",
+          "size": null,
+          "code": "513C531A6485_C989",
+          "price": "65000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C531A6485C989_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-313C509AA475C989",
+      "name": "Cannage Overshirt",
+      "description": "Black Technical Fabric",
+      "price": "74000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C509AA475C989_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/313C509AA475_C989",
+      "variants": [
+        {
+          "color": "Black Technical Fabric",
+          "size": null,
+          "code": "313C509AA475_C989",
+          "price": "74000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C509AA475C989_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Technical Fabric",
+          "size": null,
+          "code": "313C509AA475_C585",
+          "price": "74000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/313C509AA475C585_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513D594A3005C580",
+      "name": "Dior Archives Labels Overshirt",
+      "description": "Navy Blue Cotton Twill",
+      "price": "77000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D594A3005C580_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513D594A3005_C580",
+      "variants": [
+        {
+          "color": "Navy Blue Cotton Twill",
+          "size": null,
+          "code": "513D594A3005_C580",
+          "price": "77000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D594A3005C580_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513D591A3002C585",
+      "name": "Overshirt with Checkered Interior",
+      "description": "Blue Cotton Denim",
+      "price": "68000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D591A3002C585_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513D591A3002_C585",
+      "variants": [
+        {
+          "color": "Blue Cotton Denim",
+          "size": null,
+          "code": "513D591A3002_C585",
+          "price": "68000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D591A3002C585_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513D593A6000C540",
+      "name": "Dior Icons Overshirt",
+      "description": "Navy Blue Silk Twill",
+      "price": "71000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D593A6000C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513D593A6000_C540",
+      "variants": [
+        {
+          "color": "Navy Blue Silk Twill",
+          "size": null,
+          "code": "513D593A6000_C540",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513D593A6000C540_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-413C513A6067C520",
+      "name": "Dior Icons Cannage Shirt",
+      "description": "Blue Silk Blend",
+      "price": "50000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C513A6067C520_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/413C513A6067_C520",
+      "variants": [
+        {
+          "color": "Blue Silk Blend",
+          "size": null,
+          "code": "413C513A6067_C520",
+          "price": "50000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C513A6067C520_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-493C516A6067C030",
+      "name": "Dior Icons Short-Sleeved Shirt",
+      "description": "White Silk Blend",
+      "price": "47000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/493C516A6067C030_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/493C516A6067_C030",
+      "variants": [
+        {
+          "color": "White Silk Blend",
+          "size": null,
+          "code": "493C516A6067_C030",
+          "price": "47000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/493C516A6067C030_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C201A6296C100",
+      "name": "Oversized Overshirt",
+      "description": "Beige Cotton, Cashmere and Virgin Wool",
+      "price": "175000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C201A6296C100_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C201A6296_C100",
+      "variants": [
+        {
+          "color": "Beige Cotton, Cashmere and Virgin Wool",
+          "size": null,
+          "code": "513C201A6296_C100",
+          "price": "175000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C201A6296C100_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-513C542A6472C989",
+      "name": "CD Icon Embroidery Shirt",
+      "description": "Black Cotton Gabardine",
+      "price": "43000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C542A6472C989_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513C542A6472_C989",
+      "variants": [
+        {
+          "color": "Black Cotton Gabardine",
+          "size": null,
+          "code": "513C542A6472_C989",
+          "price": "43000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513C542A6472C989_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-413D488B349XC530",
+      "name": "Overshirt",
+      "description": "Blue Cotton-Blend Twill",
+      "price": "41000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413D488B349XC530_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/413D488B349X_C530",
+      "variants": [
+        {
+          "color": "Blue Cotton-Blend Twill",
+          "size": null,
+          "code": "413D488B349X_C530",
+          "price": "41000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413D488B349XC530_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue and White Dior Oblique Kasuri Cotton Denim",
+          "size": null,
+          "code": "013D585BY989_C580",
+          "price": "47000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013D585BY989C580_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-413D488A374XC580",
+      "name": "Dior Oblique Overshirt",
+      "description": "Blue Raw Cotton Denim",
+      "price": "61000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413D488A374XC580_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/413D488A374X_C580",
+      "variants": [
+        {
+          "color": "Blue Raw Cotton Denim",
+          "size": null,
+          "code": "413D488A374X_C580",
+          "price": "61000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413D488A374XC580_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cotton-Blend Twill",
+          "size": null,
+          "code": "033D490M321X_C585",
+          "price": "50000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/033D490M321XC585_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-413C513B6242C070",
+      "name": "Dior Icons Dior Embroidered Shirt",
+      "description": "White Cotton Poplin with Blue Stripes",
+      "price": "30000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C513B6242C070_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/413C513B6242_C070",
+      "variants": [
+        {
+          "color": "White Cotton Poplin with Blue Stripes",
+          "size": null,
+          "code": "413C513B6242_C070",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413C513B6242C070_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-463C541W6680C089",
+      "name": "Shirt with Dior Embroidery",
+      "description": "White Cotton Poplin",
+      "price": "20000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/463C541W6680C089_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/463C541W6680_C089",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "463C541W6680_C089",
+          "price": "20000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/463C541W6680C089_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-013C501F1581C080",
+      "name": "Shirt with Embroidered Bee Jewel",
+      "description": "White Cotton Poplin",
+      "price": "24000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013C501F1581C080_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/013C501F1581_C080",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "013C501F1581_C080",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/013C501F1581C080_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-433C561A1581C000",
+      "name": "Shirt with Snaps",
+      "description": "White Cotton Poplin",
+      "price": "23000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/433C561A1581C000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/433C561A1581_C000",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "433C561A1581_C000",
+          "price": "23000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/433C561A1581C000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-733C518B1581C089",
+      "name": "Shirt with Black Bee Embroidery",
+      "description": "White Cotton Poplin",
+      "price": "19000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/733C518B1581C089_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/733C518B1581_C089",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "733C518B1581_C089",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/733C518B1581C089_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-733C554B2088C081",
+      "name": "Shirt with Gold Bee Embroidery",
+      "description": "White Cotton Poplin",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/733C554B2088C081_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/733C554B2088_C081",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "733C554B2088_C081",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/733C554B2088C081_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-733C510B1581C089",
+      "name": "Short-Sleeved Shirt with Black Bee Embroidery",
+      "description": "White Cotton Poplin",
+      "price": "17500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/733C510B1581C089_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/733C510B1581_C089",
+      "variants": [
+        {
+          "color": "White Cotton Poplin",
+          "size": null,
+          "code": "733C510B1581_C089",
+          "price": "17500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/733C510B1581C089_E01-1",
           "additionalImages": []
         }
       ]

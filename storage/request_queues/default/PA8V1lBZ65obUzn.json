@@ -1,0 +1,23 @@
+{
+  "id": "PA8V1lBZ65obUzn",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/924s55am009_x8805",
+  "order_no": "1742184406891.633000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/924S55AM009_X8805",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/924s55am009_x8805",
+    "id": "PA8V1lBZ65obUzn"
+  }
+}

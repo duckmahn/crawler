@@ -2,7 +2,7 @@
   "id": "8v2H38EPpuSO88s",
   "unique_key": "https://www.dior.com/en_vn/fashion/gifts-personalization/gifts/the-art-of-gifting",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:33.455578+00:00",
+  "handled_at": "2025-03-17 04:06:43.589460+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/gifts-personalization/gifts/the-art-of-gifting",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/gifts-personalization/gifts/the-art-of-gifting",
-    "handled_at": "2025-03-14 11:00:33.455578+00:00",
+    "handled_at": "2025-03-17 04:06:43.589460+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/gifts-personalization/gifts/the-art-of-gifting",
     "id": "8v2H38EPpuSO88s"
   }

@@ -2,331 +2,529 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-M2836PNUCM900",
-      "name": "Medium Dior Toujours Vertical Tote Bag",
-      "description": "Black Macrocannage Crinkled Calfskin",
-      "price": "115000000",
+      "code": "prd-S5611CDFDM925",
+      "name": "Saddle Bloom Card Holder",
+      "description": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
+      "price": "13000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2836PNUCM900_E03-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2836PNUC_M900",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5611CDFDM925_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5611CDFD_M925",
       "variants": [
         {
-          "color": "Black Macrocannage Crinkled Calfskin",
+          "color": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
           "size": null,
-          "code": "M2836PNUC_M900",
-          "price": "115000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2836PNUCM900_E03-1",
+          "code": "S5611CDFD_M925",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5611CDFDM925_E01",
           "additionalImages": []
         },
         {
-          "color": "Black Macrocannage Calfskin",
+          "color": "Gray Dior Oblique Jacquard",
           "size": null,
-          "code": "M2836OSNW_M900",
-          "price": "107000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2836OSNWM900_E03",
+          "code": "S5611CTZQ_M932",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5611CTZQM932_E01",
           "additionalImages": []
         },
         {
-          "color": "Powder Beige Macrocannage Calfskin",
+          "color": "Blue Dior Oblique Jacquard",
           "size": null,
-          "code": "M2836OSNW_M51U",
-          "price": "107000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2836OSNWM51U_E03",
+          "code": "S5611CTZQ_M928",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5611CTZQM928_E01-1",
           "additionalImages": []
         },
         {
-          "color": "Warm Taupe Macrocannage Calfskin",
+          "color": "Blue Dior Oblique Jacquard and Smooth Calfskin",
           "size": null,
-          "code": "M2836OSNW_M59U",
-          "price": "107000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2836OSNWM59U_E03",
+          "code": "S5611CNKO_M928",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5611CNKOM928_E01",
           "additionalImages": []
         },
         {
-          "color": "Black Tweed with White Cannage Motif",
+          "color": "Black Grained Calfskin",
           "size": null,
-          "code": "M2836ODFG_M911",
-          "price": "102000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2836ODFGM911_E03",
+          "code": "S5611CBAA_M900",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5611CBAAM900_E01-1",
           "additionalImages": []
         },
         {
-          "color": "Stone Gray Macrocannage Calfskin",
+          "color": "Sand-Colored Goatskin",
           "size": null,
-          "code": "M2836OSNW_M41G",
-          "price": "107000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2836OSNWM41G_E03",
+          "code": "S5611CCEH_M116",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5611CCEHM116_E01",
           "additionalImages": []
         },
         {
-          "color": "Pale Pink Macrocannage Calfskin",
+          "color": "Black Goatskin",
           "size": null,
-          "code": "M2836OSNW_M02N",
-          "price": "107000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2836OSNWM02N_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-M2835OSNWM900",
-      "name": "Small Dior Toujours Vertical Tote Bag",
-      "description": "Black Macrocannage Calfskin",
-      "price": "93000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2835OSNWM900_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2835OSNW_M900",
-      "variants": [
-        {
-          "color": "Black Macrocannage Calfskin",
-          "size": null,
-          "code": "M2835OSNW_M900",
-          "price": "93000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2835OSNWM900_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Powder Beige Macrocannage Calfskin",
-          "size": null,
-          "code": "M2835OSNW_M51U",
-          "price": "93000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2835OSNWM51U_E03-2",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Macrocannage Calfskin",
-          "size": null,
-          "code": "M2835OSNW_M030",
-          "price": "93000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2835OSNWM030_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Rose des Vents Tweed with White Cannage Motif",
-          "size": null,
-          "code": "M2835ODFG_M912",
-          "price": "88000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2835ODFGM912_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Tweed with White Cannage Motif",
-          "size": null,
-          "code": "M2835ODFG_M911",
-          "price": "88000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2835ODFGM911_E03-2",
-          "additionalImages": []
-        },
-        {
-          "color": "Medium Tan Macrocannage Calfskin",
-          "size": null,
-          "code": "M2835OSNW_M53U",
-          "price": "93000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2835OSNWM53U_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Warm Taupe Macrocannage Calfskin",
-          "size": null,
-          "code": "M2835OSNW_M59U",
-          "price": "93000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2835OSNWM59U_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-M2821OSNWM59U",
-      "name": "Medium Dior Toujours Bag",
-      "description": "Warm Taupe Macrocannage Calfskin",
-      "price": "110000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSNWM59U_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2821OSNW_M59U",
-      "variants": [
-        {
-          "color": "Warm Taupe Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSNW_M59U",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSNWM59U_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSHJ_M900",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSHJM900_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Macrocannage Crinkled Calfskin",
-          "size": null,
-          "code": "M2821SNIO_M900",
-          "price": "115000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821SNIOM900_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSHJ_M030",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSHJM030_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Medium Tan Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSHJ_M53U",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSHJM53U_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Rope Beige and Black Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSIY_M963",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSIYM963_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Powder Beige Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSHJ_M51U",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSHJM51U_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Biscuit and Trench Beige Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSIY_M29I",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSIYM29I_E03",
+          "code": "S5611CCEH_M900",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5611CCEHM900_E01-1",
           "additionalImages": []
         },
         {
           "color": "Blue Denim Dior Oblique Jacquard",
           "size": null,
-          "code": "M2821ODCE_M49E",
-          "price": "105000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821ODCEM49E_E03",
+          "code": "S5611CDCE_M49E",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5611CDCEM49E_E01",
           "additionalImages": []
         },
         {
-          "color": "Denim Blue Tweed with White Cannage Motif",
+          "color": "Cloud Blue Goatskin",
           "size": null,
-          "code": "M2821OTKV_M52I",
-          "price": "100000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OTKVM52I_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Tweed with Cannage Motif in Gold-Tone Metallic Thread",
-          "size": null,
-          "code": "M2821ODIO_M197",
-          "price": "100000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821ODIOM197_E03-1",
+          "code": "S5611CCEH_M81B",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5611CCEHM81B_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-M2822OSHJM900",
-      "name": "Small Dior Toujours Bag",
-      "description": "Black Macrocannage Calfskin",
-      "price": "98000000",
+      "code": "prd-S5644CTZQM928",
+      "name": "Saddle Jasmine Gusset Card Holder",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "13230000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2822OSHJM900_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2822OSHJ_M900",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5644CTZQM928_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5644CTZQ_M928",
       "variants": [
         {
-          "color": "Black Macrocannage Calfskin",
+          "color": "Blue Dior Oblique Jacquard",
           "size": null,
-          "code": "M2822OSHJ_M900",
-          "price": "98000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2822OSHJM900_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Macrocannage Calfskin",
-          "size": null,
-          "code": "M2822OSHJ_M030",
-          "price": "98000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2822OSHJM030_E03",
+          "code": "S5644CTZQ_M928",
+          "price": "13230000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5644CTZQM928_E01-1",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-M2820OSHJM900",
-      "name": "Large Dior Toujours Bag",
-      "description": "Black Macrocannage Calfskin",
-      "price": "120000000",
+      "code": "prd-S5130UWHCM116",
+      "name": "Dior Caro Freesia Card Holder",
+      "description": "Sand-Colored Supple Cannage Calfskin",
+      "price": "10500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2820OSHJM900_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2820OSHJ_M900",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5130UWHCM116_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5130UWHC_M116",
       "variants": [
         {
-          "color": "Black Macrocannage Calfskin",
+          "color": "Sand-Colored Supple Cannage Calfskin",
           "size": null,
-          "code": "M2820OSHJ_M900",
-          "price": "120000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2820OSHJM900_E03",
+          "code": "S5130UWHC_M116",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5130UWHCM116_E01-1",
           "additionalImages": []
         },
         {
-          "color": "Black Macrocannage Crinkled Calfskin",
+          "color": "Black Cannage Lambskin with Star Motif",
           "size": null,
-          "code": "M2820SNIO_M900",
-          "price": "125000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2820SNIOM900_E03",
+          "code": "S5130UNTZ_M900",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5130UNTZM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Supple Cannage Calfskin",
+          "size": null,
+          "code": "S5130UWHC_M900",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5130UWHCM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Pink Supple Cannage Calfskin",
+          "size": null,
+          "code": "S5130UWHC_M413",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5130UWHCM413_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S0974ONMJM59U",
+      "name": "Lady Dior Freesia Card Holder",
+      "description": "Warm Taupe Cannage Lambskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0974ONMJM59U_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S0974ONMJ_M59U",
+      "variants": [
+        {
+          "color": "Warm Taupe Cannage Lambskin",
+          "size": null,
+          "code": "S0974ONMJ_M59U",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0974ONMJM59U_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Shirt Blue Patent Cannage Calfskin",
+          "size": null,
+          "code": "S0974OVRB_M26Z",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0974OVRBM26Z_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Two-Tone Powder Beige and Dusty Ivory Cannage Lambskin",
+          "size": null,
+          "code": "S0974OBWS_M10I",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0974OBWSM10I_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Hydrangea Pink Patent Cannage Calfskin",
+          "size": null,
+          "code": "S0974OVRB_M06N",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0974OVRBM06N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cannage Lambskin",
+          "size": null,
+          "code": "S0974ONMJ_M900",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0974ONMJM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Cloud Blue Patent Cannage Calfskin",
+          "size": null,
+          "code": "S0974OVRB_M81B",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0974OVRBM81B_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S3103UNJBM059",
+      "name": "Dior Jolie Freesia Card Holder",
+      "description": "Linen Beige Cannage Lambskin",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3103UNJBM059_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S3103UNJB_M059",
+      "variants": [
+        {
+          "color": "Linen Beige Cannage Lambskin",
+          "size": null,
+          "code": "S3103UNJB_M059",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3103UNJBM059_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cannage Lambskin",
+          "size": null,
+          "code": "S3103UNJB_M900",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3103UNJBM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Off-White Cannage Lambskin",
+          "size": null,
+          "code": "S3103UNJB_M61U",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3103UNJBM61U_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Pink Cannage Lambskin",
+          "size": null,
+          "code": "S3103UNJB_M413",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3103UNJBM413_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S2152UDFFM925",
+      "name": "30 Montaigne Freesia Card Holder",
+      "description": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2152UDFFM925_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S2152UDFF_M925",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
+          "size": null,
+          "code": "S2152UDFF_M925",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2152UDFFM925_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Pink Toile de Jouy Reverse Jacquard",
+          "size": null,
+          "code": "S2152UNJR_M912",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2152UNJRM912_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "S2152UTZQ_M928",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2152UTZQM928_E01",
           "additionalImages": []
         },
         {
           "color": "Blue Denim Dior Oblique Jacquard",
           "size": null,
-          "code": "M2820ODCE_M49E",
-          "price": "115000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2820ODCEM49E_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Deep Ocean Blue Macrocannage Calfskin",
-          "size": null,
-          "code": "M2820OSHJ_M66B",
-          "price": "120000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2820OSHJM66B_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Khaki Macrocannage Grained Calfskin",
-          "size": null,
-          "code": "M2820OSKR_M656",
-          "price": "120000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2820OSKRM656_E03",
+          "code": "S2152UDCE_M49E",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2152UDCEM49E_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-M2821OSKZM030",
-      "name": "Dioramour Medium Dior Toujours Bag",
-      "description": "Latte Macrocannage Calfskin",
-      "price": "115000000",
+      "code": "prd-S0074OVRBM26Z",
+      "name": "Lady Dior Jasmine Card Holder",
+      "description": "Shirt Blue Patent Cannage Calfskin",
+      "price": "13500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSKZM030_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2821OSKZ_M030",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0074OVRBM26Z_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S0074OVRB_M26Z",
       "variants": [
         {
-          "color": "Latte Macrocannage Calfskin",
+          "color": "Shirt Blue Patent Cannage Calfskin",
           "size": null,
-          "code": "M2821OSKZ_M030",
-          "price": "115000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSKZM030_E03",
+          "code": "S0074OVRB_M26Z",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0074OVRBM26Z_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Two-Tone Powder Beige and Dusty Ivory Cannage Lambskin",
+          "size": null,
+          "code": "S0074OBWS_M10I",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0074OBWSM10I_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Pink Cannage Lambskin",
+          "size": null,
+          "code": "S0074ONMJ_M973",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0074ONMJM973_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Sky Blue Patent Cannage Calfskin",
+          "size": null,
+          "code": "S0074OVRB_M81B",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0074OVRBM81B_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S5130UZDYM941",
+      "name": "Dioramour Dior Caro Freesia Card Holder",
+      "description": "Latte Calfskin with Multicolor Cœur des Curiosités Print",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5130UZDYM941_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5130UZDY_M941",
+      "variants": [
+        {
+          "color": "Latte Calfskin with Multicolor Cœur des Curiosités Print",
+          "size": null,
+          "code": "S5130UZDY_M941",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5130UZDYM941_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S5211UHAGM51U",
+      "name": "Miss Caro Passport Holder",
+      "description": "Powder Beige Macrocannage Lambskin",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5211UHAGM51U_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5211UHAG_M51U",
+      "variants": [
+        {
+          "color": "Powder Beige Macrocannage Lambskin",
+          "size": null,
+          "code": "S5211UHAG_M51U",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5211UHAGM51U_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Macrocannage Lambskin",
+          "size": null,
+          "code": "S5211UHAG_M900",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5211UHAGM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S5692CCEHM900",
+      "name": "Saddle Cosmos Zipped Card Holder",
+      "description": "Black Goatskin",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5692CCEHM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5692CCEH_M900",
+      "variants": [
+        {
+          "color": "Black Goatskin",
+          "size": null,
+          "code": "S5692CCEH_M900",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5692CCEHM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "S5692CTZQ_M928",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5692CTZQM928_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Cloud Blue Goatskin",
+          "size": null,
+          "code": "S5692CCEH_M81B",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5692CCEHM81B_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S3601UBTKM900",
+      "name": "Miss Dior Freesia Card Holder",
+      "description": "Black Lambskin with Quilted Miss Dior Allover Motif",
+      "price": "10500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3601UBTKM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S3601UBTK_M900",
+      "variants": [
+        {
+          "color": "Black Lambskin with Quilted Miss Dior Allover Motif",
+          "size": null,
+          "code": "S3601UBTK_M900",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3601UBTKM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S0965ONMJM900",
+      "name": "Lady Dior Cosmos Zipped Card Holder",
+      "description": "Black Cannage Lambskin",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0965ONMJM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S0965ONMJ_M900",
+      "variants": [
+        {
+          "color": "Black Cannage Lambskin",
+          "size": null,
+          "code": "S0965ONMJ_M900",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0965ONMJM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S5131UWHCM900",
+      "name": "Dior Caro Cosmos Zipped Card Holder",
+      "description": "Black Supple Cannage Calfskin",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5131UWHCM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5131UWHC_M900",
+      "variants": [
+        {
+          "color": "Black Supple Cannage Calfskin",
+          "size": null,
+          "code": "S5131UWHC_M900",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5131UWHCM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S6036ONMJM900",
+      "name": "My Dior Dandelion Card Holder",
+      "description": "Black Cannage Lambskin",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S6036ONMJM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S6036ONMJ_M900",
+      "variants": [
+        {
+          "color": "Black Cannage Lambskin",
+          "size": null,
+          "code": "S6036ONMJ_M900",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S6036ONMJM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S2339UTZQM928",
+      "name": "30 Montaigne Dandelion Card Holder",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "13000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2339UTZQM928_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S2339UTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "S2339UTZQ_M928",
+          "price": "13000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2339UTZQM928_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-S2177UTZQM928",
+      "name": "DiorTravel Myrte Zipped Key Case",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2177UTZQM928_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S2177UTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "S2177UTZQ_M928",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2177UTZQM928_E01",
           "additionalImages": []
         }
       ]

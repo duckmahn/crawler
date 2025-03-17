@@ -2,7 +2,7 @@
   "id": "A1kLYVnABpoB8kv",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/briefcases",
   "order_no": null,
-  "handled_at": "2025-03-14 11:01:02.440814+00:00",
+  "handled_at": "2025-03-17 04:07:10.143276+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/briefcases",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/briefcases",
-    "handled_at": "2025-03-14 11:01:02.440814+00:00",
+    "handled_at": "2025-03-17 04:07:10.143276+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/briefcases",
     "id": "A1kLYVnABpoB8kv"
   }

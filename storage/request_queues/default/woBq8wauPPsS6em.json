@@ -2,7 +2,7 @@
   "id": "woBq8wauPPsS6em",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/all-ready-to-wear",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:35.672745+00:00",
+  "handled_at": "2025-03-17 04:06:46.039596+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/all-ready-to-wear",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/all-ready-to-wear",
-    "handled_at": "2025-03-14 11:00:35.672745+00:00",
+    "handled_at": "2025-03-17 04:06:46.039596+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/all-ready-to-wear",
     "id": "woBq8wauPPsS6em"
   }

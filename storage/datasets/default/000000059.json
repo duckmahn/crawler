@@ -2,580 +2,439 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-B2812WOMRSD301",
-      "name": "Petit CD Jolie Bracelet",
-      "description": "Gold-Finish Metal and White Resin Pearls",
-      "price": "12500000",
+      "code": "prd-KCK427MPAS10W",
+      "name": "D-Sketch Sneaker",
+      "description": "White Nylon and Calfskin",
+      "price": "29000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2812WOMRSD301_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2812WOMRS_D301",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK427MPAS10W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK427MPA_S10W",
       "variants": [
         {
-          "color": "Gold-Finish Metal and White Resin Pearls",
+          "color": "White Nylon and Calfskin",
           "size": null,
-          "code": "B2812WOMRS_D301",
-          "price": "12500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2812WOMRSD301_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2866WOMCYD03S",
-      "name": "Dio(r)evolution Bracelet",
-      "description": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-      "price": "17500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2866WOMCYD03S_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2866WOMCY_D03S",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-          "size": null,
-          "code": "B2866WOMCY_D03S",
-          "price": "17500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2866WOMCYD03S_E01",
+          "code": "KCK427MPA_S10W",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK427MPAS10W_E02",
           "additionalImages": []
         },
         {
-          "color": "Gold-Finish Metal and White Resin Pearls",
+          "color": "Black Nylon and Calfskin",
           "size": null,
-          "code": "B1583DVORS_D301",
-          "price": "13230000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1583DVORSD301_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2800WOMCYD03S",
-      "name": "Dior Céleste Bangle",
-      "description": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-      "price": "20000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2800WOMCYD03S_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2800WOMCY_D03S",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-          "size": null,
-          "code": "B2800WOMCY_D03S",
-          "price": "20000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2800WOMCYD03S_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2855WOMRSD05K",
-      "name": "Christian Dior Bracelet Set",
-      "description": "Black and Pale Pink Cotton with Gold-Finish Metal and White Resin Pearls",
-      "price": "13000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2855WOMRSD05K_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2855WOMRS_D05K",
-      "variants": [
-        {
-          "color": "Black and Pale Pink Cotton with Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "B2855WOMRS_D05K",
-          "price": "13000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2855WOMRSD05K_E01",
+          "code": "KCK427MPA_S900",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK427MPAS900_E02",
           "additionalImages": []
         },
         {
-          "color": "Black and White Cotton with Gold-Finish Metal",
+          "color": "Silver-Tone Crinkled Lambskin and Laminated Calfskin",
           "size": null,
-          "code": "B2637WOMMT_D641",
-          "price": "13000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2637WOMMTD641_E01",
+          "code": "KCK445LPA_S46K",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK445LPAS46K_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCK414TRLS59K",
+      "name": "Dior Chrono Sneaker",
+      "description": "Gray Mesh with Silver-Tone Laminated Leather-Effect Panels",
+      "price": "30000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRLS59K_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK414TRL_S59K",
+      "variants": [
+        {
+          "color": "Gray Mesh with Silver-Tone Laminated Leather-Effect Panels",
+          "size": null,
+          "code": "KCK414TRL_S59K",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRLS59K_E02",
           "additionalImages": []
         },
         {
-          "color": "Gold-Tone and White Dior Oblique Cotton",
+          "color": "Mesh with White and Black Leather-Effect Panels",
           "size": null,
-          "code": "B0961ADRCO_D22W",
-          "price": "12000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0961ADRCOD22W_E01",
+          "code": "KCK414TRM_S19W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS19W_E02-2",
           "additionalImages": []
         },
         {
-          "color": "Gray Dior Oblique Cotton",
+          "color": "Mesh and White Leather-Effect Panels",
           "size": null,
-          "code": "B0961ADRCO_D13G",
-          "price": "12000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0961ADRCOD13G_E01",
+          "code": "KCK414TRM_S10W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS10W_E02-1",
           "additionalImages": []
         },
         {
-          "color": "Navy Blue Dior Oblique Cotton",
+          "color": "White and Sky Blue Mesh and Leather-Effect Panels",
           "size": null,
-          "code": "B0961ADRCO_D650",
-          "price": "12000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0961ADRCOD650_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B1133PMTCYD13S",
-      "name": "Petit CD Double Bracelet",
-      "description": "Palladium-Finish Metal and Silver-Tone Crystals",
-      "price": "13500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1133PMTCYD13S_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B1133PMTCY_D13S",
-      "variants": [
-        {
-          "color": "Palladium-Finish Metal and Silver-Tone Crystals",
-          "size": null,
-          "code": "B1133PMTCY_D13S",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1133PMTCYD13S_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B1310PTCRSD009",
-      "name": "Petit CD Bracelet",
-      "description": "Palladium-Finish Metal and White Resin Pearl",
-      "price": "11000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1310PTCRSD009_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B1310PTCRS_D009",
-      "variants": [
-        {
-          "color": "Palladium-Finish Metal and White Resin Pearl",
-          "size": null,
-          "code": "B1310PTCRS_D009",
-          "price": "11000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1310PTCRSD009_E01",
+          "code": "KCK414TRM_S41W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS41W_E02",
           "additionalImages": []
         },
         {
-          "color": "Gold-Finish Metal and White Resin Pearl",
+          "color": "Beige Mesh and Suede Calfskin",
           "size": null,
-          "code": "B1310PTCRS_D301",
-          "price": "11000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1310PTCRSD301_E01",
+          "code": "KCK414SUH_S24W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414SUHS24W_E02-1",
           "additionalImages": []
         },
         {
-          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+          "color": "White Mesh with Nude and Silver-Tone Laminated Leather-Effect Panels",
           "size": null,
-          "code": "B2691WOMCY_D03S",
-          "price": "15500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2691WOMCYD03S_E01",
+          "code": "KCK414TXX_S15U",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TXXS15U_E02",
           "additionalImages": []
         },
         {
-          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "color": "Nude Mesh and Suede Calfskin",
           "size": null,
-          "code": "B1940WOMCY_D03S",
-          "price": "11500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1940WOMCYD03S_E01",
+          "code": "KCK414SUH_S62U",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414SUHS62U_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCK365OBUS47W",
+      "name": "Dior Vibe Sneaker",
+      "description": "Gray Dior Oblique Technical Fabric and Transparent Rubber",
+      "price": "31000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK365OBUS47W_E02-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK365OBU_S47W",
+      "variants": [
+        {
+          "color": "Gray Dior Oblique Technical Fabric and Transparent Rubber",
+          "size": null,
+          "code": "KCK365OBU_S47W",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK365OBUS47W_E02-1",
           "additionalImages": []
         },
         {
-          "color": "Silver-Finish Metal and White Crystals",
+          "color": "White Mesh Printed with Dior Oblique Motif and White and Black Leather-Effect Panels",
           "size": null,
-          "code": "B1940WOMCY_D001",
-          "price": "11500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1940WOMCYD001_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2880WOMRSD301",
-      "name": "Lucky Dior Bracelet",
-      "description": "Gold-Finish Metal and White Resin Pearls",
-      "price": "14500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2880WOMRSD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2880WOMRS_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "B2880WOMRS_D301",
-          "price": "14500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2880WOMRSD301_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2833WOMLQD97P",
-      "name": "D-Dice Bracelet",
-      "description": "Pale Pink Cotton and Lacquer with Gold-Finish Metal and White Resin Pearls",
-      "price": "12500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2833WOMLQD97P_E01-2",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2833WOMLQ_D97P",
-      "variants": [
-        {
-          "color": "Pale Pink Cotton and Lacquer with Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "B2833WOMLQ_D97P",
-          "price": "12500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2833WOMLQD97P_E01-2",
+          "code": "KCK415OFK_S19W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK415OFKS19W_E02-1",
           "additionalImages": []
         },
         {
-          "color": "Sky Blue Cotton and Lacquer, Gold-Finish Metal and White Resin Pearls",
+          "color": "Deep Blue Dior Oblique Technical Fabric and Transparent Rubber",
           "size": null,
-          "code": "B2833WOMLQ_D94B",
-          "price": "12500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2833WOMLQD94B_E01-1",
+          "code": "KCK365OBU_S29W",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK365OBUS29W_E02-1",
           "additionalImages": []
         },
         {
-          "color": "Black Cotton and Lacquer with Gold-Finish Metal and White Resin Pearls",
+          "color": "Chambray Blue Jacquard with Raffia Dior Oblique Motif and Ecru Suede Calfskin",
           "size": null,
-          "code": "B2833WOMLQ_D307",
-          "price": "12500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2833WOMLQD307_E01-1",
+          "code": "KCK443ROU_S28N",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK443ROUS28N_E02",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-B2579WOMLQD97P",
-      "name": "Dior Night Code Bangle",
-      "description": "Gold-Finish Metal with White Crystals and Pale Pink Lacquer",
-      "price": "25000000",
+      "code": "prd-KCK441CVAS10W",
+      "name": "Walk'n'Dior Platform Sneaker",
+      "description": "Black and White Fringed Cotton Canvas with Dior Graphique Motif",
+      "price": "29000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2579WOMLQD97P_E01-2",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2579WOMLQ_D97P",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK441CVAS10W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK441CVA_S10W",
       "variants": [
         {
-          "color": "Gold-Finish Metal with White Crystals and Pale Pink Lacquer",
+          "color": "Black and White Fringed Cotton Canvas with Dior Graphique Motif",
           "size": null,
-          "code": "B2579WOMLQ_D97P",
-          "price": "25000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2579WOMLQD97P_E01-2",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2835WOMMTD300",
-      "name": "Dioract Bangle",
-      "description": "Gold-Finish Metal",
-      "price": "12000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2835WOMMTD300_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2835WOMMT_D300",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal",
-          "size": null,
-          "code": "B2835WOMMT_D300",
-          "price": "12000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2835WOMMTD300_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B1650ODELQD301",
-      "name": "Dior Code Bangle",
-      "description": "Gold-Finish Metal and White Lacquer",
-      "price": "13500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1650ODELQD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B1650ODELQ_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Lacquer",
-          "size": null,
-          "code": "B1650ODELQ_D301",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1650ODELQD301_E01",
+          "code": "KCK441CVA_S10W",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK441CVAS10W_E02",
           "additionalImages": []
         },
         {
-          "color": "Gold-Finish Metal and Black Lacquer",
+          "color": "Black and White Fringed Cotton Canvas with Dior Graphique Motif",
           "size": null,
-          "code": "B1650ODELQ_D307",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1650ODELQD307_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2845WOMRSD301",
-      "name": "D-Vinity Cuff Bracelet",
-      "description": "Matte Gold-Finish Metal and White Resin Pearls",
-      "price": "47500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2845WOMRSD301_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2845WOMRS_D301",
-      "variants": [
-        {
-          "color": "Matte Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "B2845WOMRS_D301",
-          "price": "47500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2845WOMRSD301_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2876WOMRSD301",
-      "name": "Toile de Jouy Papillon Bracelet",
-      "description": "Matte Gold-Finish Metal and White Resin Pearls",
-      "price": "15000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2876WOMRSD301_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2876WOMRS_D301",
-      "variants": [
-        {
-          "color": "Matte Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "B2876WOMRS_D301",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2876WOMRSD301_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2844WOMRSD301",
-      "name": "D-Vinity Bangle",
-      "description": "Matte Gold-Finish Metal and White Resin Pearl",
-      "price": "19000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2844WOMRSD301_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2844WOMRS_D301",
-      "variants": [
-        {
-          "color": "Matte Gold-Finish Metal and White Resin Pearl",
-          "size": null,
-          "code": "B2844WOMRS_D301",
-          "price": "19000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2844WOMRSD301_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2694WOMCYD03S",
-      "name": "CD Navy Bracelet",
-      "description": "Gold-Finish Metal and Silver-Tone Crystals",
-      "price": "13500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2694WOMCYD03S_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2694WOMCY_D03S",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and Silver-Tone Crystals",
-          "size": null,
-          "code": "B2694WOMCY_D03S",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2694WOMCYD03S_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2704WOMCOD309",
-      "name": "Dioramour Diorelita Bracelet",
-      "description": "Gold-Finish Metal and Red Lacquer and Cotton",
-      "price": "12500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2704WOMCOD309_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2704WOMCO_D309",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and Red Lacquer and Cotton",
-          "size": null,
-          "code": "B2704WOMCO_D309",
-          "price": "12500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2704WOMCOD309_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2708WOMCOD309",
-      "name": "Dior Astral Diorelita Bracelet",
-      "description": "Gold-Finish Metal, Silver-Tone Crystals and Red Cotton",
-      "price": "11000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2708WOMCOD309_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2708WOMCO_D309",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal, Silver-Tone Crystals and Red Cotton",
-          "size": null,
-          "code": "B2708WOMCO_D309",
-          "price": "11000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2708WOMCOD309_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2683WOMCOD309",
-      "name": "Diorelita Bracelet",
-      "description": "Gold-Finish Metal and Red Cotton",
-      "price": "10500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2683WOMCOD309_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2683WOMCO_D309",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and Red Cotton",
-          "size": null,
-          "code": "B2683WOMCO_D309",
-          "price": "10500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2683WOMCOD309_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B2713WOMCYD03S",
-      "name": "Petit CD Lucky Charms Bracelet",
-      "description": "Gold-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
-      "price": "16500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2713WOMCYD03S_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2713WOMCY_D03S",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
-          "size": null,
-          "code": "B2713WOMCY_D03S",
-          "price": "16500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2713WOMCYD03S_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B0668CDLCYD301",
-      "name": "Clair D Lune Bracelet",
-      "description": "Gold-Finish Metal, White Resin Pearls and White Crystals",
-      "price": "13500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0668CDLCYD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B0668CDLCY_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal, White Resin Pearls and White Crystals",
-          "size": null,
-          "code": "B0668CDLCY_D301",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B0668CDLCYD301_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-B1096MTGRSD301",
-      "name": "30 Montaigne Bracelet",
-      "description": "Gold-Finish Metal and White Resin Pearls",
-      "price": "15000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1096MTGRSD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B1096MTGRS_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "B1096MTGRS_D301",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1096MTGRSD301_E01",
+          "code": "KCK441CVA_S900",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK441CVAS900_E02",
           "additionalImages": []
         },
         {
-          "color": "Gold-Finish Metal",
+          "color": "Deep Blue Dior Oblique Embroidered Cotton and White Shearling",
           "size": null,
-          "code": "B1630MTGMT_D300",
-          "price": "14000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1630MTGMTD300_E01",
+          "code": "KCK398OCH_S56B",
+          "price": "35000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK398OCHS56B_E02-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Deep Blue Dior Oblique Embroidered Cotton",
+          "size": null,
+          "code": "KCK385OBE_S56B",
+          "price": "32000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK385OBES56B_E02-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Cotton Embroidered with Dior Oblique Motif and Ecru Lambskin Shearling",
+          "size": null,
+          "code": "KCK428OBS_S06U",
+          "price": "34000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK428OBSS06U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Dior Oblique Embroidered Cotton",
+          "size": null,
+          "code": "KCK385OBE_S06U",
+          "price": "32000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK385OBES06U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Multicolor Embroidered Cotton with Dior Cabinet de Curiosités Motif",
+          "size": null,
+          "code": "KCK385CBN_S10W",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK385CBNS10W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Nude Dior Oblique Embroidered Cotton",
+          "size": null,
+          "code": "KCK385OBE_S21U",
+          "price": "32000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK385OBES21U_E02-3",
+          "additionalImages": []
+        },
+        {
+          "color": "Deep Blue Cotton Embroidered with Toile de Jouy Scotland Motif",
+          "size": null,
+          "code": "KCK385TSZ_S68B",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK385TSZS68B_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Denim Blue Cannage Tweed",
+          "size": null,
+          "code": "KCK386CTW_S30B",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK386CTWS30B_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Stone Gray Dior Oblique Embroidered Cotton",
+          "size": null,
+          "code": "KCK385OBE_S33G",
+          "price": "32000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK385OBES33G_E02-1",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-B1039CDLCYD301",
-      "name": "Clair D Lune Bracelet Set",
-      "description": "Gold-Finish Metal and White Crystals",
-      "price": "19110000",
+      "code": "prd-KCK431CTFS10W",
+      "name": "Dior First High-Top Sneaker",
+      "description": "White Calfskin and Two-Tone Laces",
+      "price": "34000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1039CDLCYD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B1039CDLCY_D301",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK431CTFS10W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK431CTF_S10W",
       "variants": [
         {
-          "color": "Gold-Finish Metal and White Crystals",
+          "color": "White Calfskin and Two-Tone Laces",
           "size": null,
-          "code": "B1039CDLCY_D301",
-          "price": "19110000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1039CDLCYD301_E01",
+          "code": "KCK431CTF_S10W",
+          "price": "34000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK431CTFS10W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black and White Calfskin with Two-Tone Laces",
+          "size": null,
+          "code": "KCK431CTF_S19W",
+          "price": "34000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK431CTFS19W_E02",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-B1690WOMCYD01L",
-      "name": "Dio(r)evolution Bracelet Set",
-      "description": "Gold-Finish Metal and Amber-Colored Crystals",
-      "price": "17000000",
+      "code": "prd-KCK211OBES56B",
+      "name": "Walk'n'Dior Sneaker",
+      "description": "Deep Blue Dior Oblique Embroidered Cotton",
+      "price": "29000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1690WOMCYD01L_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B1690WOMCY_D01L",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK211OBES56B_E02-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK211OBE_S56B",
       "variants": [
         {
-          "color": "Gold-Finish Metal and Amber-Colored Crystals",
+          "color": "Deep Blue Dior Oblique Embroidered Cotton",
           "size": null,
-          "code": "B1690WOMCY_D01L",
-          "price": "17000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1690WOMCYD01L_E01",
+          "code": "KCK211OBE_S56B",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK211OBES56B_E02-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Stone Gray Dior Oblique Embroidered Cotton",
+          "size": null,
+          "code": "KCK211OBE_S33G",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK211OBES33G_E02-3",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cotton Canvas with Gold-Tone Dior Oblique Print",
+          "size": null,
+          "code": "KCK250DJE_S62K",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK250DJES62K_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Nude Dior Oblique Embroidered Cotton",
+          "size": null,
+          "code": "KCK211OBE_S21U",
+          "price": "29000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK211OBES21U_E02-1",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-B2668WOMCMD307",
-      "name": "30 Montaigne Leather Bracelet",
-      "description": "Gold-Finish Metal and Black Calfskin",
-      "price": "10000000",
+      "code": "prd-KCK416DSKS15N",
+      "name": "Dior Star Sneaker",
+      "description": "Deep Blue Technical Mesh",
+      "price": "24000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2668WOMCMD307_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2668WOMCM_D307",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK416DSKS15N_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK416DSK_S15N",
       "variants": [
         {
-          "color": "Gold-Finish Metal and Black Calfskin",
+          "color": "Deep Blue Technical Mesh",
           "size": null,
-          "code": "B2668WOMCM_D307",
-          "price": "10000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2668WOMCMD307_E01",
+          "code": "KCK416DSK_S15N",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK416DSKS15N_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Technical Mesh",
+          "size": null,
+          "code": "KCK416DSK_S24W",
+          "price": "24000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK416DSKS24W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Calfskin and Suede Calfskin",
+          "size": null,
+          "code": "KCK361CLD_S19W",
+          "price": "23520000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK361CLDS19W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Calfskin and Suede Calfskin",
+          "size": null,
+          "code": "KCK358CUF_S09W",
+          "price": "23520000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK358CUFS09W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Suede Calfskin",
+          "size": null,
+          "code": "KCK369SKU_S26U",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK369SKUS26U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Calfskin and Shearling",
+          "size": null,
+          "code": "KCK369VES_S09W",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK369VESS09W_E02",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-B2712WOMFWD301",
-      "name": "Dior Cabinet de Curiosités Bracelet",
-      "description": "Gold-Finish Metal and a White Resin Pearl",
+      "code": "prd-KCK413CLDS19W",
+      "name": "Dior Star Platform Sneaker",
+      "description": "White Calfskin and Suede Calfskin",
       "price": "27000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2712WOMFWD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2712WOMFW_D301",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK413CLDS19W_E02-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK413CLD_S19W",
       "variants": [
         {
-          "color": "Gold-Finish Metal and a White Resin Pearl",
+          "color": "White Calfskin and Suede Calfskin",
           "size": null,
-          "code": "B2712WOMFW_D301",
+          "code": "KCK413CLD_S19W",
           "price": "27000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2712WOMFWD301_E01",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK413CLDS19W_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Light Beige Suede Calfskin",
+          "size": null,
+          "code": "KCK426UKG_S10W",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK426UKGS10W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCK385BACS89Z",
+      "name": "Miss Dior Walk'n'Dior Platform Sneaker",
+      "description": "Multicolor Cotton with Dior Bayadère Embroidery",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK385BACS89Z_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK385BAC_S89Z",
+      "variants": [
+        {
+          "color": "Multicolor Cotton with Dior Bayadère Embroidery",
+          "size": null,
+          "code": "KCK385BAC_S89Z",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK385BACS89Z_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCK414TRMS89W",
+      "name": "Miss Dior — Dior Chrono Sneaker",
+      "description": "White and Fuchsia Mesh with Leather-Effect Panels",
+      "price": "30000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS89W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK414TRM_S89W",
+      "variants": [
+        {
+          "color": "White and Fuchsia Mesh with Leather-Effect Panels",
+          "size": null,
+          "code": "KCK414TRM_S89W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS89W_E02",
           "additionalImages": []
         }
       ]

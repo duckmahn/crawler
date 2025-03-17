@@ -1,4 +1,569 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "prd-2ESCH135KESH511",
+      "name": "DIOR AND HYLTON NEL Card Holder",
+      "description": "White Grained Calfskin with Blue Print",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135KESH511_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH135KES_H511",
+      "variants": [
+        {
+          "color": "White Grained Calfskin with Blue Print",
+          "size": null,
+          "code": "2ESCH135KES_H511",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135KESH511_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Grained Calfskin with White Print",
+          "size": null,
+          "code": "2ESCH135FRY_H524",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135FRYH524_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH138KESH511",
+      "name": "DIOR AND HYLTON NEL Vertical Bifold Card Holder",
+      "description": "White Grained Calfskin with Blue Print",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138KESH511_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH138KES_H511",
+      "variants": [
+        {
+          "color": "White Grained Calfskin with Blue Print",
+          "size": null,
+          "code": "2ESCH138KES_H511",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138KESH511_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Grained Calfskin with White Print",
+          "size": null,
+          "code": "2ESCH138FRY_H524",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138FRYH524_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH135YSEH05E",
+      "name": "Card Holder",
+      "description": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135YSEH05E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH135YSE_H05E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard with Black Grained Calfskin",
+          "size": null,
+          "code": "2ESCH135YSE_H05E",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135YSEH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ESCH135YSE_H03E",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135YSEH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Gravity Leather",
+          "size": null,
+          "code": "2ESCH135FLG_H00N",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135FLGH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Deep Gray Dior Gravity Leather",
+          "size": null,
+          "code": "2ESCH135FLG_H830",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135FLGH830_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH135OYYH06E",
+      "name": "DIOR AND KAWS Card Holder",
+      "description": "Navy Blue Grained Calfskin",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135OYYH06E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH135OYY_H06E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESCH135OYY_H06E",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135OYYH06E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Vermilion Red Grained Calfskin",
+          "size": null,
+          "code": "2ESCH135OYY_H23E",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135OYYH23E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH138OYYH06E",
+      "name": "DIOR AND KAWS Vertical Bifold Card Holder",
+      "description": "Navy Blue Grained Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138OYYH06E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH138OYY_H06E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESCH138OYY_H06E",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138OYYH06E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESCH138OYY_H958",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138OYYH958_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCH168OYYH958",
+      "name": "DIOR AND KAWS Saddle Magnetic Card Holder",
+      "description": "Black Grained Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH958_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCH168OYY_H958",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCH168OYY_H958",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH958_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Vermilion Red Grained Calfskin",
+          "size": null,
+          "code": "2ADCH168OYY_H23E",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH23E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ADCH168OYY_H06E",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168OYYH06E_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH138CDIH56E",
+      "name": "CD Icon Vertical Bifold Card Holder",
+      "description": "Navy Blue Grained Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138CDIH56E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH138CDI_H56E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESCH138CDI_H56E",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH138CDIH56E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH135CDIH56E",
+      "name": "CD Icon Card Holder",
+      "description": "Navy Blue Grained Calfskin",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135CDIH56E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH135CDI_H56E",
+      "variants": [
+        {
+          "color": "Navy Blue Grained Calfskin",
+          "size": null,
+          "code": "2ESCH135CDI_H56E",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135CDIH56E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESCH135CDI_H00N",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135CDIH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Deep Gray Grained Calfskin",
+          "size": null,
+          "code": "2ESCH135CDI_H830",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH135CDIH830_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCH164YKSH05E",
+      "name": "Saddle Card Holder",
+      "description": "Black Grained Calfskin Marquetry with Beige and Black Dior Oblique Jacquard",
+      "price": "11500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH164YKSH05E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCH164YKS_H05E",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin Marquetry with Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADCH164YKS_H05E",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH164YKSH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin Marquetry and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADCH164YKS_H03E",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH164YKSH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Grained Calfskin Marquetry and Navy Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADCH164YKS_H53E",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH164YKSH53E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ADCH164YKK_H00N",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH164YKKH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH178FLGH00N",
+      "name": "Business Card Holder",
+      "description": "Black Dior Gravity Leather",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH178FLGH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH178FLG_H00N",
+      "variants": [
+        {
+          "color": "Black Dior Gravity Leather",
+          "size": null,
+          "code": "2ESCH178FLG_H00N",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH178FLGH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCH166YKSH05E",
+      "name": "Saddle Business Card Holder",
+      "description": "Black Grained Calfskin Marquetry with Beige and Black Dior Oblique Jacquard",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH166YKSH05E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCH166YKS_H05E",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin Marquetry with Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADCH166YKS_H05E",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH166YKSH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin Marquetry and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADCH166YKS_H03E",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH166YKSH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH178CDIH830",
+      "name": "CD Icon Business Card Holder",
+      "description": "Deep Gray Grained Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH178CDIH830_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH178CDI_H830",
+      "variants": [
+        {
+          "color": "Deep Gray Grained Calfskin",
+          "size": null,
+          "code": "2ESCH178CDI_H830",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH178CDIH830_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADBH076YKSH05E",
+      "name": "Saddle Bifold Wallet",
+      "description": "Black Grained Calfskin Marquetry with Beige and Black Dior Oblique Jacquard",
+      "price": "16000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBH076YKSH05E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADBH076YKS_H05E",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin Marquetry with Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADBH076YKS_H05E",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBH076YKSH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin Marquetry and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADBH076YKS_H03E",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBH076YKSH03E_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADBC320YKSH27E",
+      "name": "Saddle Flap Card Holder",
+      "description": "Beige and Black Dior Oblique Jacquard and Black Grained Calfskin",
+      "price": "21000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC320YKSH27E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADBC320YKS_H27E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ADBC320YKS_H27E",
+          "price": "21000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC320YKSH27E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ADBC320YKS_H03E",
+          "price": "21000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADBC320YKSH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC318FLGH00N",
+      "name": "Zipped Card Holder with Split Ring",
+      "description": "Black Dior Gravity Leather",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC318FLGH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC318FLG_H00N",
+      "variants": [
+        {
+          "color": "Black Dior Gravity Leather",
+          "size": null,
+          "code": "2ESBC318FLG_H00N",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC318FLGH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC250YSEH05E",
+      "name": "Zipped Card Holder",
+      "description": "Beige and Black Dior Oblique Jacquard and Black Grained Calfskin",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC250YSEH05E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC250YSE_H05E",
+      "variants": [
+        {
+          "color": "Beige and Black Dior Oblique Jacquard and Black Grained Calfskin",
+          "size": null,
+          "code": "2ESBC250YSE_H05E",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC250YSEH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard and Grained Calfskin",
+          "size": null,
+          "code": "2ESBC250YSE_H03E",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC250YSEH03E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin with CD Icon Signature",
+          "size": null,
+          "code": "2ESBC250CDI_H00N",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC250CDIH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESCH151FLGH00N",
+      "name": "Vertical Card Holder",
+      "description": "Black Dior Gravity Leather",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH151FLGH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESCH151FLG_H00N",
+      "variants": [
+        {
+          "color": "Black Dior Gravity Leather",
+          "size": null,
+          "code": "2ESCH151FLG_H00N",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESCH151FLGH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC319FLGH00N",
+      "name": "Vertical Compact Card Holder",
+      "description": "Black Dior Gravity Leather",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC319FLGH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC319FLG_H00N",
+      "variants": [
+        {
+          "color": "Black Dior Gravity Leather",
+          "size": null,
+          "code": "2ESBC319FLG_H00N",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC319FLGH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESBC319YSE_H05E",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC319YSEH05E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ESBC319YSE_H03E",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC319YSEH03E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ESBC319CDIH00N",
+      "name": "CD Icon Vertical Compact Card Holder",
+      "description": "Black Grained Calfskin",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC319CDIH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ESBC319CDI_H00N",
+      "variants": [
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "2ESBC319CDI_H00N",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ESBC319CDIH00N_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-2ADCH168FLGH00N",
+      "name": "Saddle Magnetic Card Holder",
+      "description": "Black Dior Gravity Leather",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168FLGH00N_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/2ADCH168FLG_H00N",
+      "variants": [
+        {
+          "color": "Black Dior Gravity Leather",
+          "size": null,
+          "code": "2ADCH168FLG_H00N",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168FLGH00N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Deep Gray Dior Gravity Leather",
+          "size": null,
+          "code": "2ADCH168FLG_H830",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168FLGH830_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin Marquetry with Beige and Black Dior Oblique Jacquard",
+          "size": null,
+          "code": "2ADCH168YKS_H05E",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/2ADCH168YKSH05E_E01",
+          "additionalImages": []
+        }
+      ]
+    }
+  ]
 }

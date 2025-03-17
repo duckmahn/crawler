@@ -2,7 +2,7 @@
   "id": "SIdNt5tBXDV7oFQ",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/dior-or",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:57.813934+00:00",
+  "handled_at": "2025-03-17 04:07:05.014239+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/dior-or",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/dior-or",
-    "handled_at": "2025-03-14 11:00:57.813934+00:00",
+    "handled_at": "2025-03-17 04:07:05.014239+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/dior-or",
     "id": "SIdNt5tBXDV7oFQ"
   }

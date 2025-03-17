@@ -2,370 +2,544 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-521B67A3356X0100",
-      "name": "Blouse",
-      "description": "White Cotton Poplin",
-      "price": "58000000",
+      "code": "prd-524S13A7025X0883",
+      "name": "Dior Marinière Sweater",
+      "description": "White and Navy Blue Ribbed Cotton Knit",
+      "price": "71000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B67A3356X0100_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/521B67A3356_X0100",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S13A7025X0883_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524S13A7025_X0883",
       "variants": [
         {
-          "color": "White Cotton Poplin",
+          "color": "White and Navy Blue Ribbed Cotton Knit",
           "size": null,
-          "code": "521B67A3356_X0100",
-          "price": "58000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B67A3356X0100_E01",
+          "code": "524S13A7025_X0883",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S13A7025X0883_E01",
           "additionalImages": []
         },
         {
-          "color": "Black Cotton Poplin",
+          "color": "White and Navy Blue Ribbed Cotton Knit",
           "size": null,
-          "code": "521B67A3356_X9000",
-          "price": "58000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B67A3356X9000_E01",
+          "code": "524S31A7025_X0883",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S31A7025X0883_E01-1",
           "additionalImages": []
         },
         {
-          "color": "Black Cotton Poplin",
+          "color": "Navy Blue and White Cotton Knit with Dior Graphique Motif",
           "size": null,
-          "code": "521B85A3356_X9000",
-          "price": "65000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B85A3356X9000_E01-2",
+          "code": "524S01A7019_X0883",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S01A7019X0883_E01",
           "additionalImages": []
         },
         {
-          "color": "White Cotton Poplin",
+          "color": "Gold-Tone and White Blended Linen, Cashmere and Silk Knit with Gold-Tone Dior Around the World Motif",
           "size": null,
-          "code": "521B85A3356_X0100",
-          "price": "65000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B85A3356X0100_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Cotton Poplin",
-          "size": null,
-          "code": "521B87A3356_X9000",
-          "price": "58000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B87A3356X9000_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "White Cotton Poplin",
-          "size": null,
-          "code": "521B87A3356_X0100",
-          "price": "58000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B87A3356X0100_E01-2",
-          "additionalImages": []
-        },
-        {
-          "color": "White Cotton Muslin with Multicolor Toile de Jouy Papillon Motif",
-          "size": null,
-          "code": "521B68A3A48_X0807",
-          "price": "45000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B68A3A48X0807_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "White Cotton Muslin with Blue Toile de Jouy Papillon Motif",
-          "size": null,
-          "code": "521B68A3A48_X5807",
-          "price": "45000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521B68A3A48X5807_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "White Cotton Poplin",
-          "size": null,
-          "code": "441B14A3356_X0100",
-          "price": "53000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B14A3356X0100_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "White Cotton Muslin with Navy Blue Miss Dior Allover Motif",
-          "size": null,
-          "code": "451B55A3946_X5805",
-          "price": "55000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B55A3946X5805_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "White Cotton and Silk Poplin with Black Miss Dior Graffiti Motif",
-          "size": null,
-          "code": "451B28A3433_X0901",
-          "price": "64000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B28A3433X0901_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "White Cotton",
-          "size": null,
-          "code": "041B27A3356_X0100",
-          "price": "43000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/041B27A3356X0100_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Cotton Poplin",
-          "size": null,
-          "code": "451B72A3356_X9000",
-          "price": "64000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B72A3356X9000_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "White Cotton Poplin",
-          "size": null,
-          "code": "451B72A3356_X0100",
-          "price": "64000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B72A3356X0100_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "White Cotton Poplin",
-          "size": null,
-          "code": "411B44A3356_X0100",
-          "price": "65000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/411B44A3356X0100_E01",
+          "code": "514S51A9012_X1998",
+          "price": "52000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514S51A9012X1998_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-421B75A3356X0100",
-      "name": "Asymmetric Shirt",
-      "description": "White Cotton Poplin",
-      "price": "50000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/421B75A3356X0100_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/421B75A3356_X0100",
-      "variants": [
-        {
-          "color": "White Cotton Poplin",
-          "size": null,
-          "code": "421B75A3356_X0100",
-          "price": "50000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/421B75A3356X0100_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Cotton Poplin",
-          "size": null,
-          "code": "421B75A3356_X9000",
-          "price": "50000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/421B75A3356X9000_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-841B05A3356X0100",
-      "name": "Blouse with Plastron",
-      "description": "White Cotton Poplin",
-      "price": "35000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B05A3356X0100_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/841B05A3356_X0100",
-      "variants": [
-        {
-          "color": "White Cotton Poplin",
-          "size": null,
-          "code": "841B05A3356_X0100",
-          "price": "35000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B05A3356X0100_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-511B55A3A16X0864",
-      "name": "Long Blouse",
-      "description": "White Cotton Muslin with Multicolor Dior Cabinet de Curiosités Motif",
+      "code": "prd-524G03A7026X0883",
+      "name": "Dior Marinière Cardigan",
+      "description": "White and Navy Blue Cotton and Silk Knit",
       "price": "49000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B55A3A16X0864_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/511B55A3A16_X0864",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524G03A7026X0883_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524G03A7026_X0883",
       "variants": [
         {
-          "color": "White Cotton Muslin with Multicolor Dior Cabinet de Curiosités Motif",
+          "color": "White and Navy Blue Cotton and Silk Knit",
           "size": null,
-          "code": "511B55A3A16_X0864",
+          "code": "524G03A7026_X0883",
           "price": "49000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B55A3A16X0864_E01-1",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524G03A7026X0883_E01",
           "additionalImages": []
         },
         {
-          "color": "White Cotton Muslin with Blue Dior Chardons Motif",
+          "color": "Navy Blue and Ecru D-Stripes Virgin Wool and Cashmere Knit",
           "size": null,
-          "code": "511B55A3A17_X5899",
+          "code": "224G02AM309_X5855",
+          "price": "65000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/224G02AM309X5855_E08",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-514W10A7001X0930",
+      "name": "Dior Marinière Twinset",
+      "description": "White and Black Blended Cotton and Wool Bouclé Knit",
+      "price": "94000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514W10A7001X0930_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/514W10A7001_X0930",
+      "variants": [
+        {
+          "color": "White and Black Blended Cotton and Wool Bouclé Knit",
+          "size": null,
+          "code": "514W10A7001_X0930",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514W10A7001X0930_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524S98A0057X0930",
+      "name": "Short-Sleeved Sweater",
+      "description": "White Cashmere Knit with Black Christian Dior Papillon Motif",
+      "price": "62000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S98A0057X0930_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524S98A0057_X0930",
+      "variants": [
+        {
+          "color": "White Cashmere Knit with Black Christian Dior Papillon Motif",
+          "size": null,
+          "code": "524S98A0057_X0930",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S98A0057X0930_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Cashmere Knit",
+          "size": null,
+          "code": "344S98AM003_X1650",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/344S98AM003X1650_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cashmere Knit",
+          "size": null,
+          "code": "344S98AM003_X5051",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/344S98AM003X5051_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cashmere and Silk Knit",
+          "size": null,
+          "code": "444S16AM100_X5051",
+          "price": "48000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/444S16AM100X5051_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ecru Wool and Cashmere Knit",
+          "size": null,
+          "code": "154S09AM305_X5801",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/154S09AM305X5801_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Wool and Cashmere Knit",
+          "size": null,
+          "code": "154S09AM305_X5247",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/154S09AM305X5247_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Pink Wool and Cashmere Knit",
+          "size": null,
+          "code": "154S09AM305_X4175",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/154S09AM305X4175_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524S24A7026X0883",
+      "name": "Dior Marinière Short-Sleeved Sweater",
+      "description": "White and Navy Blue Cotton and Silk Knit",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S24A7026X0883_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524S24A7026_X0883",
+      "variants": [
+        {
+          "color": "White and Navy Blue Cotton and Silk Knit",
+          "size": null,
+          "code": "524S24A7026_X0883",
           "price": "49000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B55A3A17X5899_E01-1",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S24A7026X0883_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-514G14A3400X0200",
+      "name": "Cannage Cardigan",
+      "description": "Ecru Blended Wool and Cashmere Textured Knit",
+      "price": "84000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514G14A3400X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/514G14A3400_X0200",
+      "variants": [
+        {
+          "color": "Ecru Blended Wool and Cashmere Textured Knit",
+          "size": null,
+          "code": "514G14A3400_X0200",
+          "price": "84000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514G14A3400X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-054G12AM055X1871",
+      "name": "Reversible Zipped Cardigan with Hood",
+      "description": "Beige Cashmere-Blend Knit with Dior Oblique Motif",
+      "price": "100000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/054G12AM055X1871_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/054G12AM055_X1871",
+      "variants": [
+        {
+          "color": "Beige Cashmere-Blend Knit with Dior Oblique Motif",
+          "size": null,
+          "code": "054G12AM055_X1871",
+          "price": "100000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/054G12AM055X1871_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-514G60A0550X1871",
+      "name": "Reversible Cardigan",
+      "description": "Beige Cashmere-Blend Knit with Dior Oblique Motif",
+      "price": "105000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514G60A0550X1871_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/514G60A0550_X1871",
+      "variants": [
+        {
+          "color": "Beige Cashmere-Blend Knit with Dior Oblique Motif",
+          "size": null,
+          "code": "514G60A0550_X1871",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514G60A0550X1871_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524W05B7090X1650",
+      "name": "Twinset",
+      "description": "Beige Cotton- and Wool-Blend Bouclé Knit",
+      "price": "94000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524W05B7090X1650_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524W05B7090_X1650",
+      "variants": [
+        {
+          "color": "Beige Cotton- and Wool-Blend Bouclé Knit",
+          "size": null,
+          "code": "524W05B7090_X1650",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524W05B7090X1650_E01",
           "additionalImages": []
         },
         {
-          "color": "White Toile de Jouy Cotton Voile",
+          "color": "Black and White Houndstooth Wool- and Cotton-Blend Fil Coupé Knit",
           "size": null,
-          "code": "911B54A3802_X0961",
-          "price": "50000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/911B54A3802X0961_E01",
+          "code": "524W05A7022_X9330",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524W05A7022X9330_E01",
           "additionalImages": []
         },
         {
-          "color": "White Cotton Poplin",
+          "color": "Black and White Houndstooth Technical Cotton Knit",
           "size": null,
-          "code": "511B36A3356_X0100",
-          "price": "73000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B36A3356X0100_E01",
+          "code": "354W05AM324_X9330",
+          "price": "65000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/354W05AM324X9330_E01",
           "additionalImages": []
         },
         {
-          "color": "White Cotton Muslin with Black Toile de Jouy Scotland Motif",
+          "color": "Ecru Virgin Wool, Cashmere and Silk Openwork Knit",
           "size": null,
-          "code": "511B36A3A09_X0930",
-          "price": "52000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B36A3A09X0930_E01",
+          "code": "514W02A3005_X0200",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514W02A3005X0200_E01",
           "additionalImages": []
         },
         {
-          "color": "Black Cotton Poplin",
+          "color": "Ecru Cotton and Wool-Blend Knit",
           "size": null,
-          "code": "511B36A3356_X9000",
-          "price": "73000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511B36A3356X9000_E01",
+          "code": "454W05AM709_X0200",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454W05AM709X0200_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-441B39A3356X0100",
-      "name": "Ascot Blouse",
-      "description": "White Cotton Poplin",
-      "price": "57000000",
+      "code": "prd-224S09AM308X5800",
+      "name": "Christian Dior Short-Sleeved Sweater",
+      "description": "Navy Blue Cashmere and Wool Knit",
+      "price": "62000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B39A3356X0100_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/441B39A3356_X0100",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/224S09AM308X5800_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/224S09AM308_X5800",
       "variants": [
         {
-          "color": "White Cotton Poplin",
+          "color": "Navy Blue Cashmere and Wool Knit",
           "size": null,
-          "code": "441B39A3356_X0100",
-          "price": "57000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B39A3356X0100_E01",
+          "code": "224S09AM308_X5800",
+          "price": "62000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/224S09AM308X5800_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-841B41A3356X0100",
-      "name": "Sleeveless Blouse with Plastron",
-      "description": "White Cotton Poplin",
-      "price": "35000000",
+      "code": "prd-514G08A3400X0200",
+      "name": "Cannage Zipped Cardigan with Hood",
+      "description": "Ecru Blended Wool and Cashmere Textured Knit",
+      "price": "105000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B41A3356X0100_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/841B41A3356_X0100",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514G08A3400X0200_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/514G08A3400_X0200",
       "variants": [
         {
-          "color": "White Cotton Poplin",
+          "color": "Ecru Blended Wool and Cashmere Textured Knit",
           "size": null,
-          "code": "841B41A3356_X0100",
-          "price": "35000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B41A3356X0100_E01",
+          "code": "514G08A3400_X0200",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514G08A3400X0200_E01-1",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-111B61A3356X0100",
-      "name": "Cropped Button-Up Blouse",
-      "description": "White Cotton Poplin",
-      "price": "36000000",
+      "code": "prd-254V20AM340X0200",
+      "name": "Macrocannage Zipped Cardigan",
+      "description": "Ecru Wool- and Cashmere-Blend Knit",
+      "price": "72000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/111B61A3356X0100_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/111B61A3356_X0100",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/254V20AM340X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/254V20AM340_X0200",
       "variants": [
         {
-          "color": "White Cotton Poplin",
+          "color": "Ecru Wool- and Cashmere-Blend Knit",
           "size": null,
-          "code": "111B61A3356_X0100",
-          "price": "36000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/111B61A3356X0100_E01-1",
+          "code": "254V20AM340_X0200",
+          "price": "72000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/254V20AM340X0200_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-351B07A3356X0100",
-      "name": "Blouse with Puff Sleeves",
-      "description": "White Cotton Poplin",
-      "price": "59000000",
+      "code": "prd-214V50AM351X0871",
+      "name": "Christian Dior 8 Bomber Jacket",
+      "description": "Ecru and Blue Virgin Wool-Blend Knit",
+      "price": "71000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/351B07A3356X0100_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/351B07A3356_X0100",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/214V50AM351X0871_E08-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/214V50AM351_X0871",
       "variants": [
         {
-          "color": "White Cotton Poplin",
+          "color": "Ecru and Blue Virgin Wool-Blend Knit",
           "size": null,
-          "code": "351B07A3356_X0100",
-          "price": "59000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/351B07A3356X0100_E01",
+          "code": "214V50AM351_X0871",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/214V50AM351X0871_E08-1",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-441B49A3356X0100",
-      "name": "Blouse with Sailor Collar",
-      "description": "White Cotton Poplin",
-      "price": "60000000",
+      "code": "prd-524V50A7208X9308",
+      "name": "Bomber Jacket",
+      "description": "Black, White and Red Dior Race Cotton-Blend Knit",
+      "price": "87000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B49A3356X0100_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/441B49A3356_X0100",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524V50A7208X9308_E08",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524V50A7208_X9308",
       "variants": [
         {
-          "color": "White Cotton Poplin",
+          "color": "Black, White and Red Dior Race Cotton-Blend Knit",
           "size": null,
-          "code": "441B49A3356_X0100",
-          "price": "60000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B49A3356X0100_E01",
+          "code": "524V50A7208_X9308",
+          "price": "87000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524V50A7208X9308_E08",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-451B71A3356X9000",
-      "name": "Short-Sleeved Blouse",
-      "description": "Black Cotton Poplin",
-      "price": "68000000",
+      "code": "prd-244S10AM730X5801",
+      "name": "Dioriviera Sweater",
+      "description": "Ecru and Navy Blue Cotton Knit with Signature",
+      "price": "45000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B71A3356X9000_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/451B71A3356_X9000",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/244S10AM730X5801_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/244S10AM730_X5801",
       "variants": [
         {
-          "color": "Black Cotton Poplin",
+          "color": "Ecru and Navy Blue Cotton Knit with Signature",
           "size": null,
-          "code": "451B71A3356_X9000",
-          "price": "68000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451B71A3356X9000_E01",
+          "code": "244S10AM730_X5801",
+          "price": "45000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/244S10AM730X5801_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-841B42A8810X9000",
-      "name": "Sheer Blouse with Plastron",
-      "description": "Black Plumetis Tulle",
-      "price": "55000000",
+      "code": "prd-454S57AM103X9330",
+      "name": "Sweater",
+      "description": "Black Cashmere and Silk Knit with White Miss Dior Graffiti Motif",
+      "price": "71000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B42A8810X9000_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/841B42A8810_X9000",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454S57AM103X9330_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/454S57AM103_X9330",
       "variants": [
         {
-          "color": "Black Plumetis Tulle",
+          "color": "Black Cashmere and Silk Knit with White Miss Dior Graffiti Motif",
           "size": null,
-          "code": "841B42A8810_X9000",
-          "price": "55000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/841B42A8810X9000_E01",
+          "code": "454S57AM103_X9330",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454S57AM103X9330_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Ecru Cashmere and Silk Knit with Blue Miss Dior Graffiti Motif",
+          "size": null,
+          "code": "454S57AM103_X5805",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454S57AM103X5805_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-454G01AM709X0200",
+      "name": "Long Cardigan",
+      "description": "Ecru Cotton and Wool Blend Knit",
+      "price": "97000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454G01AM709X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/454G01AM709_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cotton and Wool Blend Knit",
+          "size": null,
+          "code": "454G01AM709_X0200",
+          "price": "97000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454G01AM709X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-414S82AM125X0200",
+      "name": "Turtleneck Sweater",
+      "description": "Ecru Cashmere and Silk Ribbed Knit",
+      "price": "49000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/414S82AM125X0200_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/414S82AM125_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cashmere and Silk Ribbed Knit",
+          "size": null,
+          "code": "414S82AM125_X0200",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/414S82AM125X0200_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-514S57G0027X0894",
+      "name": "Embroidered Sweater",
+      "description": "Ecru Cashmere Knit with Gold-Tone Dior Around the World Motif",
+      "price": "75000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514S57G0027X0894_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/514S57G0027_X0894",
+      "variants": [
+        {
+          "color": "Ecru Cashmere Knit with Gold-Tone Dior Around the World Motif",
+          "size": null,
+          "code": "514S57G0027_X0894",
+          "price": "75000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514S57G0027X0894_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Cashmere Knit with Multicolor Toile de Jouy Papillon Motif",
+          "size": null,
+          "code": "524S57A0042_X0807",
+          "price": "78000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524S57A0042X0807_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "White Blended Cashmere, Silk, Mohair and Alpaca Knit with Multicolor Dior Chardons Motif",
+          "size": null,
+          "code": "514S78A4007_X6899",
+          "price": "96000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514S78A4007X6899_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "White Blended Cashmere, Silk, Mohair and Alpaca Knit with Blue Dior Chardons Motif",
+          "size": null,
+          "code": "514S78A4007_X5899",
+          "price": "96000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514S78A4007X5899_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-514S64A9012X1998",
+      "name": "Dior Marinière Short-Sleeved Top",
+      "description": "Gold-Tone and White Blended Linen, Cashmere and Silk Knit with Gold-Tone Dior Around the World Motif",
+      "price": "47000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514S64A9012X1998_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/514S64A9012_X1998",
+      "variants": [
+        {
+          "color": "Gold-Tone and White Blended Linen, Cashmere and Silk Knit with Gold-Tone Dior Around the World Motif",
+          "size": null,
+          "code": "514S64A9012_X1998",
+          "price": "47000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514S64A9012X1998_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-514W01A4008X0864",
+      "name": "Embroidered Twinset",
+      "description": "White Blended Silk, Mohair and Alpaca Knit with Multicolor Dior Cabinet de Curiosités Motif",
+      "price": "125000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514W01A4008X0864_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/514W01A4008_X0864",
+      "variants": [
+        {
+          "color": "White Blended Silk, Mohair and Alpaca Knit with Multicolor Dior Cabinet de Curiosités Motif",
+          "size": null,
+          "code": "514W01A4008_X0864",
+          "price": "125000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/514W01A4008X0864_E01",
           "additionalImages": []
         }
       ]

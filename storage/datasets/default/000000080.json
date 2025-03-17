@@ -2,223 +2,117 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-583L430A1002C700",
-      "name": "Christian Dior Couture Blouson Jacket",
-      "description": "Brown Calfskin",
-      "price": "210000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583L430A1002C700_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583L430A1002_C700",
-      "variants": [
-        {
-          "color": "Brown Calfskin",
-          "size": null,
-          "code": "583L430A1002_C700",
-          "price": "210000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583L430A1002C700_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Pink Calfskin",
-          "size": null,
-          "code": "583L430A1002_C400",
-          "price": "210000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583L430A1002C400_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-583L434A0700C884",
-      "name": "DIOR AND HYLTON NEL Varsity Jacket",
-      "description": "Beige Cowhide Leather and Cotton Canvas",
+      "code": "prd-633C720A6319C880",
+      "name": "Classic Suit",
+      "description": "Gray Virgin Wool Flannel with Thin Stripes",
       "price": "115000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583L434A0700C884_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/583L434A0700_C884",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_2_LOOK_085_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/633C720A6319_C880",
       "variants": [
         {
-          "color": "Beige Cowhide Leather and Cotton Canvas",
+          "color": "Gray Virgin Wool Flannel with Thin Stripes",
           "size": null,
-          "code": "583L434A0700_C884",
+          "code": "633C720A6319_C880",
           "price": "115000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/583L434A0700C884_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-513L434A0700C081",
-      "name": "CD Icon Varsity Jacket",
-      "description": "Beige Cowhide Leather",
-      "price": "120000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L434A0700C081_E01-3",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513L434A0700_C081",
-      "variants": [
-        {
-          "color": "Beige Cowhide Leather",
-          "size": null,
-          "code": "513L434A0700_C081",
-          "price": "120000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L434A0700C081_E01-3",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_2_LOOK_085_E02",
           "additionalImages": []
         },
         {
-          "color": "Gray Cowhide Leather",
+          "color": "Blue Checkered Virgin Wool",
           "size": null,
-          "code": "513L434A0700_C888",
-          "price": "120000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L434A0700C888_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-513L431A8000C888",
-      "name": "Cannage Bomber Jacket",
-      "description": "Gray Shearling",
-      "price": "260000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L431A8000C888_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513L431A8000_C888",
-      "variants": [
-        {
-          "color": "Gray Shearling",
-          "size": null,
-          "code": "513L431A8000_C888",
-          "price": "260000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L431A8000C888_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-513L433A1001C340",
-      "name": "Christian Dior Couture Bomber Jacket",
-      "description": "Burgundy Calfskin",
-      "price": "150000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L433A1001C340_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513L433A1001_C340",
-      "variants": [
-        {
-          "color": "Burgundy Calfskin",
-          "size": null,
-          "code": "513L433A1001_C340",
-          "price": "150000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L433A1001C340_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-513L438A0700C580",
-      "name": "DIOR AND KAWS Varsity Jacket",
-      "description": "Blue Virgin Wool and Cashmere with Beige Cowhide Leather",
-      "price": "270000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L438A0700C580_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513L438A0700_C580",
-      "variants": [
-        {
-          "color": "Blue Virgin Wool and Cashmere with Beige Cowhide Leather",
-          "size": null,
-          "code": "513L438A0700_C580",
-          "price": "270000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L438A0700C580_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Pink Virgin Wool and Cashmere with Beige Cowhide Leather",
-          "size": null,
-          "code": "513L438A0700_C480",
-          "price": "270000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L438A0700C480_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-493L421A0764C110",
-      "name": "Jacket",
-      "description": "Beige Suede Lambskin",
-      "price": "115000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/493L421A0764C110_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/493L421A0764_C110",
-      "variants": [
-        {
-          "color": "Beige Suede Lambskin",
-          "size": null,
-          "code": "493L421A0764_C110",
+          "code": "633C720A6320_C580",
           "price": "115000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/493L421A0764C110_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-513L436A8002C120",
-      "name": "Dior Icons Blouson Jacket",
-      "description": "Beige Shearling",
-      "price": "270000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L436A8002C120_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513L436A8002_C120",
-      "variants": [
-        {
-          "color": "Beige Shearling",
-          "size": null,
-          "code": "513L436A8002_C120",
-          "price": "270000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L436A8002C120_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-513L430A8003C100",
-      "name": "Christian Dior Couture Hooded Parka",
-      "description": "Beige Shearling",
-      "price": "230000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L430A8003C100_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513L430A8003_C100",
-      "variants": [
-        {
-          "color": "Beige Shearling",
-          "size": null,
-          "code": "513L430A8003_C100",
-          "price": "230000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513L430A8003C100_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-513M420AT198C888",
-      "name": "Dior Icons Zipped Hooded Sweatshirt",
-      "description": "Gray Virgin Wool Punto Milano Knit and Suede",
-      "price": "140000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513M420AT198C888_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/513M420AT198_C888",
-      "variants": [
-        {
-          "color": "Gray Virgin Wool Punto Milano Knit and Suede",
-          "size": null,
-          "code": "513M420AT198_C888",
-          "price": "140000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513M420AT198C888_E01",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_2_LOOK_081_E08",
           "additionalImages": []
         },
         {
-          "color": "Black Virgin Wool Punto Milano Knit and Suede",
+          "color": "Navy Blue Virgin Wool",
           "size": null,
-          "code": "513M420AT198_C989",
-          "price": "140000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/513M420AT198C989_E01",
+          "code": "863C700A6360_C540",
+          "price": "98000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_2_LOOK_082_E08",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Virgin Wool Twill",
+          "size": null,
+          "code": "633C720A6313_C180",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_2_LOOK_080_E08",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Virgin Wool",
+          "size": null,
+          "code": "633C720A1800_C901",
+          "price": "88000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_2_LOOK_125_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Virgin Wool Twill",
+          "size": null,
+          "code": "633C720A3226_C542",
+          "price": "88000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_2_LOOK_103_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-933C701A6321C580",
+      "name": "Classic Double-Breasted Suit",
+      "description": "Blue Checkered Wool Flannel",
+      "price": "130000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_24_3_LOOK_106_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/933C701A6321_C580",
+      "variants": [
+        {
+          "color": "Blue Checkered Wool Flannel",
+          "size": null,
+          "code": "933C701A6321_C580",
+          "price": "130000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_24_3_LOOK_106_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-633C722S6049C880",
+      "name": "Cannage Tuxedo",
+      "description": "Gray Cannage Virgin Wool and Silk Jacquard",
+      "price": "135000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_2_LOOK_084_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/633C722S6049_C880",
+      "variants": [
+        {
+          "color": "Gray Cannage Virgin Wool and Silk Jacquard",
+          "size": null,
+          "code": "633C722S6049_C880",
+          "price": "135000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_2_LOOK_084_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-433C712S0687C900",
+      "name": "Classic Tuxedo",
+      "description": "Black Virgin Wool Grain de Poudre",
+      "price": "100000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_2_LOOK_033_E08",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/433C712S0687_C900",
+      "variants": [
+        {
+          "color": "Black Virgin Wool Grain de Poudre",
+          "size": null,
+          "code": "433C712S0687_C900",
+          "price": "100000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/LOOK_H_25_2_LOOK_033_E08",
           "additionalImages": []
         }
       ]

@@ -2,7 +2,7 @@
   "id": "XNQQHHqaQ71bB9C",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/brooches",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:51.551702+00:00",
+  "handled_at": "2025-03-17 04:07:00.916209+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/brooches",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/brooches",
-    "handled_at": "2025-03-14 11:00:51.551702+00:00",
+    "handled_at": "2025-03-17 04:07:00.916209+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/fashion-jewellery/brooches",
     "id": "XNQQHHqaQ71bB9C"
   }

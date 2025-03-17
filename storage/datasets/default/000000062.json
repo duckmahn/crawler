@@ -2,315 +2,500 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-KCO274BSFS17X",
-      "name": "Optical-D Thong Thigh Boot",
-      "description": "Black and White Stretch Mesh with Dior Graphique Motif",
-      "price": "43000000",
+      "code": "prd-KDV370CELS900",
+      "name": "Dior Toujours Slingback Pump",
+      "description": "Black Perforated Supple Lambskin",
+      "price": "28000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO274BSFS17X_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO274BSF_S17X",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV370CELS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV370CEL_S900",
       "variants": [
         {
-          "color": "Black and White Stretch Mesh with Dior Graphique Motif",
+          "color": "Black Perforated Supple Lambskin",
           "size": null,
-          "code": "KCO274BSF_S17X",
-          "price": "43000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO274BSFS17X_E02",
+          "code": "KDV370CEL_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV370CELS900_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Perforated Supple Lambskin",
+          "size": null,
+          "code": "KDV370CEL_S10W",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV370CELS10W_E02",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-KDT148BSFS17X",
-      "name": "Optical-D Heeled Boot",
-      "description": "Black and White Stretch Mesh with Dior Graphique Motif",
-      "price": "40000000",
+      "code": "prd-KDV329LABS10W",
+      "name": "D-Journey Lace-Up Pump",
+      "description": "White Perforated Supple Lambskin",
+      "price": "28000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT148BSFS17X_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDT148BSF_S17X",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV329LABS10W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV329LAB_S10W",
       "variants": [
         {
-          "color": "Black and White Stretch Mesh with Dior Graphique Motif",
+          "color": "White Perforated Supple Lambskin",
           "size": null,
-          "code": "KDT148BSF_S17X",
-          "price": "40000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT148BSFS17X_E02",
+          "code": "KDV329LAB_S10W",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV329LABS10W_E02",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-KDT128VSOS900",
-      "name": "D-Town Boot",
+      "code": "prd-KDP867SELS03W",
+      "name": "J'Adior Slingback Pump",
+      "description": "White Embroidered Cotton and Silver-Tone Strass",
+      "price": "46000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP867SELS03W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDP867SEL_S03W",
+      "variants": [
+        {
+          "color": "White Embroidered Cotton and Silver-Tone Strass",
+          "size": null,
+          "code": "KDP867SEL_S03W",
+          "price": "46000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP867SELS03W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Technical Fabric",
+          "size": null,
+          "code": "KDC201TFL_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC201TFLS900_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Technical Fabric",
+          "size": null,
+          "code": "KDC200TFL_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC200TFLS900_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Nude Technical Fabric",
+          "size": null,
+          "code": "KDC200TFL_S21U",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC200TFLS21U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Nude Patent Calfskin",
+          "size": null,
+          "code": "KDC200VNR_S12U",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC200VNRS12U_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Technical Fabric and Strass",
+          "size": null,
+          "code": "KDP867SCS_S05X",
+          "price": "51000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP867SCSS05X_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Technical Fabric with Cannage Motif",
+          "size": null,
+          "code": "KDV373TCE_S900",
+          "price": "30380000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV373TCES900_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "White and Black Cotton Embroidered with Plan de Paris Motif",
+          "size": null,
+          "code": "KCP866KPY_S15W",
+          "price": "30380000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCP866KPYS15W_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Transparent Mesh with Dior Chardons Embroidery in Gold-Tone Metallic Thread",
+          "size": null,
+          "code": "KDV039CXT_S62K",
+          "price": "38000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV039CXTS62K_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White and Gold-Tone Millefiori Jacquard",
+          "size": null,
+          "code": "KDP920LJE_S09W",
+          "price": "32000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP920LJES09W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Transparent Mesh Embroidered with White Dior Cabinet de la Mer Motif",
+          "size": null,
+          "code": "KDV039CMT_S10W",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV039CMTS10W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Transparent Mesh Embroidered with White Dior Cabinet de la Mer Motif",
+          "size": null,
+          "code": "KDV038CMT_S10W",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV038CMTS10W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Embroidered Cotton and Microbeads",
+          "size": null,
+          "code": "KDV324BEN_S26W",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV324BENS26W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV336VNIS26W",
+      "name": "My Dior Slingback Pump",
+      "description": "White Patent Calfskin",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV336VNIS26W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV336VNI_S26W",
+      "variants": [
+        {
+          "color": "White Patent Calfskin",
+          "size": null,
+          "code": "KDV336VNI_S26W",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV336VNIS26W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Rose des Vents Patent Calfskin",
+          "size": null,
+          "code": "KDV336VNI_S19O",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV336VNIS19O_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Patent Calfskin",
+          "size": null,
+          "code": "KDV336VNI_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV336VNIS900_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Moiré",
+          "size": null,
+          "code": "KDV342MOK_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV342MOKS900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV334VSOS900",
+      "name": "My Dior Pump",
       "description": "Black Supple Calfskin",
-      "price": "60000000",
+      "price": "28000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT128VSOS900_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDT128VSO_S900",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV334VSOS900_E02-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV334VSO_S900",
       "variants": [
         {
           "color": "Black Supple Calfskin",
           "size": null,
-          "code": "KDT128VSO_S900",
-          "price": "60000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT128VSOS900_E02",
+          "code": "KDV334VSO_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV334VSOS900_E02-1",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-KDI781VEAS17X",
-      "name": "D-Racer Boot",
-      "description": "Black Calfskin",
+      "code": "prd-KDB968CQAS49K",
+      "name": "Dior Ballet Slingback Pump",
+      "description": "Gold-Tone Laminated Lambskin with Quilted Cannage Motif",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB968CQAS49K_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDB968CQA_S49K",
+      "variants": [
+        {
+          "color": "Gold-Tone Laminated Lambskin with Quilted Cannage Motif",
+          "size": null,
+          "code": "KDB968CQA_S49K",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB968CQAS49K_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Nude Quilted Cannage Calfskin",
+          "size": null,
+          "code": "KDB968CQC_S21U",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB968CQCS21U_E02-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Quilted Cannage Calfskin",
+          "size": null,
+          "code": "KDB968CQC_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB968CQCS900_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cannage Tweed and Gold-Tone Metallic Thread",
+          "size": null,
+          "code": "KDB971CXG_S21X",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB971CXGS21X_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDB971CXGS09W",
+      "name": "Dior Or Dior Ballet Slingback Pump",
+      "description": "White and Gold-Tone Cannage Tweed with White Grosgrain",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB971CXGS09W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDB971CXG_S09W",
+      "variants": [
+        {
+          "color": "White and Gold-Tone Cannage Tweed with White Grosgrain",
+          "size": null,
+          "code": "KDB971CXG_S09W",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB971CXGS09W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV138VNIS18U",
+      "name": "Jolie Dior Pump",
+      "description": "Nude Patent Calfskin",
+      "price": "30000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV138VNIS18U_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV138VNI_S18U",
+      "variants": [
+        {
+          "color": "Nude Patent Calfskin",
+          "size": null,
+          "code": "KDV138VNI_S18U",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV138VNIS18U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Patent Calfskin",
+          "size": null,
+          "code": "KDV138VNI_S900",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV138VNIS900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDP909CCFS03W",
+      "name": "D-Doll Pump",
+      "description": "White Shiny Calfskin",
+      "price": "27000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP909CCFS03W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDP909CCF_S03W",
+      "variants": [
+        {
+          "color": "White Shiny Calfskin",
+          "size": null,
+          "code": "KDP909CCF_S03W",
+          "price": "27000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP909CCFS03W_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV266VNIS900",
+      "name": "Miss Dior Pump",
+      "description": "Black Patent Calfskin",
+      "price": "34000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV266VNIS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV266VNI_S900",
+      "variants": [
+        {
+          "color": "Black Patent Calfskin",
+          "size": null,
+          "code": "KDV266VNI_S900",
+          "price": "34000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV266VNIS900_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Patent Calfskin",
+          "size": null,
+          "code": "KDV268VNI_S900",
+          "price": "34000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV268VNIS900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDB892CQCS900",
+      "name": "Dior Ballet Pump",
+      "description": "Black Quilted Cannage Calfskin",
+      "price": "28000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB892CQCS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDB892CQC_S900",
+      "variants": [
+        {
+          "color": "Black Quilted Cannage Calfskin",
+          "size": null,
+          "code": "KDB892CQC_S900",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDB892CQCS900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV190GGNS900",
+      "name": "Adiorable Pump",
+      "description": "Black Fringed Grosgrain",
+      "price": "30000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV190GGNS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV190GGN_S900",
+      "variants": [
+        {
+          "color": "Black Fringed Grosgrain",
+          "size": null,
+          "code": "KDV190GGN_S900",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV190GGNS900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV291GGNS900",
+      "name": "Adiorable Wedge Pump",
+      "description": "Black Fringed Grosgrain",
+      "price": "37000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV291GGNS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV291GGN_S900",
+      "variants": [
+        {
+          "color": "Black Fringed Grosgrain",
+          "size": null,
+          "code": "KDV291GGN_S900",
+          "price": "37000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV291GGNS900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV225GGNS900",
+      "name": "Adiorable Slingback Pump",
+      "description": "Black Fringed Grosgrain",
+      "price": "33000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV225GGNS900_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV225GGN_S900",
+      "variants": [
+        {
+          "color": "Black Fringed Grosgrain",
+          "size": null,
+          "code": "KDV225GGN_S900",
+          "price": "33000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV225GGNS900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KDV326LESS93K",
+      "name": "Dior Or Adiorable Heeled Mule",
+      "description": "Gold-Tone Cotton Embroidered with Metallic Thread and Strass and Laminated Lambskin",
       "price": "49000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDI781VEAS17X_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDI781VEA_S17X",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV326LESS93K_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV326LES_S93K",
       "variants": [
         {
-          "color": "Black Calfskin",
+          "color": "Gold-Tone Cotton Embroidered with Metallic Thread and Strass and Laminated Lambskin",
           "size": null,
-          "code": "KDI781VEA_S17X",
+          "code": "KDV326LES_S93K",
           "price": "49000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDI781VEAS17X_E02",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV326LESS93K_E02",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-KDT112SCFS900",
-      "name": "D-Town Heeled Ankle Boot",
-      "description": "Black Calfskin",
-      "price": "46000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT112SCFS900_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDT112SCF_S900",
-      "variants": [
-        {
-          "color": "Black Calfskin",
-          "size": null,
-          "code": "KDT112SCF_S900",
-          "price": "46000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT112SCFS900_E02",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-KDT129ACAS900",
-      "name": "D-Town Ankle Boot",
-      "description": "Black Brushed Calfskin",
-      "price": "45000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT129ACAS900_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDT129ACA_S900",
-      "variants": [
-        {
-          "color": "Black Brushed Calfskin",
-          "size": null,
-          "code": "KDT129ACA_S900",
-          "price": "45000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT129ACAS900_E02",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-KDT097CXYS16X",
-      "name": "D-Major Ankle Boot",
-      "description": "Black Calfskin and Black and White Technical Fabric",
-      "price": "49000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT097CXYS16X_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDT097CXY_S16X",
-      "variants": [
-        {
-          "color": "Black Calfskin and Black and White Technical Fabric",
-          "size": null,
-          "code": "KDT097CXY_S16X",
-          "price": "49000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT097CXYS16X_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Black and White Cannage Tweed and Black Calfskin",
-          "size": null,
-          "code": "KDT010CWY_S17X",
-          "price": "49000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT010CWYS17X_E02",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-KDT098CXYS45X",
-      "name": "D-Major Boot",
-      "description": "Black Calfskin and Khaki and Black Technical Fabric",
-      "price": "58000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT098CXYS45X_E02-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDT098CXY_S45X",
-      "variants": [
-        {
-          "color": "Black Calfskin and Khaki and Black Technical Fabric",
-          "size": null,
-          "code": "KDT098CXY_S45X",
-          "price": "58000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT098CXYS45X_E02-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Warm Taupe Technical Canvas with Black Miss Dior Graffiti Print and Black Calfskin",
-          "size": null,
-          "code": "KDI929CMV_S44X",
-          "price": "46000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDI929CMVS44X_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Technical Fabric with White Miss Dior Graffiti Print and Black Calfskin",
-          "size": null,
-          "code": "KDI929CMV_S17X",
-          "price": "46000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDI929CMVS17X_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Beige and Black Cannage Tweed and Black Calfskin",
-          "size": null,
-          "code": "KDI981CWY_S60U",
-          "price": "50000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDI981CWYS60U_E02",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-KDT092XLCS900",
-      "name": "D-Fight Ankle Boot",
-      "description": "Black Calfskin and Leather-Effect Stretch Material",
+      "code": "prd-KDV300SETS04X",
+      "name": "Dior Capture Slingback Pump",
+      "description": "Transparent Mesh with Silver-Tone Strass Cannage Motif and Black Suede Goatskin",
       "price": "52000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT092XLCS900_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDT092XLC_S900",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV300SETS04X_E02-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV300SET_S04X",
       "variants": [
         {
-          "color": "Black Calfskin and Leather-Effect Stretch Material",
+          "color": "Transparent Mesh with Silver-Tone Strass Cannage Motif and Black Suede Goatskin",
           "size": null,
-          "code": "KDT092XLC_S900",
+          "code": "KDV300SET_S04X",
           "price": "52000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT092XLCS900_E02",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV300SETS04X_E02-1",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-KDI993CFMS900",
-      "name": "D-Strike Ankle Boot",
-      "description": "Black Matte Calfskin and White Resin Pearls",
-      "price": "54000000",
+      "code": "prd-KDV297SETS04X",
+      "name": "Dior Capture Heeled Mule",
+      "description": "Transparent Mesh with Silver-Tone Strass Cannage Motif and Black Suede Goatskin",
+      "price": "49000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDI993CFMS900_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDI993CFM_S900",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV297SETS04X_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV297SET_S04X",
       "variants": [
         {
-          "color": "Black Matte Calfskin and White Resin Pearls",
+          "color": "Transparent Mesh with Silver-Tone Strass Cannage Motif and Black Suede Goatskin",
           "size": null,
-          "code": "KDI993CFM_S900",
-          "price": "54000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDI993CFMS900_E02",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-KDT115VEAS900",
-      "name": "D-Quest Ankle Boot",
-      "description": "Black Calfskin",
-      "price": "46000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT115VEAS900_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDT115VEA_S900",
-      "variants": [
-        {
-          "color": "Black Calfskin",
-          "size": null,
-          "code": "KDT115VEA_S900",
-          "price": "46000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT115VEAS900_E02",
+          "code": "KDV297SET_S04X",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV297SETS04X_E02",
           "additionalImages": []
         },
         {
-          "color": "Black Calfskin",
+          "color": "Transparent Mesh with Strass Cannage Motif and Nude Suede Goatskin",
           "size": null,
-          "code": "KDT070VEA_S900",
-          "price": "43000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT070VEAS900_E02-2",
-          "additionalImages": []
-        },
-        {
-          "color": "White Calfskin",
-          "size": null,
-          "code": "KDT115VEA_S03W",
-          "price": "46000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT115VEAS03W_E02-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-KCT087CBUS900",
-      "name": "D-Scots Boot",
-      "description": "Black Rubber-Effect Calfskin",
-      "price": "49000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCT087CBUS900_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCT087CBU_S900",
-      "variants": [
-        {
-          "color": "Black Rubber-Effect Calfskin",
-          "size": null,
-          "code": "KCT087CBU_S900",
+          "code": "KDV296SET_S55U",
           "price": "49000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCT087CBUS900_E02",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-KDT067VVVS900",
-      "name": "Dior Icon Heeled Ankle Boot",
-      "description": "Black Suede Goatskin",
-      "price": "49000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT067VVVS900_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDT067VVV_S900",
-      "variants": [
-        {
-          "color": "Black Suede Goatskin",
-          "size": null,
-          "code": "KDT067VVV_S900",
-          "price": "49000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDT067VVVS900_E02",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-KDI952ROYS900",
-      "name": "Naughtily-D Heeled Ankle Boot",
-      "description": "Transparent Mesh with Black Dior Roses Embroidery and Suede Goatskin",
-      "price": "45000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDI952ROYS900_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDI952ROY_S900",
-      "variants": [
-        {
-          "color": "Transparent Mesh with Black Dior Roses Embroidery and Suede Goatskin",
-          "size": null,
-          "code": "KDI952ROY_S900",
-          "price": "45000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDI952ROYS900_E02",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV296SETS55U_E02",
           "additionalImages": []
         }
       ]

@@ -2,478 +2,607 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-31C1047B0772C588",
-      "name": "Striped Toile de Jouy Tie",
-      "description": "Navy Blue and Gray Silk",
-      "price": "6500000",
+      "code": "prd-R2417HOMSTD970",
+      "name": "CD Icon Chain Link Ring",
+      "description": "Gold-Plated Silver",
+      "price": "13500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31C1047B0772C588_E01-2",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/31C1047B0772_C588",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2417HOMSTD970_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2417HOMST_D970",
       "variants": [
         {
-          "color": "Navy Blue and Gray Silk",
+          "color": "Gold-Plated Silver",
           "size": null,
-          "code": "31C1047B0772_C588",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31C1047B0772C588_E01-2",
+          "code": "R2417HOMST_D970",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2417HOMSTD970_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Silver",
+          "size": null,
+          "code": "R0977HOMST_D990",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R0977HOMSTD990_E01-1",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-58C1047B0006C580",
-      "name": "DIOR AND HYLTON NEL Tie",
-      "description": "Navy Blue and White Silk",
-      "price": "9800000",
+      "code": "prd-E3788HOMSTD970",
+      "name": "CD Icon Earrings",
+      "description": "Silver and Gold-Plated Silver",
+      "price": "11000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/58C1047B0006C580_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/58C1047B0006_C580",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3788HOMSTD970_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3788HOMST_D970",
       "variants": [
         {
-          "color": "Navy Blue and White Silk",
+          "color": "Silver and Gold-Plated Silver",
           "size": null,
-          "code": "58C1047B0006_C580",
-          "price": "9800000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/58C1047B0006C580_E01",
+          "code": "E3788HOMST_D970",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3788HOMSTD970_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Silver and White Crystals",
+          "size": null,
+          "code": "E2931HOMST_D990",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E2931HOMSTD990_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-49C1047B0979C510",
-      "name": "Dior Oblique Tie",
-      "description": "Light Blue and Blue Silk",
-      "price": "6500000",
+      "code": "prd-B2762HOMSTD970",
+      "name": "CD Icon Thin Chain Link Bracelet",
+      "description": "Gold-Plated Silver",
+      "price": "16500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/49C1047B0979C510_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/49C1047B0979_C510",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2762HOMSTD970_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2762HOMST_D970",
       "variants": [
         {
-          "color": "Light Blue and Blue Silk",
+          "color": "Gold-Plated Silver",
           "size": null,
-          "code": "49C1047B0979_C510",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/49C1047B0979C510_E01",
+          "code": "B2762HOMST_D970",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2762HOMSTD970_E01",
           "additionalImages": []
         },
         {
-          "color": "Blue Silk",
+          "color": "Silver",
           "size": null,
-          "code": "03C1047A0330_C522",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/03C1047A0330C522_E01",
+          "code": "B2162HOMST_D990",
+          "price": "16500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2162HOMSTD990_E01",
           "additionalImages": []
         },
         {
-          "color": "Light Gray Silk",
+          "color": "Silver-Finish Brass",
           "size": null,
-          "code": "03C1047A0330_C815",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/03C1047A0330C815_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue and Black Silk",
-          "size": null,
-          "code": "93C1046A0121_C975",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/93C1046A0121C975_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Gray Silk",
-          "size": null,
-          "code": "03C1046A0330_C835",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/03C1046A0330C835_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Navy Blue Silk",
-          "size": null,
-          "code": "03C1046A0330_C800",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/03C1046A0330C800_E01-5",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Silk",
-          "size": null,
-          "code": "03C1046A0330_C900",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/03C1046A0330C900_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Gray and Black Silk",
-          "size": null,
-          "code": "93C1046A0121_C978",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/93C1046A0121C978_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Deep Khaki Silk",
-          "size": null,
-          "code": "49C1047B0979_C686",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/49C1047B0979C686_E01-1",
+          "code": "B1446HOMMT_D000",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1446HOMMTD000_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-58N1020A6006C510",
-      "name": "Dior Oblique Bow Tie",
-      "description": "Light Blue and Blue Silk",
-      "price": "5700000",
+      "code": "prd-N3200HOMSTD970",
+      "name": "CD Icon Thin Chain Link Necklace",
+      "description": "Gold-Plated Silver",
+      "price": "23500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/58N1020A6006C510_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/58N1020A6006_C510",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3200HOMSTD970_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3200HOMST_D970",
       "variants": [
         {
-          "color": "Light Blue and Blue Silk",
+          "color": "Gold-Plated Silver",
           "size": null,
-          "code": "58N1020A6006_C510",
-          "price": "5700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/58N1020A6006C510_E01",
+          "code": "N3200HOMST_D970",
+          "price": "23500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3200HOMSTD970_E01",
           "additionalImages": []
         },
         {
-          "color": "Light Gray Silk",
+          "color": "Silver",
           "size": null,
-          "code": "03N1020A0330_C815",
-          "price": "5700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/03N1020A0330C815_E01",
+          "code": "N2502HOMST_D990",
+          "price": "23500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N2502HOMSTD990_E01",
           "additionalImages": []
         },
         {
-          "color": "Blue Silk",
+          "color": "Silver-Finish Brass",
           "size": null,
-          "code": "03N1020A0121_C975",
-          "price": "5700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/03N1020A0121C975_E01-1",
+          "code": "N1574HOMMT_D000",
+          "price": "22000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N1574HOMMTD000_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-51C1047B1003C582",
-      "name": "Nano CD Icon Tie",
-      "description": "Light Blue, Blue and Yellow Silk",
-      "price": "6500000",
+      "code": "prd-B1973HOMLED801",
+      "name": "CD Icon Braided Leather Double Bracelet",
+      "description": "Black Lambskin and Ruthenium-Finish Brass",
+      "price": "10500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B1003C582_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/51C1047B1003_C582",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1973HOMLED801_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B1973HOMLE_D801",
       "variants": [
         {
-          "color": "Light Blue, Blue and Yellow Silk",
+          "color": "Black Lambskin and Ruthenium-Finish Brass",
           "size": null,
-          "code": "51C1047B1003_C582",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B1003C582_E01",
+          "code": "B1973HOMLE_D801",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1973HOMLED801_E01",
           "additionalImages": []
         },
         {
-          "color": "Black, Gray and White Silk",
+          "color": "Blue Calfskin and Silver-Finish Brass",
           "size": null,
-          "code": "51C1047B1003_C988",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B1003C988_E01",
+          "code": "B1974HOMLE_D477",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1974HOMLED477_E01",
           "additionalImages": []
         },
         {
-          "color": "Navy Blue, Blue and White Silk",
+          "color": "Black Lambskin and Silver-Finish Brass",
           "size": null,
-          "code": "51C1047B1003_C585",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B1003C585_E01",
+          "code": "B1973HOMLE_D004",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1973HOMLED004_E01",
           "additionalImages": []
         },
         {
-          "color": "Burgundy, Red and White Silk",
+          "color": "Gray Lambskin and Silver-Finish Brass",
           "size": null,
-          "code": "51C1047B1003_C383",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B1003C383_E01",
+          "code": "B1973HOMLE_D005",
+          "price": "10500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B1973HOMLED005_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-48C1047B0961C580",
-      "name": "Cannage Tie",
-      "description": "Light Blue and Blue Silk",
-      "price": "7300000",
+      "code": "prd-R2419HOMSTD994",
+      "name": "Dior Oblique Ring",
+      "description": "Silver and Blue Resin",
+      "price": "15000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/48C1047B0961C580_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/48C1047B0961_C580",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2419HOMSTD994_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R2419HOMST_D994",
       "variants": [
         {
-          "color": "Light Blue and Blue Silk",
+          "color": "Silver and Blue Resin",
           "size": null,
-          "code": "48C1047B0961_C580",
-          "price": "7300000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/48C1047B0961C580_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Navy Blue and White Silk",
-          "size": null,
-          "code": "31C1047B0771_C588",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31C1047B0771C588_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Navy Blue Silk",
-          "size": null,
-          "code": "31C1047B0770_C540",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31C1047B0770C540_E01-1",
+          "code": "R2419HOMST_D994",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R2419HOMSTD994_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-44C1047B0984C588",
-      "name": "Striped Cannage Tie",
-      "description": "Navy Blue, Gray and White Silk",
-      "price": "6500000",
+      "code": "prd-N3202HOMMTD014",
+      "name": "Dior Oblique Pendant Necklace",
+      "description": "Silver-Finish Brass and Blue Resin",
+      "price": "17000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44C1047B0984C588_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/44C1047B0984_C588",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3202HOMMTD014_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N3202HOMMT_D014",
       "variants": [
         {
-          "color": "Navy Blue, Gray and White Silk",
+          "color": "Silver-Finish Brass and Blue Resin",
           "size": null,
-          "code": "44C1047B0984_C588",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44C1047B0984C588_E01-1",
+          "code": "N3202HOMMT_D014",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N3202HOMMTD014_E01",
           "additionalImages": []
         },
         {
-          "color": "Black, Gray and White Silk",
+          "color": "Silver-Finish Brass and Vermilion Red Resin",
           "size": null,
-          "code": "44C1047B0984_C988",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44C1047B0984C988_E01",
+          "code": "N4014HOMMT_D013",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4014HOMMTD013_E01",
           "additionalImages": []
         },
         {
-          "color": "Navy Blue, Blue and White Silk",
+          "color": "Silver- and Ruthenium-Finish Brass",
           "size": null,
-          "code": "51C1047B1001_C588",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B1001C588_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Gray, White and Deep Gray Silk",
-          "size": null,
-          "code": "44C1047B0984_C880",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/44C1047B0984C880_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Gray and White Silk",
-          "size": null,
-          "code": "51C1047B1001_C880",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B1001C880_E01",
+          "code": "N4005HOMMT_D004",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4005HOMMTD004_E01-2",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-01C1047A0266C588",
-      "name": "Striped Dior Oblique Tie",
-      "description": "Navy Blue, White and Gray Silk",
-      "price": "6500000",
+      "code": "prd-E7392HOMMTD014",
+      "name": "Dior Oblique Earring Set",
+      "description": "Silver-Finish Brass and Blue Resin",
+      "price": "17000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/01C1047A0266C588_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/01C1047A0266_C588",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E7392HOMMTD014_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E7392HOMMT_D014",
       "variants": [
         {
-          "color": "Navy Blue, White and Gray Silk",
+          "color": "Silver-Finish Brass and Blue Resin",
           "size": null,
-          "code": "01C1047A0266_C588",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/01C1047A0266C588_E01-1",
+          "code": "E7392HOMMT_D014",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E7392HOMMTD014_E01",
           "additionalImages": []
         },
         {
-          "color": "Deep Gray and Light Gray Silk",
+          "color": "Silver-Finish Brass",
           "size": null,
-          "code": "11C1047A0443_C980",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/11C1047A0443C980_E01-1",
+          "code": "E4428HOMMT_D000",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E4428HOMMTD000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1440HOMMTD014",
+      "name": "Dior Oblique Brooch",
+      "description": "Silver-Finish Brass and Blue Resin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1440HOMMTD014_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1440HOMMT_D014",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass and Blue Resin",
+          "size": null,
+          "code": "V1440HOMMT_D014",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1440HOMMTD014_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1439HOMGMD395",
+      "name": "DIOR AND HYLTON NEL Dog Brooch",
+      "description": "White and Blue Ceramic with Silver-Finish Brass",
+      "price": "18000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1439HOMGMD395_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1439HOMGM_D395",
+      "variants": [
+        {
+          "color": "White and Blue Ceramic with Silver-Finish Brass",
+          "size": null,
+          "code": "V1439HOMGM_D395",
+          "price": "18000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1439HOMGMD395_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B2761HOMMTD945",
+      "name": "DIOR AND HYLTON NEL Charm Bracelet",
+      "description": "Silver-Finish Brass with Yellow and Blue Resin",
+      "price": "18000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2761HOMMTD945_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2761HOMMT_D945",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass with Yellow and Blue Resin",
+          "size": null,
+          "code": "B2761HOMMT_D945",
+          "price": "18000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2761HOMMTD945_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N4013HOMMTD013",
+      "name": "DIOR AND KAWS Pendant Necklace",
+      "description": "Silver-Finish Brass with Green and Red Resin and Vermilion Red Crystal",
+      "price": "15500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4013HOMMTD013_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N4013HOMMT_D013",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass with Green and Red Resin and Vermilion Red Crystal",
+          "size": null,
+          "code": "N4013HOMMT_D013",
+          "price": "15500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4013HOMMTD013_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B3661HOMGMD013",
+      "name": "Dior Oblique Bracelet",
+      "description": "Silver-Finish Brass with Vermilion Red Lambskin and Resin",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B3661HOMGMD013_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B3661HOMGM_D013",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass with Vermilion Red Lambskin and Resin",
+          "size": null,
+          "code": "B3661HOMGM_D013",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B3661HOMGMD013_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-B3660HOMMTD013",
+      "name": "DIOR AND KAWS Bracelet",
+      "description": "Vermilion Red Cord with Silver-Finish Brass and Green and Vermilion Red Resin",
+      "price": "10000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B3660HOMMTD013_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B3660HOMMT_D013",
+      "variants": [
+        {
+          "color": "Vermilion Red Cord with Silver-Finish Brass and Green and Vermilion Red Resin",
+          "size": null,
+          "code": "B3660HOMMT_D013",
+          "price": "10000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B3660HOMMTD013_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1607HOMMTD013",
+      "name": "DIOR AND KAWS Brooch",
+      "description": "Silver-Finish Brass with Vermilion Red and Green Resin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1607HOMMTD013_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1607HOMMT_D013",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass with Vermilion Red and Green Resin",
+          "size": null,
+          "code": "V1607HOMMT_D013",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1607HOMMTD013_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-N4002HOMMTD000",
+      "name": "CD30 Pendant Necklace",
+      "description": "Silver-Finish Brass",
+      "price": "14000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4002HOMMTD000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N4002HOMMT_D000",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass",
+          "size": null,
+          "code": "N4002HOMMT_D000",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4002HOMMTD000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-R3470HOMSTD990",
+      "name": "CD30 Chain Link Ring",
+      "description": "Silver",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R3470HOMSTD990_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R3470HOMST_D990",
+      "variants": [
+        {
+          "color": "Silver",
+          "size": null,
+          "code": "R3470HOMST_D990",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R3470HOMSTD990_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1600HOMMTD000",
+      "name": "CD30 Brooch",
+      "description": "Silver-Finish Brass",
+      "price": "9100000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1600HOMMTD000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1600HOMMT_D000",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass",
+          "size": null,
+          "code": "V1600HOMMT_D000",
+          "price": "9100000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1600HOMMTD000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1608HOMMTD010",
+      "name": "CD Icon Brooch",
+      "description": "Silver-Finish Brass with Brown Resin and Crystal",
+      "price": "12000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1608HOMMTD010_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1608HOMMT_D010",
+      "variants": [
+        {
+          "color": "Silver-Finish Brass with Brown Resin and Crystal",
+          "size": null,
+          "code": "V1608HOMMT_D010",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1608HOMMTD010_E01",
           "additionalImages": []
         },
         {
-          "color": "Gray and White Silk",
+          "color": "Silver and White Crystals",
           "size": null,
-          "code": "01C1047A0266_C889",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/01C1047A0266C889_E01",
+          "code": "V1230HOMST_D990",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1230HOMSTD990_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-01C1046A0272C980",
-      "name": "Tie with Bee Motif",
-      "description": "Black Silk",
-      "price": "6500000",
+      "code": "prd-B3662HOMSTD990",
+      "name": "Cannage Chain Link Bracelet",
+      "description": "Silver",
+      "price": "28000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/01C1046A0272C980_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/01C1046A0272_C980",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B3662HOMSTD990_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B3662HOMST_D990",
       "variants": [
         {
-          "color": "Black Silk",
+          "color": "Silver",
           "size": null,
-          "code": "01C1046A0272_C980",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/01C1046A0272C980_E01-1",
+          "code": "B3662HOMST_D990",
+          "price": "28000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B3662HOMSTD990_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-51C1047B0999C585",
-      "name": "CD Icon Striped Tie",
-      "description": "Navy Blue and Blue Silk",
-      "price": "6500000",
+      "code": "prd-B2538HOMLED004",
+      "name": "Cannage Bracelet",
+      "description": "Silver-Finish Brass and Black Lambskin",
+      "price": "9100000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B0999C585_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/51C1047B0999_C585",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2538HOMLED004_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B2538HOMLE_D004",
       "variants": [
         {
-          "color": "Navy Blue and Blue Silk",
+          "color": "Silver-Finish Brass and Black Lambskin",
           "size": null,
-          "code": "51C1047B0999_C585",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B0999C585_E01",
+          "code": "B2538HOMLE_D004",
+          "price": "9100000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2538HOMLED004_E01",
           "additionalImages": []
         },
         {
-          "color": "Black and Gray Silk",
+          "color": "Silver-Finish Brass and Anthracite Gray Lambskin",
           "size": null,
-          "code": "51C1047B0999_C988",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B0999C988_E01",
+          "code": "B2538HOMLE_D047",
+          "price": "9100000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B2538HOMLED047_E01-1",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-11C1047A0442C878",
-      "name": "Dior Oblique Pixel Tie",
-      "description": "Gray, Black and White Silk",
-      "price": "6500000",
+      "code": "prd-N4016HOMSTD990",
+      "name": "Cannage Plate Pendant Necklace",
+      "description": "Silver",
+      "price": "21500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/11C1047A0442C878_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/11C1047A0442_C878",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4016HOMSTD990_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/N4016HOMST_D990",
       "variants": [
         {
-          "color": "Gray, Black and White Silk",
+          "color": "Silver",
           "size": null,
-          "code": "11C1047A0442_C878",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/11C1047A0442C878_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Light Blue and Blue Silk",
-          "size": null,
-          "code": "58C1047B6004_C585",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/58C1047B6004C585_E01",
+          "code": "N4016HOMST_D990",
+          "price": "21500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/N4016HOMSTD990_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-51C1047B1014C580",
-      "name": "DIOR AND KAWS Tie",
-      "description": "Navy Blue, White and Vermilion Red Silk",
-      "price": "8300000",
+      "code": "prd-B3651HOMSTD990",
+      "name": "CD Icon Bangle",
+      "description": "Silver",
+      "price": "20500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B1014C580_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/51C1047B1014_C580",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B3651HOMSTD990_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/B3651HOMST_D990",
       "variants": [
         {
-          "color": "Navy Blue, White and Vermilion Red Silk",
+          "color": "Silver",
           "size": null,
-          "code": "51C1047B1014_C580",
-          "price": "8300000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51C1047B1014C580_E01",
+          "code": "B3651HOMST_D990",
+          "price": "20500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/B3651HOMSTD990_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-39C1047B0863C888",
-      "name": "CD Diamond Tie",
-      "description": "Dior Gray Silk",
-      "price": "6500000",
+      "code": "prd-R3471HOMSTD992",
+      "name": "Dior Oblique Ring Set",
+      "description": "Silver",
+      "price": "17000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/39C1047B0863C888_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/39C1047B0863_C888",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R3471HOMSTD992_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R3471HOMST_D992",
       "variants": [
         {
-          "color": "Dior Gray Silk",
+          "color": "Silver",
           "size": null,
-          "code": "39C1047B0863_C888",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/39C1047B0863C888_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Silk",
-          "size": null,
-          "code": "39C1047B0863_C889",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/39C1047B0863C889_E01-3",
+          "code": "R3471HOMST_D992",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R3471HOMSTD992_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-24C1047B0728C988",
-      "name": "Christian Dior Couture Tie",
-      "description": "Black Silk Blend",
-      "price": "6500000",
+      "code": "prd-R3472HOMSTD990",
+      "name": "CD Icon Ring",
+      "description": "Silver",
+      "price": "11500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/24C1047B0728C988_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/24C1047B0728_C988",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R3472HOMSTD990_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R3472HOMST_D990",
       "variants": [
         {
-          "color": "Black Silk Blend",
+          "color": "Silver",
           "size": null,
-          "code": "24C1047B0728_C988",
-          "price": "6500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/24C1047B0728C988_E01",
+          "code": "R3472HOMST_D990",
+          "price": "11500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R3472HOMSTD990_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-PIS1020800C900",
-      "name": "Straight Edge Bow Tie",
-      "description": "Black Silk",
-      "price": "5700000",
+      "code": "prd-R1556HOMMTD001",
+      "name": "Crystals and CD Icon Ring",
+      "description": "Silver-Finish Brass and White Crystals",
+      "price": "12000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/PIS1020800C900_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/PIS1020800_C900",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1556HOMMTD001_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/R1556HOMMT_D001",
       "variants": [
         {
-          "color": "Black Silk",
+          "color": "Silver-Finish Brass and White Crystals",
           "size": null,
-          "code": "PIS1020800_C900",
-          "price": "5700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/PIS1020800C900_E01",
+          "code": "R1556HOMMT_D001",
+          "price": "12000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/R1556HOMMTD001_E01",
           "additionalImages": []
         }
       ]

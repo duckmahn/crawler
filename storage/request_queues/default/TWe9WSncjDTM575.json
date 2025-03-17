@@ -2,7 +2,7 @@
   "id": "TWe9WSncjDTM575",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/dior-book-tote",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:45.800498+00:00",
+  "handled_at": "2025-03-17 04:06:54.549675+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/dior-book-tote",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/dior-book-tote",
-    "handled_at": "2025-03-14 11:00:45.800498+00:00",
+    "handled_at": "2025-03-17 04:06:54.549675+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/dior-book-tote",
     "id": "TWe9WSncjDTM575"
   }

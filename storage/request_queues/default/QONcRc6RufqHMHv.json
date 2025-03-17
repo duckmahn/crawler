@@ -2,7 +2,7 @@
   "id": "QONcRc6RufqHMHv",
   "unique_key": "https://www.dior.com/en_vn/fashion/gifts/gifts-for-him",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:30.842206+00:00",
+  "handled_at": "2025-03-17 04:06:42.260636+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/gifts/gifts-for-him",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/gifts/gifts-for-him",
-    "handled_at": "2025-03-14 11:00:30.842206+00:00",
+    "handled_at": "2025-03-17 04:06:42.260636+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/gifts/gifts-for-him",
     "id": "QONcRc6RufqHMHv"
   }

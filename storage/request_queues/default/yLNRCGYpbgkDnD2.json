@@ -2,7 +2,7 @@
   "id": "yLNRCGYpbgkDnD2",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/straps",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:44.589531+00:00",
+  "handled_at": "2025-03-17 04:06:53.283522+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/straps",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/straps",
-    "handled_at": "2025-03-14 11:00:44.589531+00:00",
+    "handled_at": "2025-03-17 04:06:53.283522+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/straps",
     "id": "yLNRCGYpbgkDnD2"
   }

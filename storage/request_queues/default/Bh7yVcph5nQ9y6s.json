@@ -2,7 +2,7 @@
   "id": "Bh7yVcph5nQ9y6s",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/pouches",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:43.201420+00:00",
+  "handled_at": "2025-03-17 04:06:52.464828+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/pouches",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/pouches",
-    "handled_at": "2025-03-14 11:00:43.201420+00:00",
+    "handled_at": "2025-03-17 04:06:52.464828+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/pouches",
     "id": "Bh7yVcph5nQ9y6s"
   }

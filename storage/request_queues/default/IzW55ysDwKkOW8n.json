@@ -2,7 +2,7 @@
   "id": "IzW55ysDwKkOW8n",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/coats",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:35.740281+00:00",
+  "handled_at": "2025-03-17 04:06:45.969013+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/coats",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/coats",
-    "handled_at": "2025-03-14 11:00:35.740281+00:00",
+    "handled_at": "2025-03-17 04:06:45.969013+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/coats",
     "id": "IzW55ysDwKkOW8n"
   }

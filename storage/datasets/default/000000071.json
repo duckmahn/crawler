@@ -2,288 +2,173 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-KCO270ERCS56B",
-      "name": "Dway Wedge Sandal",
-      "description": "Deep Blue Embroidered Cotton",
-      "price": "37000000",
+      "code": "prd-KCO170ROJS28N",
+      "name": "Dioract Sandal",
+      "description": "Chambray Blue Jacquard with Ecru Dior Oblique Raffia",
+      "price": "36000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO270ERCS56B_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO270ERC_S56B",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO170ROJS28N_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO170ROJ_S28N",
       "variants": [
         {
-          "color": "Deep Blue Embroidered Cotton",
+          "color": "Chambray Blue Jacquard with Ecru Dior Oblique Raffia",
           "size": null,
-          "code": "KCO270ERC_S56B",
-          "price": "37000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO270ERCS56B_E02",
+          "code": "KCO170ROJ_S28N",
+          "price": "36000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO170ROJS28N_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Cannage Denim",
+          "size": null,
+          "code": "KCO141FJL_S70B",
+          "price": "36000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO141FJLS70B_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "White Lambskin",
+          "size": null,
+          "code": "KCQ547LAB_S03W",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ547LABS03W_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Beige Lambskin",
+          "size": null,
+          "code": "KCQ547LAB_S51U",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ547LABS51U_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Suede Goatskin",
+          "size": null,
+          "code": "KCO106SKU_S43M",
+          "price": "36000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO106SKUS43M_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Quilted Cannage Calfskin",
+          "size": null,
+          "code": "KCO005CQC_S900",
+          "price": "36000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO005CQCS900_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Lambskin",
+          "size": null,
+          "code": "KCQ547LAB_S900",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ547LABS900_E02-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cannage Tweed and Gold-Tone Metallic Thread",
+          "size": null,
+          "code": "KCO170CXG_S21X",
+          "price": "36000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO170CXGS21X_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Calfskin with Silver-Finish Studs and White Resin Pearls",
+          "size": null,
+          "code": "KCO155CAS_S900",
+          "price": "43000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO155CASS900_E02",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-KDO083RCFS04J",
-      "name": "Dway Heeled Sandal",
-      "description": "Natural Raffia, Black Embroidered Cotton and Calfskin",
-      "price": "37000000",
+      "code": "prd-KCO016LABS59U",
+      "name": "Dioract Platform Sandal",
+      "description": "Light Biscuit Lambskin",
+      "price": "33000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDO083RCFS04J_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDO083RCF_S04J",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO016LABS59U_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO016LAB_S59U",
       "variants": [
         {
-          "color": "Natural Raffia, Black Embroidered Cotton and Calfskin",
+          "color": "Light Biscuit Lambskin",
           "size": null,
-          "code": "KDO083RCF_S04J",
-          "price": "37000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDO083RCFS04J_E02",
+          "code": "KCO016LAB_S59U",
+          "price": "33000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO016LABS59U_E02",
           "additionalImages": []
         },
         {
-          "color": "Black Calfskin and Embroidered Cotton",
+          "color": "Pale Pink Lambskin",
           "size": null,
-          "code": "KDO191CEY_S900",
+          "code": "KCO016LAB_S30P",
+          "price": "33000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO016LABS30P_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Lambskin",
+          "size": null,
+          "code": "KCO016LAB_S900",
+          "price": "33000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO016LABS900_E02",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-KCQ718LABS03W",
+      "name": "Dioract Slide",
+      "description": "White Lambskin",
+      "price": "28420000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ718LABS03W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCQ718LAB_S03W",
+      "variants": [
+        {
+          "color": "White Lambskin",
+          "size": null,
+          "code": "KCQ718LAB_S03W",
+          "price": "28420000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ718LABS03W_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Cannage Tweed",
+          "size": null,
+          "code": "KCO264CTG_S24U",
           "price": "35000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDO191CEYS900_E02",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO264CTGS24U_E02",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Lambskin",
+          "size": null,
+          "code": "KCQ718LAB_S900",
+          "price": "28420000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ718LABS900_E02",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-KCO258ERCS56B",
-      "name": "Dway Platform Slide",
-      "description": "Deep Blue Embroidered Cotton",
-      "price": "26000000",
+      "code": "prd-KCO170CXGS09W",
+      "name": "Dior Or Dioract Sandal",
+      "description": "White and Gold-Tone Cannage Tweed",
+      "price": "36000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO258ERCS56B_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO258ERC_S56B",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO170CXGS09W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCO170CXG_S09W",
       "variants": [
         {
-          "color": "Deep Blue Embroidered Cotton",
+          "color": "White and Gold-Tone Cannage Tweed",
           "size": null,
-          "code": "KCO258ERC_S56B",
-          "price": "26000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO258ERCS56B_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Deep Blue Embroidered Cotton",
-          "size": null,
-          "code": "KCO116ERC_S56B",
-          "price": "26000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO116ERCS56B_E02",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-KCQ209ECTS84W",
-      "name": "Dway Slide",
-      "description": "Embroidered Cotton and White Multicolor Toile de Jouy Papillon Motif",
-      "price": "22000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ209ECTS84W_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCQ209ECT_S84W",
-      "variants": [
-        {
-          "color": "Embroidered Cotton and White Multicolor Toile de Jouy Papillon Motif",
-          "size": null,
-          "code": "KCQ209ECT_S84W",
-          "price": "22000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ209ECTS84W_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Natural Raffia and Black D-Butterfly Paisley Motif",
-          "size": null,
-          "code": "KCO178BRE_S04J",
-          "price": "22000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO178BRES04J_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Embroidered Cotton and Deep Blue Toile de Jouy Scotland Motif",
-          "size": null,
-          "code": "KCQ209TSZ_S68B",
-          "price": "22000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ209TSZS68B_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Gray Embroidered Cotton and Toile de Jouy Motif",
-          "size": null,
-          "code": "KCQ209TJE_S21G",
-          "price": "22000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ209TJES21G_E02-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Cotton Embroidered with Metallic Thread and White and Gold-Tone Dior Chardons Motif",
-          "size": null,
-          "code": "KCQ209CDI_S09W",
-          "price": "24000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ209CDIS09W_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Camel Calfskin and Embroidered Cotton",
-          "size": null,
-          "code": "KCQ986CEY_S17T",
-          "price": "23000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ986CEYS17T_E02-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Pale Pink Calfskin and Embroidered Cotton",
-          "size": null,
-          "code": "KCQ986CEY_S30P",
-          "price": "23000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ986CEYS30P_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Beige Calfskin and Embroidered Cotton",
-          "size": null,
-          "code": "KCO163CEX_S24T",
-          "price": "26000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO163CEXS24T_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Calfskin and Gold-Finish Studs",
-          "size": null,
-          "code": "KCO138CTU_S900",
-          "price": "26000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO138CTUS900_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Embroidered Cotton and Deep Blue Miss Dior Allover Motif",
-          "size": null,
-          "code": "KCO109EZO_S68B",
-          "price": "22000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO109EZOS68B_E02-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Embroidered Cotton and Pale Blue Miss Dior Allover Motif",
-          "size": null,
-          "code": "KCO109EZO_S26N",
-          "price": "22000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO109EZOS26N_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Deep Blue Embroidered Cotton",
-          "size": null,
-          "code": "KCQ166ERC_S56B",
-          "price": "22000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ166ERCS56B_E02",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-KCQ915DLCS17X",
-      "name": "Dway Heeled Slide",
-      "description": "Black and White Cotton Embroidered with Dior Graphique Motif",
-      "price": "24000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ915DLCS17X_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCQ915DLC_S17X",
-      "variants": [
-        {
-          "color": "Black and White Cotton Embroidered with Dior Graphique Motif",
-          "size": null,
-          "code": "KCQ915DLC_S17X",
-          "price": "24000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ915DLCS17X_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Black and White Embroidered Cotton",
-          "size": null,
-          "code": "KCO112EZD_S900",
-          "price": "24000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO112EZDS900_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Deep Blue Embroidered Cotton",
-          "size": null,
-          "code": "KCQ244ERC_S56B",
-          "price": "24000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ244ERCS56B_E02-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Embroidered Cotton and White Multicolor Millefiori Unicorn Motif",
-          "size": null,
-          "code": "KCQ902UEC_S10W",
-          "price": "24000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ902UECS10W_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Calfskin and Embroidered Cotton with White Resin Pearls",
-          "size": null,
-          "code": "KCO198SYP_S900",
-          "price": "26000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO198SYPS900_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Cotton Embroidered with Metallic Thread and Black and Gold-Tone Dior Chardons Motif",
-          "size": null,
-          "code": "KCQ902CDI_S21X",
-          "price": "25000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ902CDIS21X_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Deep Blue Embroidered Cotton",
-          "size": null,
-          "code": "KCQ915ERC_S56B",
-          "price": "24000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ915ERCS56B_E02-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Embroidered Cotton and Black Toile de Jouy Scotland Motif",
-          "size": null,
-          "code": "KCQ902TSZ_S900",
-          "price": "24000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ902TSZS900_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Cotton Embroidered with Metallic Thread and Gold-Tone Millefiori Unicorn Motif",
-          "size": null,
-          "code": "KCQ902UEL_S62K",
-          "price": "25000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ902UELS62K_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Embroidered Cotton and Peach Blossom Pink and White D-Butterfly Paisley Motif",
-          "size": null,
-          "code": "KCQ902ECB_S35P",
-          "price": "24000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ902ECBS35P_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Cotton Embroidered with Metallic Thread and White and Gold-Tone Dior Chardons Motif",
-          "size": null,
-          "code": "KCQ902CDI_S09W",
-          "price": "25000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ902CDIS09W_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Gray Embroidered Cotton and Toile de Jouy Sauvage Motif",
-          "size": null,
-          "code": "KCQ902TJE_S21G",
-          "price": "24000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCQ902TJES21G_E02",
+          "code": "KCO170CXG_S09W",
+          "price": "36000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCO170CXGS09W_E02",
           "additionalImages": []
         }
       ]

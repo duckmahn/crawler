@@ -2,624 +2,331 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-DPFCS3FXR10A0",
-      "name": "DiorPacific S3F",
-      "description": "Black Rectangular Sunglasses",
-      "price": "11500000",
+      "code": "prd-45DTE952X130C555",
+      "name": "Christian Dior Embroidered Dior Twist Bow",
+      "description": "Blue and White Embroidery",
+      "price": "16000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS3FXR10A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCS3FXR_10A0",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTE952X130C555_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/45DTE952X130_C555",
       "variants": [
         {
-          "color": "Black Rectangular Sunglasses",
+          "color": "Blue and White Embroidery",
           "size": null,
-          "code": "DPFCS3FXR_10A0",
-          "price": "11500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS3FXR10A0_E03",
+          "code": "45DTE952X130_C555",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTE952X130C555_E01",
           "additionalImages": []
         },
         {
-          "color": "Black Rectangular Sunglasses",
+          "color": "Rose des Vents and White Embroidery",
           "size": null,
-          "code": "DPFCS3FXR_16I0",
-          "price": "11500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS3FXR16I0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-DPFCR1FXR10A0",
-      "name": "DiorPacific R1F",
-      "description": "Black Oval Sunglasses",
-      "price": "11500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCR1FXR10A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCR1FXR_10A0",
-      "variants": [
-        {
-          "color": "Black Oval Sunglasses",
-          "size": null,
-          "code": "DPFCR1FXR_10A0",
-          "price": "11500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCR1FXR10A0_E03",
+          "code": "45DTE952X130_C410",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTE952X130C410_E01",
           "additionalImages": []
         },
         {
-          "color": "Brown Tortoiseshell-Effect Oval Sunglasses",
+          "color": "Gold-Tone Embroidery and Strass",
           "size": null,
-          "code": "DPFCR1FXR_20L0",
-          "price": "11500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCR1FXR20L0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-DGRHM2UXR10A0",
-      "name": "DiorGraphique M2U",
-      "description": "Black Mask Sunglasses",
-      "price": "15000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DGRHM2UXR10A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DGRHM2UXR_10A0",
-      "variants": [
-        {
-          "color": "Black Mask Sunglasses",
-          "size": null,
-          "code": "DGRHM2UXR_10A0",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DGRHM2UXR10A0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-DGRHS1FXR10A0",
-      "name": "DiorGraphique S1F",
-      "description": "Black Rectangular Sunglasses",
-      "price": "13500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DGRHS1FXR10A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DGRHS1FXR_10A0",
-      "variants": [
-        {
-          "color": "Black Rectangular Sunglasses",
-          "size": null,
-          "code": "DGRHS1FXR_10A0",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DGRHS1FXR10A0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-DSGTB8UXR14A0",
-      "name": "DiorSignature B8U",
-      "description": "Black Oval Sunglasses",
-      "price": "14500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DSGTB8UXR14A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DSGTB8UXR_14A0",
-      "variants": [
-        {
-          "color": "Black Oval Sunglasses",
-          "size": null,
-          "code": "DSGTB8UXR_14A0",
-          "price": "14500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DSGTB8UXR14A0_E03",
+          "code": "CPA0115XDTS_CO90",
+          "price": "19000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0115XDTSCO90_E01",
           "additionalImages": []
         },
         {
-          "color": "Black Oval Sunglasses",
+          "color": "Black and White Embroidery",
           "size": null,
-          "code": "DSGTB8UUR_15A0",
-          "price": "18000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DSGTB8UUR15A0_E03",
+          "code": "45DTE952X130_C920",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTE952X130C920_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-NSGTB1UXR10A0",
-      "name": "DiorSignature B1U",
-      "description": "Black Butterfly Sunglasses",
-      "price": "14890000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/NSGTB1UXR10A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/NSGTB1UXR_10A0",
-      "variants": [
-        {
-          "color": "Black Butterfly Sunglasses",
-          "size": null,
-          "code": "NSGTB1UXR_10A0",
-          "price": "14890000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/NSGTB1UXR10A0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-GLOWB1FXR10A0",
-      "name": "DiorGlow B1F",
-      "description": "Black Butterfly Sunglasses",
-      "price": "12000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/GLOWB1FXR10A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/GLOWB1FXR_10A0",
-      "variants": [
-        {
-          "color": "Black Butterfly Sunglasses",
-          "size": null,
-          "code": "GLOWB1FXR_10A0",
-          "price": "12000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/GLOWB1FXR10A0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-GLOWS1FXR10A0",
-      "name": "DiorGlow S1F",
-      "description": "Black Square Sunglasses",
-      "price": "12000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/GLOWS1FXR10A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/GLOWS1FXR_10A0",
-      "variants": [
-        {
-          "color": "Black Square Sunglasses",
-          "size": null,
-          "code": "GLOWS1FXR_10A0",
-          "price": "12000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/GLOWS1FXR10A0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-VERYS1FXR10A0",
-      "name": "VeryDior S1F",
-      "description": "Black Square Sunglasses",
-      "price": "15000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/VERYS1FXR10A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/VERYS1FXR_10A0",
-      "variants": [
-        {
-          "color": "Black Square Sunglasses",
-          "size": null,
-          "code": "VERYS1FXR_10A0",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/VERYS1FXR10A0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-VERYS2FXR10A0",
-      "name": "VeryDior S2F",
-      "description": "Black Square Sunglasses",
-      "price": "13500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/VERYS2FXR10A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/VERYS2FXR_10A0",
-      "variants": [
-        {
-          "color": "Black Square Sunglasses",
-          "size": null,
-          "code": "VERYS2FXR_10A0",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/VERYS2FXR10A0_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "White Square Sunglasses",
-          "size": null,
-          "code": "VERYS2FXR_50A0",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/VERYS2FXR50A0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-CDIRS4UXRC0G0",
-      "name": "CDior S4U",
-      "description": "Lilac Rectangular Sunglasses",
-      "price": "15000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CDIRS4UXRC0G0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CDIRS4UXR_C0G0",
-      "variants": [
-        {
-          "color": "Lilac Rectangular Sunglasses",
-          "size": null,
-          "code": "CDIRS4UXR_C0G0",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CDIRS4UXRC0G0_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Powder Pink Rectangular Sunglasses",
-          "size": null,
-          "code": "CDIRS4UXR_B0L0",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CDIRS4UXRB0L0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-CDIRS3UXRB0C9",
-      "name": "CDior S3U",
-      "description": "Two-Tone Mirrored-Effect Ivory and Green Square Sunglasses",
-      "price": "15000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CDIRS3UXRB0C9_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CDIRS3UXR_B0C9",
-      "variants": [
-        {
-          "color": "Two-Tone Mirrored-Effect Ivory and Green Square Sunglasses",
-          "size": null,
-          "code": "CDIRS3UXR_B0C9",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CDIRS3UXRB0C9_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-DSGTS7FXR78F1",
-      "name": "DiorSignature S7F",
-      "description": "Transparent Sand Beige Square Sunglasses",
-      "price": "14890000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DSGTS7FXR78F1_E03-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DSGTS7FXR_78F1",
-      "variants": [
-        {
-          "color": "Transparent Sand Beige Square Sunglasses",
-          "size": null,
-          "code": "DSGTS7FXR_78F1",
-          "price": "14890000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DSGTS7FXR78F1_E03-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Square Sunglasses",
-          "size": null,
-          "code": "NSGTS7FXR_10A0",
-          "price": "14890000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/NSGTS7FXR10A0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-SGTS10FXR10A1",
-      "name": "DiorSignature S10F",
-      "description": "Black Square Sunglasses",
-      "price": "14890000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/SGTS10FXR10A1_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/SGTS10FXR_10A1",
-      "variants": [
-        {
-          "color": "Black Square Sunglasses",
-          "size": null,
-          "code": "SGTS10FXR_10A1",
-          "price": "14890000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/SGTS10FXR10A1_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-30MTB3UXRE0C0",
-      "name": "30Montaigne B3U",
-      "description": "Green Butterfly Sunglasses",
-      "price": "14890000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/30MTB3UXRE0C0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/30MTB3UXR_E0C0",
-      "variants": [
-        {
-          "color": "Green Butterfly Sunglasses",
-          "size": null,
-          "code": "30MTB3UXR_E0C0",
-          "price": "14890000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/30MTB3UXRE0C0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-30MTS7UXRD0G2",
-      "name": "30Montaigne S7U",
-      "description": "Purple-to-Pink Gradient Square Sunglasses",
-      "price": "14890000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/30MTS7UXRD0G2_E03-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/30MTS7UXR_D0G2",
-      "variants": [
-        {
-          "color": "Purple-to-Pink Gradient Square Sunglasses",
-          "size": null,
-          "code": "30MTS7UXR_D0G2",
-          "price": "14890000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/30MTS7UXRD0G2_E03-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-30MTSUR12A1",
-      "name": "30Montaigne SU",
-      "description": "Oversized Black Square Sunglasses",
-      "price": "14500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/30MTSUR12A1_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/30MTSUR_12A1",
-      "variants": [
-        {
-          "color": "Oversized Black Square Sunglasses",
-          "size": null,
-          "code": "30MTSUR_12A1",
-          "price": "14500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/30MTSUR12A1_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-DPFCS2UQT95A8",
-      "name": "DiorPacific S2U",
-      "description": "White Rectangular Sunglasses",
-      "price": "13000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS2UQT95A8_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCS2UQT_95A8",
-      "variants": [
-        {
-          "color": "White Rectangular Sunglasses",
-          "size": null,
-          "code": "DPFCS2UQT_95A8",
-          "price": "13000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS2UQT95A8_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Navy Blue Rectangular Sunglasses",
-          "size": null,
-          "code": "DPFCS2UQT_30B8",
-          "price": "13000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS2UQT30B8_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-DPFCB2FQT30B8",
-      "name": "DiorPacific B2F",
-      "description": "Navy Blue Round Sunglasses",
-      "price": "13000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCB2FQT30B8_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCB2FQT_30B8",
-      "variants": [
-        {
-          "color": "Navy Blue Round Sunglasses",
-          "size": null,
-          "code": "DPFCB2FQT_30B8",
-          "price": "13000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCB2FQT30B8_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "White Round Sunglasses",
-          "size": null,
-          "code": "DPFCB2FQT_95A8",
-          "price": "13000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCB2FQT95A8_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-DPFCS1UQR95B0",
-      "name": "DiorPacific S1U",
-      "description": "White Square Sunglasses",
-      "price": "12000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS1UQR95B0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DPFCS1UQR_95B0",
-      "variants": [
-        {
-          "color": "White Square Sunglasses",
-          "size": null,
-          "code": "DPFCS1UQR_95B0",
-          "price": "12000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DPFCS1UQR95B0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-CDCHM1UXRB0B0",
-      "name": "CD Chain M1U",
-      "description": "Blue Square Sunglasses",
-      "price": "15000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CDCHM1UXRB0B0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CDCHM1UXR_B0B0",
-      "variants": [
-        {
-          "color": "Blue Square Sunglasses",
-          "size": null,
-          "code": "CDCHM1UXR_B0B0",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CDCHM1UXRB0B0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-CLUBM1UXT31B8",
-      "name": "DiorClub M1U",
-      "description": "Blue Dior Oblique Mask Sunglasses",
-      "price": "18134000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CLUBM1UXT31B8_E03-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CLUBM1UXT_31B8",
-      "variants": [
-        {
-          "color": "Blue Dior Oblique Mask Sunglasses",
-          "size": null,
-          "code": "CLUBM1UXT_31B8",
-          "price": "18134000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CLUBM1UXT31B8_E03-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-CLUBV1UXT31B8",
-      "name": "DiorClub V1U",
-      "description": "Blue Dior Oblique Visor",
-      "price": "20000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CLUBV1UXT31B8_E03-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CLUBV1UXT_31B8",
-      "variants": [
-        {
-          "color": "Blue Dior Oblique Visor",
-          "size": null,
-          "code": "CLUBV1UXT_31B8",
-          "price": "20000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CLUBV1UXT31B8_E03-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-30MTB5UXR10A0",
-      "name": "30Montaigne B5U",
-      "description": "Black Butterfly Sunglasses",
-      "price": "13500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/30MTB5UXR10A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/30MTB5UXR_10A0",
-      "variants": [
-        {
-          "color": "Black Butterfly Sunglasses",
-          "size": null,
-          "code": "30MTB5UXR_10A0",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/30MTB5UXR10A0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-DSGTB7IXR10A1",
-      "name": "DiorSignature B7I",
-      "description": "Black Butterfly Sunglasses",
-      "price": "14890000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DSGTB7IXR10A1_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DSGTB7IXR_10A1",
-      "variants": [
-        {
-          "color": "Black Butterfly Sunglasses",
-          "size": null,
-          "code": "DSGTB7IXR_10A1",
-          "price": "14890000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DSGTB7IXR10A1_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-DTBLB1FPR10B0",
-      "name": "DiorTribales B1F",
-      "description": "Black Butterfly Sunglasses",
-      "price": "16500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DTBLB1FPR10B0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DTBLB1FPR_10B0",
-      "variants": [
-        {
-          "color": "Black Butterfly Sunglasses",
-          "size": null,
-          "code": "DTBLB1FPR_10B0",
-          "price": "16500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DTBLB1FPR10B0_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-SGTS13FXR10A1",
-      "name": "DiorSignature S13F",
-      "description": "Black Rectangular Sunglasses",
-      "price": "14500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/SGTS13FXR10A1_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/SGTS13FXR_10A1",
-      "variants": [
-        {
-          "color": "Black Rectangular Sunglasses",
-          "size": null,
-          "code": "SGTS13FXR_10A1",
-          "price": "14500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/SGTS13FXR10A1_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-VERYM1UXR10A0",
-      "name": "VeryDior M1U",
-      "description": "Black Mask Sunglasses",
+      "code": "prd-45DTC952E132C440",
+      "name": "Dior Twist Bow",
+      "description": "Peony Pink Grosgrain",
       "price": "17000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/VERYM1UXR10A0_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/VERYM1UXR_10A0",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTC952E132C440_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/45DTC952E132_C440",
       "variants": [
         {
-          "color": "Black Mask Sunglasses",
+          "color": "Peony Pink Grosgrain",
           "size": null,
-          "code": "VERYM1UXR_10A0",
+          "code": "45DTC952E132_C440",
           "price": "17000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/VERYM1UXR10A0_E03",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTC952E132C440_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grosgrain",
+          "size": null,
+          "code": "45DTC952E132_C900",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTC952E132C900_E01-3",
+          "additionalImages": []
+        },
+        {
+          "color": "Garnet Red Grosgrain",
+          "size": null,
+          "code": "45DTC952E132_C334",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/45DTC952E132C334_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-DCANS1UXRD0L6",
-      "name": "DiorCannage S1U",
-      "description": "Bronze-to-Nude Gradient Square Sunglasses",
-      "price": "13000000",
+      "code": "prd-CPH0108XAIEC920",
+      "name": "AimeDior Headband",
+      "description": "Black and White Embroidery",
+      "price": "12500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DCANS1UXRD0L6_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/DCANS1UXR_D0L6",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPH0108XAIEC920_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPH0108XAIE_C920",
       "variants": [
         {
-          "color": "Bronze-to-Nude Gradient Square Sunglasses",
+          "color": "Black and White Embroidery",
           "size": null,
-          "code": "DCANS1UXR_D0L6",
-          "price": "13000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DCANS1UXRD0L6_E03",
+          "code": "CPH0108XAIE_C920",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPH0108XAIEC920_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-34HBO988X131C540",
+      "name": "Dior Oblique Dior Band Headband",
+      "description": "Navy Blue Embroidery",
+      "price": "14000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34HBO988X131C540_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/34HBO988X131_C540",
+      "variants": [
+        {
+          "color": "Navy Blue Embroidery",
+          "size": null,
+          "code": "34HBO988X131_C540",
+          "price": "14000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34HBO988X131C540_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPA0111EGGRC900",
+      "name": "Adiorable Barrette",
+      "description": "Black Fringed Grosgrain",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0111EGGRC900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPA0111EGGR_C900",
+      "variants": [
+        {
+          "color": "Black Fringed Grosgrain",
+          "size": null,
+          "code": "CPA0111EGGR_C900",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0111EGGRC900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPA0121ALCDC900",
+      "name": "Dior Idol Barrette",
+      "description": "Black Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0121ALCDC900_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPA0121ALCD_C900",
+      "variants": [
+        {
+          "color": "Black Calfskin",
+          "size": null,
+          "code": "CPA0121ALCD_C900",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0121ALCDC900_E01-1",
           "additionalImages": []
         },
         {
-          "color": "Gradient Purple-to-Pink Square Sunglasses",
+          "color": "Plum Calfskin",
           "size": null,
-          "code": "DCANS1UXR_B0G2",
-          "price": "13000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/DCANS1UXRB0G2_E03",
+          "code": "CPA0121ALCD_C470",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0121ALCDC470_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPA0043EIDLC455",
+      "name": "Miss Dior - Dior Idol Barrette",
+      "description": "Bright Purple Calfskin",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0043EIDLC455_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPA0043EIDL_C455",
+      "variants": [
+        {
+          "color": "Bright Purple Calfskin",
+          "size": null,
+          "code": "CPA0043EIDL_C455",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0043EIDLC455_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Pale Gold-Tone Calfskin",
+          "size": null,
+          "code": "CPA0066EIDL_CO90",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0066EIDLCO90_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Calfskin",
+          "size": null,
+          "code": "CPA0043EIDL_C900",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0043EIDLC900_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPA0051EDTBC482",
+      "name": "Miss Dior - Dior Twist Bow with Dior Bayadère Motif",
+      "description": "Pink and Purple Grosgrain",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0051EDTBC482_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPA0051EDTB_C482",
+      "variants": [
+        {
+          "color": "Pink and Purple Grosgrain",
+          "size": null,
+          "code": "CPA0051EDTB_C482",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0051EDTBC482_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1571WOMRSD301",
+      "name": "Lucky 30 Montaigne Barrette",
+      "description": "Gold-Finish Metal and White Resin Pearl",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1571WOMRSD301_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1571WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearl",
+          "size": null,
+          "code": "V1571WOMRS_D301",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1571WOMRSD301_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1410WOMCYD03S",
+      "name": "Le Nœud de Dior Barrette",
+      "description": "Champagne-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1410WOMCYD03S_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1410WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Champagne-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+          "size": null,
+          "code": "V1410WOMCY_D03S",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1410WOMCYD03S_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPH0037EHDSCO90",
+      "name": "Dior Band Headband",
+      "description": "Gold-Tone Cotton Blend and Strass",
+      "price": "22500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPH0037EHDSCO90_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPH0037EHDS_CO90",
+      "variants": [
+        {
+          "color": "Gold-Tone Cotton Blend and Strass",
+          "size": null,
+          "code": "CPH0037EHDS_CO90",
+          "price": "22500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPH0037EHDSCO90_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-CPA0060XLUNCO90",
+      "name": "Dior Twist - Dior Astral Bow",
+      "description": "White and Gold-Tone Embroidery",
+      "price": "16000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0060XLUNCO90_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/CPA0060XLUN_CO90",
+      "variants": [
+        {
+          "color": "White and Gold-Tone Embroidery",
+          "size": null,
+          "code": "CPA0060XLUN_CO90",
+          "price": "16000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/CPA0060XLUNCO90_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1414WOMRSD301",
+      "name": "Dior Cabinet de Curiosités Barrette",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "13500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1414WOMRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1414WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "V1414WOMRS_D301",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1414WOMRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1417WOMCYD03S",
+      "name": "Dio(r)evolution Barrette",
+      "description": "Gold-Finish Metal and Silver-Tone Crystals",
+      "price": "15000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1417WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1417WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and Silver-Tone Crystals",
+          "size": null,
+          "code": "V1417WOMCY_D03S",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1417WOMCYD03S_E01",
           "additionalImages": []
         }
       ]

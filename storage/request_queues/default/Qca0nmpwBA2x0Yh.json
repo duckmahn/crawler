@@ -2,7 +2,7 @@
   "id": "Qca0nmpwBA2x0Yh",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/scarves-blankets",
   "order_no": null,
-  "handled_at": "2025-03-14 11:01:05.975585+00:00",
+  "handled_at": "2025-03-17 04:07:13.154065+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/scarves-blankets",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/scarves-blankets",
-    "handled_at": "2025-03-14 11:01:05.975585+00:00",
+    "handled_at": "2025-03-17 04:07:13.154065+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/accessories/scarves-blankets",
     "id": "Qca0nmpwBA2x0Yh"
   }

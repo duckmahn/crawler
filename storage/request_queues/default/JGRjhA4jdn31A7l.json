@@ -2,7 +2,7 @@
   "id": "JGRjhA4jdn31A7l",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/trousers-shorts",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:38.221031+00:00",
+  "handled_at": "2025-03-17 04:06:49.452158+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/trousers-shorts",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/trousers-shorts",
-    "handled_at": "2025-03-14 11:00:38.221031+00:00",
+    "handled_at": "2025-03-17 04:06:49.452158+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/trousers-shorts",
     "id": "JGRjhA4jdn31A7l"
   }

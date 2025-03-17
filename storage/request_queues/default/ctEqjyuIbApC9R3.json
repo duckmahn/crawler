@@ -1,0 +1,23 @@
+{
+  "id": "ctEqjyuIbApC9R3",
+  "unique_key": "https://www.dior.com/en_vn/fashion/news-savoir-faire/folder-news-and-events/the-d-journey-bag",
+  "order_no": "1742184405099.493000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/news-savoir-faire/folder-news-and-events/the-d-journey-bag",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/news-savoir-faire/folder-news-and-events/the-d-journey-bag",
+    "id": "ctEqjyuIbApC9R3"
+  }
+}

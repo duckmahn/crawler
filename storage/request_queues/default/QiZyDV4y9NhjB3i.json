@@ -2,7 +2,7 @@
   "id": "QiZyDV4y9NhjB3i",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/dresses",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:37.161257+00:00",
+  "handled_at": "2025-03-17 04:06:49.400420+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/dresses",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/dresses",
-    "handled_at": "2025-03-14 11:00:37.161257+00:00",
+    "handled_at": "2025-03-17 04:06:49.400420+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/ready-to-wear/dresses",
     "id": "QiZyDV4y9NhjB3i"
   }

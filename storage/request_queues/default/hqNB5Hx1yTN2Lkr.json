@@ -2,7 +2,7 @@
   "id": "hqNB5Hx1yTN2Lkr",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/ballerinas",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:54.118989+00:00",
+  "handled_at": "2025-03-17 04:07:03.208076+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/ballerinas",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/ballerinas",
-    "handled_at": "2025-03-14 11:00:54.118989+00:00",
+    "handled_at": "2025-03-17 04:07:03.208076+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/ballerinas",
     "id": "hqNB5Hx1yTN2Lkr"
   }

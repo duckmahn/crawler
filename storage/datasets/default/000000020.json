@@ -2,147 +2,591 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-844E02AM506X0200",
-      "name": "Bralette",
-      "description": "White Stretch Viscose",
-      "price": "26000000",
+      "code": "prd-524R28A7019X0883",
+      "name": "Short Dress",
+      "description": "Navy Blue and White Cotton Knit with Dior Graphique Motif",
+      "price": "71000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/844E02AM506X0200_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/844E02AM506_X0200",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524R28A7019X0883_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524R28A7019_X0883",
       "variants": [
         {
-          "color": "White Stretch Viscose",
+          "color": "Navy Blue and White Cotton Knit with Dior Graphique Motif",
           "size": null,
-          "code": "844E02AM506_X0200",
-          "price": "26000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/844E02AM506X0200_E01",
+          "code": "524R28A7019_X0883",
+          "price": "71000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524R28A7019X0883_E01-1",
           "additionalImages": []
         },
         {
-          "color": "Black Stretch Viscose",
+          "color": "Black and White Wool and Silk with Dior Graphique Motif",
           "size": null,
-          "code": "844E02AM506_X9000",
-          "price": "26000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/844E02AM506X9000_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-844E50AM506X0200",
-      "name": "Briefs",
-      "description": "White Stretch Viscose",
-      "price": "27000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/844E50AM506X0200_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/844E50AM506_X0200",
-      "variants": [
-        {
-          "color": "White Stretch Viscose",
-          "size": null,
-          "code": "844E50AM506_X0200",
-          "price": "27000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/844E50AM506X0200_E01",
+          "code": "521R83A1691_X9330",
+          "price": "87000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R83A1691X9330_E01",
           "additionalImages": []
         },
         {
-          "color": "Black Stretch Viscose",
+          "color": "Gray Virgin Wool with Dior Graphique Motif",
           "size": null,
-          "code": "844E50AM506_X9000",
-          "price": "27000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/844E50AM506X9000_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-141V48A6608X5803",
-      "name": "Dior Chez Moi Shirt",
-      "description": "Blue Dior Oblique Silk Twill",
-      "price": "74000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/141V48A6608X5803_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/141V48A6608_X5803",
-      "variants": [
-        {
-          "color": "Blue Dior Oblique Silk Twill",
-          "size": null,
-          "code": "141V48A6608_X5803",
-          "price": "74000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/141V48A6608X5803_E01",
+          "code": "521D46A1690_X9331",
+          "price": "87000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521D46A1690X9331_E01",
           "additionalImages": []
         },
         {
-          "color": "White and Navy Blue Toile de Jouy Silk Twill",
+          "color": "Lightweight White Cotton and Silk Poplin with Beige Plan de Paris Motif",
           "size": null,
-          "code": "111V33A6805_X0861",
-          "price": "55000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/111V33A6805X0861_E01",
+          "code": "521D08A3141_X1857",
+          "price": "100000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521D08A3141X1857_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-121P23A6608X5803",
-      "name": "Dior Chez Moi Pants",
-      "description": "Blue Dior Oblique Silk Twill",
-      "price": "66000000",
+      "code": "prd-111R17A1166X9000",
+      "name": "Short Dress with CD Buttons",
+      "description": "Black Wool and Silk",
+      "price": "87000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/121P23A6608X5803_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/121P23A6608_X5803",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/111R17A1166X9000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/111R17A1166_X9000",
       "variants": [
         {
-          "color": "Blue Dior Oblique Silk Twill",
+          "color": "Black Wool and Silk",
           "size": null,
-          "code": "121P23A6608_X5803",
-          "price": "66000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/121P23A6608X5803_E01",
+          "code": "111R17A1166_X9000",
+          "price": "87000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/111R17A1166X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-111R07A1166X9009",
+      "name": "Fitted Dress with CD Buttons",
+      "description": "Black Wool and Silk",
+      "price": "105000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/111R07A1166X9009_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/111R07A1166_X9009",
+      "variants": [
+        {
+          "color": "Black Wool and Silk",
+          "size": null,
+          "code": "111R07A1166_X9009",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/111R07A1166X9009_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-341R26A1166X9000",
+      "name": "Straight Dress",
+      "description": "Black Wool and Silk",
+      "price": "73000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/341R26A1166X9000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/341R26A1166_X9000",
+      "variants": [
+        {
+          "color": "Black Wool and Silk",
+          "size": null,
+          "code": "341R26A1166_X9000",
+          "price": "73000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/341R26A1166X9000_E01",
           "additionalImages": []
         },
         {
-          "color": "White Silk Twill with Navy Blue Toile de Jouy Motif",
+          "color": "White Wool and Silk",
           "size": null,
-          "code": "111P38A6805_X0861",
-          "price": "48000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/111P38A6805X0861_E01",
+          "code": "341R26A1166_X0200",
+          "price": "73000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/341R26A1166X0200_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-121V46A6608X5803",
-      "name": "Dior Chez Moi Short-Sleeved Shirt",
-      "description": "Blue Dior Oblique Silk Twill",
-      "price": "72000000",
+      "code": "prd-522R93A3050X0200",
+      "name": "Short Belted Shirtdress",
+      "description": "Ecru Cotton Denim with Dior Oblique Interior",
+      "price": "87000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/121V46A6608X5803_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/121V46A6608_X5803",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522R93A3050X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/522R93A3050_X0200",
       "variants": [
         {
-          "color": "Blue Dior Oblique Silk Twill",
+          "color": "Ecru Cotton Denim with Dior Oblique Interior",
           "size": null,
-          "code": "121V46A6608_X5803",
-          "price": "72000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/121V46A6608X5803_E01",
+          "code": "522R93A3050_X0200",
+          "price": "87000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/522R93A3050X0200_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Peach Blossom Pink and White Silk Twill with D-Butterfly Paisley Motif",
+          "size": null,
+          "code": "521D04A6521_X4809",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521D04A6521X4809_E08",
+          "additionalImages": []
+        },
+        {
+          "color": "Beige Cotton Gabardine with Black Toile de Jouy Papillon Motif",
+          "size": null,
+          "code": "521R95A3A52_X1894",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R95A3A52X1894_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-121P20A6608X5803",
-      "name": "Dior Chez Moi Shorts",
-      "description": "Blue Dior Oblique Silk Twill",
-      "price": "55000000",
+      "code": "prd-521R55A1758X0200",
+      "name": "Mid-Length Belted Dress",
+      "description": "Ecru Virgin Wool and Silk Grain de Poudre",
+      "price": "150000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/121P20A6608X5803_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/121P20A6608_X5803",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R55A1758X0200_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/521R55A1758_X0200",
       "variants": [
         {
-          "color": "Blue Dior Oblique Silk Twill",
+          "color": "Ecru Virgin Wool and Silk Grain de Poudre",
           "size": null,
-          "code": "121P20A6608_X5803",
-          "price": "55000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/121P20A6608X5803_E01",
+          "code": "521R55A1758_X0200",
+          "price": "150000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R55A1758X0200_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Lightweight Virgin Wool and Cotton Bouclé",
+          "size": null,
+          "code": "521R78A1761_X9000",
+          "price": "125000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R78A1761X9000_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Virgin Wool and Silk Grain de Poudre",
+          "size": null,
+          "code": "521R77A1758_X5645",
+          "price": "145000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R77A1758X5645_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Plum Virgin Wool- and Cotton-Blend Bouclé",
+          "size": null,
+          "code": "521R77A1761_X3780",
+          "price": "135000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R77A1761X3780_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Matte Black Cloqué Technical Fabric",
+          "size": null,
+          "code": "141R38A2790_X9000",
+          "price": "142100000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/141R38A2790X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-521R57A1758X1700",
+      "name": "Short Belted Dress",
+      "description": "Beige Virgin Wool and Silk Grain de Poudre",
+      "price": "135000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R57A1758X1700_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/521R57A1758_X1700",
+      "variants": [
+        {
+          "color": "Beige Virgin Wool and Silk Grain de Poudre",
+          "size": null,
+          "code": "521R57A1758_X1700",
+          "price": "135000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R57A1758X1700_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-527D64A3124X0200",
+      "name": "Shirtdress",
+      "description": "White Lightweight Cotton and Silk Poplin",
+      "price": "105000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/527D64A3124X0200_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/527D64A3124_X0200",
+      "variants": [
+        {
+          "color": "White Lightweight Cotton and Silk Poplin",
+          "size": null,
+          "code": "527D64A3124_X0200",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/527D64A3124X0200_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Lightweight Cotton and Silk Poplin",
+          "size": null,
+          "code": "527D64A3124_X9000",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/527D64A3124X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-521R51A7050X9000",
+      "name": "Mid-Length Asymmetric Dress",
+      "description": "Black Silk and Cotton Faille",
+      "price": "150000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R51A7050X9000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/521R51A7050_X9000",
+      "variants": [
+        {
+          "color": "Black Silk and Cotton Faille",
+          "size": null,
+          "code": "521R51A7050_X9000",
+          "price": "150000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R51A7050X9000_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Ribbed Silk Knit",
+          "size": null,
+          "code": "524R23A6008_X9000",
+          "price": "81000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524R23A6008X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-517R52A2970X5803",
+      "name": "Pleated Short Dress",
+      "description": "Blue and Ecru Technical Taffeta Jacquard with Dior Oblique Motif",
+      "price": "140000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/517R52A2970X5803_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/517R52A2970_X5803",
+      "variants": [
+        {
+          "color": "Blue and Ecru Technical Taffeta Jacquard with Dior Oblique Motif",
+          "size": null,
+          "code": "517R52A2970_X5803",
+          "price": "140000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/517R52A2970X5803_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-451R89A1761X0200",
+      "name": "Belted Dress",
+      "description": "Ecru Virgin Wool and Cotton Bouclé Blend",
+      "price": "110000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451R89A1761X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/451R89A1761_X0200",
+      "variants": [
+        {
+          "color": "Ecru Virgin Wool and Cotton Bouclé Blend",
+          "size": null,
+          "code": "451R89A1761_X0200",
+          "price": "110000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451R89A1761X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-511R45A3604X0200",
+      "name": "Belted Macrocannage Shirtdress",
+      "description": "White Cotton Gabardine",
+      "price": "94000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511R45A3604X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/511R45A3604_X0200",
+      "variants": [
+        {
+          "color": "White Cotton Gabardine",
+          "size": null,
+          "code": "511R45A3604_X0200",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511R45A3604X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-221R81A3802X0861",
+      "name": "Mid-Length Shirtdress",
+      "description": "White and Navy Blue Toile de Jouy Cotton Muslin",
+      "price": "120000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/221R81A3802X0861_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/221R81A3802_X0861",
+      "variants": [
+        {
+          "color": "White and Navy Blue Toile de Jouy Cotton Muslin",
+          "size": null,
+          "code": "221R81A3802_X0861",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/221R81A3802X0861_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-511R65A7757X1801",
+      "name": "Short Flared Cannage Dress",
+      "description": "Beige and Black Cotton-Blend Tweed",
+      "price": "94000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511R65A7757X1801_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/511R65A7757_X1801",
+      "variants": [
+        {
+          "color": "Beige and Black Cotton-Blend Tweed",
+          "size": null,
+          "code": "511R65A7757_X1801",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511R65A7757X1801_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-521R26A7757X0810",
+      "name": "Short Macrocannage Dress",
+      "description": "Ecru and Gold-Tone Cotton-Blend Tweed",
+      "price": "94000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R26A7757X0810_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/521R26A7757_X0810",
+      "variants": [
+        {
+          "color": "Ecru and Gold-Tone Cotton-Blend Tweed",
+          "size": null,
+          "code": "521R26A7757_X0810",
+          "price": "94000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R26A7757X0810_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-441B53A7795X9101",
+      "name": "Macrocannage Sleeveless Tunic",
+      "description": "Black and White Cotton Blend Tweed",
+      "price": "91000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B53A7795X9101_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/441B53A7795_X9101",
+      "variants": [
+        {
+          "color": "Black and White Cotton Blend Tweed",
+          "size": null,
+          "code": "441B53A7795_X9101",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/441B53A7795X9101_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-421R65A7795X9101",
+      "name": "Short Macrocannage Flared Dress",
+      "description": "Black and White Cotton-Blend Tweed",
+      "price": "85000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/421R65A7795X9101_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/421R65A7795_X9101",
+      "variants": [
+        {
+          "color": "Black and White Cotton-Blend Tweed",
+          "size": null,
+          "code": "421R65A7795_X9101",
+          "price": "85000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/421R65A7795X9101_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-524T32A7022X9330",
+      "name": "Tunic",
+      "description": "Black and White Houndstooth Wool- and Cotton-Blend Fil Coupé Knit",
+      "price": "91000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524T32A7022X9330_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/524T32A7022_X9330",
+      "variants": [
+        {
+          "color": "Black and White Houndstooth Wool- and Cotton-Blend Fil Coupé Knit",
+          "size": null,
+          "code": "524T32A7022_X9330",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/524T32A7022X9330_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-527D66A3124X0200",
+      "name": "Mid-Length Asymmetric Shirtdress",
+      "description": "White Lightweight Cotton and Silk Poplin",
+      "price": "97000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/527D66A3124X0200_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/527D66A3124_X0200",
+      "variants": [
+        {
+          "color": "White Lightweight Cotton and Silk Poplin",
+          "size": null,
+          "code": "527D66A3124_X0200",
+          "price": "97000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/527D66A3124X0200_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-451R15A1761X9000",
+      "name": "Flared Dress",
+      "description": "Black Virgin Wool and Cotton Bouclé Blend",
+      "price": "120000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451R15A1761X9000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/451R15A1761_X9000",
+      "variants": [
+        {
+          "color": "Black Virgin Wool and Cotton Bouclé Blend",
+          "size": null,
+          "code": "451R15A1761_X9000",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451R15A1761X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-454G03AM709X9000",
+      "name": "Long Vest",
+      "description": "Black Cotton- and Wool-Blend Knit",
+      "price": "78000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454G03AM709X9000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/454G03AM709_X9000",
+      "variants": [
+        {
+          "color": "Black Cotton- and Wool-Blend Knit",
+          "size": null,
+          "code": "454G03AM709_X9000",
+          "price": "78000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454G03AM709X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-451D05A1489X9901",
+      "name": "Dress with Spread Collar",
+      "description": "Black Double-Sided Virgin Wool Crepe and White Cotton Poplin",
+      "price": "130000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451D05A1489X9901_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/451D05A1489_X9901",
+      "variants": [
+        {
+          "color": "Black Double-Sided Virgin Wool Crepe and White Cotton Poplin",
+          "size": null,
+          "code": "451D05A1489_X9901",
+          "price": "130000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/451D05A1489X9901_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-454T06XM646X9000",
+      "name": "Embroidered Tunic",
+      "description": "Black Silk Ribbed Knit",
+      "price": "105000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454T06XM646X9000_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/454T06XM646_X9000",
+      "variants": [
+        {
+          "color": "Black Silk Ribbed Knit",
+          "size": null,
+          "code": "454T06XM646_X9000",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454T06XM646X9000_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-454G01AM709X0200",
+      "name": "Long Cardigan",
+      "description": "Ecru Cotton and Wool Blend Knit",
+      "price": "97000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454G01AM709X0200_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/454G01AM709_X0200",
+      "variants": [
+        {
+          "color": "Ecru Cotton and Wool Blend Knit",
+          "size": null,
+          "code": "454G01AM709_X0200",
+          "price": "97000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/454G01AM709X0200_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-511D22A1761X4750",
+      "name": "Short Flared Dress",
+      "description": "Purple Blended Virgin Wool and Cotton Bouclé",
+      "price": "125000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511D22A1761X4750_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/511D22A1761_X4750",
+      "variants": [
+        {
+          "color": "Purple Blended Virgin Wool and Cotton Bouclé",
+          "size": null,
+          "code": "511D22A1761_X4750",
+          "price": "125000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/511D22A1761X4750_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-521R90A1758X5645",
+      "name": "Short Asymmetric Dress",
+      "description": "Navy Blue Virgin Wool and Silk Grain de Poudre",
+      "price": "130000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R90A1758X5645_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/521R90A1758_X5645",
+      "variants": [
+        {
+          "color": "Navy Blue Virgin Wool and Silk Grain de Poudre",
+          "size": null,
+          "code": "521R90A1758_X5645",
+          "price": "130000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/521R90A1758X5645_E01",
           "additionalImages": []
         }
       ]

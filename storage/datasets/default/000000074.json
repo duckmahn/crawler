@@ -176,14 +176,6 @@
           "price": "18500000",
           "imageUrl": "https://assets.christiandior.com/is/image/diorprod/943J605F0554C884_E01",
           "additionalImages": []
-        },
-        {
-          "color": "Gray Cotton Jersey",
-          "size": null,
-          "code": "943J605A0554_C881",
-          "price": "19000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/943J605A0554C881_E01-1",
-          "additionalImages": []
         }
       ]
     },
@@ -406,6 +398,33 @@
       ]
     },
     {
+      "code": "prd-413J650A0862C080",
+      "name": "Dior Icons T-Shirt",
+      "description": "White Sea Island Cotton Jersey",
+      "price": "25000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413J650A0862C080_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/413J650A0862_C080",
+      "variants": [
+        {
+          "color": "White Sea Island Cotton Jersey",
+          "size": null,
+          "code": "413J650A0862_C080",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413J650A0862C080_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray Sea Island Cotton Jersey",
+          "size": null,
+          "code": "413J650A0862_C888",
+          "price": "25000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/413J650A0862C888_E01-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
       "code": "prd-493M801AT859C989",
       "name": "Christian Dior Couture Polo Shirt",
       "description": "Black Virgin Wool Jersey",
@@ -466,14 +485,6 @@
           "code": "113J692A0614_C020",
           "price": "23000000",
           "imageUrl": "https://assets.christiandior.com/is/image/diorprod/113J692A0614C020_E01-2",
-          "additionalImages": []
-        },
-        {
-          "color": "Navy Blue Terry Cotton Jacquard",
-          "size": null,
-          "code": "113J692A0614_C540",
-          "price": "23000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/113J692A0614C540_E01-3",
           "additionalImages": []
         }
       ]

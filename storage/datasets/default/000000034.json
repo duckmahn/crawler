@@ -2,367 +2,6 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-S3202UDFDM925",
-      "name": "Diorstar Hobo Bag with Chain",
-      "description": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
-      "price": "63000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3202UDFDM925_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S3202UDFD_M925",
-      "variants": [
-        {
-          "color": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
-          "size": null,
-          "code": "S3202UDFD_M925",
-          "price": "63000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3202UDFDM925_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Macrocannage Crinkled Calfskin",
-          "size": null,
-          "code": "S3202PNIO_M900",
-          "price": "69000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3202PNIOM900_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue Dior Oblique Jacquard",
-          "size": null,
-          "code": "S3202UTZQ_M928",
-          "price": "63000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3202UTZQM928_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Macrocannage Lambskin",
-          "size": null,
-          "code": "S3202UDBB_M900",
-          "price": "69000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3202UDBBM900_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Tweed with Cannage Motif in Gold-Tone Metallic Thread",
-          "size": null,
-          "code": "S3202UDIO_M197",
-          "price": "69000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S3202UDIOM197_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-S2388UDFDM925",
-      "name": "D-Vibe East-West Nano Bag",
-      "description": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
-      "price": "73000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2388UDFDM925_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S2388UDFD_M925",
-      "variants": [
-        {
-          "color": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
-          "size": null,
-          "code": "S2388UDFD_M925",
-          "price": "73000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2388UDFDM925_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue Dior Oblique Jacquard",
-          "size": null,
-          "code": "S2388UTZQ_M928",
-          "price": "73000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2388UTZQM928_E01-2",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-S5169UDAXM59U",
-      "name": "Miss Caro Mini Bag",
-      "description": "Warm Taupe Macrocannage Lambskin",
-      "price": "83000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5169UDAXM59U_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5169UDAX_M59U",
-      "variants": [
-        {
-          "color": "Warm Taupe Macrocannage Lambskin",
-          "size": null,
-          "code": "S5169UDAX_M59U",
-          "price": "83000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5169UDAXM59U_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue Dior Oblique Jacquard",
-          "size": null,
-          "code": "S5169UTZQ_M928",
-          "price": "76000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5169UTZQM928_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Macrocannage Lambskin",
-          "size": null,
-          "code": "S5169UDAX_M900",
-          "price": "83000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5169UDAXM900_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Macrocannage Lambskin",
-          "size": null,
-          "code": "S5169UDAX_M030",
-          "price": "83000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5169UDAXM030_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-S5907CDFDM925",
-      "name": "Medium Saddle Pouch with Chain",
-      "description": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
-      "price": "53000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5907CDFDM925_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5907CDFD_M925",
-      "variants": [
-        {
-          "color": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
-          "size": null,
-          "code": "S5907CDFD_M925",
-          "price": "53000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5907CDFDM925_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue Dior Oblique Jacquard",
-          "size": null,
-          "code": "S5907CTZQ_M928",
-          "price": "53000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5907CTZQM928_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue Dior Oblique Jacquard and Smooth Calfskin",
-          "size": null,
-          "code": "S5907CNKO_M928",
-          "price": "53000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5907CNKOM928_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-S5573CEEOM49E",
-      "name": "Mini Dior Book Tote",
-      "description": "Blue Dior Oblique Chambray Embroidery (21.5 x 13 x 7.5 cm)",
-      "price": "64000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5573CEEOM49E_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5573CEEO_M49E",
-      "variants": [
-        {
-          "color": "Blue Dior Oblique Chambray Embroidery (21.5 x 13 x 7.5 cm)",
-          "size": null,
-          "code": "S5573CEEO_M49E",
-          "price": "64000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5573CEEOM49E_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Macrocannage Calfskin (21.5 x 13 x 7.5 cm)",
-          "size": null,
-          "code": "S5573OWHP_M900",
-          "price": "70000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5573OWHPM900_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Macrocannage Calfskin (21.5 x 13 x 7.5 cm)",
-          "size": null,
-          "code": "S5573OWHP_M030",
-          "price": "70000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5573OWHPM030_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-S2356UDFDM925",
-      "name": "Miss Montaigne Mini Bag",
-      "description": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
-      "price": "73000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2356UDFDM925_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S2356UDFD_M925",
-      "variants": [
-        {
-          "color": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
-          "size": null,
-          "code": "S2356UDFD_M925",
-          "price": "73000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2356UDFDM925_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Smooth Calfskin",
-          "size": null,
-          "code": "S2356UBPZ_M900",
-          "price": "73000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2356UBPZM900_E01-2",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-S2389UTZQM928",
-      "name": "Small Miss Caro Pouch with Chain",
-      "description": "Blue Dior Oblique Jacquard",
-      "price": "51000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2389UTZQM928_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S2389UTZQ_M928",
-      "variants": [
-        {
-          "color": "Blue Dior Oblique Jacquard",
-          "size": null,
-          "code": "S2389UTZQ_M928",
-          "price": "51000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2389UTZQM928_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-S0980ONMJM900",
-      "name": "My Dior Mini Bag",
-      "description": "Black Cannage Lambskin",
-      "price": "77000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0980ONMJM900_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S0980ONMJ_M900",
-      "variants": [
-        {
-          "color": "Black Cannage Lambskin",
-          "size": null,
-          "code": "S0980ONMJ_M900",
-          "price": "77000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0980ONMJM900_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Patent Cannage Calfskin",
-          "size": null,
-          "code": "S0980OVRB_M900",
-          "price": "77000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0980OVRBM900_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Shirt Blue Cannage Lambskin",
-          "size": null,
-          "code": "S0980ONMJ_M26Z",
-          "price": "77000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0980ONMJM26Z_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Cannage Lambskin",
-          "size": null,
-          "code": "S0980ONMJ_M030",
-          "price": "77000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0980ONMJM030_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Linen Beige Cannage Lambskin",
-          "size": null,
-          "code": "S0980ONMJ_M059",
-          "price": "77000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0980ONMJM059_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-S0937ONMJM900",
-      "name": "My Dior Daily Pouch with Chain",
-      "description": "Black Cannage Lambskin",
-      "price": "70000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0937ONMJM900_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S0937ONMJ_M900",
-      "variants": [
-        {
-          "color": "Black Cannage Lambskin",
-          "size": null,
-          "code": "S0937ONMJ_M900",
-          "price": "70000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0937ONMJM900_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Cannage Lambskin",
-          "size": null,
-          "code": "S0937ONMJ_M030",
-          "price": "70000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0937ONMJM030_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-S5170UTZQM928",
-      "name": "Miss Caro Micro Bag",
-      "description": "Blue Dior Oblique Jacquard",
-      "price": "41000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5170UTZQM928_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5170UTZQ_M928",
-      "variants": [
-        {
-          "color": "Blue Dior Oblique Jacquard",
-          "size": null,
-          "code": "S5170UTZQ_M928",
-          "price": "41000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5170UTZQM928_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-M0465CBUWM59M",
-      "name": "Mini Soft Saddle Bag with Strap",
-      "description": "Camel Vintage Smooth Calfskin",
-      "price": "105000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0465CBUWM59M_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0465CBUW_M59M",
-      "variants": [
-        {
-          "color": "Camel Vintage Smooth Calfskin",
-          "size": null,
-          "code": "M0465CBUW_M59M",
-          "price": "105000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0465CBUWM59M_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue Dior Oblique Jacquard and Smooth Calfskin",
-          "size": null,
-          "code": "M0465CDSS_M928",
-          "price": "105000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0465CDSSM928_E01-2",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
       "code": "prd-M0505ONULM900",
       "name": "Mini Lady Dior Bag",
       "description": "Black Cannage Lambskin",
@@ -377,14 +16,6 @@
           "code": "M0505ONUL_M900",
           "price": "150000000",
           "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505ONULM900_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Pearlescent Cannage Lambskin",
-          "size": null,
-          "code": "M0505OBDU_M030",
-          "price": "145000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505OBDUM030_E01",
           "additionalImages": []
         },
         {
@@ -418,59 +49,383 @@
           "price": "145000000",
           "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505ONGEM09N_E01-1",
           "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-S5225UDAXM900",
-      "name": "Miss Caro Pouch with Chain",
-      "description": "Black Macrocannage Lambskin",
-      "price": "65000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5225UDAXM900_E01-2",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S5225UDAX_M900",
-      "variants": [
+        },
         {
-          "color": "Black Macrocannage Lambskin",
+          "color": "Powder Beige Cannage Lambskin",
           "size": null,
-          "code": "S5225UDAX_M900",
-          "price": "65000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S5225UDAXM900_E01-2",
+          "code": "M0505ONGE_M51U",
+          "price": "145000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505ONGEM51U_E01",
           "additionalImages": []
         },
         {
-          "color": "Blue Dior Oblique Jacquard and Smooth Calfskin",
+          "color": "Cherry Red Patent Cannage Calfskin",
           "size": null,
-          "code": "S2375UNKO_M928",
-          "price": "62000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S2375UNKOM928_E01",
+          "code": "M0505OWCB_M323",
+          "price": "145000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505OWCBM323_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Patent Cannage Calfskin",
+          "size": null,
+          "code": "M0505OWCB_M900",
+          "price": "145000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505OWCBM900_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Pistachio Green Cannage Lambskin",
+          "size": null,
+          "code": "M0505ONGE_M605",
+          "price": "145000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505ONGEM605_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Hydrangea Pink Cannage Lambskin",
+          "size": null,
+          "code": "M0505ONGE_M06N",
+          "price": "145000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505ONGEM06N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Caramel Beige Microbead-Embroidered Cotton with Cannage Motif",
+          "size": null,
+          "code": "M0505OIBE_M52U",
+          "price": "165000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505OIBEM52U_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Pink Patent Cannage Calfskin",
+          "size": null,
+          "code": "M0505OWCB_M413",
+          "price": "145000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505OWCBM413_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blush Cannage Lambskin",
+          "size": null,
+          "code": "M0505ONGE_M50P",
+          "price": "145000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505ONGEM50P_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Pale Blue Cannage Lambskin",
+          "size": null,
+          "code": "M0505ONGE_M23B",
+          "price": "145000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505ONGEM23B_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-S0910ONGEM030",
-      "name": "Lady D-Joy Micro Bag",
-      "description": "Latte Cannage Lambskin",
-      "price": "100000000",
+      "code": "prd-M0538ONGEM59U",
+      "name": "Small Lady Dior My ABCDior Bag",
+      "description": "Warm Taupe Cannage Lambskin",
+      "price": "170000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0910ONGEM030_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/S0910ONGE_M030",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538ONGEM59U_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0538ONGE_M59U",
       "variants": [
         {
-          "color": "Latte Cannage Lambskin",
+          "color": "Warm Taupe Cannage Lambskin",
           "size": null,
-          "code": "S0910ONGE_M030",
-          "price": "100000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0910ONGEM030_E01-1",
+          "code": "M0538ONGE_M59U",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538ONGEM59U_E01",
           "additionalImages": []
         },
         {
           "color": "Black Cannage Lambskin",
           "size": null,
-          "code": "S0910ONGE_M900",
-          "price": "100000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/S0910ONGEM900_E01",
+          "code": "M0538OGBE_M900",
+          "price": "195000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538OGBEM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cannage Lambskin",
+          "size": null,
+          "code": "M0538ONGE_M900",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538ONGEM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte Cannage Lambskin",
+          "size": null,
+          "code": "M0538OGBE_M030",
+          "price": "195000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538OGBEM030_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blush Pink Cannage Lambskin",
+          "size": null,
+          "code": "M0538ONGE_M09N",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538ONGEM09N_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Rose des Vents and White Cannage Tweed",
+          "size": null,
+          "code": "M0538OTKV_M912",
+          "price": "162000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538OTKVM912_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Pink Cannage Lambskin",
+          "size": null,
+          "code": "M0538ONGE_M413",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538ONGEM413_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte Cannage Lambskin",
+          "size": null,
+          "code": "M0538ONGE_M030",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538ONGEM030_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Biscuit Cannage Lambskin",
+          "size": null,
+          "code": "M0538ONGE_M55U",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538ONGEM55U_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gold-Tone Dior Around the World Printed Calfskin",
+          "size": null,
+          "code": "M0538OZDW_M01E",
+          "price": "175000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538OZDWM01E_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blush Cannage Lambskin",
+          "size": null,
+          "code": "M0538ONGE_M50P",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538ONGEM50P_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Ultramatte Cannage Calfskin",
+          "size": null,
+          "code": "M0538SLOI_M989",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538SLOIM989_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Denim Blue Cannage Lambskin",
+          "size": null,
+          "code": "M0538ONGE_M90B",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538ONGEM90B_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Flat Cannage Lambskin",
+          "size": null,
+          "code": "M0538ONNW_M900",
+          "price": "175000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538ONNWM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Cannage Lambskin",
+          "size": null,
+          "code": "M0538PNGE_M900",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538PNGEM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Two-Tone Powder Pink and Hazelnut Cannage Lambskin",
+          "size": null,
+          "code": "M0538OBWS_M29I",
+          "price": "173000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538OBWSM29I_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Beige Cannage Lambskin",
+          "size": null,
+          "code": "M0538ONGE_M51U",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538ONGEM51U_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M0619ONUHM900",
+      "name": "Medium Soft Lady Dior Bag",
+      "description": "Black Honey Lamb Leather and Flat Cannage Calfskin",
+      "price": "185000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0619ONUHM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0619ONUH_M900",
+      "variants": [
+        {
+          "color": "Black Honey Lamb Leather and Flat Cannage Calfskin",
+          "size": null,
+          "code": "M0619ONUH_M900",
+          "price": "185000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0619ONUHM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M0565ONGEM900",
+      "name": "Medium Lady Dior Bag",
+      "description": "Black Cannage Lambskin",
+      "price": "185000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0565ONGEM900_E01-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0565ONGE_M900",
+      "variants": [
+        {
+          "color": "Black Cannage Lambskin",
+          "size": null,
+          "code": "M0565ONGE_M900",
+          "price": "185000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0565ONGEM900_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Beige Cannage Lambskin",
+          "size": null,
+          "code": "M0565ONGE_M51U",
+          "price": "185000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0565ONGEM51U_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Patent Cannage Calfskin",
+          "size": null,
+          "code": "M0565OWCB_M900",
+          "price": "185000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0565OWCBM900_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M0531ONJCM918",
+      "name": "Small Lady Dior Bag",
+      "description": "Two-Tone Trench Beige and Latte Cannage Lambskin",
+      "price": "170000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0531ONJCM918_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0531ONJC_M918",
+      "variants": [
+        {
+          "color": "Two-Tone Trench Beige and Latte Cannage Lambskin",
+          "size": null,
+          "code": "M0531ONJC_M918",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0531ONJCM918_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Two-Tone Trench Beige and Biscuit Cannage Lambskin",
+          "size": null,
+          "code": "M0531ONJC_M29I",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0531ONJCM29I_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Patent Cannage Calfskin",
+          "size": null,
+          "code": "M0531OWCB_M900",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0531OWCBM900_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Cherry Red Patent Cannage Calfskin",
+          "size": null,
+          "code": "M0531OWCB_M323",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0531OWCBM323_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Satin Embroidered with Gold-Tone Beads and White Resin Pearls",
+          "size": null,
+          "code": "M0531OIMQ_M911",
+          "price": "225000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0531OIMQM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Pink Cannage Lambskin",
+          "size": null,
+          "code": "M0618ONGE_M413",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0618ONGEM413_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Pink Patent Cannage Calfskin",
+          "size": null,
+          "code": "M0531OWCB_M413",
+          "price": "170000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0531OWCBM413_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M0538OZDOM941",
+      "name": "Dioramour Small Lady Dior My ABCDior Bag",
+      "description": "Latte Calfskin with Multicolor Cœur des Curiosités Print",
+      "price": "175000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538OZDOM941_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0538OZDO_M941",
+      "variants": [
+        {
+          "color": "Latte Calfskin with Multicolor Cœur des Curiosités Print",
+          "size": null,
+          "code": "M0538OZDO_M941",
+          "price": "175000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0538OZDOM941_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M0505ONQLM900",
+      "name": "Dioramour Mini Lady Dior Bag",
+      "description": "Black Cannage Lambskin",
+      "price": "150000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505ONQLM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0505ONQL_M900",
+      "variants": [
+        {
+          "color": "Black Cannage Lambskin",
+          "size": null,
+          "code": "M0505ONQL_M900",
+          "price": "150000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0505ONQLM900_E01",
           "additionalImages": []
         }
       ]

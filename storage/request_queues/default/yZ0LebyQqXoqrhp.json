@@ -2,7 +2,7 @@
   "id": "yZ0LebyQqXoqrhp",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/all-small-leather-goods",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:48.148688+00:00",
+  "handled_at": "2025-03-17 04:06:55.580909+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/all-small-leather-goods",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/all-small-leather-goods",
-    "handled_at": "2025-03-14 11:00:48.148688+00:00",
+    "handled_at": "2025-03-17 04:06:55.580909+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/small-leather-goods/all-small-leather-goods",
     "id": "yZ0LebyQqXoqrhp"
   }

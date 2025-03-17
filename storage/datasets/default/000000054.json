@@ -2,492 +2,199 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-E3950WOMRSD301",
-      "name": "Medium Petit CD Jolie Stud Earrings",
-      "description": "Gold-Finish Metal and White Resin Pearls",
-      "price": "12500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3950WOMRSD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3950WOMRS_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3950WOMRS_D301",
-          "price": "12500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3950WOMRSD301_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E3170WOMRSD301",
-      "name": "Petit CD Jolie Mini Stud Earrings",
-      "description": "Gold-Finish Metal and White Resin Pearls",
-      "price": "11000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3170WOMRSD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3170WOMRS_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3170WOMRS_D301",
-          "price": "11000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3170WOMRSD301_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E3170WOMRSD009",
-      "name": "Mini Petit CD Jolie Stud Earrings",
-      "description": "Palladium-Finish Metal and White Resin Pearls",
-      "price": "11000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3170WOMRSD009_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3170WOMRS_D009",
-      "variants": [
-        {
-          "color": "Palladium-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3170WOMRS_D009",
-          "price": "11000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3170WOMRSD009_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E3213WOMRSD009",
-      "name": "Dior Tribales Earrings",
-      "description": "Palladium-Finish Metal and White Resin Pearls",
+      "code": "prd-V1428WOMCYD03S",
+      "name": "Dio(r)evolution Brooch",
+      "description": "Gold-Finish Metal and Silver-Tone Crystals",
       "price": "15000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3213WOMRSD009_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3213WOMRS_D009",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1428WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1428WOMCY_D03S",
       "variants": [
-        {
-          "color": "Palladium-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3213WOMRS_D009",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3213WOMRSD009_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3901WOMRS_D301",
-          "price": "14500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3901WOMRSD301_E03-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-          "size": null,
-          "code": "E3921WOMCY_D03S",
-          "price": "15500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3921WOMCYD03S_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Antique Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E1293TRIRS_D908",
-          "price": "16000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1293TRIRSD908_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3807WOMRS_D301",
-          "price": "15500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3807WOMRSD301_E03-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3899WOMRS_D301",
-          "price": "14500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3899WOMRSD301_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Matte Gold-Finish Metal with White Resin Pearls and Black-Diamond-Colored Crystals",
-          "size": null,
-          "code": "E3886WOMCY_D39S",
-          "price": "22000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3886WOMCYD39S_E03-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal with Pink and White Resin Pearls",
-          "size": null,
-          "code": "E3957WOMRS_D14P",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3957WOMRSD14P_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-          "size": null,
-          "code": "E3839WOMCY_D03S",
-          "price": "15000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3839WOMCYD03S_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Matte Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3880WOMRS_D301",
-          "price": "17500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3880WOMRSD301_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-          "size": null,
-          "code": "E1038TRICY_D03S",
-          "price": "14500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1038TRICYD03S_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-          "size": null,
-          "code": "E3685WOMCY_D03S",
-          "price": "15500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3685WOMCYD03S_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-          "size": null,
-          "code": "E3766WOMCY_D03S",
-          "price": "14500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3766WOMCYD03S_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3736WOMRS_D301",
-          "price": "15500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3736WOMRSD301_E03-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3768WOMRS_D301",
-          "price": "15500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3768WOMRSD301_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Champagne-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-          "size": null,
-          "code": "E3630WOMCY_D03S",
-          "price": "20500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3630WOMCYD03S_E03-2",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E3903WOMRSD301",
-      "name": "Lucky Dior Earrings",
-      "description": "Gold-Finish Metal and White Resin Pearls",
-      "price": "12500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3903WOMRSD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3903WOMRS_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3903WOMRS_D301",
-          "price": "12500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3903WOMRSD301_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3928WOMRS_D301",
-          "price": "12500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3928WOMRSD301_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E3848WOMCYD03S",
-      "name": "Dior Céleste Hoop Earrings",
-      "description": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-      "price": "13500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3848WOMCYD03S_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3848WOMCY_D03S",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-          "size": null,
-          "code": "E3848WOMCY_D03S",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3848WOMCYD03S_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E1520PTCRSD009",
-      "name": "Petit CD Earrings",
-      "description": "Palladium-Finish Metal and White Resin Pearls",
-      "price": "11000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1520PTCRSD009_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E1520PTCRS_D009",
-      "variants": [
-        {
-          "color": "Palladium-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E1520PTCRS_D009",
-          "price": "11000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1520PTCRSD009_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E1520PTCRS_D301",
-          "price": "11000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1520PTCRSD301_E01-3",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-          "size": null,
-          "code": "E3762WOMCY_D03S",
-          "price": "12000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3762WOMCYD03S_E01",
-          "additionalImages": []
-        },
         {
           "color": "Gold-Finish Metal and Silver-Tone Crystals",
           "size": null,
-          "code": "E2354WOMCY_D03S",
-          "price": "12000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E2354WOMCYD03S_E01",
+          "code": "V1428WOMCY_D03S",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1428WOMCYD03S_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-E3916WOMCYD03S",
-      "name": "Dio(r)evolution Earrings",
-      "description": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
-      "price": "13500000",
+      "code": "prd-V0716PTCCYD301",
+      "name": "Petit CD Brooch",
+      "description": "Gold-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+      "price": "13230000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3916WOMCYD03S_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3916WOMCY_D03S",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V0716PTCCYD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V0716PTCCY_D301",
       "variants": [
         {
-          "color": "Gold-Finish Metal with White Resin Pearls and Silver-Tone Crystals",
+          "color": "Gold-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
           "size": null,
-          "code": "E3916WOMCY_D03S",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3916WOMCYD03S_E01",
+          "code": "V0716PTCCY_D301",
+          "price": "13230000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V0716PTCCYD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1569WOMRSD301",
+      "name": "Lucky 30 Montaigne Brooch",
+      "description": "Gold-Finish Metal and White Resin Pearl",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1569WOMRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1569WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearl",
+          "size": null,
+          "code": "V1569WOMRS_D301",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1569WOMRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1571WOMRSD301",
+      "name": "Lucky 30 Montaigne Barrette",
+      "description": "Gold-Finish Metal and White Resin Pearl",
+      "price": "11000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1571WOMRSD301_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1571WOMRS_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Resin Pearl",
+          "size": null,
+          "code": "V1571WOMRS_D301",
+          "price": "11000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1571WOMRSD301_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V1410WOMCYD03S",
+      "name": "Le Nœud de Dior Barrette",
+      "description": "Champagne-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+      "price": "14500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1410WOMCYD03S_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1410WOMCY_D03S",
+      "variants": [
+        {
+          "color": "Champagne-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
+          "size": null,
+          "code": "V1410WOMCY_D03S",
+          "price": "14500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1410WOMCYD03S_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V0693CDNRSD301",
+      "name": "CD Navy Brooch",
+      "description": "Antique Gold-Finish Metal and White Resin Pearls",
+      "price": "12250000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V0693CDNRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V0693CDNRS_D301",
+      "variants": [
+        {
+          "color": "Antique Gold-Finish Metal and White Resin Pearls",
+          "size": null,
+          "code": "V0693CDNRS_D301",
+          "price": "12250000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V0693CDNRSD301_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-V0362CDLCYD301",
+      "name": "Clair D Lune Brooch",
+      "description": "Gold-Finish Metal and White Crystals",
+      "price": "12500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V0362CDLCYD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V0362CDLCY_D301",
+      "variants": [
+        {
+          "color": "Gold-Finish Metal and White Crystals",
+          "size": null,
+          "code": "V0362CDLCY_D301",
+          "price": "12500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V0362CDLCYD301_E01",
           "additionalImages": []
         },
         {
           "color": "Gold-Finish Metal, White Resin Pearls and White Crystals",
           "size": null,
-          "code": "E1169DVORS_D301",
-          "price": "11500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1169DVORSD301_E01",
+          "code": "V0412CDLRS_D301",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V0412CDLRSD301_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-E3949WOMRSD301",
-      "name": "Lucky Petit CD Stud Earrings",
-      "description": "Gold-Finish Metal and White Resin Pearls",
-      "price": "12000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3949WOMRSD301_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3949WOMRS_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3949WOMRS_D301",
-          "price": "12000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3949WOMRSD301_E01-1",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E3838WOMCYD03S",
-      "name": "Petit CD Bee Stud Earrings",
+      "code": "prd-V1417WOMCYD03S",
+      "name": "Dio(r)evolution Barrette",
       "description": "Gold-Finish Metal and Silver-Tone Crystals",
-      "price": "12000000",
+      "price": "15000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3838WOMCYD03S_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3838WOMCY_D03S",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1417WOMCYD03S_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1417WOMCY_D03S",
       "variants": [
         {
           "color": "Gold-Finish Metal and Silver-Tone Crystals",
           "size": null,
-          "code": "E3838WOMCY_D03S",
-          "price": "12000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3838WOMCYD03S_E01",
+          "code": "V1417WOMCY_D03S",
+          "price": "15000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1417WOMCYD03S_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-E3714WOMCYD03S",
-      "name": "Petit CD Lucky Charms Earrings",
-      "description": "Gold-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
-      "price": "12500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3714WOMCYD03S_E01-5",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3714WOMCY_D03S",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal with a White Resin Pearl and Silver-Tone Crystals",
-          "size": null,
-          "code": "E3714WOMCY_D03S",
-          "price": "12500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3714WOMCYD03S_E01-5",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E3970WOMRSD301",
-      "name": "Dior Tribales Clip-On Earrings",
-      "description": "Gold-Finish Metal and White Resin Pearls",
-      "price": "14500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3970WOMRSD301_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3970WOMRS_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E3970WOMRS_D301",
-          "price": "14500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3970WOMRSD301_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E3605WOMLQD97P",
-      "name": "Small Dior Night Code Hoop Earrings",
-      "description": "Gold-Finish Metal with White Crystals and Pale Pink Lacquer",
-      "price": "15500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3605WOMLQD97P_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3605WOMLQ_D97P",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal with White Crystals and Pale Pink Lacquer",
-          "size": null,
-          "code": "E3605WOMLQ_D97P",
-          "price": "15500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3605WOMLQD97P_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E3729WOMLQD309",
-      "name": "Dioramour Dior Tribales Earrings",
-      "description": "Gold-Finish Metal with White Resin Pearls and Red Lacquer",
-      "price": "15500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3729WOMLQD309_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E3729WOMLQ_D309",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal with White Resin Pearls and Red Lacquer",
-          "size": null,
-          "code": "E3729WOMLQ_D309",
-          "price": "15500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3729WOMLQD309_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E1850CDNRSD301",
-      "name": "CD Navy Earrings",
-      "description": "Gold-Finish Metal and White Resin Pearls",
-      "price": "11000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1850CDNRSD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E1850CDNRS_D301",
-      "variants": [
-        {
-          "color": "Gold-Finish Metal and White Resin Pearls",
-          "size": null,
-          "code": "E1850CDNRS_D301",
-          "price": "11000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1850CDNRSD301_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Gold-Finish Metal and Silver-Tone Crystals",
-          "size": null,
-          "code": "E3704WOMCY_D03S",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E3704WOMCYD03S_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-E1099CDLCYD301",
-      "name": "Clair D Lune Earrings",
-      "description": "Gold-Finish Metal and White Crystals",
+      "code": "prd-V1424WOMRSD301",
+      "name": "Dior Cabinet de Curiosités Brooch",
+      "description": "Gold-Finish Metal and a White Resin Pearl",
       "price": "13500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1099CDLCYD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E1099CDLCY_D301",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1424WOMRSD301_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1424WOMRS_D301",
       "variants": [
         {
-          "color": "Gold-Finish Metal and White Crystals",
+          "color": "Gold-Finish Metal and a White Resin Pearl",
           "size": null,
-          "code": "E1099CDLCY_D301",
+          "code": "V1424WOMRS_D301",
           "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1099CDLCYD301_E01",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1424WOMRSD301_E01-1",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-E1742PTCCYD301",
-      "name": "Petit CD Stud Earrings",
-      "description": "Gold-Finish Metal and White Crystals",
-      "price": "12500000",
+      "code": "prd-V1414WOMRSD301",
+      "name": "Dior Cabinet de Curiosités Barrette",
+      "description": "Gold-Finish Metal and White Resin Pearls",
+      "price": "13500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1742PTCCYD301_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/E1742PTCCY_D301",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1414WOMRSD301_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/V1414WOMRS_D301",
       "variants": [
         {
-          "color": "Gold-Finish Metal and White Crystals",
+          "color": "Gold-Finish Metal and White Resin Pearls",
           "size": null,
-          "code": "E1742PTCCY_D301",
-          "price": "12500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/E1742PTCCYD301_E01",
+          "code": "V1414WOMRS_D301",
+          "price": "13500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/V1414WOMRSD301_E01",
           "additionalImages": []
         }
       ]

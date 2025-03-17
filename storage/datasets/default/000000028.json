@@ -2,444 +2,552 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-M1325CZEMM49E",
-      "name": "Small Dior Book Tote",
-      "description": "Blue Dior Oblique Chambray Embroidery and Latte Calfskin (26.5 x 22 x 14 cm)",
-      "price": "92000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325CZEMM49E_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M1325CZEM_M49E",
-      "variants": [
-        {
-          "color": "Blue Dior Oblique Chambray Embroidery and Latte Calfskin (26.5 x 22 x 14 cm)",
-          "size": null,
-          "code": "M1325CZEM_M49E",
-          "price": "92000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325CZEMM49E_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Warm Taupe Macrocannage Calfskin (26.5 x 22 x 14 cm)",
-          "size": null,
-          "code": "M1325OWHP_M59U",
-          "price": "98000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325OWHPM59U_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Beige, White and Natural Plan de Paris Embroidery (26.5 x 22 x 14 cm)",
-          "size": null,
-          "code": "M1325CETJ_M925",
-          "price": "105000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325CETJM925_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Powder Beige Macrocannage Calfskin (26.5 x 22 x 14 cm)",
-          "size": null,
-          "code": "M1325OWHP_M51U",
-          "price": "98000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325OWHPM51U_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Ultramatte Cannage Calfskin (26.5 x 22 x 14 cm)",
-          "size": null,
-          "code": "M1325SLOI_M900",
-          "price": "98000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325SLOIM900_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Macrocannage Calfskin (26.5 x 22 x 14 cm)",
-          "size": null,
-          "code": "M1325OWHP_M030",
-          "price": "98000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325OWHPM030_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Macrocannage Calfskin (26.5 x 22 x 14 cm)",
-          "size": null,
-          "code": "M1325OWHP_M900",
-          "price": "98000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325OWHPM900_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue Dior Oblique Embroidery and Calfskin (26.5 x 22 x 14 cm)",
-          "size": null,
-          "code": "M1325CZBB_M928",
-          "price": "92000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325CZBBM928_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "White and Black Plan de Paris Embroidery with Black Calfskin (26.5 x 22 x 14 cm)",
-          "size": null,
-          "code": "M1325CETJ_M081",
-          "price": "105000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325CETJM081_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black and White Plan de Paris Embroidery with Black Calfskin (26.5 x 22 x 14 cm)",
-          "size": null,
-          "code": "M1325CETJ_M46I",
-          "price": "105000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325CETJM46I_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-M1324OWHPM59U",
-      "name": "Medium Dior Book Tote",
-      "description": "Warm Taupe Macrocannage Calfskin (36.5 x 28 x 16.5 cm)",
-      "price": "110000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1324OWHPM59U_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M1324OWHP_M59U",
-      "variants": [
-        {
-          "color": "Warm Taupe Macrocannage Calfskin (36.5 x 28 x 16.5 cm)",
-          "size": null,
-          "code": "M1324OWHP_M59U",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1324OWHPM59U_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Powder Beige Macrocannage Calfskin (36.5 x 28 x 16.5 cm)",
-          "size": null,
-          "code": "M1324OWHP_M51U",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1324OWHPM51U_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Ultramatte Cannage Calfskin (36.5 x 28 x 16.5 cm)",
-          "size": null,
-          "code": "M1324SLOI_M900",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1324SLOIM900_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Macrocannage Calfskin (36.5 x 28 x 16.5 cm)",
-          "size": null,
-          "code": "M1324OWHP_M030",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1324OWHPM030_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Macrocannage Calfskin (36.5 x 28 x 16.5 cm)",
-          "size": null,
-          "code": "M1324OWHP_M900",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1324OWHPM900_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue Dior Oblique Embroidery and Calfskin (36.5 x 28 x 16.5 cm)",
-          "size": null,
-          "code": "M1324CZBB_M928",
-          "price": "100000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1324CZBBM928_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Ecru and Blue Dior Oblique Embroidery (36 x 27.5 x 16.5 cm)",
-          "size": null,
-          "code": "M1296ZRIW_M828",
-          "price": "86000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1296ZRIWM828_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Multicolor D-Floral Embroidery and Calfskin (36.5 x 28 x 16.5 cm)",
-          "size": null,
-          "code": "M1324CZEZ_M20E",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1324CZEZM20E_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "White Multicolor D-Floral Embroidery (36 x 27.5 x 16.5 cm)",
-          "size": null,
-          "code": "M1296ZECZ_M20E",
-          "price": "95000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1296ZECZM20E_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Celestial Blue and White D-Butterfly Paisley Embroidery (36 x 27.5 x 16.5 cm)",
-          "size": null,
-          "code": "M1296ZEEP_M64I",
-          "price": "95000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1296ZEEPM64I_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "White and Blue Toile de Jouy Papillon Embroidery (36 x 27.5 x 16.5 cm)",
-          "size": null,
-          "code": "M1296ZEEV_M933",
-          "price": "95000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1296ZEEVM933_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Raffia with Blue Toile de Jouy Papillon Embroidery (36 x 27.5 x 16.5 cm)",
-          "size": null,
-          "code": "M1296ZEEW_M918",
-          "price": "95000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1296ZEEWM918_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue and Ecru Toile de Jouy Reverse Embroidery (36 x 27.5 x 16.5 cm)",
-          "size": null,
-          "code": "M1296ZRGO_M35I",
-          "price": "86000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1296ZRGOM35I_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Peach Blossom Pink and White D-Butterfly Paisley Embroidery (36 x 27.5 x 16.5 cm)",
-          "size": null,
-          "code": "M1296ZEEQ_M082",
-          "price": "95000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1296ZEEQM082_E01",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue Denim Dior Oblique Jacquard (36 x 27.5 x 16.5 cm)",
-          "size": null,
-          "code": "M1296ZEGC_M49E",
-          "price": "86000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1296ZEGCM49E_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-M1286ZRIWM828",
-      "name": "Large Dior Book Tote",
-      "description": "Ecru and Blue Dior Oblique Embroidery (42 x 35 x 18.5 cm)",
-      "price": "89000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1286ZRIWM828_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M1286ZRIW_M828",
-      "variants": [
-        {
-          "color": "Ecru and Blue Dior Oblique Embroidery (42 x 35 x 18.5 cm)",
-          "size": null,
-          "code": "M1286ZRIW_M828",
-          "price": "89000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1286ZRIWM828_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-M2822OSHJM900",
-      "name": "Small Dior Toujours Bag",
-      "description": "Black Macrocannage Calfskin",
-      "price": "98000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2822OSHJM900_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2822OSHJ_M900",
-      "variants": [
-        {
-          "color": "Black Macrocannage Calfskin",
-          "size": null,
-          "code": "M2822OSHJ_M900",
-          "price": "98000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2822OSHJM900_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Macrocannage Calfskin",
-          "size": null,
-          "code": "M2822OSHJ_M030",
-          "price": "98000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2822OSHJM030_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-M2821OSHJM900",
-      "name": "Medium Dior Toujours Bag",
-      "description": "Black Macrocannage Calfskin",
-      "price": "110000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSHJM900_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2821OSHJ_M900",
-      "variants": [
-        {
-          "color": "Black Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSHJ_M900",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSHJM900_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Macrocannage Crinkled Calfskin",
-          "size": null,
-          "code": "M2821SNIO_M900",
-          "price": "115000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821SNIOM900_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Latte Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSHJ_M030",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSHJM030_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Rope Beige and Black Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSIY_M963",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSIYM963_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Medium Tan Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSHJ_M53U",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSHJM53U_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Powder Beige Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSHJ_M51U",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSHJM51U_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Biscuit and Trench Beige Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSIY_M29I",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSIYM29I_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue Denim Dior Oblique Jacquard",
-          "size": null,
-          "code": "M2821ODCE_M49E",
-          "price": "105000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821ODCEM49E_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-M2820OSHJM900",
-      "name": "Large Dior Toujours Bag",
-      "description": "Black Macrocannage Calfskin",
-      "price": "120000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2820OSHJM900_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2820OSHJ_M900",
-      "variants": [
-        {
-          "color": "Black Macrocannage Calfskin",
-          "size": null,
-          "code": "M2820OSHJ_M900",
-          "price": "120000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2820OSHJM900_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Macrocannage Crinkled Calfskin",
-          "size": null,
-          "code": "M2820SNIO_M900",
-          "price": "125000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2820SNIOM900_E03",
-          "additionalImages": []
-        },
-        {
-          "color": "Blue Denim Dior Oblique Jacquard",
-          "size": null,
-          "code": "M2820ODCE_M49E",
-          "price": "115000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2820ODCEM49E_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-M2821OSKZM030",
-      "name": "Dioramour Medium Dior Toujours Bag",
-      "description": "Latte Macrocannage Calfskin",
-      "price": "115000000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSKZM030_E03",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2821OSKZ_M030",
-      "variants": [
-        {
-          "color": "Latte Macrocannage Calfskin",
-          "size": null,
-          "code": "M2821OSKZ_M030",
-          "price": "115000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2821OSKZM030_E03",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-M1325CZDGM941",
-      "name": "Dioramour Small Dior Book Tote",
-      "description": "Latte Multicolor Cœur des Curiosités Embroidery and Latte Calfskin (26.5 x 22 x 14 cm)",
+      "code": "prd-M0465CBUWM59M",
+      "name": "Mini Soft Saddle Bag with Strap",
+      "description": "Camel Vintage Smooth Calfskin",
       "price": "105000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325CZDGM941_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M1325CZDG_M941",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0465CBUWM59M_E01-1",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0465CBUW_M59M",
       "variants": [
         {
-          "color": "Latte Multicolor Cœur des Curiosités Embroidery and Latte Calfskin (26.5 x 22 x 14 cm)",
+          "color": "Camel Vintage Smooth Calfskin",
           "size": null,
-          "code": "M1325CZDG_M941",
+          "code": "M0465CBUW_M59M",
           "price": "105000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1325CZDGM941_E01",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0465CBUWM59M_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Dior Oblique Jacquard and Smooth Calfskin",
+          "size": null,
+          "code": "M0465CDSS_M928",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0465CDSSM928_E01-2",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte Vintage Smooth Calfskin",
+          "size": null,
+          "code": "M0465CBUW_M030",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0465CBUWM030_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-M1296ZEEIM941",
-      "name": "Dioramour Medium Dior Book Tote",
-      "description": "Latte Embroidery with Multicolor Cœur des Curiosités Motif (36 x 27.5 x 16.5 cm)",
-      "price": "92000000",
+      "code": "prd-M0466CDSSM928",
+      "name": "Medium Soft Saddle Bag with Strap",
+      "description": "Blue Dior Oblique Jacquard and Smooth Calfskin",
+      "price": "120000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1296ZEEIM941_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M1296ZEEI_M941",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0466CDSSM928_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0466CDSS_M928",
       "variants": [
         {
-          "color": "Latte Embroidery with Multicolor Cœur des Curiosités Motif (36 x 27.5 x 16.5 cm)",
+          "color": "Blue Dior Oblique Jacquard and Smooth Calfskin",
           "size": null,
-          "code": "M1296ZEEI_M941",
-          "price": "92000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1296ZEEIM941_E01",
+          "code": "M0466CDSS_M928",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0466CDSSM928_E01",
           "additionalImages": []
         },
         {
-          "color": "Latte Embroidery with Multicolor Amour 1947 Motif and Latte Calfskin (36.5 x 28 x 17.5 cm)",
+          "color": "Black Vintage Smooth Calfskin",
           "size": null,
-          "code": "M1324CZDF_M941",
-          "price": "110000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1324CZDFM941_E01",
+          "code": "M0466CBUW_M900",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0466CBUWM900_E01-1",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M0455CBAAM44M",
+      "name": "Saddle Bag with Strap",
+      "description": "Golden Saddle Grained Calfskin",
+      "price": "120000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0455CBAAM44M_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M0455CBAA_M44M",
+      "variants": [
+        {
+          "color": "Golden Saddle Grained Calfskin",
+          "size": null,
+          "code": "M0455CBAA_M44M",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0455CBAAM44M_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Grained Calfskin",
+          "size": null,
+          "code": "M0455CBAA_M900",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0455CBAAM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Powder Beige Grained Calfskin",
+          "size": null,
+          "code": "M0455CBAA_M51U",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0455CBAAM51U_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "M0455CTZQ_M928",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M0455CTZQM928_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M6302UNOZM900",
+      "name": "Small Dior Caro Backpack",
+      "description": "Black Macrocannage Lambskin",
+      "price": "92000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M6302UNOZM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M6302UNOZ_M900",
+      "variants": [
+        {
+          "color": "Black Macrocannage Lambskin",
+          "size": null,
+          "code": "M6302UNOZ_M900",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M6302UNOZM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Tweed with White Cannage Motif",
+          "size": null,
+          "code": "M6302UDFG_M911",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M6302UDFGM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Macrocannage Crinkled Calfskin",
+          "size": null,
+          "code": "M6302UNUC_M900",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M6302UNUCM900_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte Macrocannage Lambskin",
+          "size": null,
+          "code": "M6302UNOZ_M030",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M6302UNOZM030_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M6301UNOZM900",
+      "name": "Medium Dior Caro Backpack",
+      "description": "Black Macrocannage Lambskin",
+      "price": "105000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M6301UNOZM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M6301UNOZ_M900",
+      "variants": [
+        {
+          "color": "Black Macrocannage Lambskin",
+          "size": null,
+          "code": "M6301UNOZ_M900",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M6301UNOZM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Tweed with White Cannage Motif",
+          "size": null,
+          "code": "M6301UDFG_M911",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M6301UDFGM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Macrocannage Crinkled Calfskin",
+          "size": null,
+          "code": "M6301UNUC_M900",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M6301UNUCM900_E01-1",
+          "additionalImages": []
+        },
+        {
+          "color": "Latte Macrocannage Lambskin",
+          "size": null,
+          "code": "M6301UNOZ_M030",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M6301UNOZM030_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M1364UTZQM928",
+      "name": "Dior Groove 20 Bag",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "83000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1364UTZQM928_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M1364UTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "M1364UTZQ_M928",
+          "price": "83000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1364UTZQM928_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Macrocannage Calfskin",
+          "size": null,
+          "code": "M1364UBOL_M900",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1364UBOLM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Macrocannage Crinkled Calfskin",
+          "size": null,
+          "code": "M1364UNUC_M900",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1364UNUCM900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Tweed with White Cannage Motif",
+          "size": null,
+          "code": "M1364UDFG_M911",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1364UDFGM911_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Dusty Ivory Macrocannage Calfskin",
+          "size": null,
+          "code": "M1364UBOL_M49U",
+          "price": "92000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1364UBOLM49U_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M1365UTZQM928",
+      "name": "Dior Groove 25 Bag",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "89000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1365UTZQM928_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M1365UTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "M1365UTZQ_M928",
+          "price": "89000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1365UTZQM928_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Macrocannage Calfskin",
+          "size": null,
+          "code": "M1365UBOL_M900",
+          "price": "98000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1365UBOLM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M1241OEEOM49E",
+      "name": "Small Diorcamp Bag",
+      "description": "Blue Dior Oblique Chambray Embroidery",
+      "price": "94080000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1241OEEOM49E_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M1241OEEO_M49E",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Chambray Embroidery",
+          "size": null,
+          "code": "M1241OEEO_M49E",
+          "price": "94080000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M1241OEEOM49E_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M9334UDFDM925",
+      "name": "30 Montaigne East-West Bag with Chain",
+      "description": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
+      "price": "91000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9334UDFDM925_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M9334UDFD_M925",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Chambray with Raffia Effect and Light Biscuit Smooth Calfskin",
+          "size": null,
+          "code": "M9334UDFD_M925",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9334UDFDM925_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "M9334UTZQ_M928",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9334UTZQM928_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Calfskin",
+          "size": null,
+          "code": "M9334UHEL_M900",
+          "price": "91000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9334UHELM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M9601UDDSM928",
+      "name": "30 Montaigne Top Handle Bag",
+      "description": "Blue Dior Oblique Jacquard and Smooth Calfskin",
+      "price": "105000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9601UDDSM928_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M9601UDDS_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard and Smooth Calfskin",
+          "size": null,
+          "code": "M9601UDDS_M928",
+          "price": "105000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9601UDDSM928_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2416UNUOM900",
+      "name": "Small D-Journey Bag in Crinkled Calfskin",
+      "description": "Black Flat Macrocannage",
+      "price": "108000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UNUOM900_E03-4",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2416UNUO_M900",
+      "variants": [
+        {
+          "color": "Black Flat Macrocannage",
+          "size": null,
+          "code": "M2416UNUO_M900",
+          "price": "108000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UNUOM900_E03-4",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2416UTZQM928",
+      "name": "Small D-Journey Bag",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "108000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UTZQM928_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2416UTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "M2416UTZQ_M928",
+          "price": "108000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UTZQM928_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2416UBUQM030",
+      "name": "Small D-Journey Bag in Vintage Smooth Calfskin",
+      "description": "Latte Flat Macrocannage",
+      "price": "108000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UBUQM030_E03-3",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2416UBUQ_M030",
+      "variants": [
+        {
+          "color": "Latte Flat Macrocannage",
+          "size": null,
+          "code": "M2416UBUQ_M030",
+          "price": "108000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2416UBUQM030_E03-3",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2417UTZQM928",
+      "name": "Medium D-Journey Bag",
+      "description": "Blue Dior Oblique Jacquard",
+      "price": "118000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UTZQM928_E03-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2417UTZQ_M928",
+      "variants": [
+        {
+          "color": "Blue Dior Oblique Jacquard",
+          "size": null,
+          "code": "M2417UTZQ_M928",
+          "price": "118000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UTZQM928_E03-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2417UBUQM59M",
+      "name": "Medium D-Journey Bag in Vintage Smooth Calfskin",
+      "description": "Camel Flat Macrocannage",
+      "price": "118000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UBUQM59M_E03-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2417UBUQ_M59M",
+      "variants": [
+        {
+          "color": "Camel Flat Macrocannage",
+          "size": null,
+          "code": "M2417UBUQ_M59M",
+          "price": "118000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UBUQM59M_E03-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2417UNUOM900",
+      "name": "Medium D-Journey Bag in Crinkled Calfskin",
+      "description": "Black Flat Macrocannage",
+      "price": "118000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UNUOM900_E03",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2417UNUO_M900",
+      "variants": [
+        {
+          "color": "Black Flat Macrocannage",
+          "size": null,
+          "code": "M2417UNUO_M900",
+          "price": "118000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2417UNUOM900_E03",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M2418UNUOM900",
+      "name": "Large D-Journey Bag in Crinkled Calfskin",
+      "description": "Black Flat Macrocannage",
+      "price": "140000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2418UNUOM900_E03-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M2418UNUO_M900",
+      "variants": [
+        {
+          "color": "Black Flat Macrocannage",
+          "size": null,
+          "code": "M2418UNUO_M900",
+          "price": "140000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M2418UNUOM900_E03-2",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M9272UBHIM900",
+      "name": "Mini Dior Jolie Top Handle Bag",
+      "description": "Black Cannage Calfskin",
+      "price": "130000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9272UBHIM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M9272UBHI_M900",
+      "variants": [
+        {
+          "color": "Black Cannage Calfskin",
+          "size": null,
+          "code": "M9272UBHI_M900",
+          "price": "130000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9272UBHIM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M9271UBHIM900",
+      "name": "Small Dior Jolie Top Handle Bag",
+      "description": "Black Cannage Calfskin",
+      "price": "140000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9271UBHIM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M9271UBHI_M900",
+      "variants": [
+        {
+          "color": "Black Cannage Calfskin",
+          "size": null,
+          "code": "M9271UBHI_M900",
+          "price": "140000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9271UBHIM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M9275UNUHM900",
+      "name": "Dior Jolie East-West Bag",
+      "description": "Black Cannage Honey Lamb Leather and Flat Cannage Calfskin",
+      "price": "130000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9275UNUHM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M9275UNUH_M900",
+      "variants": [
+        {
+          "color": "Black Cannage Honey Lamb Leather and Flat Cannage Calfskin",
+          "size": null,
+          "code": "M9275UNUH_M900",
+          "price": "130000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9275UNUHM900_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-M9242UWHCM900",
+      "name": "Medium Dior Caro Bag",
+      "description": "Black Supple Cannage Calfskin",
+      "price": "120000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9242UWHCM900_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/M9242UWHC_M900",
+      "variants": [
+        {
+          "color": "Black Supple Cannage Calfskin",
+          "size": null,
+          "code": "M9242UWHC_M900",
+          "price": "120000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/M9242UWHCM900_E01",
           "additionalImages": []
         }
       ]

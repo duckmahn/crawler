@@ -2,7 +2,7 @@
   "id": "Vs9cFTWLoJYvPFp",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/dioract-sandals",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:56.146419+00:00",
+  "handled_at": "2025-03-17 04:07:05.087017+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/dioract-sandals",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/dioract-sandals",
-    "handled_at": "2025-03-14 11:00:56.146419+00:00",
+    "handled_at": "2025-03-17 04:07:05.087017+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/dioract-sandals",
     "id": "Vs9cFTWLoJYvPFp"
   }

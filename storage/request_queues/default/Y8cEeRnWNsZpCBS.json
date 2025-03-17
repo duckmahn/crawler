@@ -2,7 +2,7 @@
   "id": "Y8cEeRnWNsZpCBS",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/totes-bags",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:43.136307+00:00",
+  "handled_at": "2025-03-17 04:06:52.237861+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/totes-bags",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/totes-bags",
-    "handled_at": "2025-03-14 11:00:43.136307+00:00",
+    "handled_at": "2025-03-17 04:06:52.237861+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/bags/totes-bags",
     "id": "Y8cEeRnWNsZpCBS"
   }

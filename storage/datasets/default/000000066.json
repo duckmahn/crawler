@@ -2,167 +2,87 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-KDV324BENS26W",
-      "name": "J'Adior Slingback Pump",
-      "description": "White Embroidered Cotton and Microbeads",
-      "price": "49000000",
+      "code": "prd-KCK414TRMS19W",
+      "name": "Dior Chrono Sneaker",
+      "description": "Mesh with White and Black Leather-Effect Panels",
+      "price": "30000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV324BENS26W_E02",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KDV324BEN_S26W",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS19W_E02-2",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK414TRM_S19W",
       "variants": [
         {
-          "color": "White Embroidered Cotton and Microbeads",
+          "color": "Mesh with White and Black Leather-Effect Panels",
           "size": null,
-          "code": "KDV324BEN_S26W",
-          "price": "49000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV324BENS26W_E02",
+          "code": "KCK414TRM_S19W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS19W_E02-2",
           "additionalImages": []
         },
         {
-          "color": "White Embroidered Cotton and Silver-Tone Strass",
+          "color": "Mesh and White Leather-Effect Panels",
           "size": null,
-          "code": "KDP867SEL_S03W",
-          "price": "46000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP867SELS03W_E02",
+          "code": "KCK414TRM_S10W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS10W_E02-1",
           "additionalImages": []
         },
         {
-          "color": "White and Gold-Tone Millefiori Jacquard",
+          "color": "Gray Mesh with Silver-Tone Laminated Leather-Effect Panels",
           "size": null,
-          "code": "KDP920LJE_S09W",
-          "price": "32000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP920LJES09W_E02",
+          "code": "KCK414TRL_S59K",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRLS59K_E02",
           "additionalImages": []
         },
         {
-          "color": "Transparent Mesh with Dior Chardons Embroidery in Gold-Tone Metallic Thread",
+          "color": "White and Sky Blue Mesh and Leather-Effect Panels",
           "size": null,
-          "code": "KDV039CXT_S62K",
-          "price": "38000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV039CXTS62K_E02",
+          "code": "KCK414TRM_S41W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS41W_E02",
           "additionalImages": []
         },
         {
-          "color": "Transparent Mesh Embroidered with White Dior Cabinet de la Mer Motif",
+          "color": "Beige Mesh and Suede Calfskin",
           "size": null,
-          "code": "KDV039CMT_S10W",
-          "price": "37000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV039CMTS10W_E02",
+          "code": "KCK414SUH_S24W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414SUHS24W_E02-1",
           "additionalImages": []
         },
         {
-          "color": "Transparent Mesh Embroidered with White Dior Cabinet de la Mer Motif",
+          "color": "Nude Mesh and Suede Calfskin",
           "size": null,
-          "code": "KDV038CMT_S10W",
-          "price": "37000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV038CMTS10W_E02",
+          "code": "KCK414SUH_S62U",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414SUHS62U_E02",
           "additionalImages": []
         },
         {
-          "color": "Black Technical Fabric",
+          "color": "White Mesh with Nude and Silver-Tone Laminated Leather-Effect Panels",
           "size": null,
-          "code": "KDC201TFL_S900",
-          "price": "28000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC201TFLS900_E02-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Technical Fabric",
-          "size": null,
-          "code": "KDC200TFL_S900",
-          "price": "28000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC200TFLS900_E02-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Technical Fabric with Cannage Motif",
-          "size": null,
-          "code": "KDV373TCE_S900",
-          "price": "30380000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV373TCES900_E02-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Nude Technical Fabric",
-          "size": null,
-          "code": "KDC200TFL_S21U",
-          "price": "28000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC200TFLS21U_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Nude Patent Calfskin",
-          "size": null,
-          "code": "KDC200VNR_S12U",
-          "price": "28000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDC200VNRS12U_E02-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Transparent Mesh with Black Dior Chardons Embroidery",
-          "size": null,
-          "code": "KDV038CDT_S900",
-          "price": "37000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDV038CDTS900_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Black Technical Fabric and Strass",
-          "size": null,
-          "code": "KDP867SCS_S05X",
-          "price": "51000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP867SCSS05X_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "Black and Gold-Tone Millefiori Jacquard",
-          "size": null,
-          "code": "KDP920LJE_S21X",
-          "price": "32000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KDP920LJES21X_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "White and Black Cotton Embroidered with Plan de Paris Motif",
-          "size": null,
-          "code": "KCP866KPY_S15W",
-          "price": "30380000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCP866KPYS15W_E02-1",
+          "code": "KCK414TXX_S15U",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TXXS15U_E02",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-KCB384TFLS900",
-      "name": "J'Adior Slingback Flat",
-      "description": "Black Technical Fabric",
-      "price": "27000000",
+      "code": "prd-KCK414TRMS89W",
+      "name": "Miss Dior — Dior Chrono Sneaker",
+      "description": "White and Fuchsia Mesh with Leather-Effect Panels",
+      "price": "30000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB384TFLS900_E02-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCB384TFL_S900",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS89W_E02",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/KCK414TRM_S89W",
       "variants": [
         {
-          "color": "Black Technical Fabric",
+          "color": "White and Fuchsia Mesh with Leather-Effect Panels",
           "size": null,
-          "code": "KCB384TFL_S900",
-          "price": "27000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB384TFLS900_E02-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Nude Technical Fabric",
-          "size": null,
-          "code": "KCB384TFL_S21U",
-          "price": "27000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB384TFLS21U_E02",
-          "additionalImages": []
-        },
-        {
-          "color": "White and Black Cotton Embroidered with Plan de Paris Motif",
-          "size": null,
-          "code": "KCB660KPY_S15W",
-          "price": "27440000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCB660KPYS15W_E02",
+          "code": "KCK414TRM_S89W",
+          "price": "30000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/KCK414TRMS89W_E02",
           "additionalImages": []
         }
       ]

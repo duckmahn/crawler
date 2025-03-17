@@ -2,7 +2,7 @@
   "id": "7ekNkHLgCIBaN6v",
   "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/j%e2%80%99adior-shoes",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:55.469610+00:00",
+  "handled_at": "2025-03-17 04:07:03.752979+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/j%E2%80%99adior-shoes",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/j%E2%80%99adior-shoes",
-    "handled_at": "2025-03-14 11:00:55.469610+00:00",
+    "handled_at": "2025-03-17 04:07:03.752979+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/womens-fashion/shoes/j%e2%80%99adior-shoes",
     "id": "7ekNkHLgCIBaN6v"
   }

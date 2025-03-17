@@ -2,7 +2,7 @@
   "id": "L8mnypNrpnlP0s1",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/totes",
   "order_no": null,
-  "handled_at": "2025-03-14 11:01:01.039171+00:00",
+  "handled_at": "2025-03-17 04:07:11.108851+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/totes",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/totes",
-    "handled_at": "2025-03-14 11:01:01.039171+00:00",
+    "handled_at": "2025-03-17 04:07:11.108851+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/bags/totes",
     "id": "L8mnypNrpnlP0s1"
   }

@@ -2,522 +2,511 @@
   "brand": "dior",
   "products": [
     {
-      "code": "prd-24FCO106I606C084",
-      "name": "D-Floral Mitzah Scarf",
-      "description": "White Multicolor Silk Twill",
-      "price": "6566000",
+      "code": "prd-51DOB140I662C440",
+      "name": "Dior Oblique Shawl",
+      "description": "Purple Silk, Wool and Cashmere",
+      "price": "19500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/24FCO106I606C084_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/24FCO106I606_C084",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51DOB140I662C440_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/51DOB140I662_C440",
       "variants": [
         {
-          "color": "White Multicolor Silk Twill",
+          "color": "Purple Silk, Wool and Cashmere",
           "size": null,
-          "code": "24FCO106I606_C084",
-          "price": "6566000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/24FCO106I606C084_E01",
+          "code": "51DOB140I662_C440",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51DOB140I662C440_E01",
           "additionalImages": []
         },
         {
-          "color": "Pale Pink Multicolor Silk Twill",
+          "color": "Blue Silk, Wool and Cashmere",
           "size": null,
-          "code": "24FCO106I606_C400",
-          "price": "6566000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/24FCO106I606C400_E01",
+          "code": "51DOB140I662_C520",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51DOB140I662C520_E01",
           "additionalImages": []
         },
         {
-          "color": "Deep Blue Multicolor Silk Twill",
+          "color": "Light Blue Silk, Wool and Cashmere",
           "size": null,
-          "code": "24FCO106I606_C582",
-          "price": "6566000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/24FCO106I606C582_E01",
+          "code": "51DOB140I662_C510",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51DOB140I662C510_E01",
           "additionalImages": []
         },
         {
-          "color": "White Multicolor Silk Twill",
+          "color": "White Wool, Silk and Cashmere",
           "size": null,
-          "code": "24FCO106I606_C082",
-          "price": "6566000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/24FCO106I606C082_E01",
+          "code": "25DOB140I160_C010",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB140I160C010_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Wool, Silk and Cotton",
+          "size": null,
+          "code": "12DOB140I142_C540",
+          "price": "24010000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/12DOB140I142C540_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Gray Wool, Silk and Cotton",
+          "size": null,
+          "code": "14DOB140I142_C813",
+          "price": "24010000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/14DOB140I142C813_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Black Wool, Silk and Cashmere",
+          "size": null,
+          "code": "25DOB140I160_C900",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB140I160C900_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Pink Wool, Silk and Cashmere",
+          "size": null,
+          "code": "25DOB140I160_C415",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB140I160C415_E01",
+          "additionalImages": []
+        },
+        {
+          "color": "Navy Blue Wool, Silk and Cashmere",
+          "size": null,
+          "code": "25DOB140I160_C540",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB140I160C540_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-35FCO090I610C084",
-      "name": "D-Floral 90 Square Scarf",
-      "description": "White Multicolor Silk Twill",
-      "price": "14000000",
+      "code": "prd-52PAC140I008C415",
+      "name": "Dior Camo Papillon Shawl",
+      "description": "Ivory and Pale Pink Cashmere",
+      "price": "31000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/35FCO090I610C084_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/35FCO090I610_C084",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAC140I008C415_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52PAC140I008_C415",
       "variants": [
         {
-          "color": "White Multicolor Silk Twill",
+          "color": "Ivory and Pale Pink Cashmere",
           "size": null,
-          "code": "35FCO090I610_C084",
-          "price": "14000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/35FCO090I610C084_E01",
+          "code": "52PAC140I008_C415",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAC140I008C415_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-52TJP302I007C520",
+      "name": "Toile de Jouy Papillon Stole",
+      "description": "Ivory and Blue Cashmere",
+      "price": "31000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP302I007C520_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52TJP302I007_C520",
+      "variants": [
+        {
+          "color": "Ivory and Blue Cashmere",
+          "size": null,
+          "code": "52TJP302I007_C520",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP302I007C520_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-41JOU215I159C540",
+      "name": "Toile de Jouy Sauvage Scarf",
+      "description": "Navy Blue Cashmere and Wool",
+      "price": "29500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/41JOU215I159C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/41JOU215I159_C540",
+      "variants": [
+        {
+          "color": "Navy Blue Cashmere and Wool",
+          "size": null,
+          "code": "41JOU215I159_C540",
+          "price": "29500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/41JOU215I159C540_E01",
           "additionalImages": []
         },
         {
-          "color": "Pale Pink Multicolor Silk Twill",
+          "color": "Gray Cashmere and Wool",
           "size": null,
-          "code": "35FCO090I610_C400",
-          "price": "14000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/35FCO090I610C400_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-52FCO101I610C084",
-      "name": "D-Floral Dior Diamond",
-      "description": "White Multicolor Silk Twill",
-      "price": "8700000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52FCO101I610C084_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52FCO101I610_C084",
-      "variants": [
-        {
-          "color": "White Multicolor Silk Twill",
-          "size": null,
-          "code": "52FCO101I610_C084",
-          "price": "8700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52FCO101I610C084_E01",
+          "code": "41JOU215I159_C820",
+          "price": "29500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/41JOU215I159C820_E01",
           "additionalImages": []
         },
         {
-          "color": "Pale Pink Multicolor Silk Twill",
+          "color": "Rose Des Vents Cashmere and Wool",
           "size": null,
-          "code": "52FCO101I610_C400",
-          "price": "8700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52FCO101I610C400_E01",
+          "code": "41JOU215I159_C420",
+          "price": "29500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/41JOU215I159C420_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-52TJP106I607C602",
-      "name": "Toile de Jouy Papillon Mitzah Scarf",
-      "description": "White Multicolor Silk Twill",
-      "price": "6700000",
+      "code": "prd-14JOU140I142C583",
+      "name": "Toile de Jouy Shawl",
+      "description": "Ivory and Blue Wool, Silk and Cotton",
+      "price": "24500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP106I607C602_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52TJP106I607_C602",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/14JOU140I142C583_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/14JOU140I142_C583",
       "variants": [
         {
-          "color": "White Multicolor Silk Twill",
+          "color": "Ivory and Blue Wool, Silk and Cotton",
           "size": null,
-          "code": "52TJP106I607_C602",
-          "price": "6700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP106I607C602_E01",
+          "code": "14JOU140I142_C583",
+          "price": "24500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/14JOU140I142C583_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-52PAR140I150C526",
+      "name": "Plan de Paris Shawl",
+      "description": "Denim Blue and Black Silk and Wool",
+      "price": "19500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAR140I150C526_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52PAR140I150_C526",
+      "variants": [
+        {
+          "color": "Denim Blue and Black Silk and Wool",
+          "size": null,
+          "code": "52PAR140I150_C526",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAR140I150C526_E01",
           "additionalImages": []
         },
         {
-          "color": "White and Blue Silk Twill",
+          "color": "Black and White Cashmere",
           "size": null,
-          "code": "52TJP106I607_C520",
-          "price": "6700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP106I607C520_E01",
+          "code": "32PAR140I060_C980",
+          "price": "28500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/32PAR140I060C980_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-25CDO309I093C810",
+      "name": "Dior Oblique Scarf",
+      "description": "Ecru and Gray Cashmere",
+      "price": "34300000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25CDO309I093C810_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/25CDO309I093_C810",
+      "variants": [
+        {
+          "color": "Ecru and Gray Cashmere",
+          "size": null,
+          "code": "25CDO309I093_C810",
+          "price": "34300000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25CDO309I093C810_E01",
           "additionalImages": []
         },
         {
-          "color": "White Multicolor Silk Twill",
+          "color": "Ecru and Navy Blue Cashmere",
           "size": null,
-          "code": "52TJP106I607_C442",
-          "price": "6700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP106I607C442_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-52TJP090I607C602",
-      "name": "Toile de Jouy Papillon 90 Square Scarf",
-      "description": "White Multicolor Silk Twill",
-      "price": "16170000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP090I607C602_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52TJP090I607_C602",
-      "variants": [
-        {
-          "color": "White Multicolor Silk Twill",
-          "size": null,
-          "code": "52TJP090I607_C602",
-          "price": "16170000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP090I607C602_E01",
+          "code": "25CDO309I093_C540",
+          "price": "34300000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25CDO309I093C540_E01-1",
           "additionalImages": []
         },
         {
-          "color": "White Multicolor Silk Twill",
+          "color": "Gray Technical Cashmere",
           "size": null,
-          "code": "52TJP090I607_C442",
-          "price": "16170000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP090I607C442_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-52PAC106I608C115",
-      "name": "Dior Camo Papillon Mitzah Scarf",
-      "description": "White and Beige Silk Jacquard",
-      "price": "6700000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAC106I608C115_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52PAC106I608_C115",
-      "variants": [
-        {
-          "color": "White and Beige Silk Jacquard",
-          "size": null,
-          "code": "52PAC106I608_C115",
-          "price": "6700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAC106I608C115_E01",
+          "code": "15DOB201I099_C810",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB201I099C810_E01",
           "additionalImages": []
         },
         {
-          "color": "White and Sky Blue Silk Jacquard",
+          "color": "Navy Blue Cashmere and Wool",
           "size": null,
-          "code": "52PAC106I608_C515",
-          "price": "6700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAC106I608C515_E01",
+          "code": "51DOB203I060_C540",
+          "price": "29500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51DOB203I060C540_E01",
           "additionalImages": []
         },
         {
-          "color": "White and Pale Pink Silk Jacquard",
+          "color": "Ecru and Rose Des Vents Cashmere",
           "size": null,
-          "code": "52PAC106I608_C415",
-          "price": "6700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAC106I608C415_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-52TJP101I607C540",
-      "name": "Toile de Jouy Papillon Dior Diamond",
-      "description": "White and Blue Silk Twill",
-      "price": "8700000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP101I607C540_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52TJP101I607_C540",
-      "variants": [
-        {
-          "color": "White and Blue Silk Twill",
-          "size": null,
-          "code": "52TJP101I607_C540",
-          "price": "8700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP101I607C540_E01",
+          "code": "25CDO309I093_C420",
+          "price": "34300000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25CDO309I093C420_E01",
           "additionalImages": []
         },
         {
-          "color": "White Multicolor Silk Twill",
+          "color": "Navy Blue Technical Cashmere",
           "size": null,
-          "code": "52TJP101I607_C442",
-          "price": "8700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP101I607C442_E01",
+          "code": "15DOB201I099_C540",
+          "price": "49000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB201I099C540_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-52PAC090I608C515",
-      "name": "Dior Camo Papillon 90 Square Scarf",
-      "description": "White and Sky Blue Silk Twill",
-      "price": "16170000",
+      "code": "prd-15DOB140I162C525",
+      "name": "Dior Oblique Denim Shawl",
+      "description": "Denim Blue Wool, Silk and Cashmere",
+      "price": "19500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAC090I608C515_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52PAC090I608_C515",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB140I162C525_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/15DOB140I162_C525",
       "variants": [
         {
-          "color": "White and Sky Blue Silk Twill",
+          "color": "Denim Blue Wool, Silk and Cashmere",
           "size": null,
-          "code": "52PAC090I608_C515",
-          "price": "16170000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAC090I608C515_E01",
+          "code": "15DOB140I162_C525",
+          "price": "19500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB140I162C525_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-34JOU300I002C810",
+      "name": "Toile de Jouy Sauvage Stole",
+      "description": "Ivory and Gray Cashmere",
+      "price": "31000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34JOU300I002C810_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/34JOU300I002_C810",
+      "variants": [
+        {
+          "color": "Ivory and Gray Cashmere",
+          "size": null,
+          "code": "34JOU300I002_C810",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34JOU300I002C810_E01",
           "additionalImages": []
         },
         {
-          "color": "White and Pale Pink Silk Twill",
+          "color": "White and Navy Blue Cashmere",
           "size": null,
-          "code": "52PAC090I608_C415",
-          "price": "16170000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52PAC090I608C415_E01-2",
+          "code": "34JOU300I002_C540",
+          "price": "31000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34JOU300I002C540_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-52TJP070I607C520",
-      "name": "Toile de Jouy Papillon 70 Square Scarf",
-      "description": "White and Blue Silk Twill",
-      "price": "13500000",
+      "code": "prd-34JOU350I102C540",
+      "name": "Toile de Jouy Sauvage Blanket",
+      "description": "White and Navy Blue Wool",
+      "price": "43500000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP070I607C520_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52TJP070I607_C520",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34JOU350I102C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/34JOU350I102_C540",
       "variants": [
         {
-          "color": "White and Blue Silk Twill",
+          "color": "White and Navy Blue Wool",
           "size": null,
-          "code": "52TJP070I607_C520",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP070I607C520_E01",
+          "code": "34JOU350I102_C540",
+          "price": "43500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/34JOU350I102C540_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-32DOB301I130C420",
+      "name": "Dior Oblique Stole",
+      "description": "Rose des Vents Cotton, Wool and Silk",
+      "price": "17000000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/32DOB301I130C420_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/32DOB301I130_C420",
+      "variants": [
+        {
+          "color": "Rose des Vents Cotton, Wool and Silk",
+          "size": null,
+          "code": "32DOB301I130_C420",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/32DOB301I130C420_E01",
           "additionalImages": []
         },
         {
-          "color": "White and Navy Blue Silk Twill",
+          "color": "Navy Blue Cotton, Wool and Silk",
           "size": null,
-          "code": "52TJP070I607_C540",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP070I607C540_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-15JOU090I602C545",
-      "name": "Toile de Jouy Sauvage 90 Square Scarf",
-      "description": "Ivory and Navy Blue Silk Twill",
-      "price": "16500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15JOU090I602C545_E01-1",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/15JOU090I602_C545",
-      "variants": [
-        {
-          "color": "Ivory and Navy Blue Silk Twill",
-          "size": null,
-          "code": "15JOU090I602_C545",
-          "price": "16500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15JOU090I602C545_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Ivory and Gray Silk Twill",
-          "size": null,
-          "code": "15JOU090I602_C805",
-          "price": "16500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15JOU090I602C805_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-15JOU106I602C805",
-      "name": "Toile de Jouy Sauvage Mitzah Scarf",
-      "description": "Ivory and Gray Silk Twill",
-      "price": "6700000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15JOU106I602C805_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/15JOU106I602_C805",
-      "variants": [
-        {
-          "color": "Ivory and Gray Silk Twill",
-          "size": null,
-          "code": "15JOU106I602_C805",
-          "price": "6700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15JOU106I602C805_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-51MID106L616CO90",
-      "name": "Dior Or Miss Dior Allover Mitzah Scarf",
-      "description": "Ivory Silk Twill and Gold-Tone Metallic Thread",
-      "price": "7100000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51MID106L616CO90_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/51MID106L616_CO90",
-      "variants": [
-        {
-          "color": "Ivory Silk Twill and Gold-Tone Metallic Thread",
-          "size": null,
-          "code": "51MID106L616_CO90",
-          "price": "7100000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/51MID106L616CO90_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-42DOB070I600C420",
-      "name": "Dior Oblique 70 Square Scarf",
-      "description": "Rose des Vents Silk Twill",
-      "price": "13500000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/42DOB070I600C420_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/42DOB070I600_C420",
-      "variants": [
-        {
-          "color": "Rose des Vents Silk Twill",
-          "size": null,
-          "code": "42DOB070I600_C420",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/42DOB070I600C420_E01",
-          "additionalImages": []
-        }
-      ]
-    },
-    {
-      "code": "prd-15DOB106I600C118",
-      "name": "Dior Oblique Mitzah Scarf",
-      "description": "Beige Silk Twill",
-      "price": "6700000",
-      "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB106I600C118_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/15DOB106I600_C118",
-      "variants": [
-        {
-          "color": "Beige Silk Twill",
-          "size": null,
-          "code": "15DOB106I600_C118",
-          "price": "6700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB106I600C118_E01",
+          "code": "32DOB301I130_C525",
+          "price": "17000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/32DOB301I130C525_E01",
           "additionalImages": []
         },
         {
           "color": "Navy Blue Silk Twill",
           "size": null,
-          "code": "15DOB106I600_C541",
-          "price": "6700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB106I600C541_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Gray Silk Twill",
-          "size": null,
-          "code": "15DOB106I600_C810",
-          "price": "6700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB106I600C810_E01-1",
-          "additionalImages": []
-        },
-        {
-          "color": "Rose Des Vents Silk Twill",
-          "size": null,
-          "code": "15DOB106I600_C412",
-          "price": "6700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB106I600C412_E01",
+          "code": "35DOB200I608_C541",
+          "price": "21500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/35DOB200I608C541_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-52DOB101I600C540",
-      "name": "Dior Oblique Dior Diamond",
-      "description": "Navy Blue Silk Twill",
-      "price": "8700000",
+      "code": "prd-21DOB370I007C540",
+      "name": "Dior Oblique Poncho",
+      "description": "Navy Blue Cashmere",
+      "price": "57000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52DOB101I600C540_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52DOB101I600_C540",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/21DOB370I007C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/21DOB370I007_C540",
       "variants": [
         {
-          "color": "Navy Blue Silk Twill",
+          "color": "Navy Blue Cashmere",
           "size": null,
-          "code": "52DOB101I600_C540",
-          "price": "8700000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52DOB101I600C540_E01",
+          "code": "21DOB370I007_C540",
+          "price": "57000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/21DOB370I007C540_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-15DOB090I600C810",
-      "name": "Dior Oblique Diortwin 90 Square Scarf",
-      "description": "Gray and Navy Blue Silk Twill",
-      "price": "16170000",
+      "code": "prd-14CDO370I901C540",
+      "name": "Dior Oblique Hooded Poncho",
+      "description": "Navy Blue Cotton",
+      "price": "35000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB090I600C810_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/15DOB090I600_C810",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/14CDO370I901C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/14CDO370I901_C540",
       "variants": [
         {
-          "color": "Gray and Navy Blue Silk Twill",
+          "color": "Navy Blue Cotton",
           "size": null,
-          "code": "15DOB090I600_C810",
-          "price": "16170000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB090I600C810_E01",
+          "code": "14CDO370I901_C540",
+          "price": "35000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/14CDO370I901C540_E01",
+          "additionalImages": []
+        }
+      ]
+    },
+    {
+      "code": "prd-31CAN205I005C812",
+      "name": "Dior Cannage Scarf",
+      "description": "Gray and Ecru Cashmere and Virgin Wool",
+      "price": "29500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31CAN205I005C812_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/31CAN205I005_C812",
+      "variants": [
+        {
+          "color": "Gray and Ecru Cashmere and Virgin Wool",
+          "size": null,
+          "code": "31CAN205I005_C812",
+          "price": "29500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31CAN205I005C812_E01",
           "additionalImages": []
         },
         {
-          "color": "Burgundy and Navy Blue Silk Twill",
+          "color": "Navy Blue and Gray Cashmere and Virgin Wool",
           "size": null,
-          "code": "15DOB090I600_C341",
-          "price": "16170000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB090I600C341_E01",
+          "code": "31CAN205I005_C532",
+          "price": "29500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31CAN205I005C532_E01",
           "additionalImages": []
         },
         {
-          "color": "Rose Des Vents and Gray Silk Twill",
+          "color": "Rose Des Vents and Ecru Cashmere and Virgin Wool",
           "size": null,
-          "code": "15DOB090I600_C412",
-          "price": "16170000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB090I600C412_E01",
+          "code": "31CAN205I005_C420",
+          "price": "29500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/31CAN205I005C420_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-15DOB070I600C541",
-      "name": "Dior Oblique Diortwin 70 Square Scarf",
-      "description": "Navy Blue Silk Twill",
-      "price": "13500000",
+      "code": "prd-14CDO301I985C540",
+      "name": "Dior Oblique University Reversible Scarf",
+      "description": "Navy Blue Wool and Silk",
+      "price": "24010000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB070I600C541_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/15DOB070I600_C541",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/14CDO301I985C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/14CDO301I985_C540",
       "variants": [
         {
-          "color": "Navy Blue Silk Twill",
+          "color": "Navy Blue Wool and Silk",
           "size": null,
-          "code": "15DOB070I600_C541",
-          "price": "13500000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/15DOB070I600C541_E01",
+          "code": "14CDO301I985_C540",
+          "price": "24010000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/14CDO301I985C540_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-52TJP120B607C442",
-      "name": "Toile de Jouy Papillon Dior Silk Top",
-      "description": "White Multicolor Silk Twill",
-      "price": "27000000",
+      "code": "prd-25CAN140I676CO90",
+      "name": "Dior Cannage Shawl",
+      "description": "Gold-Tone Silk Blend and Metallic Thread",
+      "price": "24010000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP120B607C442_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52TJP120B607_C442",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25CAN140I676CO90_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/25CAN140I676_CO90",
       "variants": [
         {
-          "color": "White Multicolor Silk Twill",
+          "color": "Gold-Tone Silk Blend and Metallic Thread",
           "size": null,
-          "code": "52TJP120B607_C442",
-          "price": "27000000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52TJP120B607C442_E01",
+          "code": "25CAN140I676_CO90",
+          "price": "24010000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25CAN140I676CO90_E01",
           "additionalImages": []
         }
       ]
     },
     {
-      "code": "prd-52BAN060I606C405",
-      "name": "D-Butterfly Paisley 60 Square Scarf",
-      "description": "Peach Blossom Pink and White Silk Twill",
-      "price": "9600000",
+      "code": "prd-25DOB350I010C540",
+      "name": "Dior Oblique Blanket",
+      "description": "Navy Blue Cashmere",
+      "price": "57000000",
       "currency": "VND",
-      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52BAN060I606C405_E01",
-      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/52BAN060I606_C405",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB350I010C540_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/25DOB350I010_C540",
       "variants": [
         {
-          "color": "Peach Blossom Pink and White Silk Twill",
+          "color": "Navy Blue Cashmere",
           "size": null,
-          "code": "52BAN060I606_C405",
-          "price": "9600000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52BAN060I606C405_E01",
+          "code": "25DOB350I010_C540",
+          "price": "57000000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/25DOB350I010C540_E01",
           "additionalImages": []
-        },
+        }
+      ]
+    },
+    {
+      "code": "prd-35MON201I001C089",
+      "name": "30 Montaigne Scarf",
+      "description": "Black and White Cashmere",
+      "price": "34500000",
+      "currency": "VND",
+      "imageUrl": "https://assets.christiandior.com/is/image/diorprod/35MON201I001C089_E01",
+      "sourceUrl": "https://www.dior.com/en_vn/fashion/products/35MON201I001_C089",
+      "variants": [
         {
-          "color": "Celestial Blue and White Silk Twill",
+          "color": "Black and White Cashmere",
           "size": null,
-          "code": "52BAN060I606_C520",
-          "price": "9600000",
-          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/52BAN060I606C520_E01",
+          "code": "35MON201I001_C089",
+          "price": "34500000",
+          "imageUrl": "https://assets.christiandior.com/is/image/diorprod/35MON201I001C089_E01",
           "additionalImages": []
         }
       ]

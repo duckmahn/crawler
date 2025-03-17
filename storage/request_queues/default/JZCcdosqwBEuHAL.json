@@ -2,7 +2,7 @@
   "id": "JZCcdosqwBEuHAL",
   "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/shirts",
   "order_no": null,
-  "handled_at": "2025-03-14 11:00:57.829183+00:00",
+  "handled_at": "2025-03-17 04:07:06.255083+00:00",
   "request": {
     "url": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/shirts",
     "method": "GET",
@@ -17,7 +17,7 @@
     "retry_count": 0,
     "no_retry": false,
     "loaded_url": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/shirts",
-    "handled_at": "2025-03-14 11:00:57.829183+00:00",
+    "handled_at": "2025-03-17 04:07:06.255083+00:00",
     "unique_key": "https://www.dior.com/en_vn/fashion/mens-fashion/ready-to-wear/shirts",
     "id": "JZCcdosqwBEuHAL"
   }

@@ -1,0 +1,23 @@
+{
+  "id": "ukIPaie2viOWvln",
+  "unique_key": "https://www.dior.com/en_vn/fashion/products/e3897wommt_d327",
+  "order_no": "1742184420892.684000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.dior.com/en_vn/fashion/products/E3897WOMMT_D327",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.dior.com/en_vn/fashion/products/e3897wommt_d327",
+    "id": "ukIPaie2viOWvln"
+  }
+}
