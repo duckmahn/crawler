@@ -1,0 +1,23 @@
+{
+  "id": "75npP3iOTOQdbRI",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/les-perles-celine/les-perles-celine-necklace-in-strass,-resin-pearls-and-brass-with-gold-finish-461jd6rps.01gi.html",
+  "order_no": "1742183922158.276000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/les-perles-celine/les-perles-celine-necklace-in-strass,-resin-pearls-and-brass-with-gold-finish-461JD6RPS.01GI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/les-perles-celine/les-perles-celine-necklace-in-strass,-resin-pearls-and-brass-with-gold-finish-461jd6rps.01gi.html",
+    "id": "75npP3iOTOQdbRI"
+  }
+}

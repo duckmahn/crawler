@@ -1,0 +1,23 @@
+{
+  "id": "U1YfrJ5zgFguYxk",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/cardigan-in-fine-wool-2af5a821x.38no.html",
+  "order_no": "1742183108622.455000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/cardigan-in-fine-wool-2AF5A821X.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/cardigan-in-fine-wool-2af5a821x.38no.html",
+    "id": "U1YfrJ5zgFguYxk"
+  }
+}

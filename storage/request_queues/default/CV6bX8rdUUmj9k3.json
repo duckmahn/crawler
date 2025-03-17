@@ -1,0 +1,23 @@
+{
+  "id": "CV6bX8rdUUmj9k3",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-bottom-in-monogram-matte-jersey-2z273939t.17br.html",
+  "order_no": "1742182995582.745000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-bottom-in-monogram-matte-jersey-2Z273939T.17BR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-bottom-in-monogram-matte-jersey-2z273939t.17br.html",
+    "id": "CV6bX8rdUUmj9k3"
+  }
+}

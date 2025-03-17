@@ -1,4 +1,269 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "4S321CPLB.19TR",
+      "name": "Square S321 sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.5 IN  LENS WIDTH 2.1 IN  NOSE BRIDGE LENGTH 0.8 IN Acetate Frame Square Frame Smoke Lenses Protects from UVA and UVB3 DOTS ON FRONT & TEMPLES, CELINE SIGNATURE ON TEMPLESReference : 4S321CPLB.19TR",
+      "description": "",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdbf44810/images/large/4S321CPLB.19TR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "RED HAVANA",
+          "size": null,
+          "price": "14608100",
+          "code": "4S321CPLB.19TR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdbf44810/images/large/4S321CPLB.19TR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TRANSPARENT TAUPE",
+          "size": null,
+          "price": "14608100",
+          "code": "4S321CPLB.10TT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw38572a59/images/large/4S321CPLB.10TT_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "14608100",
+          "code": "4S321CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf2804b09/images/large/4S321CPLB.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/square-s321-sunglasses-in-acetate-4S321CPLB.19TR.html"
+    },
+    {
+      "code": "4S316CPLB.38NO",
+      "name": "Triomphe 16 sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.3 IN  LENS WIDTH 2.4 IN  NOSE BRIDGE LENGTH 0.6 IN Acetate Frame Square Frame Smoke Lenses Protects from UVA and UVBGold Triomphe signature on templesReference : 4S316CPLB.38NO",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd992db6d/images/large/4S316CPLB.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "15731800",
+          "code": "4S316CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd992db6d/images/large/4S316CPLB.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "RED HAVANA",
+          "size": null,
+          "price": "15731800",
+          "code": "4S316CPLB.19TR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw02068af0/images/large/4S316CPLB.19TR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-16-sunglasses-in-acetate-4S316CPLB.38NO.html"
+    },
+    {
+      "code": "4S299CPLB.38NO",
+      "name": "Square S299 Sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.5 INLENS WIDTH 2.2 INNOSE BRIDGE LENGTH 0.7 INAcetate FrameSquare FrameGradient Smoke LensesProtects from UVA and UVBCeline Signature on templesReference : 4S299CPLB.38NO",
+      "description": "",
+      "price": "13858900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6b281425/images/large/4S299CPLB.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "13858900",
+          "code": "4S299CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6b281425/images/large/4S299CPLB.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PINK HAVANA",
+          "size": null,
+          "price": "13858900",
+          "code": "4S299CPLB.19PH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw01d019e3/images/large/4S299CPLB.19PH_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/square-s299-sunglasses-in-acetate-4S299CPLB.38NO.html"
+    },
+    {
+      "code": "4S253CPLB.38NO",
+      "name": "Triomphe 09 Sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.5 INLENS WIDTH 2.2 INNOSE BRIDGE LENGTH 0.7 INAcetate FrameCat Eye FrameGradient Brown LensesProtects from UVA and UVBTriomphe Signature on templesReference : 4S253CPLB.38NO",
+      "description": "Acetate nose pads on the International Fitting version.Adjustable metal nose pads on the Adjusted Fitting version.",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw32ced8ec/images/large/4S253CPLB.38NO_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "15731800",
+          "code": "4S253CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw32ced8ec/images/large/4S253CPLB.38NO_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "CLASSIC HAVANA",
+          "size": null,
+          "price": "15731800",
+          "code": "4S253CPLB.19HD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwee806742/images/large/4S253CPLB.19HD_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "MILKY BURGUNDY",
+          "size": null,
+          "price": "15731800",
+          "code": "4S253CPLB.28BP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw639ed930/images/large/4S253CPLB.28BP_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "NUDE",
+          "size": null,
+          "price": "15731800",
+          "code": "4S253CPLB.24NU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw13ca4052/images/large/4S253CPLB.24NU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "IVORY",
+          "size": null,
+          "price": "15731800",
+          "code": "4S253CPLB.01AV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0d93185a/images/large/4S253CPLB.01AV_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-09-sunglasses-in-acetate-4S253CPLB.38NO.html"
+    },
+    {
+      "code": "4S253CPLB.02CM",
+      "name": "Triomphe 09 sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.5 IN  LENS WIDTH 2.2 IN  NOSE BRIDGE LENGTH 0.7 IN Acetate Frame Cat Eye Frame Gradient Brown Lenses Protects from UVA and UVBGold Triomphe signature on templesReference : 4S253CPLB.02CM",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb14359c0/images/large/4S253CPLB.02CM_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CAMEL",
+          "size": null,
+          "price": "15731800",
+          "code": "4S253CPLB.02CM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb14359c0/images/large/4S253CPLB.02CM_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-09-sunglasses-in-acetate-4S253CPLB.02CM.html"
+    },
+    {
+      "code": "4S216CPLB.38NO",
+      "name": "Triomphe 04 sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.3 INLENS WIDTH 2.2 INNOSE BRIDGE LENGTH 0.6 INAcetate FrameRectangular FrameGradient Brown LensesProtects from UVA and UVBTriomphe Signature on templesReference : 4S216CPLB.38NO",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw46303368/images/large/4S216CPLB.38NO_1_SUM22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "15731800",
+          "code": "4S216CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw46303368/images/large/4S216CPLB.38NO_1_SUM22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "DARK HAVANA",
+          "size": null,
+          "price": "15731800",
+          "code": "4S216CPLB.19DT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw38eb6bd2/images/large/4S216CPLB.19DT_1_SUM22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-04-sunglasses-in-acetate-4S216CPLB.38NO.html"
+    },
+    {
+      "code": "4S216CPLB.33OD",
+      "name": "Triomphe 04 Sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.3 INLENS WIDTH 2.2 INNOSE BRIDGE LENGTH 0.6 INAcetate FrameRectangular FrameBrown LensesProtects from UVA and UVBTriomphe Signature on templesReference : 4S216CPLB.33OD",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf0d40523/images/large/4S216CPLB.33OD_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK AUBERGINE",
+          "size": null,
+          "price": "15731800",
+          "code": "4S216CPLB.33OD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf0d40523/images/large/4S216CPLB.33OD_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "MILKY HAZELNUT",
+          "size": null,
+          "price": "15731800",
+          "code": "4S216CPLB.19MH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8b480f3e/images/large/4S216CPLB.19MH_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "IVORY",
+          "size": null,
+          "price": "15731800",
+          "code": "4S216CPLB.01AV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa3334674/images/large/4S216CPLB.01AV_1_WIN22_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-04-sunglasses-in-acetate-4S216CPLB.33OD.html"
+    },
+    {
+      "code": "4S304CPLB.38NO",
+      "name": "Triomphe 13 Sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.5 INLENS WIDTH 2.2 INNOSE BRIDGE LENGTH 0.9 INAcetate FrameSquare FrameSmoke LensesProtects from UVA and UVBTriomphe Signature on templesReference : 4S304CPLB.38NO",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw62660bf2/images/large/4S304CPLB.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "15731800",
+          "code": "4S304CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw62660bf2/images/large/4S304CPLB.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLONDE HAVANA",
+          "size": null,
+          "price": "15731800",
+          "code": "4S304CPLB.19BV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf4282554/images/large/4S304CPLB.19BV_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-13-sunglasses-in-acetate-4S304CPLB.38NO.html"
+    }
+  ]
 }

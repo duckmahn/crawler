@@ -1,0 +1,23 @@
+{
+  "id": "CsyCzzOOW7z5XHa",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/teen-celine-lola-in-shiny-calfskin-119533bf4.07ic.html",
+  "order_no": "1742182061484.606000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/teen-celine-lola-in-shiny-calfskin-119533BF4.07IC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/teen-celine-lola-in-shiny-calfskin-119533bf4.07ic.html",
+    "id": "CsyCzzOOW7z5XHa"
+  }
+}

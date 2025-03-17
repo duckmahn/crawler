@@ -1,0 +1,23 @@
+{
+  "id": "R0GrJZXw1LZQJib",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-besace-in-triomphe-canvas-and-calfskin-196702bzj.01bc.html",
+  "order_no": "1742182355985.187000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-besace-in-triomphe-canvas-and-calfskin-196702BZJ.01BC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-besace-in-triomphe-canvas-and-calfskin-196702bzj.01bc.html",
+    "id": "R0GrJZXw1LZQJib"
+  }
+}

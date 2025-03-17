@@ -1,0 +1,23 @@
+{
+  "id": "TqiktQtG9wxvXnq",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/top-handle-bags/true?start=60&sz=20",
+  "order_no": "1742182061490.874000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/top-handle-bags/true/?start=60&sz=20",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/top-handle-bags/true?start=60&sz=20",
+    "id": "TqiktQtG9wxvXnq"
+  }
+}

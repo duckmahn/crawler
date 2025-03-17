@@ -1,0 +1,23 @@
+{
+  "id": "1yTfg4BvVGRrrmr",
+  "unique_key": "https://www.celine.com/en-vn/triomphe-sleeevess-mariniere-sweater-in-wool-ry04w0101.60eb.html",
+  "order_no": "1742183108617.318000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/triomphe-sleeevess-mariniere-sweater-in-wool-RY04W0101.60EB.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/triomphe-sleeevess-mariniere-sweater-in-wool-ry04w0101.60eb.html",
+    "id": "1yTfg4BvVGRrrmr"
+  }
+}

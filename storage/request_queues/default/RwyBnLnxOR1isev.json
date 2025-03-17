@@ -1,0 +1,23 @@
+{
+  "id": "RwyBnLnxOR1isev",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/teen-triomphe-bag-in-shiny-calfskin-188423bf4.38no.html?kw=188423bf4.38no&searchcategory=productinsearch",
+  "order_no": "1742180995019.953000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/teen-triomphe-bag-in-shiny-calfskin-188423BF4.38NO.html?kw=188423BF4.38NO&searchcategory=productinsearch",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/teen-triomphe-bag-in-shiny-calfskin-188423bf4.38no.html?kw=188423bf4.38no&searchcategory=productinsearch",
+    "id": "RwyBnLnxOR1isev"
+  }
+}

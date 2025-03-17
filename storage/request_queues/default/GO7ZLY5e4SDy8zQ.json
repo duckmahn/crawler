@@ -1,0 +1,23 @@
+{
+  "id": "GO7ZLY5e4SDy8zQ",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/dylan-flared-jeans-with-signature-in-union-wash-denim-2n678930f.07uw.html",
+  "order_no": "1742183038243.852000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/dylan-flared-jeans-with-signature-in-union-wash-denim-2N678930F.07UW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/dylan-flared-jeans-with-signature-in-union-wash-denim-2n678930f.07uw.html",
+    "id": "GO7ZLY5e4SDy8zQ"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "w7XV8xhJeFBRBhi",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/celine-monochroms-06-sunglasses-in-acetate-4s278cplb.38no.html",
+  "order_no": "1742181348991.438000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/celine-monochroms-06-sunglasses-in-acetate-4S278CPLB.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/celine-monochroms-06-sunglasses-in-acetate-4s278cplb.38no.html",
+    "id": "w7XV8xhJeFBRBhi"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "df1wVneCJ1T4lPr",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/draped-neck-blouse-with-rhinestones-in-lightweight-sable-2b769913s.01em.html",
+  "order_no": "1742182927248.021000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/draped-neck-blouse-with-rhinestones-in-lightweight-sable-2B769913S.01EM.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/draped-neck-blouse-with-rhinestones-in-lightweight-sable-2b769913s.01em.html",
+    "id": "df1wVneCJ1T4lPr"
+  }
+}

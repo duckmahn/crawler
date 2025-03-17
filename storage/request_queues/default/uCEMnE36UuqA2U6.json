@@ -1,0 +1,23 @@
+{
+  "id": "uCEMnE36UuqA2U6",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-cloche-beanie-in-cashmere-2a80t384d.38no.html",
+  "order_no": "1742183782877.117000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-cloche-beanie-in-cashmere-2A80T384D.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-cloche-beanie-in-cashmere-2a80t384d.38no.html",
+    "id": "uCEMnE36UuqA2U6"
+  }
+}

@@ -1,4 +1,399 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "10M912CQH.04LU",
+      "name": "MEDIUM WALLET CELINE VICTOIRE in Triomphe Canvas",
+      "details": "6 x 4 x 1 IN (14 x 11 x 2 CM)Triomphe CanvasCalfskin LiningGOLD FINISHINGTriomphe Metallic Snap Button ClosureSeven credit card slotsOne large note pocketOne zipped pocketTwo flat pocketsReference : 10M912CQH.04LU",
+      "description": "",
+      "price": "22848500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw069875b8/images/large/10M912CQH.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "22848500",
+          "code": "10M912CQH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw069875b8/images/large/10M912CQH.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/medium-wallet-celine-victoire-in-triomphe-canvas-10M912CQH.04LU.html"
+    },
+    {
+      "code": "10M962CQH.04LU",
+      "name": "FINE WALLET CELINE VICTOIRE in Triomphe Canvas",
+      "details": "4 x 3 x 1 IN (10.5 x 8 x 2 CM)Triomphe CanvasCalfskin LiningGOLD FINISHINGTriomphe Metallic Snap Button ClosureOne zipped coin pocketFOUR CREDIT CARD SLOTS THREE FLAT POCKETS ONE note pocketReference : 10M962CQH.04LU",
+      "description": "",
+      "price": "19102800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwca434633/images/large/10M962CQH.04LU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "19102800",
+          "code": "10M962CQH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwca434633/images/large/10M962CQH.04LU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/fine-wallet-celine-victoire-in-triomphe-canvas-10M962CQH.04LU.html"
+    },
+    {
+      "code": "10N062DB7.04LU",
+      "name": "BUSINESS CARD HOLDER TRIOMPHE in Triomphe Canvas AND Lambskin",
+      "details": "4.1 x 3.4 x 1.2 IN (10.5 x 8.5 x 3 CM)TRIOMPHE METALLIC SNAP BUTTON CLOSUREtwo gusset compartments One flat pocket Three credit card slotsReference : 10N062DB7.04LU",
+      "description": "",
+      "price": "16489800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dweab36e2a/images/large/10N062DB7.04LU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "16489800",
+          "code": "10N062DB7.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dweab36e2a/images/large/10N062DB7.04LU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/business-card-holder-triomphe-in-triomphe-canvas-and-lambskin-10N062DB7.04LU.html"
+    },
+    {
+      "code": "10L832CQH.04LU",
+      "name": "CARD HOLDER TRIOMPHE in Triomphe Canvas",
+      "details": "4 x 3 IN (11 x 8 CM)Triomphe CanvasCalfskin LiningGold FInishingDECORATIVE METALLIC TRIOMPHESIX CREDIT CARD SLOTSONE FLAT POCKETReference : 10L832CQH.04LU",
+      "description": "",
+      "price": "10862400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe5d475ae/images/large/10L832CQH.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "10862400",
+          "code": "10L832CQH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe5d475ae/images/large/10L832CQH.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/card-holder-triomphe-in-triomphe-canvas-10L832CQH.04LU.html"
+    },
+    {
+      "code": "10L832FR9.28LB",
+      "name": "CARD HOLDER TRIOMPHE in Triomphe Canvas Two-Tone",
+      "details": "4 x 3 IN (11 x 8 CM)Triomphe Canvascalfskin liningDECORATIVE METALLIC TRIOMPHESIX CREDIT CARD SLOTSONE FLAT POCKETReference : 10L832FR9.28LB",
+      "description": "",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw65e136f8/images/large/10L832FR9.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BURGUNDY",
+          "size": null,
+          "price": "11986100",
+          "code": "10L832FR9.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw65e136f8/images/large/10L832FR9.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/card-holder-triomphe-in-triomphe-canvas-two-tone-10L832FR9.28LB.html"
+    },
+    {
+      "code": "10J502FES.04LU",
+      "name": "SMALL POUCH WITH STRAP in TRIOMPHE CANVAS WITH CELINE PRINT",
+      "details": "10 x 7 x 0 IN (25 x 17.5 x 1 CM)TRIOMPHE CANVAS, TRIMMINGS IN CALFSKINTEXTILE LININGGOLD FINISHINGHand carryone main zipped compartmentremovable wrist strap with 8 in (20 CM) dropReference : 10J502FES.04LU",
+      "description": "",
+      "price": "21724800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4cf1f4bb/images/large/10J502FES.04LU_1_SUM23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "21724800",
+          "code": "10J502FES.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4cf1f4bb/images/large/10J502FES.04LU_1_SUM23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/small-pouch-with-strap-in-triomphe-canvas-with-celine-print-10J502FES.04LU.html"
+    },
+    {
+      "code": "10K672ECM.04LU",
+      "name": "LONG POUCH WITH STRAP in triomphe canvas and calfskin",
+      "details": "8 x 5 x 0 IN (21.5 x 11.5 x 1 CM)triomphe canvas, trimmings IN calfskintextile liningGOLD FINISHINGHand carryONE MAIN ZIPPED COMPARTMENTREMOVABLE WRIST STRAP WITH 8 IN (20 CM) DROPReference : 10K672ECM.04LU",
+      "description": "",
+      "price": "16855500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3a889b1a/images/large/10K672ECM.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "16855500",
+          "code": "10K672ECM.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3a889b1a/images/large/10K672ECM.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/long-pouch-with-strap-in-triomphe-canvas-and-calfskin-10K672ECM.04LU.html"
+    },
+    {
+      "code": "10M122DB7.04LU",
+      "name": "TRIOMPHE BUSINESS CARD HOLDER in Triomphe Canvas AND Lambskin",
+      "details": "3 x 4 x 2 IN (8.5 x 9 x 4 CM)Triomphe Canvas, trimmings in LambskinCalfskin liningGOLD FINISHINGDECORATIVE METALLIC TRIOMPHE AND SNAP BUTTON CLOSUREtwo gusset compartments One flat pocket Three credit card slotsReference : 10M122DB7.04LU",
+      "description": "",
+      "price": "16106300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwad353e74/images/large/10M122DB7.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "16106300",
+          "code": "10M122DB7.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwad353e74/images/large/10M122DB7.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/triomphe-business-card-holder-in-triomphe-canvas-and-lambskin-10M122DB7.04LU.html"
+    },
+    {
+      "code": "10B702CLY.04LU",
+      "name": "Card holder in Triomphe canvas with Celine Print",
+      "details": "4 x 3 IN (11 x 7 CM)Triomphe canvas, trimmings in lambskincalfskin liningGOLD FINISHINGTwo credit card slotsOne flat pocketReference : 10B702CLY.04LU",
+      "description": "",
+      "price": "7870200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb52e4128/images/large/10B702CLY.04LU_1_FALL20_701096v1.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Tan",
+          "size": null,
+          "price": "7870200",
+          "code": "10B702CLY.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb52e4128/images/large/10B702CLY.04LU_1_FALL20_701096v1.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/essentials/card-holder-in-triomphe-canvas-with-celine-print-10B702CLY.04LU.html"
+    },
+    {
+      "code": "10D782CQH.04LU",
+      "name": "Small Flap Wallet TRIOMPHE in Triomphe Canvas",
+      "details": "4 x 3 x 2 IN (10.5 x 8.5 x 4 CM)Triomphe CanvasCalfskin LiningGOLD FINISHINGTRIOMPHE METALLIC SNAP BUTTON CLOSUREOne folded coin pocket with snap buttonFive credit card slotsOne note pocketTwo flat pocketsReference : 10D782CQH.04LU",
+      "description": "",
+      "price": "19113200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe706f347/images/large/10D782CQH.04LU_1_FALL20_v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "19113200",
+          "code": "10D782CQH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe706f347/images/large/10D782CQH.04LU_1_FALL20_v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE/TAN",
+          "size": null,
+          "price": "19113200",
+          "code": "10D782CQH.01TA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb6f07807/images/large/10D782CQH.01TA_1_LIB_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/small-flap-wallet-triomphe-in-triomphe-canvas-10D782CQH.04LU.html"
+    },
+    {
+      "code": "10K622CQH.04LU",
+      "name": "TRIOMPHE COMPACT WALLET in Triomphe Canvas",
+      "details": "4 x 4 x 1 IN (11 x 9 x 3 CM)Triomphe CanvasCalfskin LiningGold FInishingDECORATIVE METALLIC TRIOMPHE AND SNAP BUTTON CLOSUREONE INNER ZIPPED COIN POCKETFIVE CREDIT CARD SLOTS ONE NOTE POCKETONE FLAT POCKETReference : 10K622CQH.04LU",
+      "description": "",
+      "price": "19113200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe1fc0e91/images/large/10K622CQH.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "19113200",
+          "code": "10K622CQH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe1fc0e91/images/large/10K622CQH.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/triomphe-compact-wallet-in-triomphe-canvas-10K622CQH.04LU.html"
+    },
+    {
+      "code": "10I652DS3.04LU",
+      "name": "COMPACT WALLET WITH COIN TRIOMPHE in triomphe canvas",
+      "details": "4 x 3 x 1 IN (10 x 7.5 x 3 CM)triomphe canvascalfskin liningGOLD FINISHINGTRIOMPHE METALLIC SNAP BUTTON CLOSUREFOUR CREDIT CARD SLOTSONE NOTE POCKETONE DETACHABLE ZIPPED CARD HOLDER WITH FLAT POCKET IN FRONTReference : 10I652DS3.04LU",
+      "description": "",
+      "price": "20237500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa54cee3b/images/large/10I652DS3.04LU_1_SP22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "20237500",
+          "code": "10I652DS3.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa54cee3b/images/large/10I652DS3.04LU_1_SP22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/compact-wallet-with-coin-triomphe-in-triomphe-canvas-10I652DS3.04LU.html"
+    },
+    {
+      "code": "10I582CPJ.04LU",
+      "name": "CARD HOLDER WITH FLAP TRIOMPHE in Triomphe Canvas",
+      "details": "4 x 3 x 1 IN (10 x 7.5 x 2 CM)triomphe canvasCalfskin LiningGOLD FINISHINGTRIOMPHE METALLIC SNAP BUTTON CLOSUREOne main compartmentTwo inner credit card slotsOne inner flat pocketOne outer flat pocketReference : 10I582CPJ.04LU",
+      "description": "",
+      "price": "14982600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw74755d43/images/large/10I582CPJ.04LU_1_SP22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "14982600",
+          "code": "10I582CPJ.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw74755d43/images/large/10I582CPJ.04LU_1_SP22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/card-holder-with-flap-triomphe-in-triomphe-canvas-10I582CPJ.04LU.html"
+    },
+    {
+      "code": "10D572BZ9.04LU",
+      "name": "Small Trifold wallet in Triomphe Canvas and Lambskin",
+      "details": "4 x 3 x 2 IN (10.5 x 8.5 x 4 CM)coated canvas, trimmings in lambskinCalfskin LiningGOLD FINISHINGflap closure with snap buttonsfive credit card slotsone large note pockettwo flat pocketsone folded coin purse with snap buttonReference : 10D572BZ9.04LU",
+      "description": "Small Trifold wallet in Triomphe Canvas and Lambskin with a snap button closure.",
+      "price": "16855500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwec7a94ea/images/large/10D572BZ9.04LU_1_WIN19_v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Tan",
+          "size": null,
+          "price": "16855500",
+          "code": "10D572BZ9.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwec7a94ea/images/large/10D572BZ9.04LU_1_WIN19_v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/small-trifold-wallet-in-triomphe-canvas-and-lambskin-10D572BZ9.04LU.html"
+    },
+    {
+      "code": "10M102CQH.04LU",
+      "name": "COMPACT WALLET TRIOMPHE CHARMS in Triomphe Canvas",
+      "details": "4 x 4 x 1 IN (9 x 10.5 x 2 CM)Triomphe CanvasCalfskin LiningGOLD FINISHINGsnap button and zipped closureONE FUNCTIONAL TRIOMPHE CHARM One large note pocket two flat pockets four credit card slots one zipped pocket with gussetReference : 10M102CQH.04LU",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw03821ceb/images/large/10M102CQH.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "17604600",
+          "code": "10M102CQH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw03821ceb/images/large/10M102CQH.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/compact-wallet-triomphe-charms-in-triomphe-canvas-10M102CQH.04LU.html"
+    },
+    {
+      "code": "10E242BZ9.04LU",
+      "name": "Business Card Holder in Triomphe Canvas and Lambskin",
+      "details": "4 x 3 x 1 IN (10.5 x 8 x 2 CM)coated canvas, trimmings in lambskinCalfskin LiningGOLD FINISHINGtwo gusset compartments One flat pocket Three credit card slotsReference : 10E242BZ9.04LU",
+      "description": "",
+      "price": "12367400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa50bcbc6/images/large/10E242BZ9.04LU_1_SPR20_464949_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Tan",
+          "size": null,
+          "price": "12367400",
+          "code": "10E242BZ9.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa50bcbc6/images/large/10E242BZ9.04LU_1_SPR20_464949_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/business-card-holder-in-triomphe-canvas-and-lambskin-10E242BZ9.04LU.html"
+    },
+    {
+      "code": "10K682DS3.04LU",
+      "name": "TRIOMPHE PHONE POUCH in triomphe canvas",
+      "details": "4 x 7 x 1 IN (10 x 19 x 3 CM)triomphe canvascalfskin liningGOLD FINISHINGCross-body and shoulder carryTRIOMPHE METALLIC SNAP BUTTON CLOSUREONE INNER CREDIT CARD SLOTONE OUTER FLAT POCKETADJUSTABLE STRAP WITH A MINIMUM DROP 20 IN (52 CM) AND MAXIMUM DROP 22 IN (55 CM)Reference : 10K682DS3.04LU",
+      "description": "",
+      "price": "28107600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw06cd343f/images/large/10K682DS3.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "28107600",
+          "code": "10K682DS3.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw06cd343f/images/large/10K682DS3.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/triomphe-phone-pouch-in-triomphe-canvas-10K682DS3.04LU.html"
+    },
+    {
+      "code": "10G332CQD.04LU",
+      "name": "PHONE POUCH WITH FLAP in Triomphe Canvas and Lambskin",
+      "details": "4 x 7 x 1 IN (10 x 18 x 2 CM)Triomphe Canvas, trimmings in LambskinCalfskin LiningGOLD FINISHINGCross-body and shoulder carryFLAP CLOSUREONE MAIN COMPARTMENTTWO CREDIT CARD SLOTSAdjustable leather strap with a minimum drop 13 in (34 cm) and a maximum drop 26 in (66 cm)adapted to a mobile phone with a maximum size of 6 x 3 IN (16.5 x 8 x 1 CM)Reference : 10G332CQD.04LU",
+      "description": "",
+      "price": "19862700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw85d5143f/images/large/10G332CQD.04LU_1_SPR22_V11.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Tan",
+          "size": null,
+          "price": "19862700",
+          "code": "10G332CQD.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw85d5143f/images/large/10G332CQD.04LU_1_SPR22_V11.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE/TAN",
+          "size": null,
+          "price": "19852000",
+          "code": "10G332CQD.01TA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw988b8fe5/images/large/10G332CQD.01TA_1_SPR22_V9.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/phone-pouch-with-flap-in-triomphe-canvas-and-lambskin-10G332CQD.04LU.html"
+    }
+  ]
 }

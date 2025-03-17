@@ -1,0 +1,23 @@
+{
+  "id": "vKHMa4DBYrTfIh6",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/fine-jewellery/maillon-triomphe",
+  "order_no": "1742180994941.968000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/fine-jewellery/maillon-triomphe/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/fine-jewellery/maillon-triomphe",
+    "id": "vKHMa4DBYrTfIh6"
+  }
+}

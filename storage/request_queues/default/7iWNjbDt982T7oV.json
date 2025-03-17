@@ -1,0 +1,23 @@
+{
+  "id": "7iWNjbDt982T7oV",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/triomphe-compact-wallet-in-triomphe-canvas-10k622cqh.04lu.html",
+  "order_no": "1742182595772.862000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/triomphe-compact-wallet-in-triomphe-canvas-10K622CQH.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/triomphe-compact-wallet-in-triomphe-canvas-10k622cqh.04lu.html",
+    "id": "7iWNjbDt982T7oV"
+  }
+}

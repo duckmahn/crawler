@@ -1,0 +1,23 @@
+{
+  "id": "3y38N84QuSJ6iTa",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-sweatshirt-in-cotton-fleece-and-cashmere-2y27g450i.07ow.html",
+  "order_no": "1742182967558.515000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-sweatshirt-in-cotton-fleece-and-cashmere-2Y27G450I.07OW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-sweatshirt-in-cotton-fleece-and-cashmere-2y27g450i.07ow.html",
+    "id": "3y38N84QuSJ6iTa"
+  }
+}

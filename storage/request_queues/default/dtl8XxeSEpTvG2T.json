@@ -1,0 +1,23 @@
+{
+  "id": "dtl8XxeSEpTvG2T",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-wool-2a91z495p.01fx.html",
+  "order_no": "1742183830979.473000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-wool-2A91Z495P.01FX.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-wool-2a91z495p.01fx.html",
+    "id": "dtl8XxeSEpTvG2T"
+  }
+}

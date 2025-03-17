@@ -1,0 +1,23 @@
+{
+  "id": "pgr5Z247g8EVKjU",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/jacket-in-suede-rv0mn050l.04ca.html",
+  "order_no": "1742182834689.410000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/jacket-in-suede-RV0MN050L.04CA.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/jacket-in-suede-rv0mn050l.04ca.html",
+    "id": "pgr5Z247g8EVKjU"
+  }
+}

@@ -1,4 +1,334 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "2AWB60ZV1.24BY",
+      "name": "bandana in heritage silk twill",
+      "details": "100% silk35.4 x 35.4 in (55 x 55 cm)hand-rolled hemmade in ItalyReference: 2AWB60ZV1.24BY",
+      "description": "bandana in heritage print silk twill",
+      "price": "8615000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwca0e1463/images/large/2AWB60ZV1.24BY_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BABY PINK",
+          "size": null,
+          "price": "8615000",
+          "code": "2AWB60ZV1.24BY",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwca0e1463/images/large/2AWB60ZV1.24BY_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "DENIM",
+          "size": null,
+          "price": "8615000",
+          "code": "2AWB60ZV1.07DD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0d016730/images/large/2AWB60ZV1.07DD_1_SUM23_W_V4.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-heritage-silk-twill-2AWB60ZV1.24BY.html"
+    },
+    {
+      "code": "2AWB6596P.02BG",
+      "name": "BANDANA IN HERITAGE SILK TWILL",
+      "details": "100% SILK21.7 in (55 cm) x 21.7 in (55 cm)hand-rolled hemmade in ItalyReference : 2AWB6596P.02BG",
+      "description": "BANDANA IN HERITAGE PRINT SILK TWILL",
+      "price": "8615000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7e878735/images/large/2AWB6596P.02BG_1_SUM23_W_V4.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BEIGE",
+          "size": null,
+          "price": "8615000",
+          "code": "2AWB6596P.02BG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7e878735/images/large/2AWB6596P.02BG_1_SUM23_W_V4.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-heritage-silk-twill-2AWB6596P.02BG.html"
+    },
+    {
+      "code": "2AWB60R61.27XR",
+      "name": "bandana in triomphe silk twill",
+      "details": "100% silk21.7 X 21.7 in (55 x 55 cm)hand-rolled hemmade in ItalyReference : 2AWB60R61.27XR",
+      "description": "bandana in triomphe print silk twill",
+      "price": "8615000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw274dbe06/images/large/2AWB60R61.27XR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BORDEAUX/CRAIE",
+          "size": null,
+          "price": "8615000",
+          "code": "2AWB60R61.27XR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw274dbe06/images/large/2AWB60R61.27XR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-triomphe-silk-twill-2AWB60R61.27XR.html"
+    },
+    {
+      "code": "2AWB60R61.01MZ",
+      "name": "bandana in mini triomphe silk twill",
+      "details": "100% silk35.4 x 35.4 in (55 x 55 cm)hand-rolled hemmade in ItalyReference: 2AWB60R61.01MZ",
+      "description": "bandana in mini triomphe print silk twill",
+      "price": "8615000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcab9e252/images/large/2AWB60R61.01MZ_1_SPR25_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "VANILLE/MARRON",
+          "size": null,
+          "price": "8615000",
+          "code": "2AWB60R61.01MZ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcab9e252/images/large/2AWB60R61.01MZ_1_SPR25_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "LIGHT BLUE",
+          "size": null,
+          "price": "8615000",
+          "code": "2AWB60R61.LGBL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe5b7b07d/images/large/2AWB60R61.LGBL_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-mini-triomphe-silk-twill-2AWB60R61.01MZ.html"
+    },
+    {
+      "code": "2AWB6878Z.07QC",
+      "name": "octagon bandana in silk twill",
+      "details": "100% silk35.4 X 35.5 in (55 x 55 cm)hand-rolled hemmade in ItalyReference : 2AWB6878Z.07QC",
+      "description": "bandana with octagon Triomphe print in silk twill",
+      "price": "8615000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe1e3e6b3/images/large/2AWB6878Z.07QC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "MARINE/CRAIE/BORDEAUX",
+          "size": null,
+          "price": "8615000",
+          "code": "2AWB6878Z.07QC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe1e3e6b3/images/large/2AWB6878Z.07QC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "VANILLE/NOISETTE/MARRON",
+          "size": null,
+          "price": "8615000",
+          "code": "2AWB6878Z.98VF",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw69941c95/images/large/2AWB6878Z.98VF_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/octagon-bandana-in-silk-twill-2AWB6878Z.07QC.html"
+    },
+    {
+      "code": "2AWB6166W.28BX",
+      "name": "bandana in silk twill",
+      "details": "100% silk21.7 X 21.7 in (55 x 55 cm)hand-rolled hemmade in ItalyReference : 2AWB6166W.28BX",
+      "description": "bandana with chain print in silk twill",
+      "price": "8615000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbbd280da/images/large/2AWB6166W.28BX_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BORDEAUX",
+          "size": null,
+          "price": "8615000",
+          "code": "2AWB6166W.28BX",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbbd280da/images/large/2AWB6166W.28BX_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-silk-twill-2AWB6166W.28BX.html"
+    },
+    {
+      "code": "2AWB6172Y.19LE",
+      "name": "bandana in triomphe leopard silk jacquard",
+      "details": "100% silkceline print21.7 X 21.7 in (55 x 55 cm)made in ItalyReference : 2AWB6172Y.19LE",
+      "description": "bandana with celine print in triomphe leopard silk jacquard",
+      "price": "10487900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc533cbbc/images/large/2AWB6172Y.19LE_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "10487900",
+          "code": "2AWB6172Y.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc533cbbc/images/large/2AWB6172Y.19LE_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-triomphe-leopard-silk-jacquard-2AWB6172Y.19LE.html"
+    },
+    {
+      "code": "2AW900R73.02CN",
+      "name": "scarf in triomphe chain silk twill",
+      "details": "100% silk35.4 x 35.4 in (90 x 90 cm)hand-rolled hemmade in ItalyReference: 2AW900R73.02CN",
+      "description": "scarf in triomphe chain print silk twill",
+      "price": "16480900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw70cb00d3/images/large/2AW900R73.02CN_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BEIGE/CAMEL/BLACK",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW900R73.02CN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw70cb00d3/images/large/2AW900R73.02CN_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "ROSEWOOD/PINK/IVORY",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW900R73.FZK1",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc103a456/images/large/2AW900R73.FZK1_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/scarf-in-triomphe-chain-silk-twill-2AW900R73.02CN.html"
+    },
+    {
+      "code": "2AW900185.GAD8",
+      "name": "square in crocodile silk twill",
+      "details": "100% silk35.4 X 35.4 in (90 x 90 cm)hand-rolled hemmade in ITALYReference: 2AW900185.GAD8",
+      "description": "",
+      "price": "16480900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5edb9d1c/images/large/2AW900185.GAD8_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PEARL GREY/CREAM/TAN",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW900185.GAD8",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5edb9d1c/images/large/2AW900185.GAD8_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-crocodile-silk-twill-2AW900185.GAD8.html"
+    },
+    {
+      "code": "2AW90093Z.09YE",
+      "name": "square in triomphe silk twill",
+      "details": "100% SILK35.4 x 35.4 in (90 x 90 cm)hand-rolled hemmade in ItalyReference : 2AW90093Z.09YE",
+      "description": "square in triomphe silk twill",
+      "price": "16480900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7ee06d26/images/large/2AW90093Z.09YE_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GREY BLUE/ CREAM",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW90093Z.09YE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7ee06d26/images/large/2AW90093Z.09YE_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Crème / Mordoré",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW90093Z.01DR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2d942b1b/images/large/2AW90093Z.01DR_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-triomphe-silk-twill-2AW90093Z.09YE.html"
+    },
+    {
+      "code": "2AW90949Z.02BR",
+      "name": "square in arc de triomphe silk twill",
+      "details": "100% silk35.4 X 35.4 in (90 x 90 cm)hand-rolled hemmade in italyReference : 2AW90949Z.02BR",
+      "description": "square in arc de triomphe print silk twill",
+      "price": "16480900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwec1697a5/images/large/2AW90949Z.02BR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BLUSH / BROWN",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW90949Z.02BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwec1697a5/images/large/2AW90949Z.02BR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BEIGE/NOIX",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW90949Z.02NI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfc06f420/images/large/2AW90949Z.02NI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-arc-de-triomphe-silk-twill-2AW90949Z.02BR.html"
+    },
+    {
+      "code": "2AW90950Z.18ZT",
+      "name": "square in coat of arms silk twill",
+      "details": "100% silk35.4 X 35.5 in (90 x 90 cm)hand-rolled hemmade in ItalyReference : 2AW90950Z.18ZT",
+      "description": "square in coat of arms print silk twill",
+      "price": "16480900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4af1eaec/images/large/2AW90950Z.18ZT_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAUPE/BRUN/OR",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW90950Z.18ZT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4af1eaec/images/large/2AW90950Z.18ZT_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-coat-of-arms-silk-twill-2AW90950Z.18ZT.html"
+    },
+    {
+      "code": "2AW90166W.07MR",
+      "name": "SQUARE IN CHAIN TASSELS SILK TWILL",
+      "details": "100% silk35.4 X 35.4 in (90 cm x 90 cm)Hand-rolled hemMade in ItalyReference : 2AW90166W.07MR",
+      "description": "Square in chain tassels print silk twill",
+      "price": "16480900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw411c2506/images/large/2AW90166W.07MR_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NAVY",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW90166W.07MR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw411c2506/images/large/2AW90166W.07MR_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BEIGE",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW90166W.02BG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwae2b5328/images/large/2AW90166W.02BG_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-chain-tassels-silk-twill-2AW90166W.07MR.html"
+    }
+  ]
 }

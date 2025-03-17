@@ -1,0 +1,23 @@
+{
+  "id": "GAg6UxLVt5oYrPi",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/clutch-on-chain-cuir-triomphe-in-smooth-calfskin-10e383dr8.38no.html",
+  "order_no": "1742182469762.769000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/clutch-on-chain-cuir-triomphe-in-smooth-calfskin-10E383DR8.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/clutch-on-chain-cuir-triomphe-in-smooth-calfskin-10e383dr8.38no.html",
+    "id": "GAg6UxLVt5oYrPi"
+  }
+}

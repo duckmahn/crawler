@@ -1,4 +1,239 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "115703FZO.38NO",
+      "name": "MEDIUM TILLY BAG in PATENT CALFSKIN",
+      "details": "9 x 5 x 2 IN (22 x 13.5 x 4 CM)CALFSKINLAMBSKIN LININGShoulder carryZipped closureOne main compartment One inner flat pocketADJUSTABLE STRAP with a minimum drop 8 IN (21,5 CM) and maximum drop 11 IN (28 CM)Reference : 115703FZO.38NO",
+      "description": "",
+      "price": "71167300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8ee7d2cc/images/large/115703FZO.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "71167300",
+          "code": "115703FZO.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8ee7d2cc/images/large/115703FZO.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-patent-calfskin-115703FZO.38NO.html"
+    },
+    {
+      "code": "115703BF4.01RC",
+      "name": "MEDIUM TILLY BAG IN shiny calfskin",
+      "details": "8.7 x 5.3 x 1.6 IN (22 x 13.5 x 4 CM)CalfskinLambskin LiningGOLD FINISHINGShoulder carryZipped closureOne main compartment One inner flat pocketADJUSTABLE STRAP with a minimum drop 8 IN (21,5 CM) and maximum drop 11 IN (28 CM)Reference : 115703BF4.01RC",
+      "description": "",
+      "price": "71167300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9489a57a/images/large/115703BF4.01RC_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "RICE",
+          "size": null,
+          "price": "71167300",
+          "code": "115703BF4.01RC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9489a57a/images/large/115703BF4.01RC_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "71167300",
+          "code": "115703BF4.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw199ff1a9/images/large/115703BF4.38NO_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-shiny-calfskin-115703BF4.01RC.html"
+    },
+    {
+      "code": "115703BF4.38SI",
+      "name": "MEDIUM TILLY BAG in shiny calfskin",
+      "details": "9 x 5 x 2 IN (22 x 13.5 x 4 CM)CalfskinLambskin LiningSILVER FINISHINGShoulder carryZipped closureOne main compartment One inner flat pocketADJUSTABLE STRAP with a minimum drop 8 IN (21,5 CM) and maximum drop 11 IN (28 CM)Reference : 115703BF4.38SI",
+      "description": "",
+      "price": "71167300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4f7f3824/images/large/115703BF4.38SI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "71167300",
+          "code": "115703BF4.38SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4f7f3824/images/large/115703BF4.38SI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "71167300",
+          "code": "115703BF4.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7e9d4a76/images/large/115703BF4.01BC_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "JADE",
+          "size": null,
+          "price": "71167300",
+          "code": "115703BF4.29JA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw723ded9d/images/large/115703BF4.29JA_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-shiny-calfskin-115703BF4.38SI.html"
+    },
+    {
+      "code": "115703GEM.07PL",
+      "name": "MEDIUM TILLY BAG in Shiny Calfskin",
+      "details": "9 x 5 x 2 IN (22 x 13.5 x 4 CM)CalfskinLambskin LiningShoulder carryZipped closureOne main compartment One inner flat pocketADJUSTABLE STRAP with a minimum drop 8 IN (21,5 CM) and maximum drop 11 IN (28 CM)Reference : 115703GEM.07PL",
+      "description": "",
+      "price": "71167300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw64c5c98d/images/large/115703GEM.07PL_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PEARL BLUE",
+          "size": null,
+          "price": "71167300",
+          "code": "115703GEM.07PL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw64c5c98d/images/large/115703GEM.07PL_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-shiny-calfskin-115703GEM.07PL.html"
+    },
+    {
+      "code": "115703GFQ.02LA",
+      "name": "MEDIUM TILLY BAG in SUEDE CALFSKIN WITH TRIOMPHE STRASS",
+      "details": "9 x 5 x 2 IN (22 x 13.5 x 4 CM)SUEDE CALFSKIN WITH STRASSLAMBSKIN LININGGOLD FINISHINGShoulder carryZipped closureOne main compartment One inner flat pocketADJUSTABLE STRAP with a minimum drop 8 IN (21,5 CM) and maximum drop 11 IN (28 CM)Reference : 115703GFQ.02LA",
+      "description": "",
+      "price": "108623800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef727e88/images/large/115703GFQ.02LA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT CAMEL",
+          "size": null,
+          "price": "108623800",
+          "code": "115703GFQ.02LA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef727e88/images/large/115703GFQ.02LA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-suede-calfskin-with-triomphe-strass-115703GFQ.02LA.html"
+    },
+    {
+      "code": "115702FUP.19LE",
+      "name": "MEDIUM TILLY BAG in CELINE LEOPARD CANVAS",
+      "details": "9 x 5 x 2 IN (22 x 13.5 x 4 CM)CELINE LEOPARD CANVAS, trimmings in calfskincalfskin liningGold FinishingShoulder carryZipped closureOne main compartment One inner flat pocketADJUSTABLE STRAP with a minimum drop 8 IN (21,5 CM) and maximum drop 11 IN (28 CM)Reference : 115702FUP.19LE",
+      "description": "",
+      "price": "67421700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw10acbf2d/images/large/115702FUP.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "67421700",
+          "code": "115702FUP.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw10acbf2d/images/large/115702FUP.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-celine-leopard-canvas-115702FUP.19LE.html"
+    },
+    {
+      "code": "115702CUZ.04LU",
+      "name": "MEDIUM TILLY BAG IN Triomphe canvas and calfskin",
+      "details": "9 x 5 x 2 IN (22 x 13.5 x 4 CM)Triomphe Canvas, trimmings in calfskinLambskin liningGOLD FINISHINGShoulder carryZipped closureOne main compartment One inner flat pocketADJUSTABLE STRAP with a minimum drop 8 IN (21,5 CM) and maximum drop 11 IN (28 CM)Reference : 115702CUZ.04LU",
+      "description": "",
+      "price": "63710400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8a71c575/images/large/115702CUZ.04LU_1_SS24_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "63710400",
+          "code": "115702CUZ.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8a71c575/images/large/115702CUZ.04LU_1_SS24_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-triomphe-canvas-and-calfskin-115702CUZ.04LU.html"
+    },
+    {
+      "code": "115702FYR.28LB",
+      "name": "MEDIUM TILLY BAG in TRIOMPHE CANVAS TWO-TONE",
+      "details": "9 x 5 x 2 IN (22 x 13.5 x 4 CM)Triomphe Canvaslambskin liningShoulder carryZipped closureOne main compartment One inner flat pocketADJUSTABLE STRAP with a minimum drop 8 IN (21,5 CM) and maximum drop 11 IN (28 CM)Reference : 115702FYR.28LB",
+      "description": "",
+      "price": "63676000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1f70506e/images/large/115702FYR.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BURGUNDY",
+          "size": null,
+          "price": "63676000",
+          "code": "115702FYR.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1f70506e/images/large/115702FYR.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-triomphe-canvas-two-tone-115702FYR.28LB.html"
+    },
+    {
+      "code": "115702FZN.07DD",
+      "name": "MEDIUM TILLY BAG in DENIM WITH TRIOMPHE STUDS AND CALFSKIN",
+      "details": "9 x 5 x 2 IN (22 x 13.5 x 4 CM)TEXTILE, TRIMMINGS IN CALFSKINLAMBSKIN LININGShoulder carryZipped closureOne main compartment One inner flat pocketADJUSTABLE STRAP with a minimum drop 8 IN (21,5 CM) and maximum drop 11 IN (28 CM)Reference : 115702FZN.07DD",
+      "description": "",
+      "price": "74913000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd28503ee/images/large/115702FZN.07DD_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DENIM",
+          "size": null,
+          "price": "74913000",
+          "code": "115702FZN.07DD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd28503ee/images/large/115702FZN.07DD_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-denim-with-triomphe-studs-and-calfskin-115702FZN.07DD.html"
+    },
+    {
+      "code": "115702FO6.11BY",
+      "name": "MEDIUM TILLY BAG in TRIOMPHE CANVAS AND CALFSKIN",
+      "details": "9 x 5 x 2 IN (22 x 13.5 x 4 CM)TRIOMPHE CANVAS, trimmings in calfskinlambskin liningGold FinishingShoulder carryZipped closureOne main compartment One inner flat pocketADJUSTABLE STRAP with a minimum drop 8 IN (21,5 CM) and maximum drop 11 IN (28 CM)Reference : 115702FO6.11BY",
+      "description": "",
+      "price": "63676000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw91a0dd85/images/large/115702FO6.11BY_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BRIGHT YELLOW",
+          "size": null,
+          "price": "63676000",
+          "code": "115702FO6.11BY",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw91a0dd85/images/large/115702FO6.11BY_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-triomphe-canvas-and-calfskin-115702FO6.11BY.html"
+    }
+  ]
 }

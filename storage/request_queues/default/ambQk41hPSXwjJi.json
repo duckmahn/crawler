@@ -1,0 +1,23 @@
+{
+  "id": "ambQk41hPSXwjJi",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/card-holder-with-flap-triomphe-in-triomphe-canvas-10i582cpj.04lu.html",
+  "order_no": "1742182595773.702000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/card-holder-with-flap-triomphe-in-triomphe-canvas-10I582CPJ.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/card-holder-with-flap-triomphe-in-triomphe-canvas-10i582cpj.04lu.html",
+    "id": "ambQk41hPSXwjJi"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4XqniDen622ifbR",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-fair-isle-wool-and-cashmere-2adlr888z.01ma.html",
+  "order_no": "1742183108622.047000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-fair-isle-wool-and-cashmere-2ADLR888Z.01MA.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-fair-isle-wool-and-cashmere-2adlr888z.01ma.html",
+    "id": "4XqniDen622ifbR"
+  }
+}

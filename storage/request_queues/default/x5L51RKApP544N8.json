@@ -1,0 +1,23 @@
+{
+  "id": "x5L51RKApP544N8",
+  "unique_key": "https://www.celine.com/en-vn/the-perfect-gift/les-perles-celine-necklace-in-resin-pearl-and-brass-with-gold-finish-461gz6prb.01gi.html",
+  "order_no": "1742183922157.453000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/the-perfect-gift/les-perles-celine-necklace-in-resin-pearl-and-brass-with-gold-finish-461GZ6PRB.01GI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/the-perfect-gift/les-perles-celine-necklace-in-resin-pearl-and-brass-with-gold-finish-461gz6prb.01gi.html",
+    "id": "x5L51RKApP544N8"
+  }
+}

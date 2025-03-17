@@ -1,0 +1,23 @@
+{
+  "id": "FPmgQOlYlQzzP8X",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/verneuil-jacket-in-linen-and-cotton-lace-rv02o1095.97iv.html",
+  "order_no": "1742182834691.800000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/verneuil-jacket-in-linen-and-cotton-lace-RV02O1095.97IV.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/verneuil-jacket-in-linen-and-cotton-lace-rv02o1095.97iv.html",
+    "id": "FPmgQOlYlQzzP8X"
+  }
+}

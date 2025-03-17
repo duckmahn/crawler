@@ -1,0 +1,23 @@
+{
+  "id": "oktdovO6IwSCQJ0",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/lola-clutch-in-shiny-calfskin-115663efe.38no.html",
+  "order_no": "1742182196427.735000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/lola-clutch-in-shiny-calfskin-115663EFE.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/lola-clutch-in-shiny-calfskin-115663efe.38no.html",
+    "id": "oktdovO6IwSCQJ0"
+  }
+}

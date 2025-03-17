@@ -1,0 +1,23 @@
+{
+  "id": "HQSv8K7MGDWF50l",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-denim-union-wash-2aut6930f.07du.html",
+  "order_no": "1742183747604.888000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-denim-union-wash-2AUT6930F.07DU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-denim-union-wash-2aut6930f.07du.html",
+    "id": "HQSv8K7MGDWF50l"
+  }
+}

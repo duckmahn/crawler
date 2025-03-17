@@ -1,0 +1,23 @@
+{
+  "id": "0vl5LAQEoersY7K",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/mia-shirt-in-silk-crepe-and-acetate-rc02d008d.01av.html",
+  "order_no": "1742180995025.315000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/mia-shirt-in-silk-crepe-and-acetate-RC02D008D.01AV.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/mia-shirt-in-silk-crepe-and-acetate-rc02d008d.01av.html",
+    "id": "0vl5LAQEoersY7K"
+  }
+}

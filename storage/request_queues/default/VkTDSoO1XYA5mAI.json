@@ -1,0 +1,23 @@
+{
+  "id": "VkTDSoO1XYA5mAI",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/les-ballerines-celine-babies-in-patent-calfskin-354684582c.38no.html",
+  "order_no": "1742183426052.690000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/les-ballerines-celine-babies-in-patent-calfskin-354684582C.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/les-ballerines-celine-babies-in-patent-calfskin-354684582c.38no.html",
+    "id": "VkTDSoO1XYA5mAI"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "myYBm9d8MhSkvbW",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-monogram-lurex-2adox918z.36si.html",
+  "order_no": "1742183830976.537000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-monogram-lurex-2ADOX918Z.36SI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-monogram-lurex-2adox918z.36si.html",
+    "id": "myYBm9d8MhSkvbW"
+  }
+}

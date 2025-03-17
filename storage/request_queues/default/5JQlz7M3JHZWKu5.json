@@ -1,0 +1,23 @@
+{
+  "id": "5JQlz7M3JHZWKu5",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/teen-triomphe-bag-in-lizard-188424bf5.38si.html",
+  "order_no": "1742181572634.438000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/teen-triomphe-bag-in-lizard-188424BF5.38SI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/teen-triomphe-bag-in-lizard-188424bf5.38si.html",
+    "id": "5JQlz7M3JHZWKu5"
+  }
+}

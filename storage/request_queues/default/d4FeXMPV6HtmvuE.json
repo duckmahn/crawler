@@ -1,0 +1,23 @@
+{
+  "id": "d4FeXMPV6HtmvuE",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-14-sunglasses-in-acetate-4s292cplb.38no.html",
+  "order_no": "1742181163375.322000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-14-sunglasses-in-acetate-4S292CPLB.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-14-sunglasses-in-acetate-4s292cplb.38no.html",
+    "id": "d4FeXMPV6HtmvuE"
+  }
+}

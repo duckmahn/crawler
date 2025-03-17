@@ -1,0 +1,23 @@
+{
+  "id": "8WBnx4YufZtcewm",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-suede-calfskin-with-triomphe-strass-115703gfq.02la.html",
+  "order_no": "1742181821440.690000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-suede-calfskin-with-triomphe-strass-115703GFQ.02LA.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-suede-calfskin-with-triomphe-strass-115703gfq.02la.html",
+    "id": "8WBnx4YufZtcewm"
+  }
+}

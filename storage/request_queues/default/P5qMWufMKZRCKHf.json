@@ -1,0 +1,23 @@
+{
+  "id": "P5qMWufMKZRCKHf",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/cropped-shirt-in-striped-cotton-rc00r720t.07dg.html",
+  "order_no": "1742182927251.923000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/cropped-shirt-in-striped-cotton-RC00R720T.07DG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/cropped-shirt-in-striped-cotton-rc00r720t.07dg.html",
+    "id": "P5qMWufMKZRCKHf"
+  }
+}

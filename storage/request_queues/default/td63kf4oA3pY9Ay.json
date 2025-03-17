@@ -1,0 +1,23 @@
+{
+  "id": "td63kf4oA3pY9Ay",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/sleeveless-turtleneck-sweater-in-fine-wool-2adrh862z.01ow.html",
+  "order_no": "1742181050650.989000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/sleeveless-turtleneck-sweater-in-fine-wool-2ADRH862Z.01OW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/sleeveless-turtleneck-sweater-in-fine-wool-2adrh862z.01ow.html",
+    "id": "td63kf4oA3pY9Ay"
+  }
+}

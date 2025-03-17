@@ -1,0 +1,23 @@
+{
+  "id": "FoW2n63Epmfd825",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-cotton-2a25w961m.11py.html",
+  "order_no": "1742183830978.260000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-cotton-2A25W961M.11PY.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-cotton-2a25w961m.11py.html",
+    "id": "FoW2n63Epmfd825"
+  }
+}

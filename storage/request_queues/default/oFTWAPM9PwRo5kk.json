@@ -1,0 +1,23 @@
+{
+  "id": "oFTWAPM9PwRo5kk",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/small-pouch-with-strap-in-triomphe-canvas-with-celine-print-10j502fes.04lu.html",
+  "order_no": "1742182595770.318000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/small-pouch-with-strap-in-triomphe-canvas-with-celine-print-10J502FES.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/small-pouch-with-strap-in-triomphe-canvas-with-celine-print-10j502fes.04lu.html",
+    "id": "oFTWAPM9PwRo5kk"
+  }
+}

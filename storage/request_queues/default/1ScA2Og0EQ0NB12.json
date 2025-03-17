@@ -1,0 +1,23 @@
+{
+  "id": "1ScA2Og0EQ0NB12",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sneakers/celine-block-wedge-mule-in-calfskin-and-textile-with-celine-jacquard-363655147c.01ok.html",
+  "order_no": "1742183239993.074000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/sneakers/celine-block-wedge-mule-in-calfskin-and-textile-with-celine-jacquard-363655147C.01OK.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sneakers/celine-block-wedge-mule-in-calfskin-and-textile-with-celine-jacquard-363655147c.01ok.html",
+    "id": "1ScA2Og0EQ0NB12"
+  }
+}

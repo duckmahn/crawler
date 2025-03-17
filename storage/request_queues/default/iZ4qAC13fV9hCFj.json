@@ -1,0 +1,23 @@
+{
+  "id": "iZ4qAC13fV9hCFj",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/card-holder-cuir-triomphe-in-shiny-calfskin-10b703emh.38no.html",
+  "order_no": "1742182624433.707000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/card-holder-cuir-triomphe-in-shiny-calfskin-10B703EMH.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/card-holder-cuir-triomphe-in-shiny-calfskin-10b703emh.38no.html",
+    "id": "iZ4qAC13fV9hCFj"
+  }
+}

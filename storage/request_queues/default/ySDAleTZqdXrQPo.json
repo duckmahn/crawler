@@ -1,0 +1,23 @@
+{
+  "id": "ySDAleTZqdXrQPo",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/tunic-mini-dress-in-wool-cloth-2r59f811r.09gm.html",
+  "order_no": "1742182894232.735000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/tunic-mini-dress-in-wool-cloth-2R59F811R.09GM.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/tunic-mini-dress-in-wool-cloth-2r59f811r.09gm.html",
+    "id": "ySDAleTZqdXrQPo"
+  }
+}

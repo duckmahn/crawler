@@ -1,0 +1,23 @@
+{
+  "id": "nCVsJhSN0TyW91h",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-triomphe-belt-in-patent-taurillon-45ak93ap2.38no.html",
+  "order_no": "1742183569655.376000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-triomphe-belt-in-patent-taurillon-45AK93AP2.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-triomphe-belt-in-patent-taurillon-45ak93ap2.38no.html",
+    "id": "nCVsJhSN0TyW91h"
+  }
+}

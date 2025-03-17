@@ -1,0 +1,23 @@
+{
+  "id": "EhWvP8K4DS4LdCd",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-striped-cashmere-and-wool-ry03m0u63.fyx4.html",
+  "order_no": "1742183108620.220000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-striped-cashmere-and-wool-RY03M0U63.FYX4.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-striped-cashmere-and-wool-ry03m0u63.fyx4.html",
+    "id": "EhWvP8K4DS4LdCd"
+  }
+}

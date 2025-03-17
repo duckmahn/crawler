@@ -1,0 +1,23 @@
+{
+  "id": "JLeF4NAC7ogd43G",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/categories/coin-and-card-holders/true",
+  "order_no": "1742182768850.867000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/categories/coin-and-card-holders/true/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/categories/coin-and-card-holders/true",
+    "id": "JLeF4NAC7ogd43G"
+  }
+}

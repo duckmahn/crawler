@@ -1,0 +1,23 @@
+{
+  "id": "o5xgH2Jd0rFpVn0",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-double-houndstooth-wool-2v77r064v.28bz.html",
+  "order_no": "1742183141216.356000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-double-houndstooth-wool-2V77R064V.28BZ.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-double-houndstooth-wool-2v77r064v.28bz.html",
+    "id": "o5xgH2Jd0rFpVn0"
+  }
+}

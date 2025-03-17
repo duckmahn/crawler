@@ -1,0 +1,24 @@
+{
+  "id": "oWPwKjvszErYf4d",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines",
+  "order_no": null,
+  "handled_at": "2025-03-17 03:34:29.788509+00:00",
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/",
+    "handled_at": "2025-03-17 03:34:29.788509+00:00",
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines",
+    "id": "oWPwKjvszErYf4d"
+  }
+}

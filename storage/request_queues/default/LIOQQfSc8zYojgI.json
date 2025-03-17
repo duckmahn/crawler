@@ -1,0 +1,23 @@
+{
+  "id": "LIOQQfSc8zYojgI",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/medium-cabas-anais-cuir-triomphe-in-suede-calfskin-and-shearling-116853ga9.02vg.html",
+  "order_no": "1742181796466.610000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/medium-cabas-anais-cuir-triomphe-in-suede-calfskin-and-shearling-116853GA9.02VG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/medium-cabas-anais-cuir-triomphe-in-suede-calfskin-and-shearling-116853ga9.02vg.html",
+    "id": "LIOQQfSc8zYojgI"
+  }
+}

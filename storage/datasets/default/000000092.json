@@ -1,4 +1,302 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "2ADQN883Z.09GG",
+      "name": "triomphe socks in wool and cashmere",
+      "details": "38% wool 28% viscose 24% polyamide 8% cashmere 2% elastaneTriomphe embroiderymade in ItalyReference : 2ADQN883Z.09GG",
+      "description": "high-rise socks with triomphe embroidery in ribbed cashmere and wool",
+      "price": "13671700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwee336dab/images/large/2ADQN883Z.09GG_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GREY",
+          "size": null,
+          "price": "13671700",
+          "code": "2ADQN883Z.09GG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwee336dab/images/large/2ADQN883Z.09GG_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BEIGE",
+          "size": null,
+          "price": "13671700",
+          "code": "2ADQN883Z.02BG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw62bb5014/images/large/2ADQN883Z.02BG_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-wool-and-cashmere-2ADQN883Z.09GG.html"
+    },
+    {
+      "code": "AA02X0E52.38NO",
+      "name": "triomphe socks in ribbed silk",
+      "details": "triomphe embroideryReference: AA02X0E52.38NO",
+      "description": "",
+      "price": "5431200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw685c238a/images/large/AA02X0E52.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "5431200",
+          "code": "AA02X0E52.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw685c238a/images/large/AA02X0E52.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "5431200",
+          "code": "AA02X0E52.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3d6db1d8/images/large/AA02X0E52.01OW_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-ribbed-silk-AA02X0E52.38NO.html"
+    },
+    {
+      "code": "2ADOX918Z.36SI",
+      "name": "socks in monogram lurex",
+      "details": "57% polyamide 43% metallic fibermonogram embroiderymade in ItalyReference : 2ADOX918Z.36SI",
+      "description": "mid-rise socks in monogram lurex",
+      "price": "5431200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd4e79170/images/large/2ADOX918Z.36SI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SILVER",
+          "size": null,
+          "price": "5431200",
+          "code": "2ADOX918Z.36SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd4e79170/images/large/2ADOX918Z.36SI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-monogram-lurex-2ADOX918Z.36SI.html"
+    },
+    {
+      "code": "2ADRY0I78.01MA",
+      "name": "socks in fair isle wool",
+      "details": "100% wooltriomphe fair isle jacquardtriomphe embroiderymade in ItalyReference : 2ADRY0I78.01MA",
+      "description": "high-rise socks in triomphe fair isle wool",
+      "price": "11611600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8442c954/images/large/2ADRY0I78.01MA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY",
+          "size": null,
+          "price": "11611600",
+          "code": "2ADRY0I78.01MA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8442c954/images/large/2ADRY0I78.01MA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-fair-isle-wool-2ADRY0I78.01MA.html"
+    },
+    {
+      "code": "2A41O961M.38NO",
+      "name": "CELINE SOCKS IN COTTON",
+      "details": "85% COTON 14% POLYAMIDE 1% ELASTHANNECELINE EMBROIDERYMADE IN ITALYReference : 2A41O961M.38NO",
+      "description": "MID-RISE SOCKS WITH CELINE EMBROIDERY IN COTTON",
+      "price": "4307500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdb3ce15c/images/large/2A41O961M.38NO_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "4307500",
+          "code": "2A41O961M.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdb3ce15c/images/large/2A41O961M.38NO_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/celine-socks-in-cotton-2A41O961M.38NO.html"
+    },
+    {
+      "code": "2A41O961M.01OW",
+      "name": "CELINE SOCKS COTTON",
+      "details": "85% COTTON 14% NYLON 1% ELASTANECELINE EMBROIDERYMADE IN ITALYReference : 2A41O961M.01OW",
+      "description": "MID-RISE SOCKS WITH CELINE EMBROIDERY IN COTTON",
+      "price": "4307500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0a4f6108/images/large/2A41O961M.01OW_1_SUM21_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "4307500",
+          "code": "2A41O961M.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0a4f6108/images/large/2A41O961M.01OW_1_SUM21_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/celine-socks-cotton-2A41O961M.01OW.html"
+    },
+    {
+      "code": "2A25W961M.11PY",
+      "name": "TRIOMPHE SOCKS IN COTTON",
+      "details": "85% COTTON 14% NYLON 1% ELASTANETRIOMPHE EMBROIDERYmade in ItalyReference : 2A25W961M.11PY",
+      "description": "MID-RISE SOCKS WITH TRIOMPHE EMBROIDERY IN COTTON",
+      "price": "4307500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3426243b/images/large/2A25W961M.11PY_1_SPR23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PALE YELLOW",
+          "size": null,
+          "price": "4307500",
+          "code": "2A25W961M.11PY",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3426243b/images/large/2A25W961M.11PY_1_SPR23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-cotton-2A25W961M.11PY.html"
+    },
+    {
+      "code": "2A24W961M.24LP",
+      "name": "triomphe socks in cotton",
+      "details": "85% COTTON 14% POLYAMIDE 1% ELASTANEtriomphe embroiderymade in ItalyReference : 2A24W961M.24LP",
+      "description": "short socks with triomphe embroidery in cotton",
+      "price": "4307500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe4fbaa0c/images/large/2A24W961M.24LP_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT PINK",
+          "size": null,
+          "price": "4307500",
+          "code": "2A24W961M.24LP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe4fbaa0c/images/large/2A24W961M.24LP_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-cotton-2A24W961M.24LP.html"
+    },
+    {
+      "code": "2AT6A814X.00GT",
+      "name": "triomphe socks in ribbed cotton",
+      "details": "83% cotton 16% polyamide 1% elastanetriomphe embroiderymade in ItalyReference : 2AT6A814X.00GT",
+      "description": "mid-rise socks with triomphe embroidery in ribbed cotton",
+      "price": "4682100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5ae70224/images/large/2AT6A814X.00GT_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ECRU/ECRU",
+          "size": null,
+          "price": "4682100",
+          "code": "2AT6A814X.00GT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5ae70224/images/large/2AT6A814X.00GT_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-ribbed-cotton-2AT6A814X.00GT.html"
+    },
+    {
+      "code": "2A91Z495P.01FX",
+      "name": "TRIOMPHE SOCKS IN WOOL",
+      "details": "100% WOOLTRIOMPHE EMBROIDERYmade in ItalyReference : 2A91Z495P.01FX",
+      "description": "SHORT SOCKS WITH TRIOMPHE EMBROIDERY IN WOOL",
+      "price": "5056700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe84b1cba/images/large/2A91Z495P.01FX_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WHITE/WHITE",
+          "size": null,
+          "price": "5056700",
+          "code": "2A91Z495P.01FX",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe84b1cba/images/large/2A91Z495P.01FX_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-wool-2A91Z495P.01FX.html"
+    },
+    {
+      "code": "2AE80082U.01OB",
+      "name": "socks in monogram nylon",
+      "details": "85% polyamide 15% polypropyleneall-over triomphe embroiderymade in ItalyReference : 2AE80082U.01OB",
+      "description": "mid-rise socks in transparent monogram nylon",
+      "price": "5056700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw31bf6669/images/large/2AE80082U.01OB_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / BLACK",
+          "size": null,
+          "price": "5056700",
+          "code": "2AE80082U.01OB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw31bf6669/images/large/2AE80082U.01OB_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-monogram-nylon-2AE80082U.01OB.html"
+    },
+    {
+      "code": "2ADM9851V.38NO",
+      "name": "socks in cotton pointelle",
+      "details": "80% cotton 20% polyamidetriomphe motifmade in ItalyReference : 2ADM9851V.38NO",
+      "description": "mid-rise socks in triomphe cotton pointelle",
+      "price": "5431200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbfceaf47/images/large/2ADM9851V.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "5431200",
+          "code": "2ADM9851V.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbfceaf47/images/large/2ADM9851V.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "5431200",
+          "code": "2ADM9851V.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw52ce6ff8/images/large/2ADM9851V.01OW_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-cotton-pointelle-2ADM9851V.38NO.html"
+    },
+    {
+      "code": "2AD1B804V.38NN",
+      "name": "tights in monogram nylon",
+      "details": "92% polyamide 8% elastaneelastic waistbandmade in ItalyReference : 2AD1B804V.38NN",
+      "description": "tights in transparent monogram nylon",
+      "price": "8615000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw35a2d8df/images/large/2AD1B804V.38NN_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / BLACK",
+          "size": null,
+          "price": "8615000",
+          "code": "2AD1B804V.38NN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw35a2d8df/images/large/2AD1B804V.38NN_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/tights-in-monogram-nylon-2AD1B804V.38NN.html"
+    }
+  ]
 }

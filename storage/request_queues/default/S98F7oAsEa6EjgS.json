@@ -1,0 +1,23 @@
+{
+  "id": "S98F7oAsEa6EjgS",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-men/ready-to-wear/pants-and-shorts",
+  "order_no": "1742180994956.931000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-men/ready-to-wear/pants-and-shorts/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-men/ready-to-wear/pants-and-shorts",
+    "id": "S98F7oAsEa6EjgS"
+  }
+}

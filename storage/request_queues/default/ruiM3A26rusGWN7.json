@@ -1,0 +1,23 @@
+{
+  "id": "ruiM3A26rusGWN7",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/long-western-jacket-in-suede-2ef73494l.18tb.html",
+  "order_no": "1742183196101.661000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/long-western-jacket-in-suede-2EF73494L.18TB.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/long-western-jacket-in-suede-2ef73494l.18tb.html",
+    "id": "ruiM3A26rusGWN7"
+  }
+}

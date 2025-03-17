@@ -1,0 +1,23 @@
+{
+  "id": "uYx0KMjmx0eabYF",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/trapeze-mini-dress-in-double-faced-wool-tricotine-2r94n383z.38no.html",
+  "order_no": "1742182894231.013000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/trapeze-mini-dress-in-double-faced-wool-tricotine-2R94N383Z.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/trapeze-mini-dress-in-double-faced-wool-tricotine-2r94n383z.38no.html",
+    "id": "uYx0KMjmx0eabYF"
+  }
+}

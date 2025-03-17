@@ -1,0 +1,23 @@
+{
+  "id": "k6btHe80vR1QrsQ",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-13-sunglasses-in-acetate-4s304cplb.19bv.html",
+  "order_no": "1742181095409.366000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-13-sunglasses-in-acetate-4S304CPLB.19BV.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-13-sunglasses-in-acetate-4s304cplb.19bv.html",
+    "id": "k6btHe80vR1QrsQ"
+  }
+}

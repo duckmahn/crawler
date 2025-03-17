@@ -1,0 +1,23 @@
+{
+  "id": "tIzmI6UR8wyV3k7",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/denim/marco-jeans-in-steel-blue-wash-denim-2n06b930f.07sv.html",
+  "order_no": "1742183038240.872000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/denim/marco-jeans-in-steel-blue-wash-denim-2N06B930F.07SV.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/denim/marco-jeans-in-steel-blue-wash-denim-2n06b930f.07sv.html",
+    "id": "tIzmI6UR8wyV3k7"
+  }
+}

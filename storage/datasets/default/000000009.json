@@ -1,4 +1,224 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "4S321CPLB.19TR",
+      "name": "Square S321 sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.5 IN  LENS WIDTH 2.1 IN  NOSE BRIDGE LENGTH 0.8 IN Acetate Frame Square Frame Smoke Lenses Protects from UVA and UVB3 DOTS ON FRONT & TEMPLES, CELINE SIGNATURE ON TEMPLESReference : 4S321CPLB.19TR",
+      "description": "",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdbf44810/images/large/4S321CPLB.19TR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "RED HAVANA",
+          "size": null,
+          "price": "14608100",
+          "code": "4S321CPLB.19TR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdbf44810/images/large/4S321CPLB.19TR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "14608100",
+          "code": "4S321CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf2804b09/images/large/4S321CPLB.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TRANSPARENT TAUPE",
+          "size": null,
+          "price": "14608100",
+          "code": "4S321CPLB.10TT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw38572a59/images/large/4S321CPLB.10TT_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/square-s321-sunglasses-in-acetate-4S321CPLB.19TR.html"
+    },
+    {
+      "code": "4S310CPLB.38NO",
+      "name": "Cat Eye S310 sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.7 IN  LENS WIDTH 2.1 IN  NOSE BRIDGE LENGTH 0.7 IN Acetate Frame Cat Eye Frame Smoke Lenses Protects from UVA and UVB3 DOTS AND CELINE SIGNATURE ON TEMPLESReference : 4S310CPLB.38NO",
+      "description": "",
+      "price": "13866400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw59e8231e/images/large/4S310CPLB.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "13866400",
+          "code": "4S310CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw59e8231e/images/large/4S310CPLB.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "RED HAVANA",
+          "size": null,
+          "price": "13858900",
+          "code": "4S310CPLB.19TR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4c8cd484/images/large/4S310CPLB.19TR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/cat-eye-s310-sunglasses-in-acetate-4S310CPLB.38NO.html"
+    },
+    {
+      "code": "4S299CPLB.38NO",
+      "name": "Square S299 Sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.5 INLENS WIDTH 2.2 INNOSE BRIDGE LENGTH 0.7 INAcetate FrameSquare FrameGradient Smoke LensesProtects from UVA and UVBCeline Signature on templesReference : 4S299CPLB.38NO",
+      "description": "",
+      "price": "13858900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6b281425/images/large/4S299CPLB.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "13858900",
+          "code": "4S299CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6b281425/images/large/4S299CPLB.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PINK HAVANA",
+          "size": null,
+          "price": "13858900",
+          "code": "4S299CPLB.19PH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw01d019e3/images/large/4S299CPLB.19PH_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/square-s299-sunglasses-in-acetate-4S299CPLB.38NO.html"
+    },
+    {
+      "code": "4S300CPLM.38NO",
+      "name": "Aviator S300 Sunglasses in Acetate with Mirror Lenses",
+      "details": "TEMPLE LENGTH 5.5 INLENS WIDTH 2.2 INNOSE BRIDGE LENGTH 0.6 INAcetate FrameAviator FrameMineral Glass LensesSilver Mirror LensesProtects from UVA and UVBCeline Signature on templesReference : 4S300CPLM.38NO",
+      "description": "",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1893ff66/images/large/4S300CPLM.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "14608100",
+          "code": "4S300CPLM.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1893ff66/images/large/4S300CPLM.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "IVORY",
+          "size": null,
+          "price": "14608100",
+          "code": "4S300CPLM.01AV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw51fbb9aa/images/large/4S300CPLM.01AV_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/aviator-s300-sunglasses-in-acetate-with-mirror-lenses-4S300CPLM.38NO.html"
+    },
+    {
+      "code": "4S193CPLB.38NO",
+      "name": "Cat Eye S193 sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.7 INLENS WIDTH 2.1 INNOSE BRIDGE LENGTH 0.8 INAcetate FrameCat Eye FrameSmoke LensesProtects from UVA and UVBCeline signature on templesReference : 4S193CPLB.38NO",
+      "description": "",
+      "price": "13109800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwefa09bd2/images/large/4S193CPLB.38NO_1_SUM21.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "13109800",
+          "code": "4S193CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwefa09bd2/images/large/4S193CPLB.38NO_1_SUM21.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "13109800",
+          "code": "4S193CPLB.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcaafa95c/images/large/4S193CPLB.01BC_1_SUM21.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/cat-eye-s193-sunglasses-in-acetate-4S193CPLB.38NO.html"
+    },
+    {
+      "code": "4S187CPLB.38NO",
+      "name": "Cat Eye S187 Sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.7 INLENS WIDTH 2 INNOSE BRIDGE LENGTH 0.6 INAcetate FrameCat Eye FrameSmoke LensesProtects from UVA and UVBCeline signature on templesReference : 4S187CPLB.38NO",
+      "description": "",
+      "price": "13116900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe080ba28/images/large/4S187CPLB.38NO_1_FALL21.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "13116900",
+          "code": "4S187CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe080ba28/images/large/4S187CPLB.38NO_1_FALL21.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "13109800",
+          "code": "4S187CPLB.11LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc87bb7b6/images/large/4S187CPLB.11LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "13116900",
+          "code": "4S187CPLB.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa800ee58/images/large/4S187CPLB.01BC_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/cat-eye-s187-sunglasses-in-acetate-4S187CPLB.38NO.html"
+    },
+    {
+      "code": "4S286CPLB.38NO",
+      "name": "Cat Eye S286 Sunglasses in Acetate",
+      "details": "TEMPLE LENGTH 5.7 INLENS WIDTH 2.1 INNOSE BRIDGE LENGTH 0.7 INAcetate FrameCat Eye FrameBrown LensesProtects from UVA and UVBCeline Signature on templesReference : 4S286CPLB.38NO",
+      "description": "Bridge Width: 0.67 IN (1.7 CM) on the International Fitting version and 0.63 IN (1.6 CM) on the Adjusted Fitting version.Lens Width: 2.09 IN (5.3 CM) on the International Fitting version and 2.13 IN (5.4 CM) on the Adjusted Fitting version.",
+      "price": "13858900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe3eddd74/images/large/4S286CPLB.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "13858900",
+          "code": "4S286CPLB.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe3eddd74/images/large/4S286CPLB.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "CLASSIC HAVANA",
+          "size": null,
+          "price": "13858900",
+          "code": "4S286CPLB.19HD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4ac20802/images/large/4S286CPLB.19HD_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/cat-eye-s286-sunglasses-in-acetate-4S286CPLB.38NO.html"
+    }
+  ]
 }

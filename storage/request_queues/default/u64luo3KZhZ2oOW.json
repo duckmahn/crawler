@@ -1,0 +1,23 @@
+{
+  "id": "u64luo3KZhZ2oOW",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-bucket-cuir-triomphe-in-striped-textile-and-calfskin-113782ftw.07oc.html",
+  "order_no": "1742182127303.428000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-bucket-cuir-triomphe-in-striped-textile-and-calfskin-113782FTW.07OC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-bucket-cuir-triomphe-in-striped-textile-and-calfskin-113782ftw.07oc.html",
+    "id": "u64luo3KZhZ2oOW"
+  }
+}

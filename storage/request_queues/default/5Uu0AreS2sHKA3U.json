@@ -1,0 +1,23 @@
+{
+  "id": "5Uu0AreS2sHKA3U",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/cat-eye-s187-sunglasses-in-acetate-4s187cplb.11le.html",
+  "order_no": "1742181218876.603000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/cat-eye-s187-sunglasses-in-acetate-4S187CPLB.11LE.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/cat-eye-s187-sunglasses-in-acetate-4s187cplb.11le.html",
+    "id": "5Uu0AreS2sHKA3U"
+  }
+}

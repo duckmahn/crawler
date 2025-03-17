@@ -1,0 +1,23 @@
+{
+  "id": "U37mQL02QefI8us",
+  "unique_key": "https://www.celine.com/en-vn/gift-finder/jane-flare-jeans-in-denim-union-wash-2n860930f.07uw.html",
+  "order_no": "1742183074088.556000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/gift-finder/jane-flare-jeans-in-denim-union-wash-2N860930F.07UW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/gift-finder/jane-flare-jeans-in-denim-union-wash-2n860930f.07uw.html",
+    "id": "U37mQL02QefI8us"
+  }
+}

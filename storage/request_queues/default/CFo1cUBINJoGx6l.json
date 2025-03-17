@@ -1,0 +1,23 @@
+{
+  "id": "CFo1cUBINJoGx6l",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/victoire-mac-in-prince-of-wales-wool-2m45d167z.02sl.html",
+  "order_no": "1742183159368.357000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/victoire-mac-in-prince-of-wales-wool-2M45D167Z.02SL.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/victoire-mac-in-prince-of-wales-wool-2m45d167z.02sl.html",
+    "id": "CFo1cUBINJoGx6l"
+  }
+}

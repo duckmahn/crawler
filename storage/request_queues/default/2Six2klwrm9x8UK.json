@@ -1,0 +1,23 @@
+{
+  "id": "2Six2klwrm9x8UK",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/essentials/card-holder-in-triomphe-canvas-with-celine-print-10b702cly.04lu.html",
+  "order_no": "1742182595771.566000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/essentials/card-holder-in-triomphe-canvas-with-celine-print-10B702CLY.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/essentials/card-holder-in-triomphe-canvas-with-celine-print-10b702cly.04lu.html",
+    "id": "2Six2klwrm9x8UK"
+  }
+}

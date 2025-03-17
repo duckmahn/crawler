@@ -1,0 +1,23 @@
+{
+  "id": "F0dMd8MHo5Sw6wx",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/skate-shorts-in-electric-sky-wash-denim-2n12b519x.08el.html",
+  "order_no": "1742183074091.684000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/skate-shorts-in-electric-sky-wash-denim-2N12B519X.08EL.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/skate-shorts-in-electric-sky-wash-denim-2n12b519x.08el.html",
+    "id": "F0dMd8MHo5Sw6wx"
+  }
+}

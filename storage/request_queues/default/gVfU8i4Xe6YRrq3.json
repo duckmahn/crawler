@@ -1,0 +1,23 @@
+{
+  "id": "gVfU8i4Xe6YRrq3",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-pearly-python-116594fmr.24lp.html",
+  "order_no": "1742181453488.316000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-pearly-python-116594FMR.24LP.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-pearly-python-116594fmr.24lp.html",
+    "id": "gVfU8i4Xe6YRrq3"
+  }
+}

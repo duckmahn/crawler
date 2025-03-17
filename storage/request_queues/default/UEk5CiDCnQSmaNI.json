@@ -1,0 +1,23 @@
+{
+  "id": "UEk5CiDCnQSmaNI",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/western/medium-western-belt-in-natural-calfskin-45bag3a78.04lu.html",
+  "order_no": "1742183591526.885000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/belts/western/medium-western-belt-in-natural-calfskin-45BAG3A78.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/western/medium-western-belt-in-natural-calfskin-45bag3a78.04lu.html",
+    "id": "UEk5CiDCnQSmaNI"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aeJzXR4xs2aWGxS",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/compact-wallet-with-coin-triomphe-in-shiny-calfskin-10i653dpv.03cp.html",
+  "order_no": "1742182737351.738000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/compact-wallet-with-coin-triomphe-in-shiny-calfskin-10I653DPV.03CP.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/compact-wallet-with-coin-triomphe-in-shiny-calfskin-10i653dpv.03cp.html",
+    "id": "aeJzXR4xs2aWGxS"
+  }
+}

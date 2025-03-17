@@ -1,4 +1,399 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "RP03K444W.08DK",
+      "name": "flared surf jeans in black ice rinse denim",
+      "details": "100% cottonblack ice rinse washclassic fitmid-riseflared leg5 pocketsrivets on the front pocketspatch at the back on the waistbandceline jeans-engraved zip and button made in japanReference: RP03K444W.08DK",
+      "description": "flared mid-rise surf jeans in black ice rinse wash denimRUNS SMALL. PANT LEG AND FRONT RISE ARE SLIGHTLY SHORTER, NARROW HIP.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2f72b7a9/images/large/RP03K444W.08DK_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK ICE RINSE",
+          "size": null,
+          "price": "33336300",
+          "code": "RP03K444W.08DK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2f72b7a9/images/large/RP03K444W.08DK_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/flared-surf-jeans-in-black-ice-rinse-denim-RP03K444W.08DK.html"
+    },
+    {
+      "code": "2N845444W.08DK",
+      "name": "wesley jeans in black ice rinse wash denim",
+      "details": "100% cottonice rinse wash denimloose fitlow-rise waiststraight-leg5 pocketsrivets on the front pocketspatch at the back of the waistbandrelaxed hemsceline paris-engraved buttonsmade in JapanReference : 2N845444W.08DK",
+      "description": "low-rise wesley relaxed hem jeans in black ice rinse wash denimWe suggest that you choose your usual size.",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw04fdf5af/images/large/2N845444W.08DK_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK ICE RINSE",
+          "size": null,
+          "price": "35583700",
+          "code": "2N845444W.08DK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw04fdf5af/images/large/2N845444W.08DK_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/wesley-jeans-in-black-ice-rinse-wash-denim-2N845444W.08DK.html"
+    },
+    {
+      "code": "2N62B365M.07DU",
+      "name": "marco jeans in dark union wash denim",
+      "details": "100% cottondark union washclassic fitlow-riseflared leg5 pocketsrivets on the front pocketspatch at the back on the waistbandraw hems on the backceline jeans-engraved zip and buttons made in japanReference : 2N62B365M.07DU",
+      "description": "marco low-rise jeans in dark union wash denimRUNS SMALL. PANT LEG AND FRONT RISE ARE SLIGHTLY SHORTER, NARROW HIP.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw26ab6bb3/images/large/2N62B365M.07DU_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK UNION WASH",
+          "size": null,
+          "price": "33336300",
+          "code": "2N62B365M.07DU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw26ab6bb3/images/large/2N62B365M.07DU_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/marco-jeans-in-dark-union-wash-denim-2N62B365M.07DU.html"
+    },
+    {
+      "code": "2N06B930F.07SV",
+      "name": "marco jeans in steel blue wash denim",
+      "details": "100% cottonsteel blue washclassic fitlow-riseflared leg5 pocketsrivets on the front pocketspatch at the back on the waistbandceline jeans-engraved zip and buttonmade in japanReference: 2N06B930F.07SV",
+      "description": "marco low-rise jeans in steel blue wash denimADJUSTED FIT.AUTHENTIC DENIM.SIZE UP FOR A MORE RELAXED FIT.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa3bb69ac/images/large/2N06B930F.07SV_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "STEEL BLUE WASH",
+          "size": null,
+          "price": "33336300",
+          "code": "2N06B930F.07SV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa3bb69ac/images/large/2N06B930F.07SV_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/denim/marco-jeans-in-steel-blue-wash-denim-2N06B930F.07SV.html"
+    },
+    {
+      "code": "2N62B789D.08KW",
+      "name": "marco jeans in rider wash denim",
+      "details": "100% cottonrider washclassic fitlow-riseflared leg5 pocketsrivets on the front pocketspatch at the back on the waistbandraw hems on the backceline jeans-engraved zip and buttons made in japanReference : 2N62B789D.08KW",
+      "description": "marco low-rise jeans in rider wash denimRUNS SMALL. PANT LEG AND FRONT RISE ARE SLIGHTLY SHORTER, NARROW HIP.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6081c60f/images/large/2N62B789D.08KW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "RIDER WASH",
+          "size": null,
+          "price": "33336300",
+          "code": "2N62B789D.08KW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6081c60f/images/large/2N62B789D.08KW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/marco-jeans-in-rider-wash-denim-2N62B789D.08KW.html"
+    },
+    {
+      "code": "RP03K930F.07UW",
+      "name": "flared surf jeans in union wash denim",
+      "details": "100% cottonunion washclassic fitmid-riseflared leg5 pocketsrivets on the front pocketspatch at the back on the waistbandceline jeans-engraved zip and buttons made in japanReference : RP03K930F.07UW",
+      "description": "flared mid-rise surf jeans in union wash denimRUNS SMALL. PANT LEG AND FRONT RISE ARE SLIGHTLY SHORTER, NARROW HIP.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw964fead0/images/large/RP03K930F.07UW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "UNION WASH",
+          "size": null,
+          "price": "33336300",
+          "code": "RP03K930F.07UW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw964fead0/images/large/RP03K930F.07UW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/flared-surf-jeans-in-union-wash-denim-RP03K930F.07UW.html"
+    },
+    {
+      "code": "2N845461T.08EC",
+      "name": "Wesley jeans in everclear wash denim",
+      "details": "100% cottoneverclear washloose fitlow-risestraight leg5 pocketsrivets on the front pocketspatch at the back on the waistbandrelaxed hemsCeline jeans-engraved buttonsmade in JapanReference : 2N845461T.08EC",
+      "description": "low-rise Wesley jeans with relaxed hems in everclear wash denimWe suggest you choose your usual size.",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa92eda3c/images/large/2N845461T.08EC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "EVERCLEAR WASH",
+          "size": null,
+          "price": "35583700",
+          "code": "2N845461T.08EC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa92eda3c/images/large/2N845461T.08EC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/wesley-jeans-in-everclear-wash-denim-2N845461T.08EC.html"
+    },
+    {
+      "code": "2N845206T.08PI",
+      "name": "WESLEY JEANS IN PISMO WASH DENIM",
+      "details": "100% COTTONpismo washloose fitlow-risestraight leg 5 pocketsrivets on front pocketspatch on the beltreleased hemsCeline jeans-engraved buttons and zipmade in JapanReference : 2N845206T.08PI",
+      "description": "LOW-RISE WESLEY JEANS WITH RELEASED HEMS IN PISMO WASH DENIMWE SUGGEST TAKING YOUR USUAL SIZE.",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw95d47673/images/large/2N845206T.08PI_1_SS24_W_V5.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PISMO WASH",
+          "size": null,
+          "price": "35583700",
+          "code": "2N845206T.08PI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw95d47673/images/large/2N845206T.08PI_1_SS24_W_V5.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/wesley-jeans-in-pismo-wash-denim-2N845206T.08PI.html"
+    },
+    {
+      "code": "2N778558Z.07IA",
+      "name": "kitty jeans in raw wash denim",
+      "details": "100% cottonraw washclassic fithigh-waistedstraight leg5 pocketsrivets on the front pocketspatch at the back on the waistbandceline jeans-engraved zip and button made in japanReference: 2N778558Z.07IA",
+      "description": "high-waisted kitty jeans in raw wash denimRUNS SMALL. PANT LEG AND FRONT RISE ARE SLIGHTLY SHORTER, NARROW HIP.",
+      "price": "31838000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2498b978/images/large/2N778558Z.07IA_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "RAW WASH",
+          "size": null,
+          "price": "31838000",
+          "code": "2N778558Z.07IA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2498b978/images/large/2N778558Z.07IA_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/denim/kitty-jeans-in-raw-wash-denim-2N778558Z.07IA.html"
+    },
+    {
+      "code": "2N44B206T.08PI",
+      "name": "kitty jeans in pismo wash denim",
+      "details": "PISMO WASHTRIOMPHE GOURMETTE CHAINS AT THE WAISTCLASSIC FITHIGH WAISTSTRAIGHT-LEG5 POCKETSRIVETS ON THE FRONT POCKETSPATCH AT THE BACK OF THE WAISTBANDCELINE PARIS-ENGRAVED ZIP AND BUTTONSReference : 2N44B206T.08PI",
+      "description": "SMALL FIT HIGH WAIST KITTY JEANS WITH TRIOMPHE GOURMETTES IN PISMO WASH DENIMSMALL FIT: ADAPTED TO A SMALLER BODY TYPE. PANT LEGS AND CROTCH LENGTH ARE SLIGTHLY SHORTER, AND HIPS ARE LESS ROUND.   WE SUGGEST TAKING YOUR USUAL SIZE.",
+      "price": "41202200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf5978d00/images/large/2N44B206T.08PI_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PISMO WASH",
+          "size": null,
+          "price": "41202200",
+          "code": "2N44B206T.08PI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf5978d00/images/large/2N44B206T.08PI_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/kitty-jeans-in-pismo-wash-denim-2N44B206T.08PI.html"
+    },
+    {
+      "code": "2N678930F.07UW",
+      "name": "DYLAN FLARED JEANS WITH SIGNATURE IN UNION WASH DENIM",
+      "details": "100% COTTONCLASSIC FITMID-RISEFLARED LEG5 POCKETSRIVETS ON THE FRONT POCKET“TRIOMPHE” SIGNATURE CHAINSCELINE-ENGRAVED BUTTON AND ZIPPERMADE IN JAPANReference : 2N678930F.07UW",
+      "description": "DYLAN FLARED MID-RISE JEANS WITH TRIOMPHE GOURMETTES IN UNION WASH DENIMAJDUSTED FIT. AUTHENTIC DENIM. FOR A MORE RELAXED FIT, IT IS POSSIBLE TO SIZE UP.",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfa40e17b/images/large/2N678930F.07UW_1_SS24_W_V4.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "UNION WASH",
+          "size": null,
+          "price": "37081900",
+          "code": "2N678930F.07UW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfa40e17b/images/large/2N678930F.07UW_1_SS24_W_V4.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/dylan-flared-jeans-with-signature-in-union-wash-denim-2N678930F.07UW.html"
+    },
+    {
+      "code": "2P963363S.38NO",
+      "name": "dylan tux pants in wool and mohair",
+      "details": "70% WOOL 30% MOHAIRclassic fitlow-rise2 side pockets2 welt pockets on the back with horn buttonsatin side bandszip and hook-and-eye closuremade in ItalyReference : 2P963363S.38NO",
+      "description": "low-rise dylan tux pants in wool and mohair",
+      "price": "40827600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2396fa9b/images/large/2P963363S.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "40827600",
+          "code": "2P963363S.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2396fa9b/images/large/2P963363S.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/dylan-tux-pants-in-wool-and-mohair-2P963363S.38NO.html"
+    },
+    {
+      "code": "2P76A523K.38NO",
+      "name": "pants with gourmettes in mohair wool",
+      "details": "73% wool 27% mohairTriomphe gourmettesclassic fithigh waist2 patch pockets with flap and Triomphe buttons2 patch back pocketsTriomphe zip and buttonmade in ItalyReference : 2P76A523K.38NO",
+      "description": "high waisted pants with gourmettes in mohair and wool gabardine",
+      "price": "48693500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2dbbdbcd/images/large/2P76A523K.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "48693500",
+          "code": "2P76A523K.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2dbbdbcd/images/large/2P76A523K.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/pants-with-gourmettes-in-mohair-wool-2P76A523K.38NO.html"
+    },
+    {
+      "code": "2P15A650D.38NO",
+      "name": "BNF pants in wool gabardine",
+      "details": "100% woollining 100% cottonclassic fitmid-rise2 side pockets2 welt pockets with horn button on the backzip and hook-and-eye closuremade in ItalyReference : 2P15A650D.38NO",
+      "description": "Bibliothèque Nationale de France mid-rise pants in wool gabardine",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbdf65d82/images/large/2P15A650D.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "33336300",
+          "code": "2P15A650D.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbdf65d82/images/large/2P15A650D.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/bnf-pants-in-wool-gabardine-2P15A650D.38NO.html"
+    },
+    {
+      "code": "2P99A547Z.38NO",
+      "name": "cargo pants in cotton gabardine",
+      "details": "100% cottonloose fitlow rise2 side pockets2 patch pockets with flap and Triomphe buttonselasticated waistband with adjustable drawstring and Celine Paris-engraved metal agletsmade in ItalyReference : 2P99A547Z.38NO",
+      "description": "loose low-rise cargo pants in Japanese cotton gabardine",
+      "price": "46820600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw07b2f5dc/images/large/2P99A547Z.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "46820600",
+          "code": "2P99A547Z.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw07b2f5dc/images/large/2P99A547Z.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "CAMEL",
+          "size": null,
+          "price": "44947800",
+          "code": "RP00Q547Z.02CM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa2b020dc/images/large/RP00Q547Z.02CM_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/cargo-pants-in-cotton-gabardine-2P99A547Z.38NO.html"
+    },
+    {
+      "code": "2P78A539W.40BB",
+      "name": "taillat pants in cotton twill",
+      "details": "100% cottonclassic fithigh waistflared leg2 patch pockets with Triomphe buttons2 patch back pocketszip and hook-and-eye closurewaistband with Celine Paris-engraved metal agletsmade in ItalyReference : 2P78A539W.40BB",
+      "description": "high waisted taillat pants in soft cotton twill",
+      "price": "44947800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwac2c7105/images/large/2P78A539W.40BB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BRITISH BEIGE",
+          "size": null,
+          "price": "44947800",
+          "code": "2P78A539W.40BB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwac2c7105/images/large/2P78A539W.40BB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/taillat-pants-in-cotton-twill-2P78A539W.40BB.html"
+    },
+    {
+      "code": "2P79A523K.38NO",
+      "name": "taillat pants in mohair wool",
+      "details": "73% wool 27% mohair52% viscose 48% cupro liningclassic fithigh waistflared leg2 side pockets2 patch back pockets2 adjustment tabs on the waistTriomphe button and zip1 Triomphe button on the adjustment tabmade in ItalyReference : 2P79A523K.38NO",
+      "description": "Taillat pants with single pleat in wool and mohair gabardine",
+      "price": "44947800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw693ac540/images/large/2P79A523K.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "44947800",
+          "code": "2P79A523K.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw693ac540/images/large/2P79A523K.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/taillat-pants-in-mohair-wool-2P79A523K.38NO.html"
+    },
+    {
+      "code": "2P823561F.38NO",
+      "name": "straight jogging pants in cashmere flannel",
+      "details": "100% cashmereloose fithigh-waisted2 side pocketselasticated waistband with adjustable drawstring and celine paris-engraved metal agletsmade in ItalyReference : 2P823561F.38NO",
+      "description": "straight high-waisted jogging pants in cashmere flannel",
+      "price": "52064500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8c892a09/images/large/2P823561F.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "52064500",
+          "code": "2P823561F.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8c892a09/images/large/2P823561F.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "NAVY",
+          "size": null,
+          "price": "52064500",
+          "code": "2P823561F.07MR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw50d3197c/images/large/2P823561F.07MR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/straight-jogging-pants-in-cashmere-flannel-2P823561F.38NO.html"
+    }
+  ]
 }

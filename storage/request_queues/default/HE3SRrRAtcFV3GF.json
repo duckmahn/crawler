@@ -1,0 +1,23 @@
+{
+  "id": "HE3SRrRAtcFV3GF",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/mini-backpack-folco-in-triomphe-canvas-and-calfskin-197662cas.04lu.html",
+  "order_no": "1742181380477.323000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/mini-backpack-folco-in-triomphe-canvas-and-calfskin-197662CAS.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/mini-backpack-folco-in-triomphe-canvas-and-calfskin-197662cas.04lu.html",
+    "id": "HE3SRrRAtcFV3GF"
+  }
+}

@@ -1,4 +1,215 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "362422198C.00RM",
+      "name": "CELINE RILEY LACE-UP BOOT IN CANVAS",
+      "details": "100% COTTONROUND TOE SHAPETRIOMPHE RUBBER PATCHCELINE DEBOSSED AT THE BACK OF THE OUTSOLELACE-UP BOOTHALF FOOT COVERING RUBBER OUTSOLEMADE IN ITALYReference : 362422198C.00RM",
+      "description": "",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb3a21ced/images/large/362422198C.00RM_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CARAMEL",
+          "size": null,
+          "price": "37081900",
+          "code": "362422198C.00RM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb3a21ced/images/large/362422198C.00RM_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/celine-riley-lace-up-boot-in-canvas-362422198C.00RM.html"
+    },
+    {
+      "code": "345597004C.38NO",
+      "name": "CELINE BULKY LACED UP BOOT in NYLON AND SHINY BULL",
+      "details": "90% NYLON 10% BULLSKIN100% CALFSKIN LINING1.8 IN (45 MM) heelROUND TOE SHAPE WITH LEATHER TOE CAPCELINE SIGNATURE ON THE BACK OF THE SHOETRIOMPHE LEATHER PATCH ON THE EXTERNAL SIDE OF THE SHAFTLACE-UP SHOECOTTON LACESLEATHER INSOLETHICK RUBBER LUG OUTSOLE WITH A LEATHER WELTTHIS MODEL RUNS BIG, GO DOWN ONE SIZE FOR A BETTER FITMADE IN ITALYReference : 345597004C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8a2dfaf6/images/large/345597004C.38NO_1_SPR22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "35583700",
+          "code": "345597004C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8a2dfaf6/images/large/345597004C.38NO_1_SPR22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/celine-bulky-laced-up-boot-in-nylon-and-shiny-bull-345597004C.38NO.html"
+    },
+    {
+      "code": "360673602C.38NO",
+      "name": "CELINE TRIOMPHE RANGERS ZIPPED BOOT in POLISHED BULL",
+      "details": "100% BULLSKIN100% Calfskin LinningROUND TOE SHAPECELINE ENGRAVED ZIPPERDEBOSSED CELINE ON THE TONGUEBROGUE DETAILS ON THE SHAFTPERFORATED TRIOMPHE ON THE ARPONINNER SIDE ZIPLEATHER INSOLERUBBER OUTSOLE WITH LEATHER WELTTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360673602C.38NO",
+      "description": "",
+      "price": "46820600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwadc9bd8d/images/large/360673602C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "46820600",
+          "code": "360673602C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwadc9bd8d/images/large/360673602C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/gift-finder/celine-triomphe-rangers-zipped-boot-in-polished-bull-360673602C.38NO.html"
+    },
+    {
+      "code": "357583579C.38NO",
+      "name": "CELINE TRIOMPHE RANGERS MID LACE-UP BOOT in SHINY BULL",
+      "details": "100% BULLSKIN100% Calfskin  Linning1.8 IN (45 MM) heelROUND TOE SHAPECELINE DEBOSSED ON THE TONGUE AND THE BACK OF THE SHOETRIOMPHE DEBOSSED ON THE EXTERNAL SIDE OF THE SHAFTCELINE DEBOSSED UNDER THE OUTSOLELACE-UP AND ZIPPED BOOTSLEATHER INSOLERUBBER LUG OUTSOLE WITH TONAL LEATHER WELTTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 357583579C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "46820600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfc058665/images/large/357583579C.38NO_1_SS24_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "46820600",
+          "code": "357583579C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfc058665/images/large/357583579C.38NO_1_SS24_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/celine-triomphe-rangers-mid-lace-up-boot-in-shiny-bull-357583579C.38NO.html"
+    },
+    {
+      "code": "343413554C.38NO",
+      "name": "Margaret Chelsea Boot in Calfskin",
+      "details": "100% Calfskin100% Calfskin Linning1.4 IN (35 MM) heelROUND TOE SHAPECELINE AND TRIOMPHE SIGNATURE TWILL PULL TABSTRIOMPHE SIGNATURE DEBOSSED ON THE BACK OF THE SHOEELASTIC GORES ON THE SIDE OF THE UPPERSlip-onLeather insoleLug outsole in rubberTHE SHOES RUN LARGE, IF YOU ARE IN BETWEEN TWO SIZES, PLEASE ORDER THE SIZE DOWNMADE IN ITALYReference : 343413554C.38NO",
+      "description": "THE SHOES RUN LARGE. IF YOU ARE INBETWEEN TWO SIZES, PLEASE ORDER ONE SIZE DOWN.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9a06bc7f/images/large/343413554C.38NO_1_SUM21.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "33336300",
+          "code": "343413554C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9a06bc7f/images/large/343413554C.38NO_1_SUM21.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/margaret-chelsea-boot-in-calfskin-343413554C.38NO.html"
+    },
+    {
+      "code": "352283891C.38NO",
+      "name": "CELINE VERNEUIL ANKLE BOOT WITH TRIOMPHE in CALFSKIN",
+      "details": "100% CALFSKIN100% CALFSKIN LINING3.1 IN (80 MM) heelPOINTY TOE SHAPESTRAIGHT HEELTRIOMPHE GOLD FINISHING SIGNATURE ON THE SIDE OF THE SHOEINNER SIDE ZIPLEATHER INSOLELEATHER OUTSOLETHE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 352283891C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "43075000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcd570c16/images/large/352283891C.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "43075000",
+          "code": "352283891C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcd570c16/images/large/352283891C.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/celine-verneuil-ankle-boot-with-triomphe-in-calfskin-352283891C.38NO.html"
+    },
+    {
+      "code": "360454582C.38NO",
+      "name": "LES BOTTES CELINE TRIOMPHE HIGH BOOT in PATENT CALFSKIN",
+      "details": "100% CALFSKIN100% Calfskin  LinningCHUNKY STACKED LEATHER HEEL WITH RUBBER TOP LIFTALMOND TOE SHAPE HIGH FREQUENCY EMBOSSED TRIOMPHE ON THE FRONT OF THE SHAFTSLIP-ONLEATHER INSOLELEATHER OUTSOLETHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360454582C.38NO",
+      "description": "",
+      "price": "56184700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw43d19d3b/images/large/360454582C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "56184700",
+          "code": "360454582C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw43d19d3b/images/large/360454582C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/les-bottes-celine-triomphe-high-boot-in-patent-calfskin-360454582C.38NO.html"
+    },
+    {
+      "code": "361893554C.38NO",
+      "name": "CELINE BULKY HIGH BOOT in Calfskin",
+      "details": "100% Calfskin100% Calfskin LinningROUND TOE SHAPEHOT STAMPED CELINE ON THE BACK OF THE SHOETRIOMPHE LEATHER PATCH ON THE EXTERNAL SIDE OF THE SHAFTCELINE UNGRAVED BUCKLESLIP-ONLEATHER INSOLETHICK RUBBER LUG OUTSOLE WITH LEATHER WELTTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 361893554C.38NO",
+      "description": "",
+      "price": "54311900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8b9e6efe/images/large/361893554C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "54311900",
+          "code": "361893554C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8b9e6efe/images/large/361893554C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/celine-bulky-high-boot-in-calfskin-361893554C.38NO.html"
+    },
+    {
+      "code": "354233492C.38NO",
+      "name": "CELINE BULKY ZIPPED BOOT in Calfskin",
+      "details": "100% Calfskin100% Calfskin  Linning1.8 IN (45 MM) heelROUND TOE SHAPETRIOMPHE SIGNATURE DEBOSSED ON THE TOP OF THE SHAFTCELINE SIGNATURE DEBOSSED UNDER THE OUTSOLEINNER SIDE ZIPLEATHER INSOLETHICK RUBBER LUG OUTSOLE WITH A LEATHER WELTTHE SHOES RUN LARGE, IF YOU ARE IN BETWEEN TWO SIZES, PLEASE ORDER THE SIZE DOWNMADE IN ITALYReference : 354233492C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1e68684f/images/large/354233492C.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "50566300",
+          "code": "354233492C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1e68684f/images/large/354233492C.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/celine-bulky-zipped-boot-in-calfskin-354233492C.38NO.html"
+    },
+    {
+      "code": "360117001C.38NO",
+      "name": "MID CELINE RAIN BOOTS in Natural Rubber",
+      "details": "100% Natural Rubber100% Textile  LinningTRIOMPHE RUBBER PATCH ON THE TOP OF THE SHAFTSLIP-ONTEXTILE INSOLERUBBER OUTSOLETHIS MODEL IS TRUE TO SIZE, PLEASE TAKE YOUR USUAL SIZEMADE IN FRANCEReference : 360117001C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwede40cb7/images/large/360117001C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "28092400",
+          "code": "360117001C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwede40cb7/images/large/360117001C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/mid-celine-rain-boots-in-natural-rubber-360117001C.38NO.html"
+    }
+  ]
 }

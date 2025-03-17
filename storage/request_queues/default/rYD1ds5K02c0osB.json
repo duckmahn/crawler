@@ -1,0 +1,23 @@
+{
+  "id": "rYD1ds5K02c0osB",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/overshirt-in-checked-cashmere-2c61a697y.01vu.html",
+  "order_no": "1742182927253.316000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/overshirt-in-checked-cashmere-2C61A697Y.01VU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/overshirt-in-checked-cashmere-2c61a697y.01vu.html",
+    "id": "rYD1ds5K02c0osB"
+  }
+}

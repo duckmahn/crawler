@@ -1,0 +1,24 @@
+{
+  "id": "JyAZ6xRt4xkYKXa",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights",
+  "order_no": null,
+  "handled_at": "2025-03-17 03:57:11.005568+00:00",
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/",
+    "handled_at": "2025-03-17 03:57:11.005568+00:00",
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights",
+    "id": "JyAZ6xRt4xkYKXa"
+  }
+}

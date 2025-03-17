@@ -1,4 +1,282 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "10N843GHH.38NO",
+      "name": "ACCORDEON CARD HOLDER IN SUPPLE GRAINED CALFSKIN",
+      "details": "1 x 2.8 x 4.3 IN (2.5 x 7 x 11 CM)CALFSKINGOLD FINISHINGTRIOMPHE METALLIC SNAP BUTTON CLOSURETHREE CREDIT CARDS COMPARTMENTSReference : 10N843GHH.38NO",
+      "description": "",
+      "price": "15365500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6651f774/images/large/10N843GHH.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "15365500",
+          "code": "10N843GHH.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6651f774/images/large/10N843GHH.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "15357200",
+          "code": "10N843GHH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1befe832/images/large/10N843GHH.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Smoked Brown",
+          "size": null,
+          "price": "15357200",
+          "code": "10N843GHH.18AE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8132d36e/images/large/10N843GHH.18AE_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/categories/coin-and-card-holders/accordeon-card-holder-in-supple-grained-calfskin-10N843GHH.38NO.html"
+    },
+    {
+      "code": "10L833DPV.38NN",
+      "name": "CARD HOLDER TRIOMPHE in Shiny calfskin",
+      "details": "4 x 3 IN (11 x 8 CM)calfskincalfskin liningBLACK FINISHINGDECORATIVE METALLIC TRIOMPHESIX CREDIT CARD SLOTSONE FLAT POCKETReference : 10L833DPV.38NN",
+      "description": "",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw97675056/images/large/10L833DPV.38NN_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / BLACK",
+          "size": null,
+          "price": "11986100",
+          "code": "10L833DPV.38NN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw97675056/images/large/10L833DPV.38NN_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PALE BEIGE",
+          "size": null,
+          "price": "11986100",
+          "code": "10L833DPV.02PA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw13013a1f/images/large/10L833DPV.02PA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "11992600",
+          "code": "10L833DPV.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2085f561/images/large/10L833DPV.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PEBBLE",
+          "size": null,
+          "price": "11992600",
+          "code": "10L833DPV.10BL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdb973f1b/images/large/10L833DPV.10BL_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-triomphe-in-shiny-calfskin-10L833DPV.38NN.html"
+    },
+    {
+      "code": "10L832FR9.28LB",
+      "name": "CARD HOLDER TRIOMPHE in Triomphe Canvas Two-Tone",
+      "details": "4 x 3 IN (11 x 8 CM)Triomphe Canvascalfskin liningDECORATIVE METALLIC TRIOMPHESIX CREDIT CARD SLOTSONE FLAT POCKETReference : 10L832FR9.28LB",
+      "description": "",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw65e136f8/images/large/10L832FR9.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BURGUNDY",
+          "size": null,
+          "price": "11986100",
+          "code": "10L832FR9.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw65e136f8/images/large/10L832FR9.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/card-holder-triomphe-in-triomphe-canvas-two-tone-10L832FR9.28LB.html"
+    },
+    {
+      "code": "10I583DPV.31LY",
+      "name": "CARD HOLDER WITH FLAP TRIOMPHE in Shiny calfskin",
+      "details": "4 x 3 x 1 IN (10 x 7.5 x 2 CM)calfskincalfskin liningGOLD FINISHINGTRIOMPHE METALLIC SNAP BUTTON CLOSUREOne main compartmentTwo inner credit card slotsOne inner flat pocketOne outer flat pocketReference : 10I583DPV.31LY",
+      "description": "",
+      "price": "15357200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8b4d3042/images/large/10I583DPV.31LY_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Light Clay",
+          "size": null,
+          "price": "15357200",
+          "code": "10I583DPV.31LY",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8b4d3042/images/large/10I583DPV.31LY_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "OAT BEIGE",
+          "size": null,
+          "price": "15357200",
+          "code": "10I583DPV.02EU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0144e9c2/images/large/10I583DPV.02EU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-with-flap-triomphe-in-shiny-calfskin-10I583DPV.31LY.html"
+    },
+    {
+      "code": "10M473GCG.38NO",
+      "name": "CARD HOLDER WITH FLAP 16 IN SATINATED CALFSKIN",
+      "details": "4 x 3 x 1 IN (10 x 7.6 x 2 CM)CALFSKINCALFSKIN LININGGOLD FINISHINGTURN LOCK CLOSUREONE MAIN COMPARTMENTTWO CREDIT CARD SLOTSReference : 10M473GCG.38NO",
+      "description": "",
+      "price": "18728300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw655a3b5a/images/large/10M473GCG.38NO_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "18728300",
+          "code": "10M473GCG.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw655a3b5a/images/large/10M473GCG.38NO_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "18728300",
+          "code": "10M473GCG.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdd2ab155/images/large/10M473GCG.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE COTTON",
+          "size": null,
+          "price": "18728300",
+          "code": "10M473GCG.00WC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw34a6afa7/images/large/10M473GCG.00WC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/16/card-holder-with-flap-16-in-satinated-calfskin-10M473GCG.38NO.html"
+    },
+    {
+      "code": "10C663DR8.38NO",
+      "name": "Coin Purse IN smooth calfskin",
+      "details": "5 x 4 x 0 IN (13 x 9 x 1 CM)calfskincalfskin liningGOLD FINISHINGONE MAIN ZIPPED COMPARTMENT ONE KEYRINGReference : 10C663DR8.38NO",
+      "description": "",
+      "price": "13484400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe9c54eb1/images/large/10C663DR8.38NO_1_SPR22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "13484400",
+          "code": "10C663DR8.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe9c54eb1/images/large/10C663DR8.38NO_1_SPR22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "13491700",
+          "code": "10C663DR8.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef98e9a7/images/large/10C663DR8.04LU_1_SP22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/categories/coin-and-card-holders/coin-purse-in-smooth-calfskin-10C663DR8.38NO.html"
+    },
+    {
+      "code": "10C662GI2.38AW",
+      "name": "Coin Purse IN VICHY TEXTILE AND CALFSKIN",
+      "details": "5.1 x 3.5 x 0.4 IN (13 x 9 x 1 CM)TEXTILE, TRIMMINGS IN CALFSKINTEXTILE LININGONE MAIN ZIPPED COMPARTMENT ONE KEYRINGReference : 10C662GI2.38AW",
+      "description": "",
+      "price": "11237000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwffc99bbb/images/large/10C662GI2.38AW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / WHITE",
+          "size": null,
+          "price": "11237000",
+          "code": "10C662GI2.38AW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwffc99bbb/images/large/10C662GI2.38AW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/coin-purse-in-vichy-textile-and-calfskin-10C662GI2.38AW.html"
+    },
+    {
+      "code": "10C662GEU.07FX",
+      "name": "Coin Purse IN STRIPED DENIM WITH STRASS",
+      "details": "5.1 x 3.5 x 0.4 IN (13 x 9 x 1 CM)DENIM, TRIMMINGS IN CALFSKINTEXTILE LININGONE MAIN ZIPPED COMPARTMENT ONE KEYRINGReference : 10C662GEU.07FX",
+      "description": "",
+      "price": "15357200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw47622169/images/large/10C662GEU.07FX_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Denim",
+          "size": null,
+          "price": "15357200",
+          "code": "10C662GEU.07FX",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw47622169/images/large/10C662GEU.07FX_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/coin-purse-in-striped-denim-with-strass-10C662GEU.07FX.html"
+    },
+    {
+      "code": "10L833DPV.18AE",
+      "name": "CARD HOLDER TRIOMPHE IN Shiny calfskin",
+      "details": "4.3 x 3.1 x 0.1 IN (11 x 8 x 0.3 CM)calfskinGOLD FINISHINGDECORATIVE METALLIC TRIOMPHESIX CREDIT CARD SLOTSONE FLAT POCKETReference : 10L833DPV.18AE",
+      "description": "",
+      "price": "11992600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw54a11a5c/images/large/10L833DPV.18AE_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Smoked Brown",
+          "size": null,
+          "price": "11992600",
+          "code": "10L833DPV.18AE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw54a11a5c/images/large/10L833DPV.18AE_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Soft Peach",
+          "size": null,
+          "price": "11986100",
+          "code": "10L833DPV.03PH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0151a1d2/images/large/10L833DPV.03PH_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Spring Yellow",
+          "size": null,
+          "price": "11986100",
+          "code": "10L833DPV.11SS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc38c3c3a/images/large/10L833DPV.11SS_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-triomphe-in-shiny-calfskin-10L833DPV.18AE.html"
+    }
+  ]
 }

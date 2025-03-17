@@ -1,0 +1,23 @@
+{
+  "id": "QVjgutOzgO9nRwL",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/clara-celine-classic-panier-in-raffia-and-calfskin-117862fx8.04lu.html",
+  "order_no": "1742181701980.777000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/clara-celine-classic-panier-in-raffia-and-calfskin-117862FX8.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/clara-celine-classic-panier-in-raffia-and-calfskin-117862fx8.04lu.html",
+    "id": "QVjgutOzgO9nRwL"
+  }
+}

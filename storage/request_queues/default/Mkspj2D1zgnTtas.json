@@ -1,0 +1,23 @@
+{
+  "id": "Mkspj2D1zgnTtas",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/small-flap-wallet-triomphe-in-shiny-calfskin-10d783dpv.11ss.html",
+  "order_no": "1742182505567.163000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/small-flap-wallet-triomphe-in-shiny-calfskin-10D783DPV.11SS.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/small-flap-wallet-triomphe-in-shiny-calfskin-10d783dpv.11ss.html",
+    "id": "Mkspj2D1zgnTtas"
+  }
+}

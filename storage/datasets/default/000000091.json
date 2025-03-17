@@ -1,4 +1,131 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "2AZ15624Z.01VA",
+      "name": "triomphe mittens in shearling",
+      "details": "100% lambskin shearlingtriomphe patchmade in ItalyReference : 2AZ15624Z.01VA",
+      "description": "mittens with triomphe patch in shearling",
+      "price": "26968700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw15ae2624/images/large/2AZ15624Z.01VA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "VANILLA",
+          "size": null,
+          "price": "26968700",
+          "code": "2AZ15624Z.01VA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw15ae2624/images/large/2AZ15624Z.01VA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-mittens-in-shearling-2AZ15624Z.01VA.html"
+    },
+    {
+      "code": "2AD1M098W.19BR",
+      "name": "gloves in monogram wool, cashmere and silk",
+      "details": "37% wool 37% cashmere 26% silkmonogram jacquardmade in ItalyReference : 2AD1M098W.19BR",
+      "description": "gloves in monogram wool, cashmere and silk",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw08e91213/images/large/2AD1M098W.19BR_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BROWN",
+          "size": null,
+          "price": "18353700",
+          "code": "2AD1M098W.19BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw08e91213/images/large/2AD1M098W.19BR_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/gloves-in-monogram-wool%2C-cashmere-and-silk-2AD1M098W.19BR.html"
+    },
+    {
+      "code": "2AUR9855D.38NO",
+      "name": "fedora hat in felt",
+      "details": "100% rabbit furLining 100% acetategrosgrain with bow3.5 in (9 cm) raw hemsmade in FranceReference : 2AUR9855D.38NO",
+      "description": "TRIOMPHE fedora hat in felt",
+      "price": "29216100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc8ac1276/images/large/2AUR9855D.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "29216100",
+          "code": "2AUR9855D.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc8ac1276/images/large/2AUR9855D.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/fedora-hat-in-felt-2AUR9855D.38NO.html"
+    },
+    {
+      "code": "2AU04545I.02NC",
+      "name": "triomphe panama hat in straw",
+      "details": "100% STRAWgrosgrain with triomphe signature3.9 in (10.5 cm) brimmade in FranceReference : 2AU04545I.02NC",
+      "description": "panama hat with triomphe signature in straw",
+      "price": "25470400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwabb26c97/images/large/2AU04545I.02NC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / BLACK",
+          "size": null,
+          "price": "25470400",
+          "code": "2AU04545I.02NC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwabb26c97/images/large/2AU04545I.02NC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-panama-hat-in-straw-2AU04545I.02NC.html"
+    },
+    {
+      "code": "2AUS1327V.07DN",
+      "name": "triomphe sailor cap in wool cloth",
+      "details": "93% WOOL 7% POLYAMIDELINING 54% CUPRO 46% VISCOSEtriomphe patch2 in (5 cm) brimcontrasting braided ribbon2 triomphe buttonsmade in FranceReference : 2AUS1327V.07DN",
+      "description": "wool sailor cap with triomphe patch in wool cloth",
+      "price": "24346800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5cc185ae/images/large/2AUS1327V.07DN_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK NAVY",
+          "size": null,
+          "price": "24346800",
+          "code": "2AUS1327V.07DN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5cc185ae/images/large/2AUS1327V.07DN_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-sailor-cap-in-wool-cloth-2AUS1327V.07DN.html"
+    },
+    {
+      "code": "2AUG1296V.08WV",
+      "name": "triomphe sailor cap in cotton hickory",
+      "details": "100% COTTONtriomphe patch2 in (5 cm) brim with topstitching2 celine paris-engraved rivetsmade in ItalyReference : 2AUG1296V.08WV",
+      "description": "sailor cap with triomphe patch in cotton hickory",
+      "price": "19102800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd968f0fd/images/large/2AUG1296V.08WV_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WAVE WASH",
+          "size": null,
+          "price": "19102800",
+          "code": "2AUG1296V.08WV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd968f0fd/images/large/2AUG1296V.08WV_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-sailor-cap-in-cotton-hickory-2AUG1296V.08WV.html"
+    }
+  ]
 }

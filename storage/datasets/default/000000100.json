@@ -1,4 +1,360 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "461ME3CBC.18GC",
+      "name": "Les Cuirs Celine Josephine Bracelet in Calfskin and Brass with Gold Finish",
+      "details": "Brass and CalfskinNickel FreeEngraved Celine Paris SignatureReference : 461ME3CBC.18GC",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw82d1ca79/images/large/461ME3CBC.18GC_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / CHESTNUT",
+          "size": null,
+          "price": "15731800",
+          "code": "461ME3CBC.18GC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw82d1ca79/images/large/461ME3CBC.18GC_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/les-cuirs-celine-josephine-bracelet-in-calfskin-and-brass-with-gold-finish-461ME3CBC.18GC.html"
+    },
+    {
+      "code": "461HD3LBS.28LB",
+      "name": "Celine Bangle in Lambskin",
+      "details": "LambskinNickel FreeEngraved Celine Paris SignatureReference : 461HD3LBS.28LB",
+      "description": "",
+      "price": "17230000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw57a2394e/images/large/461HD3LBS.28LB_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BURGUNDY",
+          "size": null,
+          "price": "17230000",
+          "code": "461HD3LBS.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw57a2394e/images/large/461HD3LBS.28LB_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "17230000",
+          "code": "461HD3LBS.03TN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw452833c9/images/large/461HD3LBS.03TN_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/celine-bangle-in-lambskin-461HD3LBS.28LB.html"
+    },
+    {
+      "code": "461HC6ALM.35OR",
+      "name": "Celine Bangle in Aluminium",
+      "details": "AluminiumNickel FreeEngraved Celine Paris SignatureReference : 461HC6ALM.35OR",
+      "description": "",
+      "price": "28467000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwead9e024/images/large/461HC6ALM.35OR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "28467000",
+          "code": "461HC6ALM.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwead9e024/images/large/461HC6ALM.35OR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/celine-bangle-in-aluminium-461HC6ALM.35OR.html"
+    },
+    {
+      "code": "461CR3BCF.04GT",
+      "name": "Les Cuirs Celine Bracelet in Calfskin and Brass with Gold Finish",
+      "details": "Brass and CalfskinNickel FreeEngraved Celine SignatureReference : 461CR3BCF.04GT",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3954521e/images/large/461CR3BCF.04GT_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / TAN",
+          "size": null,
+          "price": "15731800",
+          "code": "461CR3BCF.04GT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3954521e/images/large/461CR3BCF.04GT_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "GOLD / TAN",
+          "size": null,
+          "price": "14608100",
+          "code": "46X623BCF.04GT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5c6211a4/images/large/46X623BCF.04GT_1_FALL21.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/les-cuirs-celine-bracelet-in-calfskin-and-brass-with-gold-finish-461CR3BCF.04GT.html"
+    },
+    {
+      "code": "460SF3CBC.18GC",
+      "name": "Les Cuirs Celine Double Bracelet in Calfskin and Brass with Gold Finish",
+      "details": "Brass and CalfskinNickel FreeEngraved Celine SignatureReference : 460SF3CBC.18GC",
+      "description": "",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw808f5243/images/large/460SF3CBC.18GC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / CHESTNUT",
+          "size": null,
+          "price": "14608100",
+          "code": "460SF3CBC.18GC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw808f5243/images/large/460SF3CBC.18GC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "GOLD / TAN",
+          "size": null,
+          "price": "14608100",
+          "code": "460SF3BCF.04GT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb7484dee/images/large/460SF3BCF.04GT_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "GOLD / DARK OLIVE",
+          "size": null,
+          "price": "14608100",
+          "code": "460SF3SMO.31GD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcd809798/images/large/460SF3SMO.31GD_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "GOLD / PALE BLUE",
+          "size": null,
+          "price": "14608100",
+          "code": "460SF3WBC.35PB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9f7a0c0c/images/large/460SF3WBC.35PB_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/les-cuirs-celine-double-bracelet-in-calfskin-and-brass-with-gold-finish-460SF3CBC.18GC.html"
+    },
+    {
+      "code": "460SF3SMO.60EC",
+      "name": "Les Cuirs Celine Double Bracelet in Smooth Calfskin and Brass with Gold Finish",
+      "details": "Brass and Smooth CalfskinNickel FreeEngraved Celine SignatureReference : 460SF3SMO.60EC",
+      "description": "",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd45a193a/images/large/460SF3SMO.60EC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ECRU / GOLD",
+          "size": null,
+          "price": "14608100",
+          "code": "460SF3SMO.60EC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd45a193a/images/large/460SF3SMO.60EC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/les-cuirs-celine-double-bracelet-in-smooth-calfskin-and-brass-with-gold-finish-460SF3SMO.60EC.html"
+    },
+    {
+      "code": "461MB6BRA.35OR",
+      "name": "Celine Heirlooms Médaille Sautoir in Brass with Gold Finish",
+      "details": "Total length 41.3 IN (105 CM) ADJUSTABLE TO 39.4 IN (100 CM)Additional Adjustement Ring at 37.4 IN (95 CM)BrassNickel FreeEngraved Celine Paris SignatureSnap HookReference : 461MB6BRA.35OR",
+      "description": "",
+      "price": "29981400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw41fe1eaa/images/large/461MB6BRA.35OR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "29981400",
+          "code": "461MB6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw41fe1eaa/images/large/461MB6BRA.35OR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/celine-heirlooms-medaille-sautoir-in-brass-with-gold-finish-461MB6BRA.35OR.html"
+    },
+    {
+      "code": "461BY6BRA.35OR",
+      "name": "Celine Petale Necklace in Brass with Gold Finish",
+      "details": "Total length 33 IN (84 CM)ADJUSTABLE TO 32.3 IN (82 CM)Additional Adjustable Ring at 31.5 IN (80 CM)Pendant Dimensions : 1.93 x 2.25 IN (4.9 x 5.7 CM)BrassNickel FreeEngraved Celine Paris SignatureSnap HookReference : 461BY6BRA.35OR",
+      "description": "",
+      "price": "23223100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc5d03938/images/large/461BY6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "23223100",
+          "code": "461BY6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc5d03938/images/large/461BY6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/necklaces/celine-petale-necklace-in-brass-with-gold-finish-461BY6BRA.35OR.html"
+    },
+    {
+      "code": "461CE6BRA.35OR",
+      "name": "Celine Petale Earrings in Brass with Gold Finish",
+      "details": "Petal Dimensions: 1.58 x 1.78 IN (4 x 4.5 CM)BrassNickel FreeEngraved Celine Paris SignatureFor Pierced EarsReference : 461CE6BRA.35OR",
+      "description": "",
+      "price": "22099400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw73d7bfa8/images/large/461CE6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "22099400",
+          "code": "461CE6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw73d7bfa8/images/large/461CE6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/celine-petale-earrings-in-brass-with-gold-finish-461CE6BRA.35OR.html"
+    },
+    {
+      "code": "461CA6BRA.35OR",
+      "name": "Celine Petale Bracelet in Brass with Gold Finish",
+      "details": "Bracelet Width: 1.58 IN (4 CM)BrassNickel FreeEngraved Celine Paris SignatureConcealed Snap HookReference : 461CA6BRA.35OR",
+      "description": "",
+      "price": "29590700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbf296946/images/large/461CA6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "29590700",
+          "code": "461CA6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbf296946/images/large/461CA6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/celine-petale-bracelet-in-brass-with-gold-finish-461CA6BRA.35OR.html"
+    },
+    {
+      "code": "461BZ6BRA.35OR",
+      "name": "Celine Petale Cuff in Brass with Gold Finish",
+      "details": "Width Cuff: 1.58 IN (4 CM)BrassNickel FreeEngraved Celine Paris SignatureReference : 461BZ6BRA.35OR",
+      "description": "",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw542f7544/images/large/461BZ6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "35583700",
+          "code": "461BZ6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw542f7544/images/large/461BZ6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/celine-petale-cuff-in-brass-with-gold-finish-461BZ6BRA.35OR.html"
+    },
+    {
+      "code": "461CB6BRA.35OR",
+      "name": "Celine Petale Ring in Brass with Gold Finish",
+      "details": "Petal Dimensions: 1.66 x 1.82 IN (4.2 x 4.6 CM)BrassNickel FreeEngraved Celine Paris SignatureReference : 461CB6BRA.35OR",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7957796f/images/large/461CB6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "17604600",
+          "code": "461CB6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7957796f/images/large/461CB6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/rings/celine-petale-ring-in-brass-with-gold-finish-461CB6BRA.35OR.html"
+    },
+    {
+      "code": "461HI6BRA.35OR",
+      "name": "Formes Abstraites Cuff in Brass with Gold Finish",
+      "details": "BrassNickel FreeEngraved Celine Paris SignatureReference : 461HI6BRA.35OR",
+      "description": "",
+      "price": "16855500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcf5a7d4d/images/large/461HI6BRA.35OR_1_SPR25_P1_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "16855500",
+          "code": "461HI6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcf5a7d4d/images/large/461HI6BRA.35OR_1_SPR25_P1_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/formes-abstraites-cuff-in-brass-with-gold-finish-461HI6BRA.35OR.html"
+    },
+    {
+      "code": "461FH6BRA.35OR",
+      "name": "Formes Abstraites Pyramid Cuff in Brass with Gold Finish",
+      "details": "BrassNickel FreeEngraved Celine Paris SignatureReference : 461FH6BRA.35OR",
+      "description": "",
+      "price": "29606600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc3d0a6c7/images/large/461FH6BRA.35OR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "29606600",
+          "code": "461FH6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc3d0a6c7/images/large/461FH6BRA.35OR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/formes-abstraites-pyramid-cuff-in-brass-with-gold-finish-461FH6BRA.35OR.html"
+    },
+    {
+      "code": "461HJ6BRA.35OR",
+      "name": "Formes Abstraites Hoops in Brass with Gold Finish",
+      "details": "BrassNickel FreeEngraved Celine Paris SignatureFor Pierced EarsReference : 461HJ6BRA.35OR",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw422691c9/images/large/461HJ6BRA.35OR_1_SPR25_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "17604600",
+          "code": "461HJ6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw422691c9/images/large/461HJ6BRA.35OR_1_SPR25_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/formes-abstraites-hoops-in-brass-with-gold-finish-461HJ6BRA.35OR.html"
+    }
+  ]
 }

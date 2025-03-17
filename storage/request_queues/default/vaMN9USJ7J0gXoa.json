@@ -1,0 +1,23 @@
+{
+  "id": "vaMN9USJ7J0gXoa",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/les-perles-celine-baroque-earrings-in-brass-with-gold-finish-and-cultured-pearls-46w356bpa.01gi.html",
+  "order_no": "1742184038867.846000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/les-perles-celine-baroque-earrings-in-brass-with-gold-finish-and-cultured-pearls-46W356BPA.01GI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/les-perles-celine-baroque-earrings-in-brass-with-gold-finish-and-cultured-pearls-46w356bpa.01gi.html",
+    "id": "vaMN9USJ7J0gXoa"
+  }
+}

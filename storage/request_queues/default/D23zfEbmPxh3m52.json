@@ -1,0 +1,23 @@
+{
+  "id": "D23zfEbmPxh3m52",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/quilted-vest-in-monogram-nylon-2w987344n.02bl.html",
+  "order_no": "1742183159370.698000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/quilted-vest-in-monogram-nylon-2W987344N.02BL.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/quilted-vest-in-monogram-nylon-2w987344n.02bl.html",
+    "id": "D23zfEbmPxh3m52"
+  }
+}

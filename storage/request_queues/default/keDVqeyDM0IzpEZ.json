@@ -1,0 +1,23 @@
+{
+  "id": "keDVqeyDM0IzpEZ",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-loose-t-shirt-in-cotton-jersey-rx07c507z.38ao.html",
+  "order_no": "1742182967560.954000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-loose-t-shirt-in-cotton-jersey-RX07C507Z.38AO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-loose-t-shirt-in-cotton-jersey-rx07c507z.38ao.html",
+    "id": "keDVqeyDM0IzpEZ"
+  }
+}

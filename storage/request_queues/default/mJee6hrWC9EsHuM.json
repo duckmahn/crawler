@@ -1,0 +1,23 @@
+{
+  "id": "mJee6hrWC9EsHuM",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/cloche-cape-in-double-faced-wool-crepe-2m92c666y.38no.html",
+  "order_no": "1742183159369.150000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/cloche-cape-in-double-faced-wool-crepe-2M92C666Y.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/cloche-cape-in-double-faced-wool-crepe-2m92c666y.38no.html",
+    "id": "mJee6hrWC9EsHuM"
+  }
+}

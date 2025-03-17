@@ -1,0 +1,23 @@
+{
+  "id": "UPNuSfGc3cT8wKL",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/loose-aviator-blouson-jacket-in-soft-lambskin-2eg26305q.19eh.html",
+  "order_no": "1742183196103.411000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/loose-aviator-blouson-jacket-in-soft-lambskin-2EG26305Q.19EH.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/loose-aviator-blouson-jacket-in-soft-lambskin-2eg26305q.19eh.html",
+    "id": "UPNuSfGc3cT8wKL"
+  }
+}

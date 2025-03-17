@@ -1,0 +1,23 @@
+{
+  "id": "kYV1fyZV3EbUI7I",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triomphe-bustier-in-striped-jersey-2x69j248x.01cq.html",
+  "order_no": "1742182995588.644000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triomphe-bustier-in-striped-jersey-2X69J248X.01CQ.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triomphe-bustier-in-striped-jersey-2x69j248x.01cq.html",
+    "id": "kYV1fyZV3EbUI7I"
+  }
+}

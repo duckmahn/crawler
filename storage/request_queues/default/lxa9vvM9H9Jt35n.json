@@ -1,0 +1,23 @@
+{
+  "id": "lxa9vvM9H9Jt35n",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-smooth-calfskin-with-gold-finishing-49s103erx.38no.html",
+  "order_no": "1742182232217.225000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-smooth-calfskin-with-gold-finishing-49S103ERX.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-smooth-calfskin-with-gold-finishing-49s103erx.38no.html",
+    "id": "lxa9vvM9H9Jt35n"
+  }
+}

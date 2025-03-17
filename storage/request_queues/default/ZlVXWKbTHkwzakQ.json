@@ -1,0 +1,23 @@
+{
+  "id": "ZlVXWKbTHkwzakQ",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-cashmere,-wool-and-silk-aa0310u63.fyx4.html",
+  "order_no": "1742183643226.875000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-cashmere,-wool-and-silk-AA0310U63.FYX4.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-cashmere,-wool-and-silk-aa0310u63.fyx4.html",
+    "id": "ZlVXWKbTHkwzakQ"
+  }
+}

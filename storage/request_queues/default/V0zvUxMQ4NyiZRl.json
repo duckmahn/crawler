@@ -1,0 +1,23 @@
+{
+  "id": "V0zvUxMQ4NyiZRl",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-panama-hat-in-straw-2au04545i.02nc.html",
+  "order_no": "1742183800835.733000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-panama-hat-in-straw-2AU04545I.02NC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-panama-hat-in-straw-2au04545i.02nc.html",
+    "id": "V0zvUxMQ4NyiZRl"
+  }
+}

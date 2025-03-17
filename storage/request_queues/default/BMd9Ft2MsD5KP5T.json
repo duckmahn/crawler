@@ -1,0 +1,23 @@
+{
+  "id": "BMd9Ft2MsD5KP5T",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-gros-grain-356832285c.38no.html",
+  "order_no": "1742183369426.552000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-gros-grain-356832285C.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-gros-grain-356832285c.38no.html",
+    "id": "BMd9Ft2MsD5KP5T"
+  }
+}

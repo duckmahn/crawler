@@ -1,4 +1,256 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "119563FX9.38NO",
+      "name": "MEDIUM CAMILLE 16 SOFT BAG IN SMOOTH CALFSKIN",
+      "details": "14.2 x 11.6 x 2.8 IN (36 x 29.5 x 7 CM)CALFSKINlambskin liningCross-body and shoulder carryTURN LOCK CLOSUREONE MAIN COMPARTMENTone inner zipped pocketTwo removable straps : one for hand or shoulder carry with a 9,8 IN (25 CM) drop & one adjustable for cross-body carry with a minimum drop 16,5 IN (42 CM) and maximum drop 19 IN (48 CM)Reference : 119563FX9.38NO",
+      "description": "The CAMILLE bag, the newest addition to the 16 soft line, a hobo shape with a functional design embodies the quintessence of the CELINE spirit.\n\nIts refined calfskin leather combines suppleness with a soft touch and shiny finish. The reversed construction with piping, distinctive of CELINE’s leathergood craftsmanship, further accentuates its round hand.Its structured cut is borrowed from the 16 soft tote bag and gives it a sophisticated and singular appearance. The leather flap folds in line with the house’s gold finish iconic turnlock closure, shaped like a discreet jewel.\n\nThe CAMILLE 16 soft versatility is expressed through a short handle, allowing an elegant and refined shoulder carry whereas a longer adjustable handle allows a more casual and effortless crossbody carry. The two removable straps can be fixed and worn together or separately using CELINE engraved hooks.\n\nFor its first season, The CELINE 16 soft comes in a medium size, in black, tan and sand leather. A smaller version is available in black, tan and rice leather, as well as natural python.",
+      "price": "101132500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7e69a58b/images/large/119563FX9.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "101132500",
+          "code": "119563FX9.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7e69a58b/images/large/119563FX9.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "101132500",
+          "code": "119563FX9.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw08d13563/images/large/119563FX9.04LU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Light Sand",
+          "size": null,
+          "price": "101132500",
+          "code": "119563FX9.03PA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwee634150/images/large/119563FX9.03PA_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/camille/medium-camille-16-soft-bag-in-smooth-calfskin-119563FX9.38NO.html"
+    },
+    {
+      "code": "120693FX9.38NO",
+      "name": "SMALL CAMILLE 16 SOFT BAG IN SMOOTH CALFSKIN",
+      "details": "9.7 x 8.5 x 2 IN (24.5 x 21.5 x 5 CM)CALFSKINlambskin liningHand carry, shoulder carry and cross-body carryTURN LOCK CLOSUREONE MAIN COMPARTMENTone inner zipped pocketTwo removable straps : one for hand or shoulder carry with a 8,6 IN (22 CM) drop & one adjustable for cross-body carry with a minimum drop 16,5 IN (42 CM) and maximum drop 19 IN (48 CM)Reference : 120693FX9.38NO",
+      "description": "The CAMILLE bag, the newest addition to the 16 soft line, a hobo shape with a functional design embodies the quintessence of the CELINE spirit.\n\nIts refined calfskin leather combines suppleness with a soft touch and shiny finish. The reversed construction with piping, distinctive of CELINE’s leathergood craftsmanship, further accentuates its round hand.Its structured cut is borrowed from the 16 soft tote bag and gives it a sophisticated and singular appearance. The leather flap folds in line with the house’s gold finish iconic turnlock closure, shaped like a discreet jewel.\n\nThe CAMILLE 16 soft versatility is expressed through a short handle, allowing an elegant and refined shoulder carry whereas a longer adjustable handle allows a more casual and effortless crossbody carry. The two removable straps can be fixed and worn together or separately using CELINE engraved hooks.\n\nFor its first season, The CELINE 16 soft comes in a medium size, in black, tan and sand leather. A smaller version is available in black, tan and rice leather, as well as natural python.",
+      "price": "89944100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3645d07c/images/large/120693FX9.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "89944100",
+          "code": "120693FX9.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3645d07c/images/large/120693FX9.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "89944100",
+          "code": "120693FX9.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw89105394/images/large/120693FX9.04LU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Smoked Brown",
+          "size": null,
+          "price": "89944100",
+          "code": "120693FX9.18AE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7c6380d6/images/large/120693FX9.18AE_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Soft Peach",
+          "size": null,
+          "price": "89895600",
+          "code": "120693FX9.03PH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbf2674b4/images/large/120693FX9.03PH_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Spring Yellow",
+          "size": null,
+          "price": "89895600",
+          "code": "120693FX9.11SS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw82c658cd/images/large/120693FX9.11SS_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "RICE",
+          "size": null,
+          "price": "89944100",
+          "code": "120693FX9.01RC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwea3ef4a5/images/large/120693FX9.01RC_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/camille/small-camille-16-soft-bag-in-smooth-calfskin-120693FX9.38NO.html"
+    },
+    {
+      "code": "120694DFN.02VG",
+      "name": "SMALL CAMILLE 16 SOFT IN PYTHON",
+      "details": "9.7 x 8.5 x 2 IN (24.5 x 21.5 x 5 CM)PYTHONlambskin liningHand carry, shoulder carry and cross-body carryTURN LOCK CLOSUREONE MAIN COMPARTMENTone inner zipped pocketTwo removable straps : one for hand or shoulder carry with a 8,6 IN (22 CM) drop & one adjustable for cross-body carry with a minimum drop 16,5 IN (42 CM) and maximum drop 19 IN (48 CM)Reference : 120694DFN.02VG",
+      "description": "The CAMILLE bag, the newest addition to the 16 soft line, a hobo shape with a functional design embodies the quintessence of the CELINE spirit.\n\nIts refined calfskin leather combines suppleness with a soft touch and shiny finish. The reversed construction with piping, distinctive of CELINE’s leathergood craftsmanship, further accentuates its round hand.Its structured cut is borrowed from the 16 soft tote bag and gives it a sophisticated and singular appearance. The leather flap folds in line with the house’s gold finish iconic turnlock closure, shaped like a discreet jewel.\n\nThe CAMILLE 16 soft versatility is expressed through a short handle, allowing an elegant and refined shoulder carry whereas a longer adjustable handle allows a more casual and effortless crossbody carry. The two removable straps can be fixed and worn together or separately using CELINE engraved hooks.\n\nFor its first season, The CELINE 16 soft comes in a medium size, in black, tan and sand leather. A smaller version is available in black, tan and rice leather, as well as natural python.",
+      "price": "127420800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3fdee78d/images/large/120694DFN.02VG_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL",
+          "size": null,
+          "price": "127420800",
+          "code": "120694DFN.02VG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3fdee78d/images/large/120694DFN.02VG_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/camille/small-camille-16-soft-in-python-120694DFN.02VG.html"
+    },
+    {
+      "code": "121672CAS.04LU",
+      "name": "TEEN CLARA BAG IN Triomphe Canvas and calfskin",
+      "details": "6.3 x 7.5 x 6.3 IN (16 x 19 x 16 CM)Triomphe Canvas, trimmings in calfskinTextile LiningHand carry, shoulder carry and cross-body carrydrawstring leather ties with decorative metallic triompheONE MAIN COMPARTMENTONE LEATHER HANDLE with 2.76 IN (7 CM) dropONE REMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 16 IN (41 CM) AND MAXIMUM DROP19 IN (48 CM)Reference: 121672CAS.04LU",
+      "description": "",
+      "price": "52467400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw51073f97/images/large/121672CAS.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "52467400",
+          "code": "121672CAS.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw51073f97/images/large/121672CAS.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/teen-clara-bag--in-triomphe-canvas-and-calfskin-121672CAS.04LU.html"
+    },
+    {
+      "code": "187363BF4.38SI",
+      "name": "CLASSIQUE TRIOMPHE BAG in shiny calfskin",
+      "details": "9 x 6 x 2 IN (22 x 15.5 x 6 CM)CalfskinLambskin LiningSILVER FINISHINGCross-body and shoulder carryTriomphe metallic closurethree inner compartmentsone inner zipped pocket one inner flat pocketadjustable strap with a minimum drop 18 IN (44 CM) and maximum drop 20 IN (51 CM)Reference : 187363BF4.38SI",
+      "description": "The Triomphe bag embodies the very essence of the CELINE look.\r\nNamed Triomphe as a tribute to Céline Vipiana, the Classique has the makings of a unique bag: a sophisticated construction, a signature emblem clasp and prestigious leathers.\r\nComposed of 89 pieces, the Triomphe bag requires exceptional leather-making craftmanship and delicate blending for its construction.\r\nThe gold-finished hardware, a signature of the CELINE style, signals its personality. The clasp - a reinterpretation of the Maison’s iconic 1970s logo - integrates a mechanism developed like a piece of jewellery, built symmetrically in two parts.\r\nIt is crafted with the most iconic CELINE leathers – satin calfskin and natural tan calfskin – balancing the bag’s softness and structure.\r\nThe Classique is the most emblematic model in the Triomphe family, designed with a timeless aesthetic.",
+      "price": "131097700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe1aca121/images/large/187363BF4.38SI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "131097700",
+          "code": "187363BF4.38SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe1aca121/images/large/187363BF4.38SI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "AMAZONE",
+          "size": null,
+          "price": "131168500",
+          "code": "187363BF4.31AN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw192465b4/images/large/187363BF4.31AN_1_SS24_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "ANTHRACITE",
+          "size": null,
+          "price": "131168500",
+          "code": "187363BF4.10AN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw75a9c4af/images/large/187363BF4.10AN_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "CLOUDY GREY",
+          "size": null,
+          "price": "131168500",
+          "code": "187363BF4.10CG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw78ead452/images/large/187363BF4.10CG_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/classique-triomphe-bag-in-shiny-calfskin-187363BF4.38SI.html"
+    },
+    {
+      "code": "187363BF4.38NO",
+      "name": "CLASSIQUE TRIOMPHE BAG IN shiny calfskin",
+      "details": "9 x 6 x 2 IN (22 x 15.5 x 6 CM)CalfskinLambskin LiningGOLD FINISHINGCross-body and shoulder carryTriomphe metallic closurethree inner compartmentsone inner zipped pocket one inner flat pocketadjustable strap with a minimum drop 18 IN (44 CM) and maximum drop 20 IN (51 CM)Reference : 187363BF4.38NO",
+      "description": "The Triomphe bag embodies the very essence of the CELINE look.\r\nNamed Triomphe as a tribute to Céline Vipiana, the Classique has the makings of a unique bag: a sophisticated construction, a signature emblem clasp and prestigious leathers.\r\nComposed of 89 pieces, the Triomphe bag requires exceptional leather-making craftmanship and delicate blending for its construction.\r\nThe gold-finished hardware, a signature of the CELINE style, signals its personality. The clasp - a reinterpretation of the Maison’s iconic 1970s logo - integrates a mechanism developed like a piece of jewellery, built symmetrically in two parts.\r\nIt is crafted with the most iconic CELINE leathers – satin calfskin and natural tan calfskin – balancing the bag’s softness and structure.\r\nThe Classique is the most emblematic model in the Triomphe family, designed with a timeless aesthetic.",
+      "price": "131097700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw36f0bdd8/images/large/187363BF4.38NO_1_SS24_W_V5.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "131097700",
+          "code": "187363BF4.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw36f0bdd8/images/large/187363BF4.38NO_1_SS24_W_V5.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Smoked Brown",
+          "size": null,
+          "price": "131168500",
+          "code": "187363BF4.18AE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc7c600f1/images/large/187363BF4.18AE_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BRONZE",
+          "size": null,
+          "price": "131168500",
+          "code": "187363BF4.18BU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa3e11306/images/large/187363BF4.18BU_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PEBBLE",
+          "size": null,
+          "price": "131168500",
+          "code": "187363BF4.10BL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf071ec6d/images/large/187363BF4.10BL_1_SUM23_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/classique-triomphe-bag-in-shiny-calfskin-187363BF4.38NO.html"
+    },
+    {
+      "code": "187363BFN.04LU",
+      "name": "CLASSIQUE TRIOMPHE BAG IN Natural Calfskin",
+      "details": "9 x 6 x 3 in (22 x 16.5 x 7 cm)100% CalfskinGold Metal Hardware100% Lambskin LiningCross-body and shoulder carryTriomphe metallic closureInner zipped pocket and flat pocketAdjustable leather strapReference: 187363BFN.04LU",
+      "description": "The Triomphe bag embodies the very essence of the CELINE look.\r\nNamed Triomphe as a tribute to Céline Vipiana, the Classique has the makings of a unique bag: a sophisticated construction, a signature emblem clasp and prestigious leathers.\r\nComposed of 89 pieces, the Triomphe bag requires exceptional leather-making craftmanship and delicate blending for its construction.\r\nThe gold-finished hardware, a signature of the CELINE style, signals its personality. The clasp - a reinterpretation of the Maison’s iconic 1970s logo - integrates a mechanism developed like a piece of jewellery, built symmetrically in two parts.\r\nIt is crafted with the most iconic CELINE leathers – satin calfskin and natural tan calfskin – balancing the bag’s softness and structure.\r\nThe Classique is the most emblematic model in the Triomphe family, designed with a timeless aesthetic.",
+      "price": "142411500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4e399b2f/images/large/187363BFN.04LU_1_LIB_V6.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Tan",
+          "size": null,
+          "price": "142411500",
+          "code": "187363BFN.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4e399b2f/images/large/187363BFN.04LU_1_LIB_V6.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/classique-triomphe-bag-in-natural-calfskin-187363BFN.04LU.html"
+    }
+  ]
 }

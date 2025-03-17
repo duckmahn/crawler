@@ -1,0 +1,23 @@
+{
+  "id": "kZ8lBa7bYEE5ubw",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-triomphe-silk-twill-2awb60r61.27xr.html",
+  "order_no": "1742183703621.278000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-triomphe-silk-twill-2AWB60R61.27XR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-triomphe-silk-twill-2awb60r61.27xr.html",
+    "id": "kZ8lBa7bYEE5ubw"
+  }
+}

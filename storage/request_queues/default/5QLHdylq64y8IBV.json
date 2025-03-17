@@ -1,0 +1,23 @@
+{
+  "id": "5QLHdylq64y8IBV",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/essentials/zipped-compact-card-holder-essentials-in-grained-calfskin-10j893bel.10bl.html",
+  "order_no": "1742182672349.553000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/essentials/zipped-compact-card-holder-essentials-in-grained-calfskin-10J893BEL.10BL.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/essentials/zipped-compact-card-holder-essentials-in-grained-calfskin-10j893bel.10bl.html",
+    "id": "5QLHdylq64y8IBV"
+  }
+}

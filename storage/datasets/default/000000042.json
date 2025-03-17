@@ -1,4 +1,373 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "120703GPS.38NO",
+      "name": "MEDIUM CELINE ANTOINETTE IN NATURAL SATINATED CALFSKIN",
+      "details": "10.6 x 6.3 x 3.5 IN (27 x 16 x 9 CM)CALFSKINlambskin liningGOLD FINISHINGHand carryTriomphe Metallic ClosureONE MAIN COMPARTMENTONE INNER FLAT POCKETONE LEATHER HANDLE with 3.54 IN (9 CM) drop Reference : 120703GPS.38NO",
+      "description": "",
+      "price": "131168500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd83cddfb/images/large/120703GPS.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "131168500",
+          "code": "120703GPS.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd83cddfb/images/large/120703GPS.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Bordeaux",
+          "size": null,
+          "price": "131097700",
+          "code": "120703GPS.27MM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4e7c6b0f/images/large/120703GPS.27MM_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "RICE",
+          "size": null,
+          "price": "131097700",
+          "code": "120703GPS.01RC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3e641731/images/large/120703GPS.01RC_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/medium-celine-antoinette-in-natural-satinated-calfskin-120703GPS.38NO.html"
+    },
+    {
+      "code": "118593GFS.38NO",
+      "name": "SMALL BOX BLANDINE in SUEDE CALFSKIN WITH STRASS",
+      "details": "6 x 5 x 2 IN (16 x 12 x 4 CM)CALFSKIN WITH STRASSLAMBSKIN LININGGOLD FINISHINGHand carry, shoulder carry and cross-body carryTriomphe Metallic ClosureOne main compartmentOne inner flat pocketREMOVABLE CHAIN with 22 IN (56 CM) dropHANDLE with 5 IN (13 CM) dropReference : 118593GFS.38NO",
+      "description": "",
+      "price": "213501900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4a39f5ea/images/large/118593GFS.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "213501900",
+          "code": "118593GFS.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4a39f5ea/images/large/118593GFS.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/small-box-blandine-in-suede-calfskin-with-strass-118593GFS.38NO.html"
+    },
+    {
+      "code": "118593FY1.38NO",
+      "name": "SMALL BOX BLANDINE in PATENT CALFSKIN",
+      "details": "6 x 5 x 2 IN (16 x 12 x 4 CM)CALFSKINLAMBSKIN LININGHand carry, shoulder carry and cross-body carryTriomphe Metallic ClosureOne main compartmentOne inner flat pocketREMOVABLE CHAIN with 22 IN (56 CM) dropHANDLE with 5 IN (13 CM) dropReference : 118593FY1.38NO",
+      "description": "",
+      "price": "93641200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw91f47fbe/images/large/118593FY1.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "93641200",
+          "code": "118593FY1.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw91f47fbe/images/large/118593FY1.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/small-box-blandine-in-patent-calfskin-118593FY1.38NO.html"
+    },
+    {
+      "code": "116764COE.38NO",
+      "name": "EVENING TRIOMPHE MINAUDIERE in Lizard",
+      "details": "6 x 4 x 2 IN (15.5 x 11 x 6 CM)Lizard(Varanus Salvator)lambskin liningHand carryDouble Magnetic Metallic Hinge ClosureTWO MAIN COMPARTMENTSHandle Leather with 5 IN (13 CM) dropReference : 116764COE.38NO",
+      "description": "",
+      "price": "232355600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4868a8ea/images/large/116764COE.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "232355600",
+          "code": "116764COE.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4868a8ea/images/large/116764COE.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/evening-triomphe-minaudiere-in-lizard-116764COE.38NO.html"
+    },
+    {
+      "code": "119522DNK.04LU",
+      "name": "TRIOMPHE OVAL BOX in Triomphe Canvas and Calfskin",
+      "details": "6 x 3 x 4 IN (14 x 8.5 x 10 CM)Triomphe Canvas, Trimmings in calfskinTextile liningHand carryTriomphe SNAP BUTTON ClosureONE MAIN COMPARTMENTONE LEATHER HANDLE with 3 IN (8 CM) dropReference : 119522DNK.04LU",
+      "description": "",
+      "price": "97386900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4e02e3a0/images/large/119522DNK.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "97386900",
+          "code": "119522DNK.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4e02e3a0/images/large/119522DNK.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/triomphe-oval-box-in-triomphe-canvas-and-calfskin-119522DNK.04LU.html"
+    },
+    {
+      "code": "111353EWI.04LU",
+      "name": "CELINE NINA MINAUDIERE in LAMBSKIN WITH TRIOMPHE CANVAS PRINT AND CALFSKIN",
+      "details": "5 x 4 x 5 IN (13 x 9 x 13 CM)lambskin, trimmings in calfskinlambskin liningGOLD FINISHINGHand carryTriomphe Metallic ClosureOne main compartmentOne inner mirrorLEATHER HANDLE with 5 IN (12 CM) dropReference : 111353EWI.04LU",
+      "description": "",
+      "price": "106808600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4e8a4d1a/images/large/111353EWI.04LU_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "106808600",
+          "code": "111353EWI.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4e8a4d1a/images/large/111353EWI.04LU_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/celine-nina-minaudiere-in-lambskin-with-triomphe-canvas-print-and-calfskin-111353EWI.04LU.html"
+    },
+    {
+      "code": "111354CZ4.31AN",
+      "name": "CELINE NINA MINAUDIERE in LIZARD",
+      "details": "5 x 4 x 5 IN (13 x 9 x 13 CM)LIZARD(Varanus Salvator)LAMBSKIN LININGHand carryTriomphe Metallic ClosureOne main compartmentOne inner mirrorLEATHER HANDLE with 5 IN (12 CM) dropReference : 111354CZ4.31AN",
+      "description": "",
+      "price": "213501900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef310731/images/large/111354CZ4.31AN_1_SUM23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "AMAZONE",
+          "size": null,
+          "price": "213501900",
+          "code": "111354CZ4.31AN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef310731/images/large/111354CZ4.31AN_1_SUM23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/celine-nina-minaudiere-in-lizard-111354CZ4.31AN.html"
+    },
+    {
+      "code": "115663EFE.38NO",
+      "name": "LOLA CLUTCH in shiny calfskin",
+      "details": "12 x 6 x 1 IN (30 x 14 x 3 CM)CalfskinLambskin LiningGOLD FINISHINGHand carryTRIOMPHE MAGNETIC CLOSUREOne main compartment One INNER FLAT POCKETReference : 115663EFE.38NO",
+      "description": "",
+      "price": "67421700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw201d15f2/images/large/115663EFE.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "67421700",
+          "code": "115663EFE.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw201d15f2/images/large/115663EFE.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/lola-clutch-in-shiny-calfskin-115663EFE.38NO.html"
+    },
+    {
+      "code": "115202GFG.07FX",
+      "name": "CHAIN SHOULDER BAG CLAUDE IN STRIPED DENIM WITH STRASS",
+      "details": "8.1 x 4.5 x 1.6 IN (20.5 x 11.5 x 4 CM)DENIM LININGShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 11.81 IN (30 CM) drop Reference : 115202GFG.07FX",
+      "description": "",
+      "price": "95565600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw245587bd/images/large/115202GFG.07FX_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Denim",
+          "size": null,
+          "price": "95565600",
+          "code": "115202GFG.07FX",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw245587bd/images/large/115202GFG.07FX_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-striped-denim-with-strass-115202GFG.07FX.html"
+    },
+    {
+      "code": "115203GG6.38NO",
+      "name": "CHAIN SHOULDER BAG CLAUDE in SUEDE CALFSKIN WITH TRIOMPHE STRASS",
+      "details": "8 x 5 x 2 IN (20.5 x 11.5 x 4 CM)CALFSKIN WITH STRASSLAMBSKIN LININGGOLD FINISHINGShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 12 IN (30 CM) dropReference : 115203GG6.38NO",
+      "description": "",
+      "price": "142334600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw96d507ef/images/large/115203GG6.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "142334600",
+          "code": "115203GG6.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw96d507ef/images/large/115203GG6.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-suede-calfskin-with-triomphe-strass-115203GG6.38NO.html"
+    },
+    {
+      "code": "115203FZC.19LE",
+      "name": "CHAIN SHOULDER BAG CLAUDE in PONY CALFSKIN WITH LEOPARD PRINT",
+      "details": "8 x 5 x 2 IN (20.5 x 11.5 x 4 CM)CALFSKINLAMBSKIN LININGShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 12 IN (30 CM) dropReference : 115203FZC.19LE",
+      "description": "",
+      "price": "95514000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw30b19d15/images/large/115203FZC.19LE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "95514000",
+          "code": "115203FZC.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw30b19d15/images/large/115203FZC.19LE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-pony-calfskin-with-leopard-print-115203FZC.19LE.html"
+    },
+    {
+      "code": "112183BF4.38NO",
+      "name": "CHAIN SHOULDER BAG CLAUDE WITH STRASS CLOSURE in shiny calfskin",
+      "details": "8 x 5 x 2 IN (20.5 x 11.5 x 4 CM)CalfskinLambskin LiningGOLD FINISHINGShoulder carryTriomphe SNAP BUTTON CLOSURE with crystalsINNER FLAT POCKETCHAIN with 9 IN (24 CM) dropReference : 112183BF4.38NO",
+      "description": "",
+      "price": "121733600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw504a76da/images/large/112183BF4.38NO_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "121733600",
+          "code": "112183BF4.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw504a76da/images/large/112183BF4.38NO_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-with-strass-closure-in-shiny-calfskin-112183BF4.38NO.html"
+    },
+    {
+      "code": "115203FUN.38NO",
+      "name": "CHAIN SHOULDER BAG CLAUDE in SUEDE GOATSKIN WITH STRASS",
+      "details": "8 x 5 x 2 IN (20.5 x 11.5 x 4 CM)GOATSKINLAMBSKIN LININGGold FinishingShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 12 IN (30 CM) dropReference : 115203FUN.38NO",
+      "description": "",
+      "price": "142334600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw798ad235/images/large/115203FUN.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "142334600",
+          "code": "115203FUN.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw798ad235/images/large/115203FUN.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-suede-goatskin-with-strass-115203FUN.38NO.html"
+    },
+    {
+      "code": "197993EWD.35OR",
+      "name": "CHAIN SHOULDER BAG CLAUDE in TRIOMPHE QUILTED SEQUINS",
+      "details": "8 x 5 x 2 IN (20.5 x 11.5 x 4 CM)CALFSKIN WITH SEQUINSCALFSKIN LININGGOLD FINISHINGShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 9 IN (24 CM) dropReference : 197993EWD.35OR",
+      "description": "",
+      "price": "110556300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw587bf83f/images/large/197993EWD.35OR_1_SPR23_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "110556300",
+          "code": "197993EWD.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw587bf83f/images/large/197993EWD.35OR_1_SPR23_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-triomphe-quilted-sequins-197993EWD.35OR.html"
+    },
+    {
+      "code": "115203BF4.38NO",
+      "name": "CHAIN SHOULDER BAG CLAUDE IN shiny calfskin",
+      "details": "8 x 5 x 2 IN (20.5 x 11.5 x 4 CM)CalfskinLambskin LiningGOLD FINISHINGShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 12 IN (30 CM) dropReference : 115203BF4.38NO",
+      "description": "",
+      "price": "91768400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwee628fa2/images/large/115203BF4.38NO_1_SS24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "91768400",
+          "code": "115203BF4.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwee628fa2/images/large/115203BF4.38NO_1_SS24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-shiny-calfskin-115203BF4.38NO.html"
+    },
+    {
+      "code": "115203BF4.07LG",
+      "name": "CHAIN SHOULDER BAG CLAUDE in shiny calfskin",
+      "details": "8 x 5 x 2 IN (20.5 x 11.5 x 4 CM)CalfskinLambskin LiningShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 12 IN (30 CM) dropReference : 115203BF4.07LG",
+      "description": "",
+      "price": "91768400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9ae29f87/images/large/115203BF4.07LG_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLUE GREY",
+          "size": null,
+          "price": "91768400",
+          "code": "115203BF4.07LG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9ae29f87/images/large/115203BF4.07LG_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "LIGHT LAVENDER",
+          "size": null,
+          "price": "91768400",
+          "code": "197993BF4.32LL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw131915ec/images/large/197993BF4.32LL_1_SUM23_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "LIGHT YELLOW",
+          "size": null,
+          "price": "91768400",
+          "code": "115203BF4.11LY",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfb2d6f43/images/large/115203BF4.11LY_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-shiny-calfskin-115203BF4.07LG.html"
+    }
+  ]
 }

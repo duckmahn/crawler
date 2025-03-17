@@ -1,0 +1,23 @@
+{
+  "id": "677SdplX7sWrhCj",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-lock-necklace-in-brass-with-rhodium-finish-461hh6bra.36si.html",
+  "order_no": "1742183984057.622000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-lock-necklace-in-brass-with-rhodium-finish-461HH6BRA.36SI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-lock-necklace-in-brass-with-rhodium-finish-461hh6bra.36si.html",
+    "id": "677SdplX7sWrhCj"
+  }
+}

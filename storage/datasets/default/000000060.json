@@ -1,4 +1,243 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "10M963GHH.38NO",
+      "name": "FINE WALLET CELINE VICTOIRE IN SUPPLE GRAINED CALFSKIN",
+      "details": "4 x 3 x 1 IN (10.5 x 8 x 2 CM)CALFSKINCALFSKIN LININGGOLD FINISHINGTriomphe Metallic Snap Button ClosureOne zipped coin pocketFOUR CREDIT CARD SLOTS THREE FLAT POCKETS ONE note pocketReference : 10M963GHH.38NO",
+      "description": "",
+      "price": "20226500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3b0db967/images/large/10M963GHH.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "20226500",
+          "code": "10M963GHH.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3b0db967/images/large/10M963GHH.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PEBBLE",
+          "size": null,
+          "price": "20226500",
+          "code": "10M963GHH.10BL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3b5bdc2e/images/large/10M963GHH.10BL_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "20226500",
+          "code": "10M963GHH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9bcf6691/images/large/10M963GHH.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Smoked Brown",
+          "size": null,
+          "price": "20226500",
+          "code": "10M963GHH.18AE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw12f92332/images/large/10M963GHH.18AE_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "VINTAGE ROSE",
+          "size": null,
+          "price": "20226500",
+          "code": "10M963GHH.24VR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa3533c28/images/large/10M963GHH.24VR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Soft Peach",
+          "size": null,
+          "price": "20226500",
+          "code": "10M963GHH.03PH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd8f7f530/images/large/10M963GHH.03PH_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/categories/wallets/fine-wallet-celine-victoire-in-supple-grained-calfskin-10M963GHH.38NO.html"
+    },
+    {
+      "code": "10M962CQH.04LU",
+      "name": "FINE WALLET CELINE VICTOIRE in Triomphe Canvas",
+      "details": "4 x 3 x 1 IN (10.5 x 8 x 2 CM)Triomphe CanvasCalfskin LiningGOLD FINISHINGTriomphe Metallic Snap Button ClosureOne zipped coin pocketFOUR CREDIT CARD SLOTS THREE FLAT POCKETS ONE note pocketReference : 10M962CQH.04LU",
+      "description": "",
+      "price": "19102800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwca434633/images/large/10M962CQH.04LU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "19102800",
+          "code": "10M962CQH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwca434633/images/large/10M962CQH.04LU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/fine-wallet-celine-victoire-in-triomphe-canvas-10M962CQH.04LU.html"
+    },
+    {
+      "code": "10M913GHH.04LU",
+      "name": "MEDIUM WALLET CELINE VICTOIRE IN SUPPLE GRAINED CALFSKIN",
+      "details": "6 x 4 x 1 IN (14 x 11 x 2 CM)CALFSKINCALFSKIN LININGGOLD FINISHINGTriomphe Metallic Snap Button ClosureSeven credit card slotsOne large note pocketOne zipped pocketTwo flat pocketsReference : 10M913GHH.04LU",
+      "description": "",
+      "price": "23972200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw591fb9ba/images/large/10M913GHH.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "23972200",
+          "code": "10M913GHH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw591fb9ba/images/large/10M913GHH.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/categories/wallets/medium-wallet-celine-victoire-in-supple-grained-calfskin-10M913GHH.04LU.html"
+    },
+    {
+      "code": "10M912CQH.04LU",
+      "name": "MEDIUM WALLET CELINE VICTOIRE in Triomphe Canvas",
+      "details": "6 x 4 x 1 IN (14 x 11 x 2 CM)Triomphe CanvasCalfskin LiningGOLD FINISHINGTriomphe Metallic Snap Button ClosureSeven credit card slotsOne large note pocketOne zipped pocketTwo flat pocketsReference : 10M912CQH.04LU",
+      "description": "",
+      "price": "22848500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw069875b8/images/large/10M912CQH.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "22848500",
+          "code": "10M912CQH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw069875b8/images/large/10M912CQH.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/medium-wallet-celine-victoire-in-triomphe-canvas-10M912CQH.04LU.html"
+    },
+    {
+      "code": "10D783DPV.24VR",
+      "name": "Small Flap Wallet TRIOMPHE in Shiny calfskin",
+      "details": "4 x 3 x 2 IN (10.5 x 8.5 x 4 CM)calfskincalfskin liningGOLD FINISHINGTRIOMPHE METALLIC SNAP BUTTON CLOSUREOne folded coin pocket with snap buttonFive credit card slotsOne note pocketTwo flat pocketsReference : 10D783DPV.24VR",
+      "description": "",
+      "price": "20226500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw018b5b93/images/large/10D783DPV.24VR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "VINTAGE ROSE",
+          "size": null,
+          "price": "20226500",
+          "code": "10D783DPV.24VR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw018b5b93/images/large/10D783DPV.24VR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Light Clay",
+          "size": null,
+          "price": "20226500",
+          "code": "10D783DPV.31LY",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1bb4a16e/images/large/10D783DPV.31LY_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PALE BEIGE",
+          "size": null,
+          "price": "20226500",
+          "code": "10D783DPV.02PA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw33e3a7ab/images/large/10D783DPV.02PA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "LIGHT BURGUNDY",
+          "size": null,
+          "price": "20226500",
+          "code": "10D783DPV.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdb00a7d3/images/large/10D783DPV.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "ICE BLUE",
+          "size": null,
+          "price": "20226500",
+          "code": "10D783DPV.07IC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfe8dbbd1/images/large/10D783DPV.07IC_1_WIN22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "OAT BEIGE",
+          "size": null,
+          "price": "20226500",
+          "code": "10D783DPV.02EU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcdfc81b9/images/large/10D783DPV.02EU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/small-flap-wallet-triomphe-in-shiny-calfskin-10D783DPV.24VR.html"
+    },
+    {
+      "code": "10I653DPV.38NO",
+      "name": "COMPACT WALLET WITH COIN TRIOMPHE in Shiny calfskin",
+      "details": "4 x 3 x 1 IN (10 x 7.5 x 3 CM)calfskincalfskin liningGOLD FINISHINGTRIOMPHE METALLIC SNAP BUTTON CLOSUREFOUR CREDIT CARD SLOTSONE NOTE POCKETONE DETACHABLE ZIPPED CARD HOLDER WITH FLAT POCKET IN FRONTReference : 10I653DPV.38NO",
+      "description": "",
+      "price": "20987000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc3bd96c5/images/large/10I653DPV.38NO_1_WIN21_v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "20987000",
+          "code": "10I653DPV.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc3bd96c5/images/large/10I653DPV.38NO_1_WIN21_v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BRONZE",
+          "size": null,
+          "price": "20975700",
+          "code": "10I653DPV.18BU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1e7ab92f/images/large/10I653DPV.18BU_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PEBBLE",
+          "size": null,
+          "price": "20987000",
+          "code": "10I653DPV.10BL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dweaa6f72d/images/large/10I653DPV.10BL_1_FALL22_V6.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Light Clay",
+          "size": null,
+          "price": "20987000",
+          "code": "10I653DPV.31LY",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw95dd6237/images/large/10I653DPV.31LY_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "CAPPUCCINO",
+          "size": null,
+          "price": "20987000",
+          "code": "10I653DPV.03CP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw60b89947/images/large/10I653DPV.03CP_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/compact-wallet-with-coin-triomphe-in-shiny-calfskin-10I653DPV.38NO.html"
+    }
+  ]
 }

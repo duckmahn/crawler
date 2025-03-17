@@ -1,0 +1,23 @@
+{
+  "id": "JajjoEzAiS9vvYT",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-celine-canvas-with-leopard-print-116592fuf.19le.html",
+  "order_no": "1742181755966.580000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-celine-canvas-with-leopard-print-116592FUF.19LE.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-celine-canvas-with-leopard-print-116592fuf.19le.html",
+    "id": "JajjoEzAiS9vvYT"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "m6IR4PZ9jMJNr5F",
+  "unique_key": "https://www.celine.com/en-vn/client/account/personal-data",
+  "order_no": "1742180995016.416000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/client/account/personal-data",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/client/account/personal-data",
+    "id": "m6IR4PZ9jMJNr5F"
+  }
+}

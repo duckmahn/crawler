@@ -1,0 +1,24 @@
+{
+  "id": "tsVpvum8NYmjt06",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/gifts-for-her",
+  "order_no": "1742181453424.169000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/gifts-for-her/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 5,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 1,
+    "no_retry": false,
+    "loaded_url": "https://www.celine.com/en-vn/celine-shop-women/gifts-for-her/",
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/gifts-for-her",
+    "id": "tsVpvum8NYmjt06"
+  }
+}

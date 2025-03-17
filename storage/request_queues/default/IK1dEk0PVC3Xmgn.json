@@ -1,0 +1,23 @@
+{
+  "id": "IK1dEk0PVC3Xmgn",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-nightfall-earrings-in-strass-and-brass-with-gold-finish-461ho6bzi.35or.html",
+  "order_no": "1742183984058.419000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-nightfall-earrings-in-strass-and-brass-with-gold-finish-461HO6BZI.35OR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-nightfall-earrings-in-strass-and-brass-with-gold-finish-461ho6bzi.35or.html",
+    "id": "IK1dEk0PVC3Xmgn"
+  }
+}

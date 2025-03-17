@@ -1,0 +1,23 @@
+{
+  "id": "9d3FzcFbyq37gZl",
+  "unique_key": "https://www.celine.com/en-vn/gift-finder/jane-flared-jeans-in-optic-white-wash-denim-2n860617r.01oq.html",
+  "order_no": "1742183074088.967000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/gift-finder/jane-flared-jeans-in-optic-white-wash-denim-2N860617R.01OQ.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/gift-finder/jane-flared-jeans-in-optic-white-wash-denim-2n860617r.01oq.html",
+    "id": "9d3FzcFbyq37gZl"
+  }
+}

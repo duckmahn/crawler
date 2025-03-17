@@ -1,0 +1,23 @@
+{
+  "id": "ArgLhnP6Yo7LhUW",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-fair-isle-in-wool-and-brass-with-gold-finish-461bv2bow.07gd.html",
+  "order_no": "1742183868135.365000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-fair-isle-in-wool-and-brass-with-gold-finish-461BV2BOW.07GD.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-fair-isle-in-wool-and-brass-with-gold-finish-461bv2bow.07gd.html",
+    "id": "ArgLhnP6Yo7LhUW"
+  }
+}

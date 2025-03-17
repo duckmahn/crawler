@@ -1,0 +1,23 @@
+{
+  "id": "uO3XZK2E5SYGhFm",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-triomphe-in-python-10l834gf2.25pi.html",
+  "order_no": "1742182547115.191000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-triomphe-in-python-10L834GF2.25PI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-triomphe-in-python-10l834gf2.25pi.html",
+    "id": "uO3XZK2E5SYGhFm"
+  }
+}

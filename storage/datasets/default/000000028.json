@@ -1,4 +1,282 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "116853ENY.38NO",
+      "name": "MEDIUM CABAS ANAÏS CUIR TRIOMPHE in Grained calfskin",
+      "details": "21 x 12 x 6 IN (54 x 29.5 x 15 CM)Calfskinsuede Calfskin LiningGold FinishingShoulder carrySNAP BUTTON CLOSUREONE MAIN COMPARTMENT ONE INNER FLAT POCKET ONE INNER ZIPPED POCKETTWO LEATHER HANDLES with 12 IN (30 CM) dropFunctional leather belts on the sides to tighten the bagReference : 116853ENY.38NO",
+      "description": "",
+      "price": "89895600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw412dd8c1/images/large/116853ENY.38NO_1_SS24_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "89895600",
+          "code": "116853ENY.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw412dd8c1/images/large/116853ENY.38NO_1_SS24_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "89895600",
+          "code": "116853ENY.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw98bf4585/images/large/116853ENY.04LU_1_SS24_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PEBBLE",
+          "size": null,
+          "price": "89895600",
+          "code": "116853ENY.10BL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb0688171/images/large/116853ENY.10BL_1_SS24_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "RICE",
+          "size": null,
+          "price": "89895600",
+          "code": "116853ENY.01RC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3f386640/images/large/116853ENY.01RC_1_FW24_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/medium-cabas-anais-cuir-triomphe-in-grained-calfskin-116853ENY.38NO.html"
+    },
+    {
+      "code": "116853GA9.02VG",
+      "name": "MEDIUM CABAS ANAÏS CUIR TRIOMPHE in SUEDE CALFSKIN AND SHEARLING",
+      "details": "21 x 12 x 6 IN (54 x 29.5 x 15 CM)suede calfskinshearling liningShoulder carryONE MAIN COMPARTMENT TWO LEATHER HANDLES with 12 IN (30 CM) dropReference : 116853GA9.02VG",
+      "description": "",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw61b59737/images/large/116853GA9.02VG_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL",
+          "size": null,
+          "price": "104878100",
+          "code": "116853GA9.02VG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw61b59737/images/large/116853GA9.02VG_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/medium-cabas-anais-cuir-triomphe-in-suede-calfskin-and-shearling-116853GA9.02VG.html"
+    },
+    {
+      "code": "118233ENY.38NO",
+      "name": "SMALL CABAS ANAÏS CUIR TRIOMPHE in Grained calfskin",
+      "details": "11 x 9 x 5 IN (28 x 24 x 12 CM)Calfskinsuede Calfskin LiningGOLD FINISHINGShoulder carrySNAP BUTTON CLOSUREONE MAIN COMPARTMENT ONE INNER FLAT POCKET ONE INNER ZIPPED POCKETLeather Handles with 11 IN (29 CM) dropFunctional leather belts on the sides to tighten the bagReference : 118233ENY.38NO",
+      "description": "",
+      "price": "82404300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9a837e6d/images/large/118233ENY.38NO_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "82404300",
+          "code": "118233ENY.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9a837e6d/images/large/118233ENY.38NO_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "82448800",
+          "code": "118233ENY.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7173eba8/images/large/118233ENY.04LU_1_FW24_P1_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PEBBLE",
+          "size": null,
+          "price": "82404300",
+          "code": "118233ENY.10BL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7f669e45/images/large/118233ENY.10BL_1_FW24_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-cabas-anais-cuir-triomphe-in-grained-calfskin-118233ENY.38NO.html"
+    },
+    {
+      "code": "118613ENY.38NO",
+      "name": "MINI CABAS ANAIS CUIR TRIOMPHE in Grained calfskin",
+      "details": "8 x 8 x 4 IN (20 x 21 x 10 CM)Calfskinsuede Calfskin LiningGOLD FINISHINGHand carry, shoulder carry and cross-body carrySNAP BUTTON CLOSUREONE MAIN COMPARTMENT ONE INNER FLAT POCKETLEATHER HANDLES with 5 IN (13 CM) dropFunctional leather belts on the sides to tighten the bagRemovable and adjustable strap with a minimum drop 19 IN (48 CM) and maximum drop 22 IN (56 CM)Reference : 118613ENY.38NO",
+      "description": "",
+      "price": "74913000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw003c2470/images/large/118613ENY.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "74913000",
+          "code": "118613ENY.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw003c2470/images/large/118613ENY.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "74953400",
+          "code": "118613ENY.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc8e8dc35/images/large/118613ENY.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PALE BEIGE",
+          "size": null,
+          "price": "74913000",
+          "code": "118613ENY.02PA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6c01f077/images/large/118613ENY.02PA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/mini-cabas-anais-cuir-triomphe-in-grained-calfskin-118613ENY.38NO.html"
+    },
+    {
+      "code": "117243FLH.38NO",
+      "name": "LARGE HELOÏSE BAG IN SUPPLE GRAINED CALFSKIN",
+      "details": "15 x 13 x 5 IN (37 x 34 x 12 CM)calfskinSuede calfskin liningCross-body and shoulder carryZIPPED CLOSUREONE MAIN COMPARTMENT ONE INNER REMOVABLE ZIPPED POUCHAdjustable strap with a minimum drop 12 IN (30 CM) and a maximum drop 16 IN (42 CM)Reference : 117243FLH.38NO",
+      "description": "",
+      "price": "116115100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1d7c3556/images/large/117243FLH.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "116115100",
+          "code": "117243FLH.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1d7c3556/images/large/117243FLH.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "116115100",
+          "code": "117243FLH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw34a5a501/images/large/117243FLH.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/large-heloise-bag-in-supple-grained-calfskin-117243FLH.38NO.html"
+    },
+    {
+      "code": "114713FLH.38NO",
+      "name": "MEDIUM HELOÏSE BAG IN SUPPLE GRAINED CALFSKIN",
+      "details": "12 x 11 x 3 IN (30 x 28.5 x 8 CM)calfskinSuede calfskin liningGOLD FINISHINGShoulder carryZIPPED CLOSUREONE MAIN COMPARTMENTadjustable strap with a minimum drop 11 IN (28 CM) and maximum drop 15 IN (37 CM)Reference : 114713FLH.38NO",
+      "description": "",
+      "price": "101132500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0be70616/images/large/114713FLH.38NO_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "101132500",
+          "code": "114713FLH.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0be70616/images/large/114713FLH.38NO_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "101132500",
+          "code": "114713FLH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw82ba6ada/images/large/114713FLH.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PEBBLE",
+          "size": null,
+          "price": "101132500",
+          "code": "114713FLH.10BL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw20e719ba/images/large/114713FLH.10BL_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/medium-heloise-bag-in-supple-grained-calfskin-114713FLH.38NO.html"
+    },
+    {
+      "code": "114712FQM.04LU",
+      "name": "MEDIUM HELOÏSE BAG IN TRIOMPHE CANVAS AND CALFSKIN",
+      "details": "12 x 11 x 3 IN (30 x 28.5 x 8 CM)Triomphe Canvas, trimmings in calfskintextile liningGOLD FINISHINGShoulder carryZIPPED CLOSUREONE MAIN COMPARTMENTadjustable strap with a minimum drop 11 IN (28 CM) and maximum drop 15 IN (37 CM)Reference : 114712FQM.04LU",
+      "description": "",
+      "price": "71167300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf252fa24/images/large/114712FQM.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "71167300",
+          "code": "114712FQM.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf252fa24/images/large/114712FQM.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/medium-heloise-bag-in-triomphe-canvas-and-calfskin-114712FQM.04LU.html"
+    },
+    {
+      "code": "114713GA7.02DE",
+      "name": "MEDIUM HELOÏSE BAG in SUEDE CALFSKIN WITH TRIOMPHE ALL-OVER",
+      "details": "12 x 11 x 3 IN (30 x 28.5 x 8 CM)SUEDE CALFSKINSUEDE CALFSKIN LINING, trimmings in calfskinShoulder carryZIPPED CLOSUREONE MAIN COMPARTMENTadjustable strap with a minimum drop 11 IN (28 CM) and maximum drop 15 IN (37 CM)Reference : 114713GA7.02DE",
+      "description": "",
+      "price": "101132500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe5ae321e/images/large/114713GA7.02DE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLONDE",
+          "size": null,
+          "price": "101132500",
+          "code": "114713GA7.02DE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe5ae321e/images/large/114713GA7.02DE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/medium-heloise-bag-in-suede-calfskin-with-triomphe-all-over-114713GA7.02DE.html"
+    },
+    {
+      "code": "117253FLH.38NO",
+      "name": "SMALL HELOÏSE BAG IN SUPPLE GRAINED CALFSKIN",
+      "details": "7 x 9 x 2 IN (19 x 22 x 5 CM)calfskinSuede calfskin liningGOLD FINISHINGCross-body and shoulder carryZIPPED CLOSUREONE MAIN COMPARTMENTOne removable and adjustable strap for a shoulder carry with a minimum drop 8,5 IN (22 CM) and maximum drop 12,5 IN (32 CM)One removable and adjustable strap for a cross-body carry with a minimum drop 17 IN (44CM) and maximum drop 21 IN (54CM)Reference : 117253FLH.38NO",
+      "description": "",
+      "price": "89895600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8da45c41/images/large/117253FLH.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "89895600",
+          "code": "117253FLH.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8da45c41/images/large/117253FLH.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "89895600",
+          "code": "117253FLH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa5f21367/images/large/117253FLH.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-heloise-bag-in-supple-grained-calfskin-117253FLH.38NO.html"
+    }
+  ]
 }

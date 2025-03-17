@@ -1,0 +1,23 @@
+{
+  "id": "COEMFeNji8fiYIj",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-wool-and-cashmere-2adqn883z.09gg.html",
+  "order_no": "1742183830973.950000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-wool-and-cashmere-2ADQN883Z.09GG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-wool-and-cashmere-2adqn883z.09gg.html",
+    "id": "COEMFeNji8fiYIj"
+  }
+}

@@ -1,4 +1,139 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "45BMB3A01.38NO",
+      "name": "CELINE JOSEPHINE BELT LARGE MODEL IN Taurillon Leather",
+      "details": "Taurillon 100% CALFSKINMiddle-Waist GOLD FINISHINGWIDTH : 1.2 IN (3 CM)METAL TURNLOCK WITH TRIOMPHEReference : 45BMB3A01.38NO",
+      "description": "",
+      "price": "20601100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw10e4c1df/images/large/45BMB3A01.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "20601100",
+          "code": "45BMB3A01.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw10e4c1df/images/large/45BMB3A01.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/celine-josephine-belt-large-model-in-taurillon-leather-45BMB3A01.38NO.html"
+    },
+    {
+      "code": "45BBQ3A01.38NO",
+      "name": "ELEGANT CHARM BELT in Taurillon Leather",
+      "details": "TaurillonMiddle-WaistGOLD FINISHINGWIDTH : 0.7 IN (1.8 CM)RECTANGULAR BUCKLETWO THIN METAL LOOPSTRIOMPHE CHARM ON THE SECOND LOOPReference : 45BBQ3A01.38NO",
+      "description": "",
+      "price": "16106300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw14fc60cb/images/large/45BBQ3A01.38NO_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "16106300",
+          "code": "45BBQ3A01.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw14fc60cb/images/large/45BBQ3A01.38NO_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/elegant-charm-belt-in-taurillon-leather-45BBQ3A01.38NO.html"
+    },
+    {
+      "code": "45BBQ3A78.04LU",
+      "name": "ELEGANT CHARM BELT in Natural Calfskin",
+      "details": "CalfskinMiddle-WaistGold finishingWIDTH : 0.7 IN (1.8 CM)RECTANGULAR BUCKLETWO THIN METAL LOOPSTRIOMPHE CHARM ON THE SECOND LOOPReference : 45BBQ3A78.04LU",
+      "description": "",
+      "price": "16106300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef4958c6/images/large/45BBQ3A78.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "16106300",
+          "code": "45BBQ3A78.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef4958c6/images/large/45BBQ3A78.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/elegant-charm-belt-in-natural-calfskin-45BBQ3A78.04LU.html"
+    },
+    {
+      "code": "45BF53A01.18CS",
+      "name": "BC-10 18mm belt in Taurillon Leather",
+      "details": "TaurillonMiddle-WaistGold finishingWidth : 0.7 IN (1.8 CM)Round buckleCeline Paris logo engraved on the buckleReference : 45BF53A01.18CS",
+      "description": "",
+      "price": "13484400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe845d5af/images/large/45BF53A01.18CS_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CHESTNUT",
+          "size": null,
+          "price": "13484400",
+          "code": "45BF53A01.18CS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe845d5af/images/large/45BF53A01.18CS_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/bc-10-18mm-belt-in-taurillon-leather-45BF53A01.18CS.html"
+    },
+    {
+      "code": "45BHO3AJG.38NO",
+      "name": "MEDIUM TWIN TRIOMPHE BELT in VINTAGE CALFSKIN",
+      "details": "CALFSKINMiddle-WaistGOLD FINISHINGWIDTH : 1 IN (2.5 CM)OVAL TWIN TRIOMPHE BUCKLEBUCKLE WITH TRIOMPHE ON THE TOP AND ON THE BOTTOMReference : 45BHO3AJG.38NO",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0084247b/images/large/45BHO3AJG.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "17604600",
+          "code": "45BHO3AJG.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0084247b/images/large/45BHO3AJG.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "CAMEL",
+          "size": null,
+          "price": "17604600",
+          "code": "45BHO3AJG.04FG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4fb7805b/images/large/45BHO3AJG.04FG_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/medium-twin-triomphe-belt-in-vintage-calfskin-45BHO3AJG.38NO.html"
+    },
+    {
+      "code": "45BL83A01.38NO",
+      "name": "BC-11 25MM BELT in Taurillon Leather",
+      "details": "TaurillonMiddle-WaistGOLD FINISHINGWIDTH : 1 IN (2.5 CM)CELINE BC-11 BUCKLEReference : 45BL83A01.38NO",
+      "description": "",
+      "price": "15357200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd807c34e/images/large/45BL83A01.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "15357200",
+          "code": "45BL83A01.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd807c34e/images/large/45BL83A01.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/bc-11-25mm-belt-in-taurillon-leather-45BL83A01.38NO.html"
+    }
+  ]
 }

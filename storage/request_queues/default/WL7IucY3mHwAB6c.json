@@ -1,0 +1,23 @@
+{
+  "id": "WL7IucY3mHwAB6c",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/knot-small-hoops-in-brass-with-rhodium-finish-46n556bra.36si.html",
+  "order_no": "1742184008906.625000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/knot-small-hoops-in-brass-with-rhodium-finish-46N556BRA.36SI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/knot-small-hoops-in-brass-with-rhodium-finish-46n556bra.36si.html",
+    "id": "WL7IucY3mHwAB6c"
+  }
+}

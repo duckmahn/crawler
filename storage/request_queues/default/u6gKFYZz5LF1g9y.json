@@ -1,0 +1,23 @@
+{
+  "id": "u6gKFYZz5LF1g9y",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/small-bucket-in-triomphe-canvas-and-shearling-191442gh2.03tv.html",
+  "order_no": "1742181668622.376000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/small-bucket-in-triomphe-canvas-and-shearling-191442GH2.03TV.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/small-bucket-in-triomphe-canvas-and-shearling-191442gh2.03tv.html",
+    "id": "u6gKFYZz5LF1g9y"
+  }
+}

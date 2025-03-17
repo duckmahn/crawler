@@ -1,0 +1,24 @@
+{
+  "id": "AtXHZYxPu1BYMOt",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/metal-frame",
+  "order_no": null,
+  "handled_at": "2025-03-17 03:13:08.346396+00:00",
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/metal-frame/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/metal-frame/",
+    "handled_at": "2025-03-17 03:13:08.346396+00:00",
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/metal-frame",
+    "id": "AtXHZYxPu1BYMOt"
+  }
+}

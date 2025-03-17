@@ -1,0 +1,23 @@
+{
+  "id": "gRBUb0e6iZC2gij",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/celine-classic-panier-small-braided-triomphe-in-raffia-and-calfskin-117022fwb.04lu.html",
+  "order_no": "1742181701980.359000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/celine-classic-panier-small-braided-triomphe-in-raffia-and-calfskin-117022FWB.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/celine-classic-panier-small-braided-triomphe-in-raffia-and-calfskin-117022fwb.04lu.html",
+    "id": "gRBUb0e6iZC2gij"
+  }
+}

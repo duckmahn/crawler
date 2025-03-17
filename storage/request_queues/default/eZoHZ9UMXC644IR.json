@@ -1,0 +1,23 @@
+{
+  "id": "eZoHZ9UMXC644IR",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-triomphe-couture-in-silk-and-brass-with-gold-finish-461gx2sib.25mo.html",
+  "order_no": "1742183868136.604000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-triomphe-couture-in-silk-and-brass-with-gold-finish-461GX2SIB.25MO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-triomphe-couture-in-silk-and-brass-with-gold-finish-461gx2sib.25mo.html",
+    "id": "eZoHZ9UMXC644IR"
+  }
+}

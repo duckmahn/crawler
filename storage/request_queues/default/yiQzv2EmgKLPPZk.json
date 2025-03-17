@@ -1,0 +1,23 @@
+{
+  "id": "yiQzv2EmgKLPPZk",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-with-strass-closure-in-shiny-calfskin-112183bf4.38no.html",
+  "order_no": "1742181897976.533000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-with-strass-closure-in-shiny-calfskin-112183BF4.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-with-strass-closure-in-shiny-calfskin-112183bf4.38no.html",
+    "id": "yiQzv2EmgKLPPZk"
+  }
+}

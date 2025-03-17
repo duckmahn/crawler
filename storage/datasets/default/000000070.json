@@ -1,4 +1,425 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "2N62B365M.07DU",
+      "name": "marco jeans in dark union wash denim",
+      "details": "100% cottondark union washclassic fitlow-riseflared leg5 pocketsrivets on the front pocketspatch at the back on the waistbandraw hems on the backceline jeans-engraved zip and buttons made in japanReference : 2N62B365M.07DU",
+      "description": "marco low-rise jeans in dark union wash denimRUNS SMALL. PANT LEG AND FRONT RISE ARE SLIGHTLY SHORTER, NARROW HIP.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw26ab6bb3/images/large/2N62B365M.07DU_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK UNION WASH",
+          "size": null,
+          "price": "33336300",
+          "code": "2N62B365M.07DU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw26ab6bb3/images/large/2N62B365M.07DU_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/marco-jeans-in-dark-union-wash-denim-2N62B365M.07DU.html"
+    },
+    {
+      "code": "2N06B930F.07SV",
+      "name": "marco jeans in steel blue wash denim",
+      "details": "100% cottonsteel blue washclassic fitlow-riseflared leg5 pocketsrivets on the front pocketspatch at the back on the waistbandceline jeans-engraved zip and buttonmade in japanReference: 2N06B930F.07SV",
+      "description": "marco low-rise jeans in steel blue wash denimADJUSTED FIT.AUTHENTIC DENIM.SIZE UP FOR A MORE RELAXED FIT.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa3bb69ac/images/large/2N06B930F.07SV_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "STEEL BLUE WASH",
+          "size": null,
+          "price": "33336300",
+          "code": "2N06B930F.07SV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa3bb69ac/images/large/2N06B930F.07SV_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/denim/marco-jeans-in-steel-blue-wash-denim-2N06B930F.07SV.html"
+    },
+    {
+      "code": "2N62B789D.08KW",
+      "name": "marco jeans in rider wash denim",
+      "details": "100% cottonrider washclassic fitlow-riseflared leg5 pocketsrivets on the front pocketspatch at the back on the waistbandraw hems on the backceline jeans-engraved zip and buttons made in japanReference : 2N62B789D.08KW",
+      "description": "marco low-rise jeans in rider wash denimRUNS SMALL. PANT LEG AND FRONT RISE ARE SLIGHTLY SHORTER, NARROW HIP.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6081c60f/images/large/2N62B789D.08KW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "RIDER WASH",
+          "size": null,
+          "price": "33336300",
+          "code": "2N62B789D.08KW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6081c60f/images/large/2N62B789D.08KW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/marco-jeans-in-rider-wash-denim-2N62B789D.08KW.html"
+    },
+    {
+      "code": "RP03K444W.08DK",
+      "name": "flared surf jeans in black ice rinse denim",
+      "details": "100% cottonblack ice rinse washclassic fitmid-riseflared leg5 pocketsrivets on the front pocketspatch at the back on the waistbandceline jeans-engraved zip and button made in japanReference: RP03K444W.08DK",
+      "description": "flared mid-rise surf jeans in black ice rinse wash denimRUNS SMALL. PANT LEG AND FRONT RISE ARE SLIGHTLY SHORTER, NARROW HIP.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2f72b7a9/images/large/RP03K444W.08DK_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK ICE RINSE",
+          "size": null,
+          "price": "33336300",
+          "code": "RP03K444W.08DK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2f72b7a9/images/large/RP03K444W.08DK_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/flared-surf-jeans-in-black-ice-rinse-denim-RP03K444W.08DK.html"
+    },
+    {
+      "code": "RP03K930F.07UW",
+      "name": "flared surf jeans in union wash denim",
+      "details": "100% cottonunion washclassic fitmid-riseflared leg5 pocketsrivets on the front pocketspatch at the back on the waistbandceline jeans-engraved zip and buttons made in japanReference : RP03K930F.07UW",
+      "description": "flared mid-rise surf jeans in union wash denimRUNS SMALL. PANT LEG AND FRONT RISE ARE SLIGHTLY SHORTER, NARROW HIP.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw964fead0/images/large/RP03K930F.07UW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "UNION WASH",
+          "size": null,
+          "price": "33336300",
+          "code": "RP03K930F.07UW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw964fead0/images/large/RP03K930F.07UW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/flared-surf-jeans-in-union-wash-denim-RP03K930F.07UW.html"
+    },
+    {
+      "code": "2N778558Z.07IA",
+      "name": "kitty jeans in raw wash denim",
+      "details": "100% cottonraw washclassic fithigh-waistedstraight leg5 pocketsrivets on the front pocketspatch at the back on the waistbandceline jeans-engraved zip and button made in japanReference: 2N778558Z.07IA",
+      "description": "high-waisted kitty jeans in raw wash denimRUNS SMALL. PANT LEG AND FRONT RISE ARE SLIGHTLY SHORTER, NARROW HIP.",
+      "price": "31838000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2498b978/images/large/2N778558Z.07IA_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "RAW WASH",
+          "size": null,
+          "price": "31838000",
+          "code": "2N778558Z.07IA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2498b978/images/large/2N778558Z.07IA_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/denim/kitty-jeans-in-raw-wash-denim-2N778558Z.07IA.html"
+    },
+    {
+      "code": "2N44B206T.08PI",
+      "name": "kitty jeans in pismo wash denim",
+      "details": "PISMO WASHTRIOMPHE GOURMETTE CHAINS AT THE WAISTCLASSIC FITHIGH WAISTSTRAIGHT-LEG5 POCKETSRIVETS ON THE FRONT POCKETSPATCH AT THE BACK OF THE WAISTBANDCELINE PARIS-ENGRAVED ZIP AND BUTTONSReference : 2N44B206T.08PI",
+      "description": "SMALL FIT HIGH WAIST KITTY JEANS WITH TRIOMPHE GOURMETTES IN PISMO WASH DENIMSMALL FIT: ADAPTED TO A SMALLER BODY TYPE. PANT LEGS AND CROTCH LENGTH ARE SLIGTHLY SHORTER, AND HIPS ARE LESS ROUND.   WE SUGGEST TAKING YOUR USUAL SIZE.",
+      "price": "41202200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf5978d00/images/large/2N44B206T.08PI_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PISMO WASH",
+          "size": null,
+          "price": "41202200",
+          "code": "2N44B206T.08PI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf5978d00/images/large/2N44B206T.08PI_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/kitty-jeans-in-pismo-wash-denim-2N44B206T.08PI.html"
+    },
+    {
+      "code": "2N861930F.07UW",
+      "name": "MARGARET JEANS IN UNION WASH DENIM",
+      "details": "100% cottondark union washtriomphe gourmette chains at the waistclassic fithigh-waistedstraight leg5 pocketsceline jeans-engraved zip and buttonmade in JapanReference : 2N861930F.07UW",
+      "description": "high-waisted Margaret jeans with gourmette chains in union wash denimADJUSTED FIT.AUTHENTIC DENIM.FOR A MORE RELAXED FIT, IT'S POSSIBLE TO CHOOSE ONE SIZE UP FROM YOUR USUAL SIZE.",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc2701cd7/images/large/2N861930F.07UW_1_SS24_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "UNION WASH",
+          "size": null,
+          "price": "37081900",
+          "code": "2N861930F.07UW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc2701cd7/images/large/2N861930F.07UW_1_SS24_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/gift-finder/margaret-jeans-in-union-wash-denim-2N861930F.07UW.html"
+    },
+    {
+      "code": "2N845444W.08DK",
+      "name": "wesley jeans in black ice rinse wash denim",
+      "details": "100% cottonice rinse wash denimloose fitlow-rise waiststraight-leg5 pocketsrivets on the front pocketspatch at the back of the waistbandrelaxed hemsceline paris-engraved buttonsmade in JapanReference : 2N845444W.08DK",
+      "description": "low-rise wesley relaxed hem jeans in black ice rinse wash denimWe suggest that you choose your usual size.",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw04fdf5af/images/large/2N845444W.08DK_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK ICE RINSE",
+          "size": null,
+          "price": "35583700",
+          "code": "2N845444W.08DK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw04fdf5af/images/large/2N845444W.08DK_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/wesley-jeans-in-black-ice-rinse-wash-denim-2N845444W.08DK.html"
+    },
+    {
+      "code": "2N845461T.08EC",
+      "name": "Wesley jeans in everclear wash denim",
+      "details": "100% cottoneverclear washloose fitlow-risestraight leg5 pocketsrivets on the front pocketspatch at the back on the waistbandrelaxed hemsCeline jeans-engraved buttonsmade in JapanReference : 2N845461T.08EC",
+      "description": "low-rise Wesley jeans with relaxed hems in everclear wash denimWe suggest you choose your usual size.",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa92eda3c/images/large/2N845461T.08EC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "EVERCLEAR WASH",
+          "size": null,
+          "price": "35583700",
+          "code": "2N845461T.08EC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa92eda3c/images/large/2N845461T.08EC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/wesley-jeans-in-everclear-wash-denim-2N845461T.08EC.html"
+    },
+    {
+      "code": "2N845206T.08PI",
+      "name": "WESLEY JEANS IN PISMO WASH DENIM",
+      "details": "100% COTTONpismo washloose fitlow-risestraight leg 5 pocketsrivets on front pocketspatch on the beltreleased hemsCeline jeans-engraved buttons and zipmade in JapanReference : 2N845206T.08PI",
+      "description": "LOW-RISE WESLEY JEANS WITH RELEASED HEMS IN PISMO WASH DENIMWE SUGGEST TAKING YOUR USUAL SIZE.",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw95d47673/images/large/2N845206T.08PI_1_SS24_W_V5.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PISMO WASH",
+          "size": null,
+          "price": "35583700",
+          "code": "2N845206T.08PI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw95d47673/images/large/2N845206T.08PI_1_SS24_W_V5.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/wesley-jeans-in-pismo-wash-denim-2N845206T.08PI.html"
+    },
+    {
+      "code": "2N860930F.07UW",
+      "name": "JANE FLARE JEANS IN DENIM UNION WASH",
+      "details": "100% COTTONUNION WASHTRIOMPHE GOURMETTE CHAINS AT THE WAISTCLASSIC FITHIGH WAISTFLARED LEG5 POCKETSRIVETS ON THE FRONT POCKETSCELINE JEANS-ENGRAVED ZIPPER AND BUTTONSMADE IN JAPANReference : 2N860930F.07UW",
+      "description": "HIGH-WAIST JANE FLARE JEANS WITH GOURMETTES IN UNION WASH DENIMAJDUSTED FIT. AUTHENTIC DENIM. FOR A MORE RELAXED FIT, IT IS POSSIBLE TO SIZE UP.",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3aa4c101/images/large/2N860930F.07UW_1_LIBSP23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "UNION WASH",
+          "size": null,
+          "price": "37081900",
+          "code": "2N860930F.07UW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3aa4c101/images/large/2N860930F.07UW_1_LIBSP23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/gift-finder/jane-flare-jeans-in-denim-union-wash-2N860930F.07UW.html"
+    },
+    {
+      "code": "2N860617R.01OQ",
+      "name": "Jane flared jeans in optic white wash denim",
+      "details": "100% COTTONoptic white washtriomphe gourmette chains at the waistclassic fitmid-riseflared leg5 pocketsrivets on the front pocketsCeline Jeans-engraved zipper and buttonmade in japanReference : 2N860617R.01OQ",
+      "description": "JANE MID-RISE FLARED JEANS WITH TRIOMPHE GOURMETTE CHAINS IN OPTIC WHITE WASH DENIMAJDUSTED FIT. AUTHENTIC DENIM. FOR A MORE RELAXED FIT, IT IS POSSIBLE TO SIZE UP.",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb11244e7/images/large/2N860617R.01OQ_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OPTIC WHITE WASH",
+          "size": null,
+          "price": "33336300",
+          "code": "2N860617R.01OQ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb11244e7/images/large/2N860617R.01OQ_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/gift-finder/jane-flared-jeans-in-optic-white-wash-denim-2N860617R.01OQ.html"
+    },
+    {
+      "code": "2N678930F.07UW",
+      "name": "DYLAN FLARED JEANS WITH SIGNATURE IN UNION WASH DENIM",
+      "details": "100% COTTONCLASSIC FITMID-RISEFLARED LEG5 POCKETSRIVETS ON THE FRONT POCKET“TRIOMPHE” SIGNATURE CHAINSCELINE-ENGRAVED BUTTON AND ZIPPERMADE IN JAPANReference : 2N678930F.07UW",
+      "description": "DYLAN FLARED MID-RISE JEANS WITH TRIOMPHE GOURMETTES IN UNION WASH DENIMAJDUSTED FIT. AUTHENTIC DENIM. FOR A MORE RELAXED FIT, IT IS POSSIBLE TO SIZE UP.",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfa40e17b/images/large/2N678930F.07UW_1_SS24_W_V4.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "UNION WASH",
+          "size": null,
+          "price": "37081900",
+          "code": "2N678930F.07UW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfa40e17b/images/large/2N678930F.07UW_1_SS24_W_V4.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/dylan-flared-jeans-with-signature-in-union-wash-denim-2N678930F.07UW.html"
+    },
+    {
+      "code": "2U149361M.08DO",
+      "name": "mini dress in dark ocean wash denim",
+      "details": "100% COTTONdark ocean washclassic fitmini length2 patch pockets on the chest with triomphe buttons2 side pocketsV-neck with laces2 adjustment tabs on the sleeves with triomphe buttonsmade in ItalyReference : 2U149361M.08DO",
+      "description": "mini dress with lace-up collar in dark ocean wash denim",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw89ab32be/images/large/2U149361M.08DO_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK OCEAN WASH",
+          "size": null,
+          "price": "50566300",
+          "code": "2U149361M.08DO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw89ab32be/images/large/2U149361M.08DO_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-dark-ocean-wash-denim-2U149361M.08DO.html"
+    },
+    {
+      "code": "2U145799U.07IN",
+      "name": "workwear mini dress in rinsed wash denim",
+      "details": "100% cottonrinsed washclassic fitmini length1 patch pocket on the chest2 patch pockets with flapshirt collarshort sleeves6 triomphe jeans buttons1 triomphe jeans button on the pocketmade in ItalyReference : 2U145799U.07IN",
+      "description": "workwear mini dress in rinsed wash denim",
+      "price": "54311900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw37eaa9e3/images/large/2U145799U.07IN_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "RINSED",
+          "size": null,
+          "price": "54311900",
+          "code": "2U145799U.07IN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw37eaa9e3/images/large/2U145799U.07IN_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/workwear-mini-dress-in-rinsed-wash-denim-2U145799U.07IN.html"
+    },
+    {
+      "code": "2U142930F.07UW",
+      "name": "dungarees mini dress in union wash denim",
+      "details": "100% COTTONunion washloose fitlow-cut crew neckmini length2 patch pockets with flap3 triomphe jeans buttons on the side2 triomphe jeans buttons on the shoulder strap1 triomphe jeans button on the pocketmade in JapanReference : 2U142930F.07UW",
+      "description": "dungarees mini dress in union wash denim",
+      "price": "54311900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw32c2bdd7/images/large/2U142930F.07UW_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "UNION WASH",
+          "size": null,
+          "price": "54311900",
+          "code": "2U142930F.07UW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw32c2bdd7/images/large/2U142930F.07UW_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/dungarees-mini-dress-in-union-wash-denim-2U142930F.07UW.html"
+    },
+    {
+      "code": "2S328799U.07IN",
+      "name": "trapeze mini skirt in rinsed wash denim",
+      "details": "100% COTTONrinsed washclassic fitmid-risemini length2 patch pockets8 triomphe jeans buttonsmade in ItalyReference : 2S328799U.07IN",
+      "description": "trapeze mid-rise mini skirt in rinsed wash denim",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw47d9efcc/images/large/2S328799U.07IN_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "RINSED",
+          "size": null,
+          "price": "33336300",
+          "code": "2S328799U.07IN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw47d9efcc/images/large/2S328799U.07IN_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/trapeze-mini-skirt-in-rinsed-wash-denim-2S328799U.07IN.html"
+    },
+    {
+      "code": "2S388224Z.07IN",
+      "name": "trapeze mini skirt in raw wash denim",
+      "details": "100% cottonraw washclassic fitlow risemini length2 round patch pockets2 side tabs1 Triomphe snap button on the pocket1 Triomphe snap button on the tabcentral back zipmade in JapanReference : 2S388224Z.07IN",
+      "description": "trapeze mini skirt in raw wash denim",
+      "price": "31838000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf7c61415/images/large/2S388224Z.07IN_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "RINSED",
+          "size": null,
+          "price": "31838000",
+          "code": "2S388224Z.07IN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf7c61415/images/large/2S388224Z.07IN_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/trapeze-mini-skirt-in-raw-wash-denim-2S388224Z.07IN.html"
+    },
+    {
+      "code": "2N12B519X.08EL",
+      "name": "skate shorts in electric sky wash denim",
+      "details": "100% cottonelectric sky washtriomphe hand embroideryloose fitmid-rise5 pocketsrivets on the front pocketspatch at the back on the waistbandraw hemsceline jeans-engraved zip and buttonmade in japanReference: 2N12B519X.08EL",
+      "description": "mid-rise skate shorts with triomphe embroidery and raw hems in electric sky wash denim",
+      "price": "31838000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8e4c4c61/images/large/2N12B519X.08EL_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ELECTRIC SKY",
+          "size": null,
+          "price": "31838000",
+          "code": "2N12B519X.08EL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8e4c4c61/images/large/2N12B519X.08EL_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/skate-shorts-in-electric-sky-wash-denim-2N12B519X.08EL.html"
+    }
+  ]
 }

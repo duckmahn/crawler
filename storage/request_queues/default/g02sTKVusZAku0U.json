@@ -1,0 +1,23 @@
+{
+  "id": "g02sTKVusZAku0U",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/other-accessories/triomphe-frame-brooch-in-brass-with-gold-finish-and-steel-461fr6bsl.35or.html",
+  "order_no": "1742183883521.747000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/other-accessories/triomphe-frame-brooch-in-brass-with-gold-finish-and-steel-461FR6BSL.35OR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/other-accessories/triomphe-frame-brooch-in-brass-with-gold-finish-and-steel-461fr6bsl.35or.html",
+    "id": "g02sTKVusZAku0U"
+  }
+}

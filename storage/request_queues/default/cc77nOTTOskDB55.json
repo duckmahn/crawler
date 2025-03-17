@@ -1,0 +1,23 @@
+{
+  "id": "cc77nOTTOskDB55",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/pajama-pants-in-triomphe-silk-rp04c0825.28bx.html",
+  "order_no": "1742181453492.062000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/pajama-pants-in-triomphe-silk-RP04C0825.28BX.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/pajama-pants-in-triomphe-silk-rp04c0825.28bx.html",
+    "id": "cc77nOTTOskDB55"
+  }
+}

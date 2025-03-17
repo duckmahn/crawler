@@ -1,0 +1,23 @@
+{
+  "id": "wfjGN12xy6DBaAF",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/medium-celine-lola-bag-in-shiny-calfskin-115533bf4.32le.html",
+  "order_no": "1742181950421.362000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/medium-celine-lola-bag-in-shiny-calfskin-115533BF4.32LE.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/medium-celine-lola-bag-in-shiny-calfskin-115533bf4.32le.html",
+    "id": "wfjGN12xy6DBaAF"
+  }
+}

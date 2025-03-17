@@ -1,0 +1,23 @@
+{
+  "id": "ZCjonHHCrOduDX3",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/square-s321-sunglasses-in-acetate-4s321cplb.10tt.html",
+  "order_no": "1742181218873.482000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/square-s321-sunglasses-in-acetate-4S321CPLB.10TT.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/square-s321-sunglasses-in-acetate-4s321cplb.10tt.html",
+    "id": "ZCjonHHCrOduDX3"
+  }
+}

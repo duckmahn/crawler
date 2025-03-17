@@ -1,0 +1,23 @@
+{
+  "id": "FOpTulLXKHceXOr",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/phone-pouch-with-flap-in-triomphe-canvas-and-lambskin-10g332cqd.04lu.html",
+  "order_no": "1742182595775.827000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/phone-pouch-with-flap-in-triomphe-canvas-and-lambskin-10G332CQD.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/phone-pouch-with-flap-in-triomphe-canvas-and-lambskin-10g332cqd.04lu.html",
+    "id": "FOpTulLXKHceXOr"
+  }
+}

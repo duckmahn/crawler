@@ -1,0 +1,23 @@
+{
+  "id": "LNMHukMD1QCYnuc",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-cotton-2aut6969p.19ga.html",
+  "order_no": "1742183747602.387000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-cotton-2AUT6969P.19GA.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-cotton-2aut6969p.19ga.html",
+    "id": "LNMHukMD1QCYnuc"
+  }
+}

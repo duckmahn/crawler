@@ -1,0 +1,23 @@
+{
+  "id": "HLOJQA2Dhe3btcZ",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/classique-triomphe-bag-in-shiny-calfskin-187363bf4.31an.html",
+  "order_no": "1742181572630.003000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/classique-triomphe-bag-in-shiny-calfskin-187363BF4.31AN.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/classique-triomphe-bag-in-shiny-calfskin-187363bf4.31an.html",
+    "id": "HLOJQA2Dhe3btcZ"
+  }
+}

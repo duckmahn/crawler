@@ -1,0 +1,23 @@
+{
+  "id": "c1xwnhzkjGPhHKD",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/kitty-jeans-in-pismo-wash-denim-2n44b206t.08pi.html",
+  "order_no": "1742183038243.418000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/kitty-jeans-in-pismo-wash-denim-2N44B206T.08PI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/kitty-jeans-in-pismo-wash-denim-2n44b206t.08pi.html",
+    "id": "c1xwnhzkjGPhHKD"
+  }
+}

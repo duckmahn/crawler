@@ -1,0 +1,23 @@
+{
+  "id": "R42zARaMZTfz2VE",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-denim-with-triomphe-studs-and-calfskin-115702fzn.07dd.html",
+  "order_no": "1742181821442.135000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-denim-with-triomphe-studs-and-calfskin-115702FZN.07DD.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-denim-with-triomphe-studs-and-calfskin-115702fzn.07dd.html",
+    "id": "R42zARaMZTfz2VE"
+  }
+}

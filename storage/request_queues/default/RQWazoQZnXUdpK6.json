@@ -1,0 +1,23 @@
+{
+  "id": "RQWazoQZnXUdpK6",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/frilled-romy-shirt-in-silk-crepe-and-acetate-2c90a008d.01av.html",
+  "order_no": "1742182927249.062000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/frilled-romy-shirt-in-silk-crepe-and-acetate-2C90A008D.01AV.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/frilled-romy-shirt-in-silk-crepe-and-acetate-2c90a008d.01av.html",
+    "id": "RQWazoQZnXUdpK6"
+  }
+}

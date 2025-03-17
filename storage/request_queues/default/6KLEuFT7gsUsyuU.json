@@ -1,0 +1,23 @@
+{
+  "id": "6KLEuFT7gsUsyuU",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/margo/wallet-on-chain-margo-in-shiny-calfskin-10l033dpv.02ls.html",
+  "order_no": "1742182326384.018000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/margo/wallet-on-chain-margo-in-shiny-calfskin-10L033DPV.02LS.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/margo/wallet-on-chain-margo-in-shiny-calfskin-10l033dpv.02ls.html",
+    "id": "6KLEuFT7gsUsyuU"
+  }
+}

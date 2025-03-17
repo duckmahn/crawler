@@ -1,4 +1,131 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "461FQ6SBS.35OR",
+      "name": "Triomphe Frame Sparkle Brooch in Strass, Brass with Gold Finish and Steel",
+      "details": "Total length 2 IN (4 CM)Brass, Strass and SteelNickel FreeEngraved Celine Paris SignatureReference : 461FQ6SBS.35OR",
+      "description": "",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2ea498a8/images/large/461FQ6SBS.35OR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "18353700",
+          "code": "461FQ6SBS.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2ea498a8/images/large/461FQ6SBS.35OR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/other-accessories/triomphe-frame-sparkle-brooch-in-strass%2C-brass-with-gold-finish-and-steel-461FQ6SBS.35OR.html"
+    },
+    {
+      "code": "461FR6BSL.35OR",
+      "name": "Triomphe Frame Brooch in Brass with Gold Finish and Steel",
+      "details": "Total length 2 IN (4 CM)Brass and SteelNickel FreeEngraved Celine Paris SignatureReference : 461FR6BSL.35OR",
+      "description": "",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5446af05/images/large/461FR6BSL.35OR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "14608100",
+          "code": "461FR6BSL.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5446af05/images/large/461FR6BSL.35OR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/other-accessories/triomphe-frame-brooch-in-brass-with-gold-finish-and-steel-461FR6BSL.35OR.html"
+    },
+    {
+      "code": "2AX50103E.38NO",
+      "name": "Bow tie in silk rep",
+      "details": "100% SilkAdjustable collarhook and eye closureReference : 2AX50103E.38NO",
+      "description": "Bow tie, with adjustable silk collar",
+      "price": "4869400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc48b9a80/images/large/2AX50103E.38NO_1_SUM19_P1_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Black",
+          "size": null,
+          "price": "4869400",
+          "code": "2AX50103E.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc48b9a80/images/large/2AX50103E.38NO_1_SUM19_P1_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/other-accessories/bow-tie-in-silk-rep-2AX50103E.38NO.html"
+    },
+    {
+      "code": "2ARP1099Z.19LE",
+      "name": "triomphe sarong in leopard cotton",
+      "details": "100% COTTON63 x 43.3 in (160 x 110 CM)made in ItalyReference : 2ARP1099Z.19LE",
+      "description": "triomphe sarong in leopard print cotton",
+      "price": "15357200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2a4f7ecd/images/large/2ARP1099Z.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "15357200",
+          "code": "2ARP1099Z.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2a4f7ecd/images/large/2ARP1099Z.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/other-accessories/triomphe-sarong-in-leopard-cotton-2ARP1099Z.19LE.html"
+    },
+    {
+      "code": "2AG2A738X.01OW",
+      "name": "bag in triomphe aran wool",
+      "details": "100% wooltwisted drawstrings with gold triomphe pompomsmade in ItalyReference : 2AG2A738X.01OW",
+      "description": "bag in triomphe aran wool",
+      "price": "32961700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw56cbb412/images/large/2AG2A738X.01OW_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "32961700",
+          "code": "2AG2A738X.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw56cbb412/images/large/2AG2A738X.01OW_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/bag-in-triomphe-aran-wool-2AG2A738X.01OW.html"
+    },
+    {
+      "code": "2ADB3332V.19BR",
+      "name": "mini bag in crocheted silk and pearls",
+      "details": "100% SILK3 x 3,5 IN (8 x 9 cm)gold triomphe pompommade in ItalyReference : 2ADB3332V.19BR",
+      "description": "mini bag in hand-crocheted silk and pearls",
+      "price": "19102800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw023dc512/images/large/2ADB3332V.19BR_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BROWN",
+          "size": null,
+          "price": "19102800",
+          "code": "2ADB3332V.19BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw023dc512/images/large/2ADB3332V.19BR_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/other-accessories/mini-bag-in-crocheted-silk-and-pearls-2ADB3332V.19BR.html"
+    }
+  ]
 }

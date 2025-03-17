@@ -1,0 +1,23 @@
+{
+  "id": "RKeczo5hTmFarRY",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/small-triomphe-belt-in-taurillon-leather-45ax63a01.19bg.html",
+  "order_no": "1742183487837.160000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/small-triomphe-belt-in-taurillon-leather-45AX63A01.19BG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/small-triomphe-belt-in-taurillon-leather-45ax63a01.19bg.html",
+    "id": "RKeczo5hTmFarRY"
+  }
+}

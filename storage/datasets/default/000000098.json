@@ -1,4 +1,257 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "461FV6BRA.35OR",
+      "name": "Knot Double Cuff in Brass with Gold Finish",
+      "details": "BrassNickel FreeEngraved Celine SignatureReference : 461FV6BRA.35OR",
+      "description": "",
+      "price": "16855500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw42fd471f/images/large/461FV6BRA.35OR_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "16855500",
+          "code": "461FV6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw42fd471f/images/large/461FV6BRA.35OR_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/knot/knot-double-cuff-in-brass-with-gold-finish-461FV6BRA.35OR.html"
+    },
+    {
+      "code": "461FX6BRA.35OR",
+      "name": "Knot Double Hoops in Brass with Gold Finish",
+      "details": "Diameter 1 IN (2.7 CM)BrassNickel FreeEngraved Celine SignatureFor Pierced EarsReference : 461FX6BRA.35OR",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0f3f883d/images/large/461FX6BRA.35OR_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "17604600",
+          "code": "461FX6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0f3f883d/images/large/461FX6BRA.35OR_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/knot/knot-double-hoops-in-brass-with-gold-finish-461FX6BRA.35OR.html"
+    },
+    {
+      "code": "461FW6BRA.35OR",
+      "name": "Knot Double Ring in Brass with Gold Finish",
+      "details": "BrassNickel FreeEngraved Celine SignatureReference : 461FW6BRA.35OR",
+      "description": "",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9d0a3a80/images/large/461FW6BRA.35OR_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "14608100",
+          "code": "461FW6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9d0a3a80/images/large/461FW6BRA.35OR_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/knot/knot-double-ring-in-brass-with-gold-finish-461FW6BRA.35OR.html"
+    },
+    {
+      "code": "461FV6SBR.36SI",
+      "name": "Knot Double Cuff in Brass with Rhodium Finish",
+      "details": "BrassNickel FreeEngraved Celine SignatureReference : 461FV6SBR.36SI",
+      "description": "",
+      "price": "16855500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwba502209/images/large/461FV6SBR.36SI_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SILVER",
+          "size": null,
+          "price": "16855500",
+          "code": "461FV6SBR.36SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwba502209/images/large/461FV6SBR.36SI_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/knot/knot-double-cuff-in-brass-with-rhodium-finish-461FV6SBR.36SI.html"
+    },
+    {
+      "code": "461FX6BRA.36SI",
+      "name": "Knot Double Hoops in Brass with Rhodium Finish",
+      "details": "Diameter 1 IN (2.7 CM)BrassNickel FreeEngraved Celine SignatureFor Pierced EarsReference : 461FX6BRA.36SI",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw430268c3/images/large/461FX6BRA.36SI_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SILVER",
+          "size": null,
+          "price": "17604600",
+          "code": "461FX6BRA.36SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw430268c3/images/large/461FX6BRA.36SI_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/knot/knot-double-hoops-in-brass-with-rhodium-finish-461FX6BRA.36SI.html"
+    },
+    {
+      "code": "461FW6BRA.36SI",
+      "name": "Knot Double Ring in Brass with Rhodium Finish",
+      "details": "BrassNickel FreeEngraved Celine SignatureReference : 461FW6BRA.36SI",
+      "description": "",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw698b26d5/images/large/461FW6BRA.36SI_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SILVER",
+          "size": null,
+          "price": "14608100",
+          "code": "461FW6BRA.36SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw698b26d5/images/large/461FW6BRA.36SI_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/knot/knot-double-ring-in-brass-with-rhodium-finish-461FW6BRA.36SI.html"
+    },
+    {
+      "code": "46P466BRA.35OR",
+      "name": "Knot extra-thin bracelet in brass with gold finish",
+      "details": "BrassNickel FreeReference: 46P466BRA.35OR",
+      "description": "Open brass bangle with a knot in the center of the bracelet",
+      "price": "14233500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb9c555f3/images/large/46P466BRA.35OR_1_LIBRARY_V7.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Gold",
+          "size": null,
+          "price": "14233500",
+          "code": "46P466BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb9c555f3/images/large/46P466BRA.35OR_1_LIBRARY_V7.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/knot-extra-thin-bracelet-in-brass-with-gold-finish-46P466BRA.35OR.html"
+    },
+    {
+      "code": "46N556BRA.35OR",
+      "name": "Knot Small Hoops in Brass with Gold finish",
+      "details": "Diameter 1 IN (2.2 CM)BrassNickel FreeCeline Paris Signature EngravedFor pierced earsReference : 46N556BRA.35OR",
+      "description": "Brass hoop earrings with a knot at the front",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw31c06357/images/large/46N556BRA.35OR_1_LIB_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Gold",
+          "size": null,
+          "price": "14608100",
+          "code": "46N556BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw31c06357/images/large/46N556BRA.35OR_1_LIB_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/knot-small-hoops-in-brass-with-gold-finish-46N556BRA.35OR.html"
+    },
+    {
+      "code": "46N636BRA.35OR",
+      "name": "Knot Ring in Brass with Gold finish",
+      "details": "BrassNickel FreeEngraved Celine Paris SignatureReference : 46N636BRA.35OR",
+      "description": "Brass ring with a knot in the center",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw81715b5b/images/large/46N636BRA.35OR_1_LIBRARY.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Gold",
+          "size": null,
+          "price": "11986100",
+          "code": "46N636BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw81715b5b/images/large/46N636BRA.35OR_1_LIBRARY.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/rings/knot-ring-in-brass-with-gold-finish-46N636BRA.35OR.html"
+    },
+    {
+      "code": "46P466BRA.36SI",
+      "name": "Knot extra-thin bracelet in brass with rhodium finish",
+      "details": "BrassNickel FreeReference: 46P466BRA.36SI",
+      "description": "Open brass bangle with a knot in the center of the bracelet",
+      "price": "14233500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb46dd78e/images/large/46P466BRA.36SI_1_LIBRARY_V7.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Silver",
+          "size": null,
+          "price": "14233500",
+          "code": "46P466BRA.36SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb46dd78e/images/large/46P466BRA.36SI_1_LIBRARY_V7.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/knot-extra-thin-bracelet-in-brass-with-rhodium-finish-46P466BRA.36SI.html"
+    },
+    {
+      "code": "46N556BRA.36SI",
+      "name": "Knot Small Hoops in Brass with Rhodium finish",
+      "details": "Diameter 1 IN (2.2 CM)BrassNickel FreeCeline Paris Signature EngravedFor pierced earsReference : 46N556BRA.36SI",
+      "description": "Brass hoop earrings with a knot at the front",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb76306ff/images/large/46N556BRA.36SI_1_LIB_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Silver",
+          "size": null,
+          "price": "14608100",
+          "code": "46N556BRA.36SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb76306ff/images/large/46N556BRA.36SI_1_LIB_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/knot-small-hoops-in-brass-with-rhodium-finish-46N556BRA.36SI.html"
+    },
+    {
+      "code": "46N636BRA.36SI",
+      "name": "Knot Ring in Brass with Rhodium finish",
+      "details": "BrassNickel FreeEngraved Celine Paris SignatureReference : 46N636BRA.36SI",
+      "description": "Brass ring with a knot in the center",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw867152d5/images/large/46N636BRA.36SI_1_LIBRARY_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SILVER",
+          "size": null,
+          "price": "11986100",
+          "code": "46N636BRA.36SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw867152d5/images/large/46N636BRA.36SI_1_LIBRARY_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/rings/knot-ring-in-brass-with-rhodium-finish-46N636BRA.36SI.html"
+    }
+  ]
 }

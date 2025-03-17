@@ -1,0 +1,23 @@
+{
+  "id": "IwyAuTEiA3Vqqu4",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/other-accessories/triomphe-frame-sparkle-brooch-in-strass,-brass-with-gold-finish-and-steel-461fq6sbs.35or.html",
+  "order_no": "1742183883520.669000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/other-accessories/triomphe-frame-sparkle-brooch-in-strass,-brass-with-gold-finish-and-steel-461FQ6SBS.35OR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/other-accessories/triomphe-frame-sparkle-brooch-in-strass,-brass-with-gold-finish-and-steel-461fq6sbs.35or.html",
+    "id": "IwyAuTEiA3Vqqu4"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rJS43qS4SjYBfk6",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-patent-calfskin-356834582c.00wc.html",
+  "order_no": "1742183369427.989000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-patent-calfskin-356834582C.00WC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-patent-calfskin-356834582c.00wc.html",
+    "id": "rJS43qS4SjYBfk6"
+  }
+}

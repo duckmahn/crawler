@@ -1,0 +1,24 @@
+{
+  "id": "6S9zjUcjcJ3zcn2",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/knot",
+  "order_no": null,
+  "handled_at": "2025-03-17 04:00:08.930019+00:00",
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/knot/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/knot/",
+    "handled_at": "2025-03-17 04:00:08.930019+00:00",
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/knot",
+    "id": "6S9zjUcjcJ3zcn2"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "i2yqDvgu4jh3ZwU",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-dark-ocean-wash-denim-2u149361m.08do.html",
+  "order_no": "1742183074089.630000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-dark-ocean-wash-denim-2U149361M.08DO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-dark-ocean-wash-denim-2u149361m.08do.html",
+    "id": "i2yqDvgu4jh3ZwU"
+  }
+}

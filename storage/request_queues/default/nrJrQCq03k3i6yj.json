@@ -1,0 +1,23 @@
+{
+  "id": "nrJrQCq03k3i6yj",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clea-triomphe-gladiator-sandal-in-leopard-printed-hairy-calfskin-352463926c.38wb.html",
+  "order_no": "1742183322822.079000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clea-triomphe-gladiator-sandal-in-leopard-printed-hairy-calfskin-352463926C.38WB.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clea-triomphe-gladiator-sandal-in-leopard-printed-hairy-calfskin-352463926c.38wb.html",
+    "id": "nrJrQCq03k3i6yj"
+  }
+}

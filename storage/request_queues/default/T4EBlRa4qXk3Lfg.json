@@ -1,0 +1,23 @@
+{
+  "id": "T4EBlRa4qXk3Lfg",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-01-sunglasses-in-acetate-4s194cplb.19mh.html",
+  "order_no": "1742181163372.939000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-01-sunglasses-in-acetate-4S194CPLB.19MH.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-01-sunglasses-in-acetate-4s194cplb.19mh.html",
+    "id": "T4EBlRa4qXk3Lfg"
+  }
+}

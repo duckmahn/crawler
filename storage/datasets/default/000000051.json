@@ -1,4 +1,347 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "10P043ESM.04LU",
+      "name": "MINI BOSTON IN SMOOTH CALFSKIN",
+      "details": "5.5 x 3.7 x 3 IN (14 x 9.5 x 7.5 CM)CALFSKINSuede Calfskin LiningGOLD FINISHINGHand carry, shoulder carry and cross-body carryZIPPED CLOSUREONE MAIN COMPARTMENTLEATHER HANDLES with 2.95 IN (7.5 CM) drop removable and adjustable strap with a minimum drop 18 IN (46CM) and maximum drop 21 IN (53 CM)Reference : 10P043ESM.04LU",
+      "description": "",
+      "price": "52439100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw47d74b13/images/large/10P043ESM.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "52439100",
+          "code": "10P043ESM.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw47d74b13/images/large/10P043ESM.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Spring Yellow",
+          "size": null,
+          "price": "52439100",
+          "code": "10P043ESM.11SS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw26e17620/images/large/10P043ESM.11SS_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/mini-boston-in-smooth-calfskin-10P043ESM.04LU.html"
+    },
+    {
+      "code": "10P042EUP.04LU",
+      "name": "MINI BOSTON IN Triomphe Canvas and calfskin",
+      "details": "5.5 x 3.7 x 3 IN (14 x 9.5 x 7.5 CM)Triomphe Canvas, trimmings in calfskinTextile liningGOLD FINISHINGHand carry, shoulder carry and cross-body carryZIPPED CLOSUREONE MAIN COMPARTMENTLEATHER HANDLES with 2.95 IN (7.5 CM) drop removable and adjustable strap with a minimum drop 18 IN (46CM) and maximum drop 21 IN (53 CM)Reference : 10P042EUP.04LU",
+      "description": "",
+      "price": "44947800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw95450e04/images/large/10P042EUP.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "44947800",
+          "code": "10P042EUP.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw95450e04/images/large/10P042EUP.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-boston-in-triomphe-canvas-and-calfskin-10P042EUP.04LU.html"
+    },
+    {
+      "code": "10N473GHJ.38NO",
+      "name": "MINI BUCKET LOUISE IN smooth calfskin",
+      "details": "5 x 6 x 4 IN (13.5 x 16 x 10 CM)calfskinLAMBSKIN liningGOLD FINISHINGHand carry, shoulder carry and cross-body carryFLAP IN LEATHER WITH A TRIOMPHE MAGNETIC CLOSUREONE MAIN COMPARTMENTHANDLE LEATHER with 2 IN (5 CM) dropREMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 17 IN (44 CM) AND A MAXIMUM DROP 23 IN (59 CM)Reference : 10N473GHJ.38NO",
+      "description": "",
+      "price": "67421700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw38c4996c/images/large/10N473GHJ.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "67421700",
+          "code": "10N473GHJ.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw38c4996c/images/large/10N473GHJ.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "ICE BLUE",
+          "size": null,
+          "price": "67421700",
+          "code": "10N473GHJ.07IC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa908c343/images/large/10N473GHJ.07IC_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "RICE",
+          "size": null,
+          "price": "67421700",
+          "code": "10N473GHJ.01RC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9423f5bb/images/large/10N473GHJ.01RC_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/mini-bucket-louise-in-smooth-calfskin-10N473GHJ.38NO.html"
+    },
+    {
+      "code": "10L973GCH.38NO",
+      "name": "MULTIPOCHETTE IN SHINY CALFSKIN",
+      "details": "8 x 4 x 2 IN (20.5 x 11 x 4 CM)CALFSKINLAMBSKIN LININGGOLD FINISHINGHand carry, shoulder carry and cross-body carryFLAP WITH DECORATIVE TRIOMPHE AND SNAP BUTTON CLOSUREONE MAIN COMPARTMENTONE FLAT POCKETREMOVABLE CHAIN WITH A 9 IN (24 CM) DROPREMOVABLE AND ADJUSTABLE LEATHER STRAP WITH A MINIMUM DROP 18 IN (47 CM) AND MAXIMUM DROP 20 IN (51 CM)Reference : 10L973GCH.38NO",
+      "description": "",
+      "price": "71205800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc07e734e/images/large/10L973GCH.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "71205800",
+          "code": "10L973GCH.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc07e734e/images/large/10L973GCH.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "RICE",
+          "size": null,
+          "price": "71205800",
+          "code": "10L973GCH.01RC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfad8e36e/images/large/10L973GCH.01RC_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/multipochette-in-shiny-calfskin-10L973GCH.38NO.html"
+    },
+    {
+      "code": "10L973GBA.19LE",
+      "name": "MULTIPOCHETTE in PONY CALFSKIN WITH LEOPARD PRINT",
+      "details": "8 x 4 x 2 IN (20.5 x 11 x 4 CM)CALFSKINCALFSKIN LININGHand carry, shoulder carry and cross-body carryFLAP WITH DECORATIVE TRIOMPHE AND SNAP BUTTON CLOSUREONE MAIN COMPARTMENTONE FLAT POCKETREMOVABLE CHAIN WITH A 9 IN (24 CM) DROPREMOVABLE AND ADJUSTABLE LEATHER STRAP WITH A MINIMUM DROP 18 IN (47 CM) AND MAXIMUM DROP 20 IN (51 CM)Reference : 10L973GBA.19LE",
+      "description": "",
+      "price": "74913000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw422fd05c/images/large/10L973GBA.19LE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "74913000",
+          "code": "10L973GBA.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw422fd05c/images/large/10L973GBA.19LE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/multipochette-in-pony-calfskin-with-leopard-print-10L973GBA.19LE.html"
+    },
+    {
+      "code": "10M432FWI.02NT",
+      "name": "MULTIPOCHETTE IN RAFFIA",
+      "details": "9 x 4 x 2 IN (23 x 11 x 4 CM)RAFFIA, TRIMMINGS IN CALFSKINCALFSKIN LININGGOLD FINISHINGHand carry, shoulder carry and cross-body carryFLAP WITH DECORATIVE TRIOMPHE AND SNAP BUTTON CLOSUREONE MAIN COMPARTMENTONE FLAT POCKETREMOVABLE CHAIN WITH A 9 IN (24 CM) DROPREMOVABLE AND ADJUSTABLE LEATHER STRAP WITH A MINIMUM DROP 18 IN (47 CM) AND MAXIMUM DROP 20 IN (51 CM)Reference : 10M432FWI.02NT",
+      "description": "",
+      "price": "78701100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8558db7f/images/large/10M432FWI.02NT_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / TAN",
+          "size": null,
+          "price": "78701100",
+          "code": "10M432FWI.02NT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8558db7f/images/large/10M432FWI.02NT_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/multipochette-in-raffia-10M432FWI.02NT.html"
+    },
+    {
+      "code": "10N113GGR.38NO",
+      "name": "MINI CELINE VICTOIRE IN SUPPLE GRAINED CALFSKIN",
+      "details": "6 x 5 x 4 IN (16.5 x 12.5 x 10 CM)CALFSKINLAMBSKIN LININGGOLD FINISHINGCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSUREONE MAIN COMPARTMENT ONE INNER FLAT POCKETCHAIN with 19 IN (49 CM) dropReference : 10N113GGR.38NO",
+      "description": "",
+      "price": "71205800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdc89dbf3/images/large/10N113GGR.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "71205800",
+          "code": "10N113GGR.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdc89dbf3/images/large/10N113GGR.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "RICE",
+          "size": null,
+          "price": "71205800",
+          "code": "10N113GGR.01RC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw250c5430/images/large/10N113GGR.01RC_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/mini-celine-victoire-in-supple-grained-calfskin-10N113GGR.38NO.html"
+    },
+    {
+      "code": "10N112GF7.35OR",
+      "name": "MINI CELINE VICTOIRE in GLITTER TEXTILE",
+      "details": "6 x 5 x 4 IN (16.5 x 12.5 x 10 CM)TEXTILELAMBSKIN LININGGOLD FINISHINGCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSUREONE MAIN COMPARTMENT ONE INNER FLAT POCKETCHAIN with 19 IN (49 CM) dropReference : 10N112GF7.35OR",
+      "description": "",
+      "price": "67421700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9745d026/images/large/10N112GF7.35OR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "67421700",
+          "code": "10N112GF7.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9745d026/images/large/10N112GF7.35OR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/mini-celine-victoire-in-glitter-textile-10N112GF7.35OR.html"
+    },
+    {
+      "code": "10M742GCE.04LU",
+      "name": "MICRO SAILOR IN TRIOMPHE CANVAS AND CALFSKIN",
+      "details": "5 x 7 x 4 IN (13 x 18 x 11 CM)TRIOMPHE CANVAS, TRIMMINGS IN CALFSKINTEXTILE LININGGOLD FINISHINGCross-body and shoulder carryDRAWSTRING LEATHER TIESONE MAIN COMPARTMENTADJUSTABLE STRAP WITH A MINIMUM DROP 18 IN  (45 CM) AND MAXIMUM DROP IN 21 (54 CM)Reference : 10M742GCE.04LU",
+      "description": "",
+      "price": "41202200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw557f096e/images/large/10M742GCE.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "41202200",
+          "code": "10M742GCE.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw557f096e/images/large/10M742GCE.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/micro-sailor-in-triomphe-canvas-and-calfskin-10M742GCE.04LU.html"
+    },
+    {
+      "code": "10M742GCE.01TA",
+      "name": "MICRO SAILOR in TRIOMPHE CANVAS AND CALFSKIN",
+      "details": "5 x 7 x 4 IN (13 x 18 x 11 CM)TRIOMPHE CANVAS, TRIMMINGS IN CALFSKINTEXTILE LININGGold FinishingCross-body and shoulder carryDRAWSTRING LEATHER TIESONE MAIN COMPARTMENTADJUSTABLE STRAP WITH A MINIMUM DROP 18 IN  (45 CM) AND MAXIMUM DROP IN 21 (54 CM)Reference : 10M742GCE.01TA",
+      "description": "",
+      "price": "41224400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw34b814de/images/large/10M742GCE.01TA_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WHITE/TAN",
+          "size": null,
+          "price": "41224400",
+          "code": "10M742GCE.01TA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw34b814de/images/large/10M742GCE.01TA_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/micro-sailor-in-triomphe-canvas-and-calfskin-10M742GCE.01TA.html"
+    },
+    {
+      "code": "10K642ECM.04LU",
+      "name": "HALF MOON CASE IN triomphe canvas and calfskin",
+      "details": "7 x 5 x 2 IN (17.5 x 12 x 6 CM)triomphe canvas, trimmings IN calfskintextile liningGOLD FINISHINGHand carry, shoulder carry and cross-body carryZIPPED CLOSUREONE MAIN COMPARTMENTREMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 16 IN (40 CM) AND MAXIMUM DROP 20 IN (50 CM)LEATHER HANDLE WITH 3 IN (7 CM) DROPReference : 10K642ECM.04LU",
+      "description": "",
+      "price": "48693500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwaa32639e/images/large/10K642ECM.04LU_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "48693500",
+          "code": "10K642ECM.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwaa32639e/images/large/10K642ECM.04LU_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/half-moon-case-in-triomphe-canvas-and-calfskin-10K642ECM.04LU.html"
+    },
+    {
+      "code": "10E383DR8.38NO",
+      "name": "Clutch on Chain Cuir triomphe IN smooth calfskin",
+      "details": "6 x 4 x 3 IN (16.5 x 11 x 8 CM)calfskincalfskin liningGold FinishingCross-body and shoulder carryzipped closureone main compartmentchain with 22 IN (55 CM) dropReference : 10E383DR8.38NO",
+      "description": "",
+      "price": "35602900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw994eef30/images/large/10E383DR8.38NO_1_WIN22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "35602900",
+          "code": "10E383DR8.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw994eef30/images/large/10E383DR8.38NO_1_WIN22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "35602900",
+          "code": "10E383DR8.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dweb3e498e/images/large/10E383DR8.04LU_1_WIN22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/clutch-on-chain-cuir-triomphe-in-smooth-calfskin-10E383DR8.38NO.html"
+    },
+    {
+      "code": "10E382FTH.07OC",
+      "name": "Clutch on Chain Cuir triomphe in STRIPED TEXTILE AND CALFSKIN",
+      "details": "6 x 4 x 3 IN (16.5 x 11 x 8 CM)TEXTILE, TRIMMINGS IN CALFSKINCALFSKIN LININGGOLD FINISHINGCross-body and shoulder carryzipped closureone main compartmentchain with 22 IN (55 CM) dropReference : 10E382FTH.07OC",
+      "description": "",
+      "price": "33710900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb95fc2da/images/large/10E382FTH.07OC_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NAVY BLUE",
+          "size": null,
+          "price": "33710900",
+          "code": "10E382FTH.07OC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb95fc2da/images/large/10E382FTH.07OC_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/clutch-on-chain-cuir-triomphe-in-striped-textile-and-calfskin-10E382FTH.07OC.html"
+    },
+    {
+      "code": "10M582DZ2.02NT",
+      "name": "NANO SUPPLE CELINE CLASSIC PANIER IN RAFFIA AND CALFSKIN",
+      "details": "9 x 6 x 5 IN (22 x 16 x 12 CM)raffia, trimmings in calfskinunlinedGOLD FINISHINGShoulder and hand carryONE MAIN COMPARTMENTLEATHER STRAP with 14 IN (36 CM) dropReference : 10M582DZ2.02NT",
+      "description": "",
+      "price": "41224400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw842ecca3/images/large/10M582DZ2.02NT_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / TAN",
+          "size": null,
+          "price": "41224400",
+          "code": "10M582DZ2.02NT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw842ecca3/images/large/10M582DZ2.02NT_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/nano-supple-celine-classic-panier-in-raffia-and-calfskin-10M582DZ2.02NT.html"
+    }
+  ]
 }

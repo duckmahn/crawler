@@ -1,0 +1,23 @@
+{
+  "id": "5naUumvfg3Mz3vg",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/triomphe-keyring-charm-in-plexiglass-with-gold-finishing-49j327fwl.19ts.html",
+  "order_no": "1742182232214.713000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/triomphe-keyring-charm-in-plexiglass-with-gold-finishing-49J327FWL.19TS.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/triomphe-keyring-charm-in-plexiglass-with-gold-finishing-49j327fwl.19ts.html",
+    "id": "5naUumvfg3Mz3vg"
+  }
+}

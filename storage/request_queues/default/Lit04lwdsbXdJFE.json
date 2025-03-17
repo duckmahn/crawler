@@ -1,0 +1,23 @@
+{
+  "id": "Lit04lwdsbXdJFE",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/compact-wallet-triomphe-charms-in-grained-calfskin-10m103fvo.01rc.html",
+  "order_no": "1742182672347.202000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/compact-wallet-triomphe-charms-in-grained-calfskin-10M103FVO.01RC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/compact-wallet-triomphe-charms-in-grained-calfskin-10m103fvo.01rc.html",
+    "id": "Lit04lwdsbXdJFE"
+  }
+}

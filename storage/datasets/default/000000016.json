@@ -1,4 +1,378 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "188003BEY.28LB",
+      "name": "Small 16 Bag in satinated calfskin",
+      "details": "9 x 7 x 4 IN (23 x 18 x 10 CM)CalfskinLambskin LiningGold FinishingHand carry, shoulder carry and cross-body carryTurn lock closureTwo main compartmentsOne Inner flat pocket One inner zipped pocketOne outer flat pocket on the front under the flapRemovable leather strap with 18 IN (46 CM) dropHandle with 3 IN (8.5 CM) dropCloche ClésBOTTOM studsReference : 188003BEY.28LB",
+      "description": "Small 16 Bag in satinated calfskin with a leather handle, a removable shoulder strap, and an outer flat pocket under the flap. The bag has a twist lock closure and a Celine padlock on a leather key cover.",
+      "price": "131097700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf2fbff40/images/large/188003BEY.28LB_1_SPR19_134290.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Light Burgundy",
+          "size": null,
+          "price": "131097700",
+          "code": "188003BEY.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf2fbff40/images/large/188003BEY.28LB_1_SPR19_134290.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/16/small-16-bag-in-satinated-calfskin-188003BEY.28LB.html"
+    },
+    {
+      "code": "188004FMR.24LP",
+      "name": "Small 16 Bag IN pearly python",
+      "details": "9.1 x 7.1 x 3.9 IN (23 x 18 x 10 CM)pythonlambskin liningHand carry, shoulder carry and cross-body carryTurn lock closureTwo main compartmentsOne Inner flat pocket One inner zipped pocketOne outer flat pocket on the front under the flapRemovable leather strap with 18.11 IN (46 CM) drop Handle with 3.35 IN (8.5 CM) drop Cloche ClésBOTTOM studsReference : 188004FMR.24LP",
+      "description": "",
+      "price": "176045400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7726883b/images/large/188004FMR.24LP_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT PINK",
+          "size": null,
+          "price": "176045400",
+          "code": "188004FMR.24LP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7726883b/images/large/188004FMR.24LP_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/16/small-16-bag-in-pearly-python-188004FMR.24LP.html"
+    },
+    {
+      "code": "115204BFJ.28LB",
+      "name": "CHAIN SHOULDER BAG CLAUDE IN lizard",
+      "details": "8.1 x 4.5 x 1.6 IN (20.5 x 11.5 x 4 CM)LizardLambskin LiningShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 11.81 IN (30 CM) drop Reference : 115204BFJ.28LB",
+      "description": "",
+      "price": "209869500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6b54bea0/images/large/115204BFJ.28LB_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BURGUNDY",
+          "size": null,
+          "price": "209869500",
+          "code": "115204BFJ.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6b54bea0/images/large/115204BFJ.28LB_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-lizard-115204BFJ.28LB.html"
+    },
+    {
+      "code": "116594FMR.24LP",
+      "name": "TEEN CELINE VICTOIRE BAG IN pearly python",
+      "details": "9.2 x 5.5 x 3.1 IN (23.5 x 14 x 8 CM)pythonlambskin liningCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSURETWO MAIN COMPARTMENTsOne Inner flat pocket ONE INNER central ZIPPED POCKETSLIDING CHAIN WITH A MINIMUM DROP 10 IN (29 cm) AND A MAXIMUM DROP 19 IN (50 cm)Reference : 116594FMR.24LP",
+      "description": "",
+      "price": "157402200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdc0e55a1/images/large/116594FMR.24LP_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT PINK",
+          "size": null,
+          "price": "157402200",
+          "code": "116594FMR.24LP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdc0e55a1/images/large/116594FMR.24LP_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-pearly-python-116594FMR.24LP.html"
+    },
+    {
+      "code": "115854FMQ.02VG",
+      "name": "Medium Celine Victoire Bag IN pearly python",
+      "details": "10 x 6.7 x 3.6 IN (25 x 17 x 9 CM)pythonlambskin liningCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSURETWO MAIN COMPARTMENTsOne Inner flat pocket ONE INNER central ZIPPED POCKETSLIDING CHAIN WITH A MINIMUM DROP 10 IN (29 cm) AND A MAXIMUM DROP 19 IN (50 cm)Reference : 115854FMQ.02VG",
+      "description": "",
+      "price": "164897500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3ce7c4b1/images/large/115854FMQ.02VG_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL",
+          "size": null,
+          "price": "164897500",
+          "code": "115854FMQ.02VG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3ce7c4b1/images/large/115854FMQ.02VG_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/medium-celine-victoire-bag-in-pearly-python-115854FMQ.02VG.html"
+    },
+    {
+      "code": "188423BF4.28LB",
+      "name": "Teen Triomphe Bag in shiny calfskin",
+      "details": "7 x 5 x 3 IN (18.5 x 13.5 x 7 CM)CalfskinLambskin LiningGold FinishingCross-body and shoulder carryTriomphe metallic closureThree inner compartmentsOne Inner zipped pocket One inner flat pocketadjustable strap with a minimum drop 14 IN (35 CM) and maximum drop 20 IN (50 CM)Reference : 188423BF4.28LB",
+      "description": "",
+      "price": "123606400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbec2ba27/images/large/188423BF4.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BURGUNDY",
+          "size": null,
+          "price": "123606400",
+          "code": "188423BF4.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbec2ba27/images/large/188423BF4.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/teen-triomphe-bag-in-shiny-calfskin-188423BF4.28LB.html"
+    },
+    {
+      "code": "10L843DPV.28LB",
+      "name": "MINI CHAIN CLAUDE in Shiny calfskin",
+      "details": "4 x 4 x 2 IN (11 x 9.5 x 4 CM)calfskincalfskin liningGold FinishingCross-body and shoulder carryTRIOMPHE METALLIC SNAP BUTTON CLOSUREONE MAIN COMPARTMENT ONE INNER FLAT POCKETCHAIN WITH 22 IN (55 CM) DROPReference : 10L843DPV.28LB",
+      "description": "",
+      "price": "46820600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0777668e/images/large/10L843DPV.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BURGUNDY",
+          "size": null,
+          "price": "46820600",
+          "code": "10L843DPV.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0777668e/images/large/10L843DPV.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-chain-claude-in-shiny-calfskin-10L843DPV.28LB.html"
+    },
+    {
+      "code": "10D783DPV.28LB",
+      "name": "Small Flap Wallet TRIOMPHE in Shiny calfskin",
+      "details": "4 x 3 x 2 IN (10.5 x 8.5 x 4 CM)calfskincalfskin liningGold FinishingTRIOMPHE METALLIC SNAP BUTTON CLOSUREOne folded coin pocket with snap buttonFive credit card slotsOne note pocketTwo flat pocketsReference : 10D783DPV.28LB",
+      "description": "",
+      "price": "20226500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdb00a7d3/images/large/10D783DPV.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BURGUNDY",
+          "size": null,
+          "price": "20226500",
+          "code": "10D783DPV.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdb00a7d3/images/large/10D783DPV.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/small-flap-wallet-triomphe-in-shiny-calfskin-10D783DPV.28LB.html"
+    },
+    {
+      "code": "45AX64AM5.24LP",
+      "name": "Small Triomphe Belt IN Pearly Python",
+      "details": "PythonCalfskin liningMiddle-WaistGOLD FINISHINGWIDTH : 0.7 IN (1.8 CM)Triomphe Buckle with collar studReference : 45AX64AM5.24LP",
+      "description": "",
+      "price": "22848500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa0d5ffb8/images/large/45AX64AM5.24LP_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT PINK",
+          "size": null,
+          "price": "22848500",
+          "code": "45AX64AM5.24LP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa0d5ffb8/images/large/45AX64AM5.24LP_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/small-triomphe-belt-in-pearly-python-45AX64AM5.24LP.html"
+    },
+    {
+      "code": "RB01A0825.33NK",
+      "name": "shirt collar blouse in triomphe silk",
+      "details": "100% silksecondary material 69% acetate 31% silktriomphe embroideryclassic fitshirt collar1 patch pocket on the chestcontrasting piping on the cuffs8 triomphe snap buttonsmade in PortugalReference: RB01A0825.33NK",
+      "description": "shirt collar blouse with triomphe embroidery in shiny matte triomphe silk",
+      "price": "55810200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0d474a75/images/large/RB01A0825.33NK_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "INK",
+          "size": null,
+          "price": "55810200",
+          "code": "RB01A0825.33NK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0d474a75/images/large/RB01A0825.33NK_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BORDEAUX",
+          "size": null,
+          "price": "55810200",
+          "code": "RB01A0825.28BX",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe7362625/images/large/RB01A0825.28BX_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/shirt-collar-blouse-in-triomphe-silk-RB01A0825.33NK.html"
+    },
+    {
+      "code": "RP04C0825.33NK",
+      "name": "pajama pants in triomphe silk",
+      "details": "100% silkclassic fitmid-rise2 side pocketscontrasting piping on the leg cuffselasticated waistband with celine-engraved mother-of-pearl buttonmade in PortugalReference: RP04C0825.33NK",
+      "description": "mid-rise pajama pants in shiny matte triomphe silk",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb665274f/images/large/RP04C0825.33NK_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "INK",
+          "size": null,
+          "price": "50566300",
+          "code": "RP04C0825.33NK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb665274f/images/large/RP04C0825.33NK_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BORDEAUX",
+          "size": null,
+          "price": "50566300",
+          "code": "RP04C0825.28BX",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw84fd52d5/images/large/RP04C0825.28BX_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/pajama-pants-in-triomphe-silk-RP04C0825.33NK.html"
+    },
+    {
+      "code": "RR09I0825.03HD",
+      "name": "long dress in triomphe silk",
+      "details": "100% silklining 100% silkclassic fitmaxi lengthlow lavallière collar2 welt pocketsside zip4 triomphe buttons1 triomphe button on the pocket1 triomphe button on the cuffsmade in FranceReference: RR09I0825.03HD",
+      "description": "long lavallière collar dress in shiny matte triomphe silk",
+      "price": "101132500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb00bef6a/images/large/RR09I0825.03HD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CHARDONNAY",
+          "size": null,
+          "price": "101132500",
+          "code": "RR09I0825.03HD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb00bef6a/images/large/RR09I0825.03HD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/long-dress-in-triomphe-silk-RR09I0825.03HD.html"
+    },
+    {
+      "code": "RC02Z0638.CAZ4",
+      "name": "cropped shirt in silk georgette",
+      "details": "100% silkclassic fitcropped lengthdrugstore collar2 patch pockets with flap on the chestbuttoned cuffs7 mother-of-pearl buttons1 mother-of-pearl button on the pocket1 mother-of-pearl button on the cuffsmade in ItalyReference: RC02Z0638.CAZ4",
+      "description": "cropped drugstore collar shirt in heritage print silk georgette",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0fe8ac4/images/large/RC02Z0638.CAZ4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PINK BEIGE/CAMEL/BLACK",
+          "size": null,
+          "price": "50566300",
+          "code": "RC02Z0638.CAZ4",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0fe8ac4/images/large/RC02Z0638.CAZ4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/cropped-shirt-in-silk-georgette-RC02Z0638.CAZ4.html"
+    },
+    {
+      "code": "RJ00H0638.CAZ4",
+      "name": "pleated skirt in silk georgette",
+      "details": "100% silklining 100% silksecondary lining 55% viscose 45% silkclassic fitmidi lengthhigh-waistedtie belt with celine paris-engraved metal agletsside zip and hook-and-eye closuremade in ItalyReference: RJ00H0638.CAZ4",
+      "description": "pleated skirt in heritage print silk georgette",
+      "price": "89895600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw07cb7b43/images/large/RJ00H0638.CAZ4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PINK BEIGE/CAMEL/BLACK",
+          "size": null,
+          "price": "89895600",
+          "code": "RJ00H0638.CAZ4",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw07cb7b43/images/large/RJ00H0638.CAZ4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/pleated-skirt-in-silk-georgette-RJ00H0638.CAZ4.html"
+    },
+    {
+      "code": "362355045C.38NO",
+      "name": "CELINE CLEMENCE MULE IN LAMBSKIN AND PATENT CALFSKIN",
+      "details": "50% lambskin 50% Calfskin1.6 IN (40 MM) heelWIDE SQUARED HEELALMOND TOE SHAPELARGE TRIOMPHE PATCHSLIP-ONLEATHER INSOLELEATHER OUTSOLEReference : 362355045C.38NO",
+      "description": "",
+      "price": "26983300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw050e2d76/images/large/362355045C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "26983300",
+          "code": "362355045C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw050e2d76/images/large/362355045C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clemence-mule-in-lambskin-and-patent-calfskin-362355045C.38NO.html"
+    },
+    {
+      "code": "362355100C.28VB",
+      "name": "CELINE CLEMENCE MULE IN PATENT CALFSKIN AND LIZARD",
+      "details": "50% Calfskin 50% Lizard100% GOATSKIN LINING1.6 IN (40 MM) heelWIDE SQUARED HEELALMOND TOE SHAPELARGE TRIOMPHE PATCHSLIP-ONLEATHER INSOLELEATHER OUTSOLEReference : 362355100C.28VB",
+      "description": "",
+      "price": "29590700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3b65a199/images/large/362355100C.28VB_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "VINTAGE BURGUNDY",
+          "size": null,
+          "price": "29590700",
+          "code": "362355100C.28VB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3b65a199/images/large/362355100C.28VB_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clemence-mule-in-patent-calfskin-and-lizard-362355100C.28VB.html"
+    },
+    {
+      "code": "2AW900R73.FZK1",
+      "name": "scarf in triomphe chain silk twill",
+      "details": "100% silk35.4 x 35.4 in (90 x 90 cm)hand-rolled hemmade in ItalyReference: 2AW900R73.FZK1",
+      "description": "scarf in triomphe chain print silk twill",
+      "price": "16480900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc103a456/images/large/2AW900R73.FZK1_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ROSEWOOD/PINK/IVORY",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW900R73.FZK1",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc103a456/images/large/2AW900R73.FZK1_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/scarf-in-triomphe-chain-silk-twill-2AW900R73.FZK1.html"
+    }
+  ]
 }

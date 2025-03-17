@@ -1,0 +1,23 @@
+{
+  "id": "Fj2esM7UqXGkZNY",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/verneuil-jacket-in-double-faced-wool-tricotine-2v36v383z.38no.html",
+  "order_no": "1742183141218.457000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/verneuil-jacket-in-double-faced-wool-tricotine-2V36V383Z.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/verneuil-jacket-in-double-faced-wool-tricotine-2v36v383z.38no.html",
+    "id": "Fj2esM7UqXGkZNY"
+  }
+}

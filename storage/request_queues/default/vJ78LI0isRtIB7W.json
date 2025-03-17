@@ -1,0 +1,23 @@
+{
+  "id": "vJ78LI0isRtIB7W",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/wallet-on-chain-margo-in-triomphe-canvas-and-calfskin-10l462dqb.04lu.html",
+  "order_no": "1742182326385.578000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/wallet-on-chain-margo-in-triomphe-canvas-and-calfskin-10L462DQB.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/wallet-on-chain-margo-in-triomphe-canvas-and-calfskin-10l462dqb.04lu.html",
+    "id": "vJ78LI0isRtIB7W"
+  }
+}

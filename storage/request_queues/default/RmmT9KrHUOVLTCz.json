@@ -1,0 +1,23 @@
+{
+  "id": "RmmT9KrHUOVLTCz",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/pure-collar-jacket-in-patina-finish-suede-2f448265t.18nc.html",
+  "order_no": "1742183196105.359000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/pure-collar-jacket-in-patina-finish-suede-2F448265T.18NC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/pure-collar-jacket-in-patina-finish-suede-2f448265t.18nc.html",
+    "id": "RmmT9KrHUOVLTCz"
+  }
+}

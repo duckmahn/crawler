@@ -1,0 +1,23 @@
+{
+  "id": "8nsmMgZa5t5sIbp",
+  "unique_key": "https://www.celine.com/en-vn/search?q=shoes&searchcategory=suggestion",
+  "order_no": "1742180995018.713000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/search?q=SHOES&searchcategory=suggestion",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/search?q=shoes&searchcategory=suggestion",
+    "id": "8nsmMgZa5t5sIbp"
+  }
+}

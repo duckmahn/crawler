@@ -1,0 +1,23 @@
+{
+  "id": "1yItvM9pJn1tzXc",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-sailor-cap-in-cotton-hickory-2aug1296v.08wv.html",
+  "order_no": "1742183800836.556000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-sailor-cap-in-cotton-hickory-2AUG1296V.08WV.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-sailor-cap-in-cotton-hickory-2aug1296v.08wv.html",
+    "id": "1yItvM9pJn1tzXc"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "OhAESPESnMYeaAh",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/blouse-with-maxi-bow-in-silk-2b86b406z.12cr.html",
+  "order_no": "1742181050655.521000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/blouse-with-maxi-bow-in-silk-2B86B406Z.12CR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/blouse-with-maxi-bow-in-silk-2b86b406z.12cr.html",
+    "id": "OhAESPESnMYeaAh"
+  }
+}

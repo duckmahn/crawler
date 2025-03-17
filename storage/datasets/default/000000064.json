@@ -1,4 +1,425 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "RV0A1583C.38NO",
+      "name": "carcoat in soft lambskin",
+      "details": "100% lambskinlining 51% modal 49% viscoseclassic fitnotch collar2 flap pockets3 covered buttonsmade in italyReference: RV0A1583C.38NO",
+      "description": "",
+      "price": "164808500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw08532e8a/images/large/RV0A1583C.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "164808500",
+          "code": "RV0A1583C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw08532e8a/images/large/RV0A1583C.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/carcoat-in-soft-lambskin-RV0A1583C.38NO.html"
+    },
+    {
+      "code": "RV0MN050L.04CA",
+      "name": "jacket in suede",
+      "details": "100% suede lamb leatherclassic fitclaudine collar2 patch pockets3 buttonsmade in italyReference: RV0MN050L.04CA",
+      "description": "",
+      "price": "146080300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw25608a26/images/large/RV0MN050L.04CA_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CARAMEL",
+          "size": null,
+          "price": "146080300",
+          "code": "RV0MN050L.04CA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw25608a26/images/large/RV0MN050L.04CA_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/jacket-in-suede-RV0MN050L.04CA.html"
+    },
+    {
+      "code": "RV09W333J.38NO",
+      "name": "saint germain jacket in bouclette natté",
+      "details": "58% wool 35% mohair 7% polyamidelining 51% modal 49% viscosesecond lining 100% cottonclassic fittailored with shoulder padsshirt collar2 flap pockets on the chest2 patch pockets with flap5 blason buttons1 blason button on the cuffsmade in italyReference: RV09W333J.38NO",
+      "description": "",
+      "price": "108623800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd65524f2/images/large/RV09W333J.38NO_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "108623800",
+          "code": "RV09W333J.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd65524f2/images/large/RV09W333J.38NO_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/saint-germain-jacket-in-bouclette-natte-RV09W333J.38NO.html"
+    },
+    {
+      "code": "RV045066V.38NO",
+      "name": "brompton jacket in gauffered double wool",
+      "details": "100% wool51% modal 49% viscoseclassic fittailored with shoulder padspure collar2 flap pockets on the chest2 maxi buttons1 maxi button on the pocketmade in italyReference: RV045066V.38NO",
+      "description": "",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0e2c95ed/images/large/RV045066V.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "104878100",
+          "code": "RV045066V.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0e2c95ed/images/large/RV045066V.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-gauffered-double-wool-RV045066V.38NO.html"
+    },
+    {
+      "code": "RV0450794.12CR",
+      "name": "brompton jacket in wool silk gabardine",
+      "details": "80% wool 20% silklining 51% modal 49% viscoseclassic fittailored with shoulder padspure collar2 flap pockets on the chest2 maxi buttons1 maxi button on the pocketmade in italyReference: RV0450794.12CR",
+      "description": "",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa2db253c/images/large/RV0450794.12CR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CREME",
+          "size": null,
+          "price": "104878100",
+          "code": "RV0450794.12CR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa2db253c/images/large/RV0450794.12CR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-wool-silk-gabardine-RV0450794.12CR.html"
+    },
+    {
+      "code": "RV07T0489.24RL",
+      "name": "chelsea jacket in alpaca wool",
+      "details": "65% alpaca 35% virgin woollining 51% modacrylic 49% viscoseclassic fittailored with shoulder padscrew neck2 flap pocketsbraided piping details4 celine paris-engraved half-sphere buttons1 celine paris-engraved half-sphere button on the pocket4 celine paris-engraved half-sphere buttons on the cuffsmade in ItalyReference: RV07T0489.24RL",
+      "description": "chelsea jacket with braided piping in fur-effect wool and alpaca",
+      "price": "108623800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw14100f2e/images/large/RV07T0489.24RL_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ROSE GLACE",
+          "size": null,
+          "price": "108623800",
+          "code": "RV07T0489.24RL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw14100f2e/images/large/RV07T0489.24RL_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-alpaca-wool-RV07T0489.24RL.html"
+    },
+    {
+      "code": "RV07T181Z.03AS",
+      "name": "chelsea jacket in sequin silk tweed",
+      "details": "54% silk 17% cotton 15% polyamide 14% polyesterlining 51% modacrylic 49% viscoseclassic fittailored with shoulder padscrew neck2 flap pocketsbraided piping details4 celine paris-engraved half-sphere buttons1 celine paris-engraved half-sphere button on the pocket4 celine paris-engraved half-sphere buttons on the cuffsmade in ItalyReference: RV07T181Z.03AS",
+      "description": "chelsea jacket with braided piping in sequin silk tweed",
+      "price": "146080300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw123094f2/images/large/RV07T181Z.03AS_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SABLE BLANC/OR",
+          "size": null,
+          "price": "146080300",
+          "code": "RV07T181Z.03AS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw123094f2/images/large/RV07T181Z.03AS_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-sequin-silk-tweed-RV07T181Z.03AS.html"
+    },
+    {
+      "code": "RV02O1095.97IV",
+      "name": "verneuil jacket in linen and cotton lace",
+      "details": "75% linen 15% cotton 10% polyamide secondary material 100% cottonclassic fitcrew neck with bow and hook-and-eye closure2 patch pockets with triomphe button1 triomphe button on the cuffsmade in FranceReference: RV02O1095.97IV",
+      "description": "verneuil jacket with bow in linen and cotton floral lace",
+      "price": "108623800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw21041c0c/images/large/RV02O1095.97IV_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "IVOIRE",
+          "size": null,
+          "price": "108623800",
+          "code": "RV02O1095.97IV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw21041c0c/images/large/RV02O1095.97IV_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/verneuil-jacket-in-linen-and-cotton-lace-RV02O1095.97IV.html"
+    },
+    {
+      "code": "2EJ62712K.19ES",
+      "name": "straight-cut blouson jacket in suede",
+      "details": "100% split leatherlining 51% modacrylic 49% viscoseclassic fitshirt collar2 patch pockets with flap7 covered snap buttons1 covered snap button on the cuffsmade in ItalyReference: 2EJ62712K.19ES",
+      "description": "straight-cut blouson jacket in suede",
+      "price": "153571500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb8b01ba2/images/large/2EJ62712K.19ES_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ESPRESSO",
+          "size": null,
+          "price": "153571500",
+          "code": "2EJ62712K.19ES",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb8b01ba2/images/large/2EJ62712K.19ES_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/straight-cut-blouson-jacket-in-suede-2EJ62712K.19ES.html"
+    },
+    {
+      "code": "2H533712K.19ES",
+      "name": "trapeze mini skirt in suede",
+      "details": "100% split leatherlining 51% modacrylic 49% viscoseclassic fitmini lengthmid-riseside zip and claspmade in ItalyReference: 2H533712K.19ES",
+      "description": "trapeze mini skirt in suede",
+      "price": "93641200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dweb3a8185/images/large/2H533712K.19ES_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ESPRESSO",
+          "size": null,
+          "price": "93641200",
+          "code": "2H533712K.19ES",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dweb3a8185/images/large/2H533712K.19ES_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/trapeze-mini-skirt-in-suede-2H533712K.19ES.html"
+    },
+    {
+      "code": "RV07W0G10.05BD",
+      "name": "trucker jacket in monogram chambray cotton",
+      "details": "100% cottonlining 51% modacrylic 49% viscoseclassic fittailored with shoulder padsshirt collar2 patch pockets with flap on the chest5 celine paris-engraved half-sphere snap buttons1 celine-engraved half-sphere snap button on the pocket4 celine-engraved half-sphere snap buttons on the cuffsmade in ItalyReference: RV07W0G10.05BD",
+      "description": "trucker jacket in quilted monogram chambray cotton",
+      "price": "116115100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf233ac39/images/large/RV07W0G10.05BD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Blue Denim",
+          "size": null,
+          "price": "116115100",
+          "code": "RV07W0G10.05BD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf233ac39/images/large/RV07W0G10.05BD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/trucker-jacket-in-monogram-chambray-cotton-RV07W0G10.05BD.html"
+    },
+    {
+      "code": "RJ01U0G10.05BD",
+      "name": "mini skirt in monogram chambray cotton",
+      "details": "100% cottonlining 51% modacrylic 49% viscoseclassic fitmini lengthhigh-waisted2 patch pockets with flap7 celine paris-engraved half-sphere snap buttonsmade in ItalyReference: RJ01U0G10.05BD",
+      "description": "trapeze mini skirt in quilted monogram chambray cotton",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa81460f6/images/large/RJ01U0G10.05BD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Blue Denim",
+          "size": null,
+          "price": "50566300",
+          "code": "RJ01U0G10.05BD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa81460f6/images/large/RJ01U0G10.05BD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-skirt-in-monogram-chambray-cotton-RJ01U0G10.05BD.html"
+    },
+    {
+      "code": "RC02Z0638.CAZ4",
+      "name": "cropped shirt in silk georgette",
+      "details": "100% silkclassic fitcropped lengthdrugstore collar2 patch pockets with flap on the chestbuttoned cuffs7 mother-of-pearl buttons1 mother-of-pearl button on the pocket1 mother-of-pearl button on the cuffsmade in ItalyReference: RC02Z0638.CAZ4",
+      "description": "cropped drugstore collar shirt in heritage print silk georgette",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0fe8ac4/images/large/RC02Z0638.CAZ4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PINK BEIGE/CAMEL/BLACK",
+          "size": null,
+          "price": "50566300",
+          "code": "RC02Z0638.CAZ4",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0fe8ac4/images/large/RC02Z0638.CAZ4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/cropped-shirt-in-silk-georgette-RC02Z0638.CAZ4.html"
+    },
+    {
+      "code": "RJ00H0638.CAZ4",
+      "name": "pleated skirt in silk georgette",
+      "details": "100% silklining 100% silksecondary lining 55% viscose 45% silkclassic fitmidi lengthhigh-waistedtie belt with celine paris-engraved metal agletsside zip and hook-and-eye closuremade in ItalyReference: RJ00H0638.CAZ4",
+      "description": "pleated skirt in heritage print silk georgette",
+      "price": "89895600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw07cb7b43/images/large/RJ00H0638.CAZ4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PINK BEIGE/CAMEL/BLACK",
+          "size": null,
+          "price": "89895600",
+          "code": "RJ00H0638.CAZ4",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw07cb7b43/images/large/RJ00H0638.CAZ4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/pleated-skirt-in-silk-georgette-RJ00H0638.CAZ4.html"
+    },
+    {
+      "code": "RR05H0O84.12NC",
+      "name": "skater mini dress in wool organza",
+      "details": "75% wool 25% mohairdoublure 55% viscose 45% silkclassic fitmini lengthlavalliere collarcentral back zip and hook-and-eye closure1 celine paris-engraved button on the cuffsmade in italyReference: RR05H0O84.12NC",
+      "description": "",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1a129263/images/large/RR05H0O84.12NC_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NOIR / CREME",
+          "size": null,
+          "price": "104878100",
+          "code": "RR05H0O84.12NC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1a129263/images/large/RR05H0O84.12NC_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/skater-mini-dress-in-wool-organza-RR05H0O84.12NC.html"
+    },
+    {
+      "code": "RR08P0I57.12CU",
+      "name": "long shirt dress in silk crepon",
+      "details": "100% silklining 100% silkclassic fitmaxi lengthshirt collar2 patch pockets on the chest2 side pockets7 buttons covered with gold triomphe1 button covered with gold triomphe on the cuffsmade in PortugalReference: RR08P0I57.12CU",
+      "description": "long shirt dress in floral bouquet print silk crepon",
+      "price": "103005300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa7bfe02c/images/large/RR08P0I57.12CU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CREME/MULTICOLORE",
+          "size": null,
+          "price": "103005300",
+          "code": "RR08P0I57.12CU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa7bfe02c/images/large/RR08P0I57.12CU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/long-shirt-dress-in-silk-crepon-RR08P0I57.12CU.html"
+    },
+    {
+      "code": "RR09I0825.03HD",
+      "name": "long dress in triomphe silk",
+      "details": "100% silklining 100% silkclassic fitmaxi lengthlow lavallière collar2 welt pocketsside zip4 triomphe buttons1 triomphe button on the pocket1 triomphe button on the cuffsmade in FranceReference: RR09I0825.03HD",
+      "description": "long lavallière collar dress in shiny matte triomphe silk",
+      "price": "101132500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb00bef6a/images/large/RR09I0825.03HD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CHARDONNAY",
+          "size": null,
+          "price": "101132500",
+          "code": "RR09I0825.03HD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb00bef6a/images/large/RR09I0825.03HD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/long-dress-in-triomphe-silk-RR09I0825.03HD.html"
+    },
+    {
+      "code": "RR05A332F.38OW",
+      "name": "folk dress in silk georgette",
+      "details": "100% silklining 100% silkloose fitmidi lengthlong raglan sleeves tie closure on the cuffs tie belt at the waistv-neck with triomphe buttonmade in ItalyReference: RR05A332F.38OW",
+      "description": "folk dress in polka dot print silk georgette",
+      "price": "89895600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4bf95678/images/large/RR05A332F.38OW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / OFF WHITE",
+          "size": null,
+          "price": "89895600",
+          "code": "RR05A332F.38OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4bf95678/images/large/RR05A332F.38OW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/folk-dress-in-silk-georgette-RR05A332F.38OW.html"
+    },
+    {
+      "code": "RR046539W.38NO",
+      "name": "reporter mini dress in cotton twill",
+      "details": "100% cottonlining 100% cottonclassic fitmini lengthshirt collar2 patch pockets with flap on the chest2 patch pockets with flaplong adjustable sleeves and short sleeves with tab2 side vents7 triomphe buttons1 triomphe button on the pocket1 triomphe button on the tabmade in PortugalReference: RR046539W.38NO",
+      "description": "reporter shirt collar mini dress in soft cotton twill",
+      "price": "73040200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwed65e43f/images/large/RR046539W.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "73040200",
+          "code": "RR046539W.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwed65e43f/images/large/RR046539W.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/reporter-mini-dress-in-cotton-twill-RR046539W.38NO.html"
+    },
+    {
+      "code": "RR04A384J.01BC",
+      "name": "babydoll mini dress in striped cotton voile",
+      "details": "100% cottonsecondary material 50% cotton 50% ramielining 100% cottonfloral and triomphe embroidery on the front panelclassic fitmini lengthclaudine collarshort balloon sleevesside zip5 triomphe horn buttons1 triomphe horn button on the cuffsmade in franceReference: RR04A384J.01BC",
+      "description": "babydoll mini dress with claudine collar and embroidered front panel in striped cotton voile",
+      "price": "78658600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4a1eccb5/images/large/RR04A384J.01BC_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "78658600",
+          "code": "RR04A384J.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4a1eccb5/images/large/RR04A384J.01BC_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/babydoll-mini-dress-in-striped-cotton-voile-RR04A384J.01BC.html"
+    }
+  ]
 }

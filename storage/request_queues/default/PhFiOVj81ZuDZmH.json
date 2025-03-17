@@ -1,0 +1,23 @@
+{
+  "id": "PhFiOVj81ZuDZmH",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/sleeveless-vest-in-curly-shearling-2o122895l.02fc.html",
+  "order_no": "1742183196107.894000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/sleeveless-vest-in-curly-shearling-2O122895L.02FC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/sleeveless-vest-in-curly-shearling-2o122895l.02fc.html",
+    "id": "PhFiOVj81ZuDZmH"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Ov0VyLqczSVVIl2",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-men/gifts-for-him",
+  "order_no": "1742180994946.752000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-men/gifts-for-him/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-men/gifts-for-him",
+    "id": "Ov0VyLqczSVVIl2"
+  }
+}

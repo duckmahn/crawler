@@ -1,0 +1,23 @@
+{
+  "id": "IXyUvTrH5aO1yPK",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-xl-02-sunglasses-in-acetate-4s305cplb.38no.html",
+  "order_no": "1742181163376.099000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-xl-02-sunglasses-in-acetate-4S305CPLB.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-xl-02-sunglasses-in-acetate-4s305cplb.38no.html",
+    "id": "IXyUvTrH5aO1yPK"
+  }
+}

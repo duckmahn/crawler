@@ -1,0 +1,23 @@
+{
+  "id": "zk0qS3z8pDfl8wr",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/scarf-in-triomphe-chain-silk-twill-2aw900r73.02cn.html",
+  "order_no": "1742183703624.207000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/scarf-in-triomphe-chain-silk-twill-2AW900R73.02CN.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/scarf-in-triomphe-chain-silk-twill-2aw900r73.02cn.html",
+    "id": "zk0qS3z8pDfl8wr"
+  }
+}

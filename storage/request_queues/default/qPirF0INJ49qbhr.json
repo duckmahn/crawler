@@ -1,0 +1,23 @@
+{
+  "id": "qPirF0INJ49qbhr",
+  "unique_key": "https://www.celine.com/en-vn/dani-jacket-in-boutis-cotton-2v03u916w.12cr.html",
+  "order_no": "1742181050655.124000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/dani-jacket-in-boutis-cotton-2V03U916W.12CR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/dani-jacket-in-boutis-cotton-2v03u916w.12cr.html",
+    "id": "qPirF0INJ49qbhr"
+  }
+}

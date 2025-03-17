@@ -1,0 +1,23 @@
+{
+  "id": "PPPaq5LFBvkg4pe",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/celine-josephine-belt-large-model-in-taurillon-leather-45bmb3a01.38no.html",
+  "order_no": "1742183487832.650000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/celine-josephine-belt-large-model-in-taurillon-leather-45BMB3A01.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/celine-josephine-belt-large-model-in-taurillon-leather-45bmb3a01.38no.html",
+    "id": "PPPaq5LFBvkg4pe"
+  }
+}

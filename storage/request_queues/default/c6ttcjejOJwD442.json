@@ -1,0 +1,23 @@
+{
+  "id": "c6ttcjejOJwD442",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/parka-in-soft-lambskin-2d534583c.15dk.html",
+  "order_no": "1742183159366.846000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/parka-in-soft-lambskin-2D534583C.15DK.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/parka-in-soft-lambskin-2d534583c.15dk.html",
+    "id": "c6ttcjejOJwD442"
+  }
+}

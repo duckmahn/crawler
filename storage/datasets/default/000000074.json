@@ -1,4 +1,425 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "2D534583C.15DK",
+      "name": "parka in soft lambskin",
+      "details": "100% lambskinsecondary material 100% cottonlining 51% modacrylic 49% viscoseloose fithood with adjustable drawstring and celine paris-engraved metal aglets2 patch pockets with flap2 diagonal zipped pocketszip closure6 celine-engraved snap buttonsmade in ItalyReference: 2D534583C.15DK",
+      "description": "loose bi-material parka in soft lambskin",
+      "price": "179791100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2882c8ba/images/large/2D534583C.15DK_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK KHAKI",
+          "size": null,
+          "price": "179791100",
+          "code": "2D534583C.15DK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2882c8ba/images/large/2D534583C.15DK_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/parka-in-soft-lambskin-2D534583C.15DK.html"
+    },
+    {
+      "code": "RV0A1583C.38NO",
+      "name": "carcoat in soft lambskin",
+      "details": "100% lambskinlining 51% modal 49% viscoseclassic fitnotch collar2 flap pockets3 covered buttonsmade in italyReference: RV0A1583C.38NO",
+      "description": "",
+      "price": "164808500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw08532e8a/images/large/RV0A1583C.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "164808500",
+          "code": "RV0A1583C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw08532e8a/images/large/RV0A1583C.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/carcoat-in-soft-lambskin-RV0A1583C.38NO.html"
+    },
+    {
+      "code": "2EF73494L.18TB",
+      "name": "long western jacket in suede",
+      "details": "100% lambskinloose fitshirt collardropped shoulders4 patch pockets with flap2 adjustment tabs on the waist6 triomphe snap buttons1 triomphe snap button on the pocket1 triomphe snap button on the adjustment tabsmade in ItalyReference : 2EF73494L.18TB",
+      "description": "long shirt collar western jacket in suede",
+      "price": "161062800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw091fcc90/images/large/2EF73494L.18TB_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TOBACCO",
+          "size": null,
+          "price": "161062800",
+          "code": "2EF73494L.18TB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw091fcc90/images/large/2EF73494L.18TB_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/long-western-jacket-in-suede-2EF73494L.18TB.html"
+    },
+    {
+      "code": "RV0MN050L.04CA",
+      "name": "jacket in suede",
+      "details": "100% suede lamb leatherclassic fitclaudine collar2 patch pockets3 buttonsmade in italyReference: RV0MN050L.04CA",
+      "description": "",
+      "price": "146080300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw25608a26/images/large/RV0MN050L.04CA_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CARAMEL",
+          "size": null,
+          "price": "146080300",
+          "code": "RV0MN050L.04CA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw25608a26/images/large/RV0MN050L.04CA_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/jacket-in-suede-RV0MN050L.04CA.html"
+    },
+    {
+      "code": "2EG91599E.38NO",
+      "name": "loose biker jacket in calfskin",
+      "details": "100% calfskinlining 100% cupropadding 100% polyesterCONTAINS NON-TEXTILE PARTS OF ANIMAL ORIGINloose fit2 diagonal zipped pockets2 shoulder tabsbelt at the waistband with a celine paris-engraved metal bucklezips on the cuffszip closure6 triomphe snap buttonsmade in ItalyReference : 2EG91599E.38NO",
+      "description": "loose double-breasted biker jacket in calfskin",
+      "price": "179791100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb7c120d3/images/large/2EG91599E.38NO_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "179791100",
+          "code": "2EG91599E.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb7c120d3/images/large/2EG91599E.38NO_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/loose-biker-jacket-in-calfskin-2EG91599E.38NO.html"
+    },
+    {
+      "code": "2EG26305Q.19EH",
+      "name": "loose aviator blouson jacket in soft lambskin",
+      "details": "100% lambskinlining 51% modal 49% viscose loose fitshirt collar2 patch pockets with flap and triomphe-engraved snap buttonsribbed trimzip closuremade in ItalyReference : 2EG26305Q.19EH",
+      "description": "loose aviator blouson jacket in soft lambskin",
+      "price": "146080300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb42e68f2/images/large/2EG26305Q.19EH_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "EBENE",
+          "size": null,
+          "price": "146080300",
+          "code": "2EG26305Q.19EH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb42e68f2/images/large/2EG26305Q.19EH_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/loose-aviator-blouson-jacket-in-soft-lambskin-2EG26305Q.19EH.html"
+    },
+    {
+      "code": "2EG25305Q.38NO",
+      "name": "aviator blouson jacket in soft lambskin",
+      "details": "100% lambskinlining 51% modal 49% viscoseclassic fitshirt collar2 flap patch pockets with triomphe snap buttonsribbed trimzip closuremade in ItalyReference : 2EG25305Q.38NO",
+      "description": "classic aviator blouson jacket in soft lambskin",
+      "price": "138589000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw117ffdaa/images/large/2EG25305Q.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "138589000",
+          "code": "2EG25305Q.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw117ffdaa/images/large/2EG25305Q.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/aviator-blouson-jacket-in-soft-lambskin-2EG25305Q.38NO.html"
+    },
+    {
+      "code": "2EL09842A.38NO",
+      "name": "straight blouson jacket in patent lambskin leather",
+      "details": "100% LAMBSKIN LEATHER51% MODAL 49% VISCOSE LININGclassic fit2 flap chest pockets2 welt pockets4 Triomphe half-sphere buttons1 Triomphe half-sphere button on the pocket1 Triomphe half-sphere button on the cuffmade in ItalyReference : 2EL09842A.38NO",
+      "description": "straight blouson jacket in patent lambskin leather",
+      "price": "153571500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3d2ecfa6/images/large/2EL09842A.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "153571500",
+          "code": "2EL09842A.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3d2ecfa6/images/large/2EL09842A.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/straight-blouson-jacket-in-patent-lambskin-leather-2EL09842A.38NO.html"
+    },
+    {
+      "code": "2EJ62712K.19ES",
+      "name": "straight-cut blouson jacket in suede",
+      "details": "100% split leatherlining 51% modacrylic 49% viscoseclassic fitshirt collar2 patch pockets with flap7 covered snap buttons1 covered snap button on the cuffsmade in ItalyReference: 2EJ62712K.19ES",
+      "description": "straight-cut blouson jacket in suede",
+      "price": "153571500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb8b01ba2/images/large/2EJ62712K.19ES_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ESPRESSO",
+          "size": null,
+          "price": "153571500",
+          "code": "2EJ62712K.19ES",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb8b01ba2/images/large/2EJ62712K.19ES_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/straight-cut-blouson-jacket-in-suede-2EJ62712K.19ES.html"
+    },
+    {
+      "code": "2F562583C.38NO",
+      "name": "jacket with Claudine collar in soft lambskin",
+      "details": "100% LAMBSKIN LEATHER51% MODAL 49% VISCOSE LININGclassic fitClaudine collar2 round patch pockets with flap5 Triomphe half-sphere snap buttons1 Triomphe half-sphere snap button on the pocketmade in ItalyReference : 2F562583C.38NO",
+      "description": "jacket with Claudine collar in soft lambskin",
+      "price": "164808500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6cfebc42/images/large/2F562583C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "164808500",
+          "code": "2F562583C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6cfebc42/images/large/2F562583C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/jacket-with-claudine-collar-in-soft-lambskin-2F562583C.38NO.html"
+    },
+    {
+      "code": "2F448265T.18NC",
+      "name": "PURE COLLAR JACKET in patina finish suede",
+      "details": "100% LAMBSKINLINING 51% MODAL 49% VISCOSEclassic fitpure collar4 rounded patch pockets with flap5 half-sphere triomphe snap buttons5 half-sphere triomphe snap button on the cuffs1 half-sphere triomphe snap button on the pocketmade in ItalyReference : 2F448265T.18NC",
+      "description": "jacket with pure collar in patina finish suede",
+      "price": "153571500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7d9cd409/images/large/2F448265T.18NC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "COGNAC",
+          "size": null,
+          "price": "153571500",
+          "code": "2F448265T.18NC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7d9cd409/images/large/2F448265T.18NC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/pure-collar-jacket-in-patina-finish-suede-2F448265T.18NC.html"
+    },
+    {
+      "code": "2EJ66305Q.38LP",
+      "name": "Straight fit blouson jacket in soft lambskin",
+      "details": "100% LAMBSKINSECONDARY MATERIAL 100% CALFSKIN51% MODAL 49% VISCOSE LININGclassic fitshirt collar2 round patch pockets with flap2 diagonal welt pocketszip closure1 Triomphe half-sphere button on the pocket1 Triomphe half-sphere button on the cuffmade in ItalyReference : 2EJ66305Q.38LP",
+      "description": "Straight fit blouson jacket with shearling panels in leopard print soft lambskin",
+      "price": "191028000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5c80e88e/images/large/2EJ66305Q.38LP_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / LEOPARD",
+          "size": null,
+          "price": "191028000",
+          "code": "2EJ66305Q.38LP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5c80e88e/images/large/2EJ66305Q.38LP_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/straight-fit-blouson-jacket-in-soft-lambskin-2EJ66305Q.38LP.html"
+    },
+    {
+      "code": "2EI62583C.38NO",
+      "name": "triomphe bomber jacket in soft lambskin",
+      "details": "100% lambskinlining 70% cupro 30% cottonpadding 100% polyesterall-over triomphe embroideryclassic fitpure collar2 diagonal flap pockets with celine-engraved snap buttonsribbed trimzip closuremade in italyReference : 2EI62583C.38NO",
+      "description": "triomphe bomber jacket in quilted soft lambskin",
+      "price": "194773700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw24260fdf/images/large/2EI62583C.38NO_1_SS24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "194773700",
+          "code": "2EI62583C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw24260fdf/images/large/2EI62583C.38NO_1_SS24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/triomphe-bomber-jacket-in-soft-lambskin-2EI62583C.38NO.html"
+    },
+    {
+      "code": "2EK20720G.38HN",
+      "name": "straight-cut blouson jacket in curly lambskin",
+      "details": "100% lambskinclassic fitnotch collar2 welt pockets5 triomphe-engraved half-sphere snap buttons1 triomphe-engraved half-sphere snap button on the cuffs made in ItalyReference : 2EK20720G.38HN",
+      "description": "straight-cut blouson jacket in curly lambskin",
+      "price": "191028000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8b015cba/images/large/2EK20720G.38HN_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / HONEY",
+          "size": null,
+          "price": "191028000",
+          "code": "2EK20720G.38HN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8b015cba/images/large/2EK20720G.38HN_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/straight-cut-blouson-jacket-in-curly-lambskin-2EK20720G.38HN.html"
+    },
+    {
+      "code": "2EB60674R.31HN",
+      "name": "aviator blouson jacket in vintage shearling",
+      "details": "100% lambskinceline paris embroidery on the backclassic fitshirt collar2 patch pockets with flap and celine snap buttonsadjustment tab on the collar with a celine paris-engraved buckleribbed trimzip closuremade in ItalyReference : 2EB60674R.31HN",
+      "description": "aviator blouson jacket with celine paris embroidery in vintage shearling",
+      "price": "217247500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw075db934/images/large/2EB60674R.31HN_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ARMY GREEN / HONEY",
+          "size": null,
+          "price": "217247500",
+          "code": "2EB60674R.31HN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw075db934/images/large/2EB60674R.31HN_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/aviator-blouson-jacket-in-vintage-shearling-2EB60674R.31HN.html"
+    },
+    {
+      "code": "2EG23644V.02CR",
+      "name": "biker jacket in lambskin shearling",
+      "details": "100% lambskinsecondary material 100% calfskinclassic fit2 zipped pocketszip on the cuffszip closuremade in ItalyReference : 2EG23644V.02CR",
+      "description": "biker jacket in lambskin shearling",
+      "price": "194773700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe0f56471/images/large/2EG23644V.02CR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CAMEL / CREAM",
+          "size": null,
+          "price": "194773700",
+          "code": "2EG23644V.02CR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe0f56471/images/large/2EG23644V.02CR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/biker-jacket-in-lambskin-shearling-2EG23644V.02CR.html"
+    },
+    {
+      "code": "2O122895L.02FC",
+      "name": "sleeveless vest in curly shearling",
+      "details": "100% lambskin shearlingloose fitV-neck2 patch pockets2 adjustment tabs on the sideszip closure with triomphe zip puller1 triomphe snap button on the pocketmade in ItalyReference : 2O122895L.02FC",
+      "description": "sleeveless vest in curly shearling",
+      "price": "146080300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd9c06064/images/large/2O122895L.02FC_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "KHAKI / FICELLE",
+          "size": null,
+          "price": "146080300",
+          "code": "2O122895L.02FC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd9c06064/images/large/2O122895L.02FC_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/sleeveless-vest-in-curly-shearling-2O122895L.02FC.html"
+    },
+    {
+      "code": "2L116583C.38NO",
+      "name": "mini dress in soft lambskin",
+      "details": "100% LAMBSKIN LEATHER51% MODAL 49% VISCOSE LININGclassic fitmini length4 round patch pockets with flat2 side pocketsshirt collar4 Triomphe snap buttons1 Triomphe snap button on the pocket1 Triomphe snap button on the cuffinvisible side zipmade in ItalyReference : 2L116583C.38NO",
+      "description": "mini dress with shirt collar in soft lambskin",
+      "price": "157317200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5bba2339/images/large/2L116583C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "157317200",
+          "code": "2L116583C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5bba2339/images/large/2L116583C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/mini-dress-in-soft-lambskin-2L116583C.38NO.html"
+    },
+    {
+      "code": "2L187494L.02CM",
+      "name": "mini dress in suede",
+      "details": "100% LAMBSKINclassic fitmini length2 side pocketsopen collar11 triomphe snap buttonsmade in ItalyReference : 2L187494L.02CM",
+      "description": "mini dress in suede",
+      "price": "138589000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwff12b946/images/large/2L187494L.02CM_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CAMEL",
+          "size": null,
+          "price": "138589000",
+          "code": "2L187494L.02CM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwff12b946/images/large/2L187494L.02CM_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-suede-2L187494L.02CM.html"
+    },
+    {
+      "code": "2H550842A.38NO",
+      "name": "trapeze mini skirt in patent lambskin leather",
+      "details": "100% LAMBSKIN51% MODAL 49% VISCOSE LININGclassic fitmini lengthside zip and claspmade in ItalyReference : 2H550842A.38NO",
+      "description": "trapeze mini skirt in patent lambskin leather",
+      "price": "86149900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef8d5b0d/images/large/2H550842A.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "86149900",
+          "code": "2H550842A.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef8d5b0d/images/large/2H550842A.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/trapeze-mini-skirt-in-patent-lambskin-leather-2H550842A.38NO.html"
+    }
+  ]
 }

@@ -1,0 +1,23 @@
+{
+  "id": "8q7TLdvx7F2j8Z4",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-chain-claude-in-striped-denim-with-strass-10l842ggj.07dd.html",
+  "order_no": "1742182387656.718000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-chain-claude-in-striped-denim-with-strass-10L842GGJ.07DD.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-chain-claude-in-striped-denim-with-strass-10l842ggj.07dd.html",
+    "id": "8q7TLdvx7F2j8Z4"
+  }
+}

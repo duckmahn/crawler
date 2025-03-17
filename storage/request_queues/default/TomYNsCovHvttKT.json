@@ -1,0 +1,23 @@
+{
+  "id": "TomYNsCovHvttKT",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/card-holder-triomphe-in-triomphe-canvas-two-tone-10l832fr9.28lb.html",
+  "order_no": "1742182595769.913000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/card-holder-triomphe-in-triomphe-canvas-two-tone-10L832FR9.28LB.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/card-holder-triomphe-in-triomphe-canvas-two-tone-10l832fr9.28lb.html",
+    "id": "TomYNsCovHvttKT"
+  }
+}

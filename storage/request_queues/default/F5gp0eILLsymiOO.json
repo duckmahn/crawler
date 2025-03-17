@@ -1,0 +1,23 @@
+{
+  "id": "F5gp0eILLsymiOO",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/triomphe-crew-neck-sweater-in-mohair-and-silk-2ae3n743x.01ow.html",
+  "order_no": "1742183108620.676000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/triomphe-crew-neck-sweater-in-mohair-and-silk-2AE3N743X.01OW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/triomphe-crew-neck-sweater-in-mohair-and-silk-2ae3n743x.01ow.html",
+    "id": "F5gp0eILLsymiOO"
+  }
+}

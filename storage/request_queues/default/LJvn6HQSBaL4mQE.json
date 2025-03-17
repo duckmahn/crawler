@@ -1,0 +1,23 @@
+{
+  "id": "LJvn6HQSBaL4mQE",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-supple-grained-calfskin-116593fdu.03nd.html",
+  "order_no": "1742181755965.098000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-supple-grained-calfskin-116593FDU.03ND.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-supple-grained-calfskin-116593fdu.03nd.html",
+    "id": "LJvn6HQSBaL4mQE"
+  }
+}

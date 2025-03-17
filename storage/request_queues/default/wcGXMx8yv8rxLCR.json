@@ -1,0 +1,23 @@
+{
+  "id": "wcGXMx8yv8rxLCR",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/victorine-coat-in-in-double-faced-cashmere-2m94c6700.38no.html",
+  "order_no": "1742183159367.910000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/victorine-coat-in-in-double-faced-cashmere-2M94C6700.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/victorine-coat-in-in-double-faced-cashmere-2m94c6700.38no.html",
+    "id": "wcGXMx8yv8rxLCR"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "El5D9cCA0x3J4V4",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-chain-tassels-silk-twill-2aw90166w.02bg.html",
+  "order_no": "1742183703627.334000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-chain-tassels-silk-twill-2AW90166W.02BG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-chain-tassels-silk-twill-2aw90166w.02bg.html",
+    "id": "El5D9cCA0x3J4V4"
+  }
+}

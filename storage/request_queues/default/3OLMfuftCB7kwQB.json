@@ -1,0 +1,23 @@
+{
+  "id": "3OLMfuftCB7kwQB",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/micro-sailor-in-triomphe-canvas-and-calfskin-10m742gce.04lu.html",
+  "order_no": "1742182355979.124000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/micro-sailor-in-triomphe-canvas-and-calfskin-10M742GCE.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/micro-sailor-in-triomphe-canvas-and-calfskin-10m742gce.04lu.html",
+    "id": "3OLMfuftCB7kwQB"
+  }
+}

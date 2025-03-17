@@ -1,0 +1,23 @@
+{
+  "id": "gEbybVwht2GJTRa",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/small-bucket-in-triomphe-canvas-and-calfskin-191442cas.04lu.html",
+  "order_no": "1742181668621.958000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/small-bucket-in-triomphe-canvas-and-calfskin-191442CAS.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/small-bucket-in-triomphe-canvas-and-calfskin-191442cas.04lu.html",
+    "id": "gEbybVwht2GJTRa"
+  }
+}

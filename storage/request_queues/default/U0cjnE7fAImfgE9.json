@@ -1,0 +1,23 @@
+{
+  "id": "U0cjnE7fAImfgE9",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/graphic/true",
+  "order_no": "1742181374409.162000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/graphic/true/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/graphic/true",
+    "id": "U0cjnE7fAImfgE9"
+  }
+}

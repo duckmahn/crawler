@@ -1,0 +1,23 @@
+{
+  "id": "qPWHcOzhqnBHxoS",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-reversible-framed-triomphe-belt-in-taurillon-and-natural-calfskin-45biz3apc.04tb.html",
+  "order_no": "1742183569652.305000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-reversible-framed-triomphe-belt-in-taurillon-and-natural-calfskin-45BIZ3APC.04TB.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-reversible-framed-triomphe-belt-in-taurillon-and-natural-calfskin-45biz3apc.04tb.html",
+    "id": "qPWHcOzhqnBHxoS"
+  }
+}

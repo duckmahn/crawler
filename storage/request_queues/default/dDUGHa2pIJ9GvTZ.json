@@ -1,0 +1,23 @@
+{
+  "id": "dDUGHa2pIJ9GvTZ",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/cat-eye-s310-sunglasses-in-acetate-4s310cplb.19tr.html",
+  "order_no": "1742181218874.288000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/cat-eye-s310-sunglasses-in-acetate-4S310CPLB.19TR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/cat-eye-s310-sunglasses-in-acetate-4s310cplb.19tr.html",
+    "id": "dDUGHa2pIJ9GvTZ"
+  }
+}

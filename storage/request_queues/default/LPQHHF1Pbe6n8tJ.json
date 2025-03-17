@@ -1,0 +1,23 @@
+{
+  "id": "LPQHHF1Pbe6n8tJ",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/medium-heloise-bag-in-suede-calfskin-with-triomphe-all-over-114713ga7.02de.html",
+  "order_no": "1742181796471.880000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/medium-heloise-bag-in-suede-calfskin-with-triomphe-all-over-114713GA7.02DE.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/medium-heloise-bag-in-suede-calfskin-with-triomphe-all-over-114713ga7.02de.html",
+    "id": "LPQHHF1Pbe6n8tJ"
+  }
+}

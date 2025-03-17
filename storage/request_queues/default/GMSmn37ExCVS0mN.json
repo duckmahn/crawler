@@ -1,0 +1,23 @@
+{
+  "id": "GMSmn37ExCVS0mN",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/rings/celine-petale-ring-in-brass-with-gold-finish-461cb6bra.35or.html",
+  "order_no": "1742184072707.964000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/rings/celine-petale-ring-in-brass-with-gold-finish-461CB6BRA.35OR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/rings/celine-petale-ring-in-brass-with-gold-finish-461cb6bra.35or.html",
+    "id": "GMSmn37ExCVS0mN"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "PGatPTiFgQy5APN",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/clutch-on-chain-cuir-triomphe-in-striped-textile-and-calfskin-10e382fth.07oc.html",
+  "order_no": "1742182469763.594000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/clutch-on-chain-cuir-triomphe-in-striped-textile-and-calfskin-10E382FTH.07OC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/clutch-on-chain-cuir-triomphe-in-striped-textile-and-calfskin-10e382fth.07oc.html",
+    "id": "PGatPTiFgQy5APN"
+  }
+}

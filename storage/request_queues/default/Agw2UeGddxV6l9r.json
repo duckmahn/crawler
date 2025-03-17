@@ -1,0 +1,23 @@
+{
+  "id": "Agw2UeGddxV6l9r",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/small-flap-wallet-triomphe-in-striped-textile-and-calfskin-10d782fvb.07oc.html",
+  "order_no": "1742182702626.921000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/small-flap-wallet-triomphe-in-striped-textile-and-calfskin-10D782FVB.07OC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/small-flap-wallet-triomphe-in-striped-textile-and-calfskin-10d782fvb.07oc.html",
+    "id": "Agw2UeGddxV6l9r"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "AxZjXNcXUCwLV1F",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/shoulder-bag-claude-in-shiny-calfskin-194143bf4.24os.html",
+  "order_no": "1742181897983.750000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/shoulder-bag-claude-in-shiny-calfskin-194143BF4.24OS.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/shoulder-bag-claude-in-shiny-calfskin-194143bf4.24os.html",
+    "id": "AxZjXNcXUCwLV1F"
+  }
+}

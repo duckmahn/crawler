@@ -1,0 +1,23 @@
+{
+  "id": "v2yX7BdM86Xw427",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/long-dress-in-triomphe-silk-rr09i0825.03hd.html",
+  "order_no": "1742181453492.473000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/long-dress-in-triomphe-silk-RR09I0825.03HD.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/long-dress-in-triomphe-silk-rr09i0825.03hd.html",
+    "id": "v2yX7BdM86Xw427"
+  }
+}

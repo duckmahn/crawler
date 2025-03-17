@@ -1,4 +1,386 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "2ADOF0I78.01MA",
+      "name": "beanie in fair isle wool",
+      "details": "100% wooltriomphe fair isle jacquardtriomphe embroideryclassic fitmade in ItalyReference : 2ADOF0I78.01MA",
+      "description": "beanie with pompom in triomphe fair isle wool",
+      "price": "16480900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3aaf5bfb/images/large/2ADOF0I78.01MA_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY",
+          "size": null,
+          "price": "16480900",
+          "code": "2ADOF0I78.01MA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3aaf5bfb/images/large/2ADOF0I78.01MA_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/beanie-in-fair-isle-wool-2ADOF0I78.01MA.html"
+    },
+    {
+      "code": "2ADTJ0I78.01MA",
+      "name": "scarf in fair isle wool",
+      "details": "100% wool9.4 x 78.8 in (24 x 200 cm)triomphe fair isle jacquardtriomphe embroiderymade in ItalyReference : 2ADTJ0I78.01MA",
+      "description": "scarf in triomphe fair isle wool",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw649b275a/images/large/2ADTJ0I78.01MA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY",
+          "size": null,
+          "price": "28092400",
+          "code": "2ADTJ0I78.01MA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw649b275a/images/large/2ADTJ0I78.01MA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/scarf-in-fair-isle-wool-2ADTJ0I78.01MA.html"
+    },
+    {
+      "code": "2AD760K34.01OW",
+      "name": "triomphe beanie in aran cashmere and wool",
+      "details": "90% wool 10% cashmeretriomphe embroideryclassic fitmade in ItalyReference : 2AD760K34.01OW",
+      "description": "beanie with triomphe embroidery in aran cashmere and wool",
+      "price": "19102800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw908c9413/images/large/2AD760K34.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "19102800",
+          "code": "2AD760K34.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw908c9413/images/large/2AD760K34.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-aran-cashmere-and-wool-2AD760K34.01OW.html"
+    },
+    {
+      "code": "2AD770K34.01OW",
+      "name": "triomphe scarf in aran cashmere and wool",
+      "details": "90% wool 10% cashmere13.8 x 78.8 in (35 x 200 cm)triomphe embroiderymade in ItalyReference : 2AD770K34.01OW",
+      "description": "scarf with triomphe embroidery in aran cashmere and wool",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3be91324/images/large/2AD770K34.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "28092400",
+          "code": "2AD770K34.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3be91324/images/large/2AD770K34.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-scarf-in-aran-cashmere-and-wool-2AD770K34.01OW.html"
+    },
+    {
+      "code": "2A71Z887Z.01NZ",
+      "name": "embroidered beanie in fair isle wool",
+      "details": "100% woolcrystal embroidery on triomphe fair isle jacquardclassic fitmade in ItalyReference : 2A71Z887Z.01NZ",
+      "description": "embroidered beanie in triomphe fair isle wool",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1cc5903c/images/large/2A71Z887Z.01NZ_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY / RED",
+          "size": null,
+          "price": "37081900",
+          "code": "2A71Z887Z.01NZ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1cc5903c/images/large/2A71Z887Z.01NZ_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/embroidered-beanie-in-fair-isle-wool-2A71Z887Z.01NZ.html"
+    },
+    {
+      "code": "2AA32384D.18MU",
+      "name": "triomphe beanie in seamless cashmere",
+      "details": "100% cashmeretriomphe patchclassic fitmade in ItalyReference: 2AA32384D.18MU",
+      "description": "beanie with triomphe patch in seamless cashmere",
+      "price": "19102800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw81f948ac/images/large/2AA32384D.18MU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NUTMEG",
+          "size": null,
+          "price": "19102800",
+          "code": "2AA32384D.18MU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw81f948ac/images/large/2AA32384D.18MU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-seamless-cashmere-2AA32384D.18MU.html"
+    },
+    {
+      "code": "2AZ0A384D.18MU",
+      "name": "triomphe scarf in seamless cashmere",
+      "details": "100% cashmere8.7 x 76.8 in (22 x 195 cm)triomphe patchmade in ItalyReference : 2AZ0A384D.18MU",
+      "description": "scarf with triomphe patch in seamless cashmere",
+      "price": "26968700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5b8981c6/images/large/2AZ0A384D.18MU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NUTMEG",
+          "size": null,
+          "price": "26968700",
+          "code": "2AZ0A384D.18MU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5b8981c6/images/large/2AZ0A384D.18MU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-scarf-in-seamless-cashmere-2AZ0A384D.18MU.html"
+    },
+    {
+      "code": "AA0310U63.FYX4",
+      "name": "triomphe beanie in cashmere, wool and silk",
+      "details": "37% cashmere 37% wool 26% silktriomphe embroideryclassic fitmade in ItalyReference: AA0310U63.FYX4",
+      "description": "beanie with triomphe embroidery in striped cashmere, wool and silk",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw01f8f2f7/images/large/AA0310U63.FYX4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "VANILLA/PINK/RED",
+          "size": null,
+          "price": "18353700",
+          "code": "AA0310U63.FYX4",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw01f8f2f7/images/large/AA0310U63.FYX4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-cashmere%2C-wool-and-silk-AA0310U63.FYX4.html"
+    },
+    {
+      "code": "AA0320U63.FYX4",
+      "name": "triomphe scarf in cashmere, wool and silk",
+      "details": "37% cashmere 37% wool 26% silk35.4 x 35.4 in (197 x 26.5 cm)triomphe embroiderymade in ItalyReference: AA0320U63.FYX4",
+      "description": "scarf with triomphe embroidery in striped cashmere, wool and silk",
+      "price": "25845000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw060b3ea5/images/large/AA0320U63.FYX4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "VANILLA/PINK/RED",
+          "size": null,
+          "price": "25845000",
+          "code": "AA0320U63.FYX4",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw060b3ea5/images/large/AA0320U63.FYX4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-scarf-in-cashmere%2C-wool-and-silk-AA0320U63.FYX4.html"
+    },
+    {
+      "code": "2AZ15624Z.01VA",
+      "name": "triomphe mittens in shearling",
+      "details": "100% lambskin shearlingtriomphe patchmade in ItalyReference : 2AZ15624Z.01VA",
+      "description": "mittens with triomphe patch in shearling",
+      "price": "26968700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw15ae2624/images/large/2AZ15624Z.01VA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "VANILLA",
+          "size": null,
+          "price": "26968700",
+          "code": "2AZ15624Z.01VA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw15ae2624/images/large/2AZ15624Z.01VA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-mittens-in-shearling-2AZ15624Z.01VA.html"
+    },
+    {
+      "code": "2AW90949Z.02BR",
+      "name": "square in arc de triomphe silk twill",
+      "details": "100% silk35.4 X 35.4 in (90 x 90 cm)hand-rolled hemmade in italyReference : 2AW90949Z.02BR",
+      "description": "square in arc de triomphe print silk twill",
+      "price": "16480900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwec1697a5/images/large/2AW90949Z.02BR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BLUSH / BROWN",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW90949Z.02BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwec1697a5/images/large/2AW90949Z.02BR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BEIGE/NOIX",
+          "size": null,
+          "price": "16480900",
+          "code": "2AW90949Z.02NI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfc06f420/images/large/2AW90949Z.02NI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-arc-de-triomphe-silk-twill-2AW90949Z.02BR.html"
+    },
+    {
+      "code": "2AW14512Z.19BR",
+      "name": "stole in monogram wool jacquard",
+      "details": "100% wool53.1 x 53.1 in (135 x 135 cm)monogram jacquardmade in ItalyReference : 2AW14512Z.19BR",
+      "description": "stole in monogram wool jacquard",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw48900a52/images/large/2AW14512Z.19BR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BROWN",
+          "size": null,
+          "price": "28092400",
+          "code": "2AW14512Z.19BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw48900a52/images/large/2AW14512Z.19BR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BEIGE",
+          "size": null,
+          "price": "28092400",
+          "code": "2AW14512Z.02BG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa379e145/images/large/2AW14512Z.02BG_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/stole-in-monogram-wool-jacquard-2AW14512Z.19BR.html"
+    },
+    {
+      "code": "2AWF0174Y.02ET",
+      "name": "stole in monogram cashmere muslin",
+      "details": "100% cashmere23.6 x 110.2 in (60 x 280 cm)made in ItalyReference : 2AWF0174Y.02ET",
+      "description": "stole in monogram cashmere muslin",
+      "price": "32961700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw42d6af44/images/large/2AWF0174Y.02ET_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BEIGE / TAN",
+          "size": null,
+          "price": "32961700",
+          "code": "2AWF0174Y.02ET",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw42d6af44/images/large/2AWF0174Y.02ET_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/stole-in-monogram-cashmere-muslin-2AWF0174Y.02ET.html"
+    },
+    {
+      "code": "AA05P583C.38NO",
+      "name": "triomphe baseball cap in lambskin",
+      "details": "100% lambskinlining 100% cottontone-on-tone triomphe patch2.8 in (7 cm) visorhexagonal designadjustable tabmade in FranceReference: AA05P583C.38NO",
+      "description": "baseball cap with triomphe patch in soft lambskin",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw16ac5c55/images/large/AA05P583C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "28092400",
+          "code": "AA05P583C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw16ac5c55/images/large/AA05P583C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-lambskin-AA05P583C.38NO.html"
+    },
+    {
+      "code": "2AUT6234X.18TO",
+      "name": "triomphe baseball cap in cotton",
+      "details": "100% cottontriomphe patch2.8 in (7 cm) visorhexagonal designadjustable tabmade in ItalyReference: 2AUT6234X.18TO",
+      "description": "baseball cap with triomphe patch in cotton gabardine",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfe020a6f/images/large/2AUT6234X.18TO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TOFFEE",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6234X.18TO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfe020a6f/images/large/2AUT6234X.18TO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "MACADAMIA / OFF WHITE",
+          "size": null,
+          "price": "20226500",
+          "code": "AA044234X.FZB2",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4140df3a/images/large/AA044234X.FZB2_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-cotton-2AUT6234X.18TO.html"
+    },
+    {
+      "code": "2AUT60003.09GI",
+      "name": "triomphe baseball cap in corduroy",
+      "details": "91% cotton 9% cashmeretriomphe patch2.8 in (7 cm) visorhexagonal designadjustable tabmade in FranceReference : 2AUT60003.09GI",
+      "description": "baseball cap with triomphe patch in corduroy",
+      "price": "21350200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1836541b/images/large/2AUT60003.09GI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GRIS CLAIR",
+          "size": null,
+          "price": "21350200",
+          "code": "2AUT60003.09GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1836541b/images/large/2AUT60003.09GI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-corduroy-2AUT60003.09GI.html"
+    },
+    {
+      "code": "2AUG9583C.38NO",
+      "name": "triomphe quilted bucket hat in soft lambskin",
+      "details": "100% lambskinlining 100% cottonall-over triomphe embroidery2.2 in (5.5 cm) brimmade in ItalyReference : 2AUG9583C.38NO",
+      "description": "quilted bucket hat with triomphe embroidery in soft lambskin",
+      "price": "29590700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4f2bb190/images/large/2AUG9583C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "29590700",
+          "code": "2AUG9583C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4f2bb190/images/large/2AUG9583C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-quilted-bucket-hat-in-soft-lambskin-2AUG9583C.38NO.html"
+    }
+  ]
 }

@@ -1,0 +1,23 @@
+{
+  "id": "MIrJXIVSMk2paSO",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/coin-purse-in-triomphe-canvas-10c662ca2.01bc.html",
+  "order_no": "1742182702629.929000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/coin-purse-in-triomphe-canvas-10C662CA2.01BC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/coin-purse-in-triomphe-canvas-10c662ca2.01bc.html",
+    "id": "MIrJXIVSMk2paSO"
+  }
+}

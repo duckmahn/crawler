@@ -1,0 +1,23 @@
+{
+  "id": "gXxePTKeH1GfDnx",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/teen-triomphe-bag-in-shiny-calfskin-188423bf4.24vr.html",
+  "order_no": "1742181050649.481000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/teen-triomphe-bag-in-shiny-calfskin-188423BF4.24VR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/teen-triomphe-bag-in-shiny-calfskin-188423bf4.24vr.html",
+    "id": "gXxePTKeH1GfDnx"
+  }
+}

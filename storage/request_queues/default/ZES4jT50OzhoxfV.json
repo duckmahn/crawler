@@ -1,0 +1,23 @@
+{
+  "id": "ZES4jT50OzhoxfV",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-blason-70s-t-shirt-in-cotton-jersey-rx09c671q.02xi.html",
+  "order_no": "1742182967563.104000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-blason-70s-t-shirt-in-cotton-jersey-RX09C671Q.02XI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-blason-70s-t-shirt-in-cotton-jersey-rx09c671q.02xi.html",
+    "id": "ZES4jT50OzhoxfV"
+  }
+}

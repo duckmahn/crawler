@@ -1,0 +1,23 @@
+{
+  "id": "F97wVVHzDHdtjC2",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/embroidered-mini-skirt-in-bouclette-natte-rj025333j.01va.html",
+  "order_no": "1742180995023.310000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/embroidered-mini-skirt-in-bouclette-natte-RJ025333J.01VA.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/embroidered-mini-skirt-in-bouclette-natte-rj025333j.01va.html",
+    "id": "F97wVVHzDHdtjC2"
+  }
+}

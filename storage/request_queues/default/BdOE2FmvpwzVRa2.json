@@ -1,0 +1,23 @@
+{
+  "id": "BdOE2FmvpwzVRa2",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/shirt-collar-blouse-in-triomphe-silk-rb01a0825.28bx.html",
+  "order_no": "1742181453491.648000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/shirt-collar-blouse-in-triomphe-silk-RB01A0825.28BX.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/shirt-collar-blouse-in-triomphe-silk-rb01a0825.28bx.html",
+    "id": "BdOE2FmvpwzVRa2"
+  }
+}

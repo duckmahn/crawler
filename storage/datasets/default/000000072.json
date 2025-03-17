@@ -1,4 +1,425 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "2V56V6700.38NO",
+      "name": "cardigan jacket in double faced cashmere",
+      "details": "100% cashmereloose fitshirt collar2 patch chest pockets5 Triomphe half-sphere snap buttonsmade in ItalyReference : 2V56V6700.38NO",
+      "description": "loose fit cardigan jacket in double faced cashmere",
+      "price": "127352000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb6bfa12f/images/large/2V56V6700.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "127352000",
+          "code": "2V56V6700.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb6bfa12f/images/large/2V56V6700.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/cardigan-jacket-in-double-faced-cashmere-2V56V6700.38NO.html"
+    },
+    {
+      "code": "RV045066V.38NO",
+      "name": "brompton jacket in gauffered double wool",
+      "details": "100% wool51% modal 49% viscoseclassic fittailored with shoulder padspure collar2 flap pockets on the chest2 maxi buttons1 maxi button on the pocketmade in italyReference: RV045066V.38NO",
+      "description": "",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0e2c95ed/images/large/RV045066V.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "104878100",
+          "code": "RV045066V.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0e2c95ed/images/large/RV045066V.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-gauffered-double-wool-RV045066V.38NO.html"
+    },
+    {
+      "code": "RV0450794.12CR",
+      "name": "brompton jacket in wool silk gabardine",
+      "details": "80% wool 20% silklining 51% modal 49% viscoseclassic fittailored with shoulder padspure collar2 flap pockets on the chest2 maxi buttons1 maxi button on the pocketmade in italyReference: RV0450794.12CR",
+      "description": "",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa2db253c/images/large/RV0450794.12CR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CREME",
+          "size": null,
+          "price": "104878100",
+          "code": "RV0450794.12CR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa2db253c/images/large/RV0450794.12CR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-wool-silk-gabardine-RV0450794.12CR.html"
+    },
+    {
+      "code": "2V38X943C.38NO",
+      "name": "Brompton jacket in cashmere cloth",
+      "details": "100% cashmere51% modal 49% viscose liningclassic fitcropped lengthcontrasting high collar2 flap pocketscontrasting cuffs4 Triomphe buttons1 Triomphe button on the cuffmade in FranceReference : 2V38X943C.38NO",
+      "description": "Brompton jacket in cashmere cloth",
+      "price": "134843300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4e34a477/images/large/2V38X943C.38NO_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "134843300",
+          "code": "2V38X943C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4e34a477/images/large/2V38X943C.38NO_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-cashmere-cloth-2V38X943C.38NO.html"
+    },
+    {
+      "code": "RV09W333J.38NO",
+      "name": "saint germain jacket in bouclette natté",
+      "details": "58% wool 35% mohair 7% polyamidelining 51% modal 49% viscosesecond lining 100% cottonclassic fittailored with shoulder padsshirt collar2 flap pockets on the chest2 patch pockets with flap5 blason buttons1 blason button on the cuffsmade in italyReference: RV09W333J.38NO",
+      "description": "",
+      "price": "108682500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd65524f2/images/large/RV09W333J.38NO_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "108682500",
+          "code": "RV09W333J.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd65524f2/images/large/RV09W333J.38NO_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/saint-germain-jacket-in-bouclette-natte-RV09W333J.38NO.html"
+    },
+    {
+      "code": "2V35W811R.09GM",
+      "name": "Brompton jacket in wool cloth",
+      "details": "100% wool51% modal 49% viscose liningclassic fitcropped fittailored with shoulder padspure collar2 contrasting patch chest pockets with flapcontrasting ribbed trim5 Celine-engraved half-sphere snap buttons1 Celine-engraved half-sphere snap button on the pocketmade in FranceReference : 2V35W811R.09GM",
+      "description": "Brompton jacket in technical wool cloth",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw73791a9f/images/large/2V35W811R.09GM_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "MEDIUM GREY",
+          "size": null,
+          "price": "104878100",
+          "code": "2V35W811R.09GM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw73791a9f/images/large/2V35W811R.09GM_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-wool-cloth-2V35W811R.09GM.html"
+    },
+    {
+      "code": "RV07T0489.24RL",
+      "name": "chelsea jacket in alpaca wool",
+      "details": "65% alpaca 35% virgin woollining 51% modacrylic 49% viscoseclassic fittailored with shoulder padscrew neck2 flap pocketsbraided piping details4 celine paris-engraved half-sphere buttons1 celine paris-engraved half-sphere button on the pocket4 celine paris-engraved half-sphere buttons on the cuffsmade in ItalyReference: RV07T0489.24RL",
+      "description": "chelsea jacket with braided piping in fur-effect wool and alpaca",
+      "price": "108623800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw14100f2e/images/large/RV07T0489.24RL_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ROSE GLACE",
+          "size": null,
+          "price": "108623800",
+          "code": "RV07T0489.24RL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw14100f2e/images/large/RV07T0489.24RL_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-alpaca-wool-RV07T0489.24RL.html"
+    },
+    {
+      "code": "RV07T181Z.03AS",
+      "name": "chelsea jacket in sequin silk tweed",
+      "details": "54% silk 17% cotton 15% polyamide 14% polyesterlining 51% modacrylic 49% viscoseclassic fittailored with shoulder padscrew neck2 flap pocketsbraided piping details4 celine paris-engraved half-sphere buttons1 celine paris-engraved half-sphere button on the pocket4 celine paris-engraved half-sphere buttons on the cuffsmade in ItalyReference: RV07T181Z.03AS",
+      "description": "chelsea jacket with braided piping in sequin silk tweed",
+      "price": "146080300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw123094f2/images/large/RV07T181Z.03AS_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SABLE BLANC/OR",
+          "size": null,
+          "price": "146080300",
+          "code": "RV07T181Z.03AS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw123094f2/images/large/RV07T181Z.03AS_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-sequin-silk-tweed-RV07T181Z.03AS.html"
+    },
+    {
+      "code": "2V33T956W.97CI",
+      "name": "chelsea jacket in prince of wales wool",
+      "details": "82% wool 17% cotton 1% polyamidelining 51% modal 49% viscoseclassic fittailored with shoulder padscrew neck2 flap pockets6 celine blason buttons1 celine blason button on the pocket4 celine blason buttons on the cuffsmade in ItalyReference : 2V33T956W.97CI",
+      "description": "6-button chelsea jacket in prince of wales wool",
+      "price": "112369400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw180e92cb/images/large/2V33T956W.97CI_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "IVOIRE/CAMEL/EBENE",
+          "size": null,
+          "price": "112369400",
+          "code": "2V33T956W.97CI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw180e92cb/images/large/2V33T956W.97CI_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-prince-of-wales-wool-2V33T956W.97CI.html"
+    },
+    {
+      "code": "2V77R064V.28BZ",
+      "name": "Chelsea jacket in double houndstooth wool",
+      "details": "73% wool 26% cotton 1% polyamideLining 50% rayon 50% viscoseclassic fitTailored with shoulder padsCrew neck2 rounded patch pockets on the chest8 Celine blason buttons4 Celine blason buttons on the cuffs1 Celine blason button on the pocketMade in FranceReference : 2V77R064V.28BZ",
+      "description": "Chelsea jacket with 8 buttons in double houndstooth wool",
+      "price": "116115100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw07559b89/images/large/2V77R064V.28BZ_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BORDEAUX / BEIGE / BLACK",
+          "size": null,
+          "price": "116115100",
+          "code": "2V77R064V.28BZ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw07559b89/images/large/2V77R064V.28BZ_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-double-houndstooth-wool-2V77R064V.28BZ.html"
+    },
+    {
+      "code": "2V03U916W.12CR",
+      "name": "dani jacket in boutis cotton",
+      "details": "100% COTTONLINING 51% MODAL 49% VISCOSEclassic fitcrew necktailored with shoulder pads2 patch pockets with flap on the chest5 celine paris-engraved flat buttons4 celine paris-engraved flat buttons on the cuffs1 celine paris-engraved flat button on the pocketmade in FranceReference : 2V03U916W.12CR",
+      "description": "dani jacket in diamond boutis cotton",
+      "price": "108682500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcde056f3/images/large/2V03U916W.12CR_1_SS24_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CREME",
+          "size": null,
+          "price": "108682500",
+          "code": "2V03U916W.12CR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcde056f3/images/large/2V03U916W.12CR_1_SS24_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/dani-jacket-in-boutis-cotton-2V03U916W.12CR.html"
+    },
+    {
+      "code": "2V19T697X.19LE",
+      "name": "TRUCKER JACKET IN DOUBLE WOOL",
+      "details": "62% wool 38% cottonlining 51% modal 49% viscoseclassic fittailored with shoulder padsshirt collar2 patch pockets with flap on the chest 5 half-sphere triomphe buttons4 half-sphere triomphe button on the cuffsmade in FranceReference : 2V19T697X.19LE",
+      "description": "CARDIGAN JACKET IN LEOPARD PRINT DOUBLE WOOL",
+      "price": "108623800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwded0cace/images/large/2V19T697X.19LE_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "108623800",
+          "code": "2V19T697X.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwded0cace/images/large/2V19T697X.19LE_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/trucker-jacket-in-double-wool-2V19T697X.19LE.html"
+    },
+    {
+      "code": "RV07W0G10.05BD",
+      "name": "trucker jacket in monogram chambray cotton",
+      "details": "100% cottonlining 51% modacrylic 49% viscoseclassic fittailored with shoulder padsshirt collar2 patch pockets with flap on the chest5 celine paris-engraved half-sphere snap buttons1 celine-engraved half-sphere snap button on the pocket4 celine-engraved half-sphere snap buttons on the cuffsmade in ItalyReference: RV07W0G10.05BD",
+      "description": "trucker jacket in quilted monogram chambray cotton",
+      "price": "116177800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf233ac39/images/large/RV07W0G10.05BD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Blue Denim",
+          "size": null,
+          "price": "116177800",
+          "code": "RV07W0G10.05BD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf233ac39/images/large/RV07W0G10.05BD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/trucker-jacket-in-monogram-chambray-cotton-RV07W0G10.05BD.html"
+    },
+    {
+      "code": "2V43T311T.38NO",
+      "name": "chasseur jacket in cashmere flannel",
+      "details": "100% cashmerelining 51% modal 49% viscoseclassic fittailored with shoulder pads v-neck2 patch pockets3 flat celine blason buttons1 flat celine blason button on the pocket4 flat celine blason button on the cuffsmade in ItalyReference : 2V43T311T.38NO",
+      "description": "v-neck chasseur jacket in cashmere flannel",
+      "price": "119860700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw138586ba/images/large/2V43T311T.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "119860700",
+          "code": "2V43T311T.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw138586ba/images/large/2V43T311T.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chasseur-jacket-in-cashmere-flannel-2V43T311T.38NO.html"
+    },
+    {
+      "code": "2V00C764L.38NO",
+      "name": "chasseur jacket in bouclé tweed",
+      "details": "73% wool 13% cotton 9% polyamidelining 50% rayon 50% viscoseclassic fittailored with shoulder padscrew neck2 patch pockets on the chestbraided piping details3 gold Celine sulky buttons4 gold Celine sulky buttons on the cuffsmade in ItalyReference : 2V00C764L.38NO",
+      "description": "Braided chasseur jacket with 3 buttons and braided piping in bouclé tweed",
+      "price": "108623800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf9c10806/images/large/2V00C764L.38NO_1_FALL21_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "108623800",
+          "code": "2V00C764L.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf9c10806/images/large/2V00C764L.38NO_1_FALL21_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chasseur-jacket-in-boucle-tweed-2V00C764L.38NO.html"
+    },
+    {
+      "code": "2V36V383Z.38NO",
+      "name": "Verneuil jacket in double faced wool tricotine",
+      "details": "99% wool 1% silk51% modal 49% viscose liningclassic fittailored with shoulder padshigh collar2 flap pockets7 Triomphe half-sphere snap buttons1 Triomphe half-sphere snap button on the pocket1 Triomphe half-sphere snap button on the cuffmade in ItalyReference : 2V36V383Z.38NO",
+      "description": "Verneuil racer jacket in double faced wool tricotine",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbd5f4fb8/images/large/2V36V383Z.38NO_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "104878100",
+          "code": "2V36V383Z.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbd5f4fb8/images/large/2V36V383Z.38NO_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/verneuil-jacket-in-double-faced-wool-tricotine-2V36V383Z.38NO.html"
+    },
+    {
+      "code": "2V84W189Z.01RD",
+      "name": "verneuil boutis jacket in wool and silk",
+      "details": "85% wool 8% polyamide 7% silklining 51% modacrylic 49% viscosesecondary lining 100% cottonclassic fit tailored with shoulder padspure collar6 triomphe buttons1 triomphe button on the cuffsmade in ItalyReference : 2V84W189Z.01RD",
+      "description": "double-breasted verneuil boutis jacket in wool and silk",
+      "price": "116177800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw26198d71/images/large/2V84W189Z.01RD_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CRAIE",
+          "size": null,
+          "price": "116177800",
+          "code": "2V84W189Z.01RD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw26198d71/images/large/2V84W189Z.01RD_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/verneuil-boutis-jacket-in-wool-and-silk-2V84W189Z.01RD.html"
+    },
+    {
+      "code": "2V29N393T.03TC",
+      "name": "cardigan in wool cloth",
+      "details": "99% wool 1% silkclassic fitcrew neck2 patch pockets with flap6 triomphe snap buttons2 triomphe snap buttons on the patch pocketsmade in ItalyReference : 2V29N393T.03TC",
+      "description": "cardigan with snap buttons in double face monogram wool cloth",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw53377d83/images/large/2V29N393T.03TC_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CORDE/TABAC",
+          "size": null,
+          "price": "104878100",
+          "code": "2V29N393T.03TC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw53377d83/images/large/2V29N393T.03TC_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/cardigan-in-wool-cloth-2V29N393T.03TC.html"
+    },
+    {
+      "code": "2W901092D.07MR",
+      "name": "cropped saharienne jacket in diagonal wool",
+      "details": "100% woollining 50% rayon 50% viscosepocket lining 100% cottonclassic fitcropped lengthnotch collar2 shoulder tabs2 patch pockets with flapswaist beltVelcro details4 triomphe buttons4 triomphe buttons on the cuffstriomphe buttons on the shoulder tabs and pocketsmade in ItalyReference : 2W901092D.07MR",
+      "description": "cropped saharienne jacket with Velcro details in diagonal wool",
+      "price": "89895600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4d23a80f/images/large/2W901092D.07MR_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NAVY",
+          "size": null,
+          "price": "89895600",
+          "code": "2W901092D.07MR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4d23a80f/images/large/2W901092D.07MR_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/cropped-saharienne-jacket-in-diagonal-wool-2W901092D.07MR.html"
+    },
+    {
+      "code": "2W03D512W.19BR",
+      "name": "Triomphe blouson jacket in waxed cotton linen",
+      "details": "100% cotton100% wool lining100% polyester paddingTriomphe patchclassic fitshirt collar in corduroy2 patch pockets2 shoulder tabschin strapribbed trimzip closureTriomphe snap buttons on the pocket, shoulder tab and chin stripmade in ItalyReference : 2W03D512W.19BR",
+      "description": "blouson jacket with Triomphe patch in waxed cotton linen",
+      "price": "78658600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbeb97bb9/images/large/2W03D512W.19BR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BROWN",
+          "size": null,
+          "price": "78658600",
+          "code": "2W03D512W.19BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbeb97bb9/images/large/2W03D512W.19BR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/triomphe-blouson-jacket-in-waxed-cotton-linen-2W03D512W.19BR.html"
+    }
+  ]
 }

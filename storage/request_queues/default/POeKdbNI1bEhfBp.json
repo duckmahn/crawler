@@ -1,0 +1,23 @@
+{
+  "id": "POeKdbNI1bEhfBp",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/small-triomphe-belt-in-pearly-python-45ax64am5.24lp.html",
+  "order_no": "1742181453490.337000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/small-triomphe-belt-in-pearly-python-45AX64AM5.24LP.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/small-triomphe-belt-in-pearly-python-45ax64am5.24lp.html",
+    "id": "POeKdbNI1bEhfBp"
+  }
+}

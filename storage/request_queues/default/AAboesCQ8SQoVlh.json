@@ -1,0 +1,23 @@
+{
+  "id": "AAboesCQ8SQoVlh",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-mini-triomphe-in-silk-and-brass-with-gold-finish-461dk2sib.07gd.html",
+  "order_no": "1742183868134.544000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-mini-triomphe-in-silk-and-brass-with-gold-finish-461DK2SIB.07GD.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-mini-triomphe-in-silk-and-brass-with-gold-finish-461dk2sib.07gd.html",
+    "id": "AAboesCQ8SQoVlh"
+  }
+}

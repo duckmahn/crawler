@@ -1,0 +1,23 @@
+{
+  "id": "SvcIeZnnofdqqud",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-wool-silk-gabardine-rv0450794.12cr.html",
+  "order_no": "1742182834690.507000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-wool-silk-gabardine-RV0450794.12CR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-wool-silk-gabardine-rv0450794.12cr.html",
+    "id": "SvcIeZnnofdqqud"
+  }
+}

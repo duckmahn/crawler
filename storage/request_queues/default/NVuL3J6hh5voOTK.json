@@ -1,0 +1,23 @@
+{
+  "id": "NVuL3J6hh5voOTK",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/aviator-s300-sunglasses-in-acetate-with-mirror-lenses-4s300cplm.01av.html",
+  "order_no": "1742181095411.000000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/aviator-s300-sunglasses-in-acetate-with-mirror-lenses-4S300CPLM.01AV.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/aviator-s300-sunglasses-in-acetate-with-mirror-lenses-4s300cplm.01av.html",
+    "id": "NVuL3J6hh5voOTK"
+  }
+}

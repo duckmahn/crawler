@@ -1,0 +1,23 @@
+{
+  "id": "fdi04FU0n0tiXTV",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-silk-and-wool-boutis-2r05o189z.01rd.html",
+  "order_no": "1742182894232.333000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-silk-and-wool-boutis-2R05O189Z.01RD.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-silk-and-wool-boutis-2r05o189z.01rd.html",
+    "id": "fdi04FU0n0tiXTV"
+  }
+}

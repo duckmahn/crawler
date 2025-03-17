@@ -1,4 +1,282 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "2AUT6234X.02BH",
+      "name": "triomphe baseball cap in washed cotton",
+      "details": "100% cottontriomphe patch2.8 in (7 cm) visorhexagonal designadjustable tabmade in FRANCEReference: 2AUT6234X.02BH",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwea1a1dd2/images/large/2AUT6234X.02BH_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLUSH",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6234X.02BH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwea1a1dd2/images/large/2AUT6234X.02BH_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "MACADAMIA",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6234X.02MC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw06e640e2/images/large/2AUT6234X.02MC_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-washed-cotton-2AUT6234X.02BH.html"
+    },
+    {
+      "code": "2AUT6969P.38NO",
+      "name": "triomphe baseball cap in cotton",
+      "details": "100% cottontriomphe patch2.8 in (7 cm) visorhexagonal designadjustable tabmade in FranceReference : 2AUT6969P.38NO",
+      "description": "baseball cap with Triomphe patch in cotton gabardine",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf5a39f4c/images/large/2AUT6969P.38NO_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6969P.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf5a39f4c/images/large/2AUT6969P.38NO_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "VERT BOUTEILLE",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6969P.55VB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8fd33f89/images/large/2AUT6969P.55VB_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "KAKI MILITAIRE",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6969P.02MK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbecac7bd/images/large/2AUT6969P.02MK_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "MARRON GLACE",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6969P.19GA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd6f940d1/images/large/2AUT6969P.19GA_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TOFFEE",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6234X.18TO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfe020a6f/images/large/2AUT6234X.18TO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "GREIGE",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6969P.09RE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc87849fc/images/large/2AUT6969P.09RE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BORDEAUX",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUG4969P.28BX",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5115a2ad/images/large/2AUG4969P.28BX_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "VINTAGE PINK",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6969P.25PY",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfda2b82a/images/large/2AUT6969P.25PY_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PEARL GREY",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6969P.08PG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw53f47b28/images/large/2AUT6969P.08PG_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "VANILLA",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6969P.01VA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa49d8a93/images/large/2AUT6969P.01VA_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-cotton-2AUT6969P.38NO.html"
+    },
+    {
+      "code": "2AUG4969P.19CG",
+      "name": "Triomphe baseball cap in cotton",
+      "details": "100% cottonTriomphe patch2.8 in (7 cm) visorhexagonal designadjustable tabmade in FranceReference : 2AUG4969P.19CG",
+      "description": "baseball cap with Triomphe patch in cotton gabardine",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4af0d13e/images/large/2AUG4969P.19CG_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CHATAIGNE",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUG4969P.19CG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4af0d13e/images/large/2AUG4969P.19CG_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-cotton-2AUG4969P.19CG.html"
+    },
+    {
+      "code": "2AUT60003.09GI",
+      "name": "triomphe baseball cap in corduroy",
+      "details": "91% cotton 9% cashmeretriomphe patch2.8 in (7 cm) visorhexagonal designadjustable tabmade in FranceReference : 2AUT60003.09GI",
+      "description": "baseball cap with triomphe patch in corduroy",
+      "price": "21350200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1836541b/images/large/2AUT60003.09GI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GRIS CLAIR",
+          "size": null,
+          "price": "21350200",
+          "code": "2AUT60003.09GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1836541b/images/large/2AUT60003.09GI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Rose Poudré",
+          "size": null,
+          "price": "21350200",
+          "code": "2AUT60L82.24RP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb8343e13/images/large/2AUT60L82.24RP_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-corduroy-2AUT60003.09GI.html"
+    },
+    {
+      "code": "2AUT6930F.07DU",
+      "name": "TRIOMPHE BASEBALL CAP IN DENIM UNION WASH",
+      "details": "100% COTONTRIOMPHE PATCHVISOR 2.8” (7 CM)HEXAGONAL DESIGNADJUSTABLE TABMADE IN FRANCEReference : 2AUT6930F.07DU",
+      "description": "BASEBALL CAP WITH TRIOMPHE PATCH IN DENIM UNION WASH",
+      "price": "20226500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw55c69942/images/large/2AUT6930F.07DU_1_SUM23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK UNION WASH",
+          "size": null,
+          "price": "20226500",
+          "code": "2AUT6930F.07DU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw55c69942/images/large/2AUT6930F.07DU_1_SUM23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-denim-union-wash-2AUT6930F.07DU.html"
+    },
+    {
+      "code": "2AUG4109V.12CR",
+      "name": "Triomphe baseball cap in corduroy",
+      "details": "91% cotton 9% cashmere100% cotton liningTriomphe patch2.8 in (7 cm) visorhexagonal designadjustable tabmade in FranceReference : 2AUG4109V.12CR",
+      "description": "baseball cap with Triomphe patch in corduroy",
+      "price": "21350200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd7924157/images/large/2AUG4109V.12CR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CREME",
+          "size": null,
+          "price": "21350200",
+          "code": "2AUG4109V.12CR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd7924157/images/large/2AUG4109V.12CR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-corduroy-2AUG4109V.12CR.html"
+    },
+    {
+      "code": "2AU1U0U19.01OP",
+      "name": "triomphe baseball cap in calfskin",
+      "details": "100% calfskinlining 100% cottontriomphe patch2.8 in (7 cm) visorhexagonal designadjustable tabmade in ITALYReference: 2AU1U0U19.01OP",
+      "description": "",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7b4bd59d/images/large/2AU1U0U19.01OP_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OPTIC WHITE",
+          "size": null,
+          "price": "28092400",
+          "code": "2AU1U0U19.01OP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7b4bd59d/images/large/2AU1U0U19.01OP_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-calfskin-2AU1U0U19.01OP.html"
+    },
+    {
+      "code": "2AUT6969P.01BC",
+      "name": "TRIOMPHE BASEBALL CAP IN COTTON",
+      "details": "100% COTTON100% COTTON LININGTRIOMPHE PATCH2.8 IN (7 CM) VISORHEXAGONAL DESIGNADJUSTABLE TABMade in ItalyReference : 2AUT6969P.01BC",
+      "description": "TRIOMPHE BASEBALL CAP IN COTTON GABARDINE",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc8f1faed/images/large/2AUT6969P.01BC_1_LIBSP23_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "17604600",
+          "code": "2AUT6969P.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc8f1faed/images/large/2AUT6969P.01BC_1_LIBSP23_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-cotton-2AUT6969P.01BC.html"
+    },
+    {
+      "code": "AA044930F.06UW",
+      "name": "triomphe baseball cap in union wash",
+      "details": "100% cottonunion washtriomphe patch in corduroy2.8 in (7 cm) visor in corduroyhexagonal designadjustable tabmade in FranceReference: AA044930F.06UW",
+      "description": "baseball cap with triomphe patch in union wash denim",
+      "price": "21350200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw615775a4/images/large/AA044930F.06UW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "UNION WASH / BEIGE",
+          "size": null,
+          "price": "21350200",
+          "code": "AA044930F.06UW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw615775a4/images/large/AA044930F.06UW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-union-wash-AA044930F.06UW.html"
+    }
+  ]
 }

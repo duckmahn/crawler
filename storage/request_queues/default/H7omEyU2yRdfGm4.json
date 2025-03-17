@@ -1,0 +1,23 @@
+{
+  "id": "H7omEyU2yRdfGm4",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/cross-body-bags/true?start=80&sz=20",
+  "order_no": "1742181976884.996000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/cross-body-bags/true/?start=80&sz=20",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/cross-body-bags/true?start=80&sz=20",
+    "id": "H7omEyU2yRdfGm4"
+  }
+}

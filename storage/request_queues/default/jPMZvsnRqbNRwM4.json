@@ -1,0 +1,23 @@
+{
+  "id": "jPMZvsnRqbNRwM4",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/multipochette-in-shiny-calfskin-10l973gch.01rc.html",
+  "order_no": "1742182259649.355000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/multipochette-in-shiny-calfskin-10L973GCH.01RC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/multipochette-in-shiny-calfskin-10l973gch.01rc.html",
+    "id": "jPMZvsnRqbNRwM4"
+  }
+}

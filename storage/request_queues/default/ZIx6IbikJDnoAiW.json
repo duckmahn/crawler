@@ -1,0 +1,23 @@
+{
+  "id": "ZIx6IbikJDnoAiW",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/16/mini-16-in-satinated-calfskin-197983bey.32ll.html",
+  "order_no": "1742181638752.693000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/16/mini-16-in-satinated-calfskin-197983BEY.32LL.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/16/mini-16-in-satinated-calfskin-197983bey.32ll.html",
+    "id": "ZIx6IbikJDnoAiW"
+  }
+}

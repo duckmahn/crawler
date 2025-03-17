@@ -1,0 +1,23 @@
+{
+  "id": "LjGpV2kTby91q6w",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/hooded-triomphe-coat-in-wool-felt-2w97c863c.07mr.html",
+  "order_no": "1742183159368.765000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/hooded-triomphe-coat-in-wool-felt-2W97C863C.07MR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/hooded-triomphe-coat-in-wool-felt-2w97c863c.07mr.html",
+    "id": "LjGpV2kTby91q6w"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "NtpvO5TLpvN1sIV",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/large-wallet-triomphe-in-shiny-calfskin-10e313dpv.10bl.html",
+  "order_no": "1742182547116.465000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/large-wallet-triomphe-in-shiny-calfskin-10E313DPV.10BL.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/large-wallet-triomphe-in-shiny-calfskin-10e313dpv.10bl.html",
+    "id": "NtpvO5TLpvN1sIV"
+  }
+}

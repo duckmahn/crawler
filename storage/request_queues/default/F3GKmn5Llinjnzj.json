@@ -1,0 +1,23 @@
+{
+  "id": "F3GKmn5Llinjnzj",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/ava/medium-ava-triomphe-bag-in-tartan-textile-and-calfskin-114492fyd.14ml.html",
+  "order_no": "1742181839162.639000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/ava/medium-ava-triomphe-bag-in-tartan-textile-and-calfskin-114492FYD.14ML.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/ava/medium-ava-triomphe-bag-in-tartan-textile-and-calfskin-114492fyd.14ml.html",
+    "id": "F3GKmn5Llinjnzj"
+  }
+}

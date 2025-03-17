@@ -1,0 +1,23 @@
+{
+  "id": "D694sL7G9KLWTt9",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-triomphe-belt-in-triomphe-canvas-and-calfskin-45b422aes.04lu.html",
+  "order_no": "1742183569659.393000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-triomphe-belt-in-triomphe-canvas-and-calfskin-45B422AES.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-triomphe-belt-in-triomphe-canvas-and-calfskin-45b422aes.04lu.html",
+    "id": "D694sL7G9KLWTt9"
+  }
+}

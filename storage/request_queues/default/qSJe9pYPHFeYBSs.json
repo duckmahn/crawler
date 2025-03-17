@@ -1,0 +1,23 @@
+{
+  "id": "qSJe9pYPHFeYBSs",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/beanie-in-fair-isle-wool-2adof0i78.01ma.html",
+  "order_no": "1742183643223.327000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/beanie-in-fair-isle-wool-2ADOF0I78.01MA.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/beanie-in-fair-isle-wool-2adof0i78.01ma.html",
+    "id": "qSJe9pYPHFeYBSs"
+  }
+}

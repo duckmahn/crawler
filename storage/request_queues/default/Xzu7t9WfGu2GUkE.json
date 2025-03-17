@@ -1,0 +1,23 @@
+{
+  "id": "Xzu7t9WfGu2GUkE",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triomphe-swimsuit-bottom-in-matte-jersey-2z695152c.18lt.html",
+  "order_no": "1742182995585.753000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triomphe-swimsuit-bottom-in-matte-jersey-2Z695152C.18LT.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triomphe-swimsuit-bottom-in-matte-jersey-2z695152c.18lt.html",
+    "id": "Xzu7t9WfGu2GUkE"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0pWqQoN4ilqBA3P",
+  "unique_key": "https://www.celine.com/en-ro/home",
+  "order_no": "1742180995039.973000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-ro/home",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-ro/home",
+    "id": "0pWqQoN4ilqBA3P"
+  }
+}

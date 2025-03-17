@@ -1,0 +1,23 @@
+{
+  "id": "x3aJ4gpGBP4NIw3",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/knot-extra-thin-bracelet-in-brass-with-rhodium-finish-46p466bra.36si.html",
+  "order_no": "1742184008906.231000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/knot-extra-thin-bracelet-in-brass-with-rhodium-finish-46P466BRA.36SI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/knot-extra-thin-bracelet-in-brass-with-rhodium-finish-46p466bra.36si.html",
+    "id": "x3aJ4gpGBP4NIw3"
+  }
+}

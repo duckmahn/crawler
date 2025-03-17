@@ -1,0 +1,23 @@
+{
+  "id": "mmmSte0q6rk3frK",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/taillat-pants-in-mohair-wool-2p79a523k.38no.html",
+  "order_no": "1742183038246.803000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/taillat-pants-in-mohair-wool-2P79A523K.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/taillat-pants-in-mohair-wool-2p79a523k.38no.html",
+    "id": "mmmSte0q6rk3frK"
+  }
+}

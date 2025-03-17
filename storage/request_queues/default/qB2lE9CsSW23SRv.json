@@ -1,0 +1,23 @@
+{
+  "id": "qB2lE9CsSW23SRv",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/16/small-16-bag-in-pearly-python-188004fmr.24lp.html",
+  "order_no": "1742181453487.487000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/16/small-16-bag-in-pearly-python-188004FMR.24LP.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/16/small-16-bag-in-pearly-python-188004fmr.24lp.html",
+    "id": "qB2lE9CsSW23SRv"
+  }
+}

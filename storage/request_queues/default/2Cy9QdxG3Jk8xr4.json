@@ -1,0 +1,23 @@
+{
+  "id": "2Cy9QdxG3Jk8xr4",
+  "unique_key": "https://www.celine.com/en-vn/cm/celine-maison-de-couture/store-architecture/celine-homme-pop-up",
+  "order_no": "1742180994996.646000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/cm/celine-maison-de-couture/store-architecture/celine-homme-pop-up",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/cm/celine-maison-de-couture/store-architecture/celine-homme-pop-up",
+    "id": "2Cy9QdxG3Jk8xr4"
+  }
+}

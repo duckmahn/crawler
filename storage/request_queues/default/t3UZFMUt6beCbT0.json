@@ -1,0 +1,23 @@
+{
+  "id": "t3UZFMUt6beCbT0",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/teen-triomphe-bag-in-triomphe-canvas-and-calfskin-188882bz4.04lu.html?kw=188882bz4.04lu&searchcategory=productinsearch",
+  "order_no": "1742180995020.365000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/teen-triomphe-bag-in-triomphe-canvas-and-calfskin-188882BZ4.04LU.html?kw=188882BZ4.04LU&searchcategory=productinsearch",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/teen-triomphe-bag-in-triomphe-canvas-and-calfskin-188882bz4.04lu.html?kw=188882bz4.04lu&searchcategory=productinsearch",
+    "id": "t3UZFMUt6beCbT0"
+  }
+}

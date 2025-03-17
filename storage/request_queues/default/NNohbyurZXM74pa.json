@@ -1,0 +1,23 @@
+{
+  "id": "NNohbyurZXM74pa",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/clea/mini-besace-clea-in-shiny-calfskin-10l063etz.10cg.html",
+  "order_no": "1742182439432.626000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/clea/mini-besace-clea-in-shiny-calfskin-10L063ETZ.10CG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/clea/mini-besace-clea-in-shiny-calfskin-10l063etz.10cg.html",
+    "id": "NNohbyurZXM74pa"
+  }
+}

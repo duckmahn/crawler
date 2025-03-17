@@ -1,0 +1,23 @@
+{
+  "id": "A0M3CRfcYd30kRz",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/nino/teen-nino-bag-in-patent-calfskin-118113fyj.00wc.html",
+  "order_no": "1742181596686.735000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/nino/teen-nino-bag-in-patent-calfskin-118113FYJ.00WC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/nino/teen-nino-bag-in-patent-calfskin-118113fyj.00wc.html",
+    "id": "A0M3CRfcYd30kRz"
+  }
+}

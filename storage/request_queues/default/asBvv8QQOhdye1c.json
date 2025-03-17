@@ -1,0 +1,23 @@
+{
+  "id": "asBvv8QQOhdye1c",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-cotton-pointelle-2adm9851v.01ow.html",
+  "order_no": "1742183830980.715000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-cotton-pointelle-2ADM9851V.01OW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-cotton-pointelle-2adm9851v.01ow.html",
+    "id": "asBvv8QQOhdye1c"
+  }
+}

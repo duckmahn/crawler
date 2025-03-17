@@ -1,0 +1,23 @@
+{
+  "id": "YsbRRiF1Q3AzoXQ",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/camille/medium-camille-16-soft-bag-in-smooth-calfskin-119563fx9.03pa.html",
+  "order_no": "1742181488907.865000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/camille/medium-camille-16-soft-bag-in-smooth-calfskin-119563FX9.03PA.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/camille/medium-camille-16-soft-bag-in-smooth-calfskin-119563fx9.03pa.html",
+    "id": "YsbRRiF1Q3AzoXQ"
+  }
+}

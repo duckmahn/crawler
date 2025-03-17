@@ -1,0 +1,23 @@
+{
+  "id": "Z0QZg9B3zfLI7S9",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-lily-perforated-triomphe-babies-in-patent-calfskin-360314582c.38no.html",
+  "order_no": "1742181050653.302000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-lily-perforated-triomphe-babies-in-patent-calfskin-360314582C.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-lily-perforated-triomphe-babies-in-patent-calfskin-360314582c.38no.html",
+    "id": "Z0QZg9B3zfLI7S9"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "zmSldq0RXV6h2EN",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-chain-claude-in-raffia-effect-textile-10k392ewy.02vg.html",
+  "order_no": "1742182259647.832000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-chain-claude-in-raffia-effect-textile-10K392EWY.02VG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-chain-claude-in-raffia-effect-textile-10k392ewy.02vg.html",
+    "id": "zmSldq0RXV6h2EN"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e0fdUIJvEqyHk5H",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/polyester/true?prefn1=celhideprice&prefv1=false",
+  "order_no": "1742183240002.280000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/polyester/true/?prefn1=celHidePrice&prefv1=false",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/polyester/true?prefn1=celhideprice&prefv1=false",
+    "id": "e0fdUIJvEqyHk5H"
+  }
+}

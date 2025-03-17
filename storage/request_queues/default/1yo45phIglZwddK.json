@@ -1,0 +1,23 @@
+{
+  "id": "1yo45phIglZwddK",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-large-hair-claw-in-acetate-46y856cst.19dt.html",
+  "order_no": "1742183868139.873000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-large-hair-claw-in-acetate-46Y856CST.19DT.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-large-hair-claw-in-acetate-46y856cst.19dt.html",
+    "id": "1yo45phIglZwddK"
+  }
+}

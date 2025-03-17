@@ -1,0 +1,23 @@
+{
+  "id": "ZFTWob4judhkm4K",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/camille/small-camille-16-soft-bag-in-smooth-calfskin-120693fx9.11ss.html",
+  "order_no": "1742180995021.602000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/camille/small-camille-16-soft-bag-in-smooth-calfskin-120693FX9.11SS.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/camille/small-camille-16-soft-bag-in-smooth-calfskin-120693fx9.11ss.html",
+    "id": "ZFTWob4judhkm4K"
+  }
+}

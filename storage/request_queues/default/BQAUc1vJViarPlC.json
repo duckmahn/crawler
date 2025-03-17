@@ -1,0 +1,23 @@
+{
+  "id": "BQAUc1vJViarPlC",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-in-leopard-print-matte-jersey-2z693260y.19le.html",
+  "order_no": "1742182995588.249000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-in-leopard-print-matte-jersey-2Z693260Y.19LE.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-in-leopard-print-matte-jersey-2z693260y.19le.html",
+    "id": "BQAUc1vJViarPlC"
+  }
+}

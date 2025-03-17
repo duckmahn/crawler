@@ -1,0 +1,23 @@
+{
+  "id": "upQLTmNs8SsLIcG",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/heart-triomphe-t-shirt-in-cotton-jersey-2x01l671q.01nz.html",
+  "order_no": "1742182967562.701000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/heart-triomphe-t-shirt-in-cotton-jersey-2X01L671Q.01NZ.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/heart-triomphe-t-shirt-in-cotton-jersey-2x01l671q.01nz.html",
+    "id": "upQLTmNs8SsLIcG"
+  }
+}

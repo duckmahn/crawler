@@ -1,0 +1,23 @@
+{
+  "id": "aZhohFMsprhfhAD",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/octagon-bandana-in-silk-twill-2awb6878z.98vf.html",
+  "order_no": "1742183703622.522000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/octagon-bandana-in-silk-twill-2AWB6878Z.98VF.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/octagon-bandana-in-silk-twill-2awb6878z.98vf.html",
+    "id": "aZhohFMsprhfhAD"
+  }
+}

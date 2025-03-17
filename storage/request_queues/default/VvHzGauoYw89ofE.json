@@ -1,0 +1,23 @@
+{
+  "id": "VvHzGauoYw89ofE",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/necklaces/les-perles-celine-double-necklace-in-brass-with-gold-finish-and-resin-pearls-460pk6prb.01gi.html",
+  "order_no": "1742184038868.464000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/necklaces/les-perles-celine-double-necklace-in-brass-with-gold-finish-and-resin-pearls-460PK6PRB.01GI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/necklaces/les-perles-celine-double-necklace-in-brass-with-gold-finish-and-resin-pearls-460pk6prb.01gi.html",
+    "id": "VvHzGauoYw89ofE"
+  }
+}

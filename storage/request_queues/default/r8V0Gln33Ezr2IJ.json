@@ -1,0 +1,23 @@
+{
+  "id": "r8V0Gln33Ezr2IJ",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/true",
+  "order_no": "1742183703627.727000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/true/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/true",
+    "id": "r8V0Gln33Ezr2IJ"
+  }
+}

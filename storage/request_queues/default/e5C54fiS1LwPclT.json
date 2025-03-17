@@ -1,0 +1,23 @@
+{
+  "id": "e5C54fiS1LwPclT",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-triomphe-belt-in-taurillon-leather-45ak93a01.18bu.html",
+  "order_no": "1742183569657.073000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-triomphe-belt-in-taurillon-leather-45AK93A01.18BU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-triomphe-belt-in-taurillon-leather-45ak93a01.18bu.html",
+    "id": "e5C54fiS1LwPclT"
+  }
+}

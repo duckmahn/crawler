@@ -1,0 +1,23 @@
+{
+  "id": "6RXY0p6JmOmibff",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/pink/true?prefn1=celhideprice&prefv1=false",
+  "order_no": "1742181728196.573000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/pink/true/?prefn1=celHidePrice&prefv1=false",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/pink/true?prefn1=celhideprice&prefv1=false",
+    "id": "6RXY0p6JmOmibff"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "AsD3oCqMZoNSW5r",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-arc-de-triomphe-silk-twill-2aw90949z.02ni.html",
+  "order_no": "1742183643228.540000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-arc-de-triomphe-silk-twill-2AW90949Z.02NI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/square-in-arc-de-triomphe-silk-twill-2aw90949z.02ni.html",
+    "id": "AsD3oCqMZoNSW5r"
+  }
+}

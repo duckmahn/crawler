@@ -1,0 +1,23 @@
+{
+  "id": "eRSPzCduTVZfxd6",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/70%e2%80%99s-triomphe-t-shirt-in-cotton-jersey-2x94m671q.01ma.html",
+  "order_no": "1742182967561.816000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/70%E2%80%99s-triomphe-t-shirt-in-cotton-jersey-2X94M671Q.01MA.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/70%e2%80%99s-triomphe-t-shirt-in-cotton-jersey-2x94m671q.01ma.html",
+    "id": "eRSPzCduTVZfxd6"
+  }
+}

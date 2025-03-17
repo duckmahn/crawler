@@ -1,0 +1,23 @@
+{
+  "id": "2LpgU7Uu48FoU5W",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-sailor-cap-in-wool-cloth-2aus1327v.07dn.html",
+  "order_no": "1742183800836.163000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-sailor-cap-in-wool-cloth-2AUS1327V.07DN.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/triomphe-sailor-cap-in-wool-cloth-2aus1327v.07dn.html",
+    "id": "2LpgU7Uu48FoU5W"
+  }
+}

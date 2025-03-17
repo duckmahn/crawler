@@ -1,0 +1,23 @@
+{
+  "id": "O3G2Nz5D3ERqACn",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/half-moon-case-in-triomphe-canvas-and-calfskin-10k642ecm.04lu.html",
+  "order_no": "1742182355982.159000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/half-moon-case-in-triomphe-canvas-and-calfskin-10K642ECM.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/half-moon-case-in-triomphe-canvas-and-calfskin-10k642ecm.04lu.html",
+    "id": "O3G2Nz5D3ERqACn"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "VUoP5QScmu86uHk",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-with-flap-triomphe-in-lizard-10i584eb4.01rc.html",
+  "order_no": "1742182505569.780000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-with-flap-triomphe-in-lizard-10I584EB4.01RC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-with-flap-triomphe-in-lizard-10i584eb4.01rc.html",
+    "id": "VUoP5QScmu86uHk"
+  }
+}

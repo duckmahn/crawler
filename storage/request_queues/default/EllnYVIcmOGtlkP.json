@@ -1,0 +1,23 @@
+{
+  "id": "EllnYVIcmOGtlkP",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/lavaliere-blouse-with-bow-in-silk-2b60b118z.38ce.html",
+  "order_no": "1742182927246.717000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/lavaliere-blouse-with-bow-in-silk-2B60B118Z.38CE.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/lavaliere-blouse-with-bow-in-silk-2b60b118z.38ce.html",
+    "id": "EllnYVIcmOGtlkP"
+  }
+}

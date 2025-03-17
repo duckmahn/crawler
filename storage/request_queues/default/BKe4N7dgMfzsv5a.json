@@ -1,0 +1,24 @@
+{
+  "id": "BKe4N7dgMfzsv5a",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women",
+  "order_no": null,
+  "handled_at": "2025-03-17 03:10:07.760366+00:00",
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.celine.com/en-vn/celine-shop-women/",
+    "handled_at": "2025-03-17 03:10:07.760366+00:00",
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women",
+    "id": "BKe4N7dgMfzsv5a"
+  }
+}

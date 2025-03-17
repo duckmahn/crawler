@@ -1,0 +1,23 @@
+{
+  "id": "OAhjKq4BKKR4jDN",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/celine-monochroms/celine-ski-mask-in-injected-nylon-4s302cpib.38no.html",
+  "order_no": "1742181095411.406000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/celine-monochroms/celine-ski-mask-in-injected-nylon-4S302CPIB.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/celine-monochroms/celine-ski-mask-in-injected-nylon-4s302cpib.38no.html",
+    "id": "OAhjKq4BKKR4jDN"
+  }
+}

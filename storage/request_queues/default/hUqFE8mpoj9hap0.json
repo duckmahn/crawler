@@ -1,0 +1,23 @@
+{
+  "id": "hUqFE8mpoj9hap0",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/medium-celine-antoinette-in-natural-satinated-calfskin-120703gps.27mm.html",
+  "order_no": "1742181950419.109000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/medium-celine-antoinette-in-natural-satinated-calfskin-120703GPS.27MM.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/medium-celine-antoinette-in-natural-satinated-calfskin-120703gps.27mm.html",
+    "id": "hUqFE8mpoj9hap0"
+  }
+}

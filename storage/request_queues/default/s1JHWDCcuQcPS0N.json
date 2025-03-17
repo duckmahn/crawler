@@ -1,0 +1,23 @@
+{
+  "id": "s1JHWDCcuQcPS0N",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/16/classique-16-bag-in-natural-calfskin-187373bf9.03tn.html",
+  "order_no": "1742181380474.936000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/16/classique-16-bag-in-natural-calfskin-187373BF9.03TN.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/16/classique-16-bag-in-natural-calfskin-187373bf9.03tn.html",
+    "id": "s1JHWDCcuQcPS0N"
+  }
+}

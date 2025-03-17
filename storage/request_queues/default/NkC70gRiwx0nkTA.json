@@ -1,0 +1,23 @@
+{
+  "id": "NkC70gRiwx0nkTA",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-dana-wedge-mule-in-suede-calfskin-and-shearling-360084610c.18nc.html",
+  "order_no": "1742183322819.677000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-dana-wedge-mule-in-suede-calfskin-and-shearling-360084610C.18NC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-dana-wedge-mule-in-suede-calfskin-and-shearling-360084610c.18nc.html",
+    "id": "NkC70gRiwx0nkTA"
+  }
+}

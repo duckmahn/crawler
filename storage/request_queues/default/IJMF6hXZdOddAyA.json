@@ -1,0 +1,23 @@
+{
+  "id": "IJMF6hXZdOddAyA",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/les-perles-celine/les-perles-celine-sautoir-in-resin-pearls-and-brass-with-gold-finish-461mj6prb.01gi.tu.html",
+  "order_no": "1742180995027.217000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/les-perles-celine/les-perles-celine-sautoir-in-resin-pearls-and-brass-with-gold-finish-461MJ6PRB.01GI.TU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/les-perles-celine/les-perles-celine-sautoir-in-resin-pearls-and-brass-with-gold-finish-461mj6prb.01gi.tu.html",
+    "id": "IJMF6hXZdOddAyA"
+  }
+}

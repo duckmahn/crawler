@@ -1,4 +1,386 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "121672CAS.04LU",
+      "name": "TEEN CLARA BAG IN Triomphe Canvas and calfskin",
+      "details": "6.3 x 7.5 x 6.3 IN (16 x 19 x 16 CM)Triomphe Canvas, trimmings in calfskinTextile LiningHand carry, shoulder carry and cross-body carrydrawstring leather ties with decorative metallic triompheONE MAIN COMPARTMENTONE LEATHER HANDLE with 2.76 IN (7 CM) dropONE REMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 16 IN (41 CM) AND MAXIMUM DROP19 IN (48 CM)Reference: 121672CAS.04LU",
+      "description": "",
+      "price": "52439100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw51073f97/images/large/121672CAS.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "52439100",
+          "code": "121672CAS.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw51073f97/images/large/121672CAS.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/teen-clara-bag--in-triomphe-canvas-and-calfskin-121672CAS.04LU.html"
+    },
+    {
+      "code": "116613FX9.38NO",
+      "name": "MEDIUM BUCKET LOUISE IN SMOOTH CALFSKIN",
+      "details": "9 x 9 x 6 IN (23.5 x 24 x 16 CM)CALFSKINlambskin liningGold FinishingHand carry, shoulder carry and cross-body carryFLAP IN LEATHER WITH A TRIOMPHE MAGNETIC CLOSUREONE INNER REMOVABLE ZIPPED POUCHONE LEATHER HANDLE with 4 IN (9 CM) dropONE REMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 20 IN (50 cm) AND A MAXIMUM DROP 23 IN (57 cm)Reference : 116613FX9.38NO",
+      "description": "",
+      "price": "93641200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd1298e65/images/large/116613FX9.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "93641200",
+          "code": "116613FX9.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd1298e65/images/large/116613FX9.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "93641200",
+          "code": "116613FX9.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3c524f16/images/large/116613FX9.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/louise/medium-bucket-louise--in-smooth-calfskin-116613FX9.38NO.html"
+    },
+    {
+      "code": "116613FX9.10AN",
+      "name": "MEDIUM LOUISE BAG in SMOOTH CALFSKIN",
+      "details": "9 x 9 x 6 IN (23.5 x 24 x 16 CM)CALFSKINlambskin liningHand carry, shoulder carry and cross-body carryFLAP IN LEATHER WITH A TRIOMPHE MAGNETIC CLOSUREONE INNER REMOVABLE ZIPPED POUCHONE LEATHER HANDLE with 4 IN (9 CM) dropONE REMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 20 IN (50 cm) AND A MAXIMUM DROP 23 IN (57 cm)Reference : 116613FX9.10AN",
+      "description": "",
+      "price": "93641200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbee5fb56/images/large/116613FX9.10AN_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ANTHRACITE",
+          "size": null,
+          "price": "93641200",
+          "code": "116613FX9.10AN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbee5fb56/images/large/116613FX9.10AN_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/louise/medium-louise-bag-in-smooth-calfskin-116613FX9.10AN.html"
+    },
+    {
+      "code": "116613GCD.02DE",
+      "name": "MEDIUM LOUISE BAG in SUEDE CALFSKIN",
+      "details": "9 x 9 x 6 IN (23.5 x 24 x 16 CM)SUEDE CALFSKINLAMBSKIN LININGHand carry, shoulder carry and cross-body carryFLAP IN LEATHER WITH A TRIOMPHE MAGNETIC CLOSUREONE INNER REMOVABLE ZIPPED POUCHONE LEATHER HANDLE with 4 IN (9 CM) dropONE REMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 20 IN (50 cm) AND A MAXIMUM DROP 23 IN (57 cm)Reference : 116613GCD.02DE",
+      "description": "",
+      "price": "89895600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw582ce37e/images/large/116613GCD.02DE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLONDE",
+          "size": null,
+          "price": "89895600",
+          "code": "116613GCD.02DE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw582ce37e/images/large/116613GCD.02DE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/louise/medium-louise-bag-in-suede-calfskin-116613GCD.02DE.html"
+    },
+    {
+      "code": "116613GFT.18CM",
+      "name": "MEDIUM LOUISE BAG in SUEDE CALFSKIN AND SHEARLING",
+      "details": "9 x 9 x 6 IN (23.5 x 24 x 16 CM)SUEDE, TRIMMINGS IN SHEARLINGSHEARLING LININGGOLD FINISHINGHand carry, shoulder carry and cross-body carryFLAP IN LEATHER WITH A TRIOMPHE MAGNETIC CLOSUREONE INNER REMOVABLE ZIPPED POUCHONE LEATHER HANDLE with 4 IN (9 CM) dropONE REMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 20 IN (50 cm) AND A MAXIMUM DROP 23 IN (57 cm)Reference : 116613GFT.18CM",
+      "description": "",
+      "price": "108623800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd7d80d23/images/large/116613GFT.18CM_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TOBACCO / CREAM",
+          "size": null,
+          "price": "108623800",
+          "code": "116613GFT.18CM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd7d80d23/images/large/116613GFT.18CM_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/bucket-bags/medium-louise-bag-in-suede-calfskin-and-shearling-116613GFT.18CM.html"
+    },
+    {
+      "code": "119173FX9.38NO",
+      "name": "SMALL BUCKET LOUISE IN SMOOTH CALFSKIN",
+      "details": "6 x 7 x 5 IN (16 x 19 x 12 CM)CALFSKINlambskin liningGOLD FINISHINGHand carry, shoulder carry and cross-body carryFLAP IN LEATHER WITH A TRIOMPHE MAGNETIC CLOSUREONE MAIN COMPARTMENTONE LEATHER HANDLE with 3 IN (7 CM) dropremovable and adjustable strap with a minimum drop 19 IN (48CM) and a maximum drop 21 IN (53,5 CM)Reference : 119173FX9.38NO",
+      "description": "",
+      "price": "86196400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7a505123/images/large/119173FX9.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "86196400",
+          "code": "119173FX9.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7a505123/images/large/119173FX9.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "86196400",
+          "code": "119173FX9.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4c7d6f7a/images/large/119173FX9.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/louise/small-bucket-louise-in-smooth-calfskin-119173FX9.38NO.html"
+    },
+    {
+      "code": "116882GH3.03TV",
+      "name": "CLARA BAG in TRIOMPHE CANVAS AND SHEARLING",
+      "details": "8 x 9 x 8 IN (20 x 24 x 20 CM)Triomphe Canvas, trimmings in calfskin and shearlingSHEARLING LININGGOLD FINISHINGHand carry, shoulder carry and cross-body carrydrawstring leather ties with decorative metallic triompheONE LEATHER HANDLE with 4 IN (9 CM) dropONE REMOVABLE AND ADJUSTABLE STRAP with a minimum drop 17 IN (47 CM) and maximum drop 20 IN (53 CM)Reference : 116882GH3.03TV",
+      "description": "",
+      "price": "74953400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw732a36ed/images/large/116882GH3.03TV_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN / NATURAL",
+          "size": null,
+          "price": "74953400",
+          "code": "116882GH3.03TV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw732a36ed/images/large/116882GH3.03TV_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/clara-bag-in-triomphe-canvas-and-shearling-116882GH3.03TV.html"
+    },
+    {
+      "code": "116882FQM.04LU",
+      "name": "CLARA BAG IN TRIOMPHE CANVAS AND CALFSKIN",
+      "details": "8 x 9 x 8 IN (20 x 24 x 20 CM)Triomphe Canvas, trimmings in calfskintextile liningGold FinishingHand carry, shoulder carry and cross-body carrydrawstring leather ties with decorative metallic triompheONE LEATHER HANDLE with 4 IN (9 CM) dropONE REMOVABLE AND ADJUSTABLE STRAP with a minimum drop 17 IN (47 CM) and maximum drop 20 IN (53 CM)Reference : 116882FQM.04LU",
+      "description": "",
+      "price": "63676000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8dde1dfc/images/large/116882FQM.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "63676000",
+          "code": "116882FQM.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8dde1dfc/images/large/116882FQM.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/clara-bag-in-triomphe-canvas-and-calfskin-116882FQM.04LU.html"
+    },
+    {
+      "code": "117862FX8.04LU",
+      "name": "CLARA CELINE CLASSIC PANIER in RAFFIA AND CALFSKIN",
+      "details": "8 x 9 x 8 IN (20 x 24 x 20 CM)RAFFIA, TRIMMINGS IN CALFSKINunlinedGold FinishingHand carry, shoulder carry and cross-body carryDRAWSTRING LEATHER TIESONE LEATHER HANDLE with 4 IN (9 CM) dropONE REMOVABLE AND ADJUSTABLE STRAP with a minimum drop 17 IN (47 CM) and maximum drop 20 IN (53 CM)Reference : 117862FX8.04LU",
+      "description": "",
+      "price": "71205800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd1f551f8/images/large/117862FX8.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "71205800",
+          "code": "117862FX8.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd1f551f8/images/large/117862FX8.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/clara-celine-classic-panier-in-raffia-and-calfskin-117862FX8.04LU.html"
+    },
+    {
+      "code": "191142BZJ.04LU",
+      "name": "Small Drawstring bag IN Triomphe Canvas and calfskin",
+      "details": "6 x 8 x 6 IN (14.5 x 21 x 14 CM)Triomphe Canvas, trimmings in calfskinTextile liningGOLD FINISHINGCross-body and shoulder carryDRAWSTRING LEATHER TIESremovable and adjustable strap with a minimum drop 17 IN (45 cm) and maximum drop 20 IN (50 cm)Reference : 191142BZJ.04LU",
+      "description": "Small bucket bag in Triomphe canvas, with an adjustable shoulder strap and leather drawstring closure.",
+      "price": "46820600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1d1a7362/images/large/191142BZJ.04LU_1_SUM20_643175v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Tan",
+          "size": null,
+          "price": "46820600",
+          "code": "191142BZJ.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1d1a7362/images/large/191142BZJ.04LU_1_SUM20_643175v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/small-drawstring-bag-in-triomphe-canvas-and-calfskin-191142BZJ.04LU.html"
+    },
+    {
+      "code": "191132CAS.04LU",
+      "name": "Medium Bucket IN Triomphe Canvas and calfskin",
+      "details": "9 x 11 x 7 IN (24 x 27 x 18 CM)Triomphe Canvas, trimmings in calfskinTextile LiningGOLD FINISHINGCross-body and shoulder carrySNAP BUTTON CLOSUREadjustable strap with a minimum drop 19 IN (48 CM) and maximum drop 22 IN (55 CM)Reference : 191132CAS.04LU",
+      "description": "Medium bucket bag in Triomphe canvas with an adjustable leather shoulder strap and an interior snap button closure.",
+      "price": "54341300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb1250c9f/images/large/191132CAS.04LU_1_WIN19_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Tan",
+          "size": null,
+          "price": "54341300",
+          "code": "191132CAS.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb1250c9f/images/large/191132CAS.04LU_1_WIN19_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/medium-bucket-in-triomphe-canvas-and-calfskin-191132CAS.04LU.html"
+    },
+    {
+      "code": "191442CAS.04LU",
+      "name": "Small Bucket IN Triomphe Canvas and calfskin",
+      "details": "7 x 9 x 5 IN (18 x 22 x 13 CM)Triomphe Canvas, trimmings in calfskinTextile LiningGOLD FINISHINGCross-body and shoulder carrySnap button closureadjustable strap with a minimum drop 19 IN (47 CM) and maximum drop 21 IN (54 CM)Reference : 191442CAS.04LU",
+      "description": "",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf34cd355/images/large/191442CAS.04LU_1_LIB_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "50566300",
+          "code": "191442CAS.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf34cd355/images/large/191442CAS.04LU_1_LIB_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "50566300",
+          "code": "191442CAS.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa2bdd449/images/large/191442CAS.01BC_1_SUM21_613777_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/small-bucket-in-triomphe-canvas-and-calfskin-191442CAS.04LU.html"
+    },
+    {
+      "code": "191442GH2.03TV",
+      "name": "Small Bucket in TRIOMPHE CANVAS AND SHEARLING",
+      "details": "7 x 9 x 5 IN (18 x 22 x 13 CM)Triomphe Canvas, trimmings in calfskin and shearlingSHEARLING LININGGOLD FINISHINGCross-body and shoulder carrySnap button closureadjustable strap with a minimum drop 19 IN (47 CM) and maximum drop 21 IN (54 CM)Reference : 191442GH2.03TV",
+      "description": "",
+      "price": "61803200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwebda27de/images/large/191442GH2.03TV_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN / NATURAL",
+          "size": null,
+          "price": "61803200",
+          "code": "191442GH2.03TV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwebda27de/images/large/191442GH2.03TV_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe-canvas/small-bucket-in-triomphe-canvas-and-shearling-191442GH2.03TV.html"
+    },
+    {
+      "code": "113783DU3.04LU",
+      "name": "SMALL BUCKET CUIR TRIOMPHE IN Smooth Calfskin",
+      "details": "7 x 9 x 4 IN (17 x 22 x 10 CM)CalfskinSuede Calfskin liningGOLD FINISHINGCross-body and shoulder carrySNAP BUTTON CLOSUREONE MAIN COMPARTMENTONE INNER FLAT POCKETadjustable strap with a minimum drop 19 IN (47 CM) and maximum drop 21 IN (54 CM)Reference : 113783DU3.04LU",
+      "description": "",
+      "price": "67421700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcc3088bc/images/large/113783DU3.04LU_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "67421700",
+          "code": "113783DU3.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcc3088bc/images/large/113783DU3.04LU_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-bucket-cuir-triomphe-in-smooth-calfskin-113783DU3.04LU.html"
+    },
+    {
+      "code": "113783DU3.07LG",
+      "name": "SMALL BUCKET CUIR TRIOMPHE in Smooth Calfskin",
+      "details": "7 x 9 x 4 IN (17 x 22 x 10 CM)CalfskinSuede Calfskin liningCross-body and shoulder carrySNAP BUTTON CLOSUREONE MAIN COMPARTMENTONE INNER FLAT POCKETadjustable strap with a minimum drop 19 IN (47 CM) and maximum drop 21 IN (54 CM)Reference : 113783DU3.07LG",
+      "description": "",
+      "price": "67421700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7b416bee/images/large/113783DU3.07LG_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLUE GREY",
+          "size": null,
+          "price": "67421700",
+          "code": "113783DU3.07LG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7b416bee/images/large/113783DU3.07LG_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-bucket-cuir-triomphe-in-smooth-calfskin-113783DU3.07LG.html"
+    },
+    {
+      "code": "113783ENY.38NO",
+      "name": "SMALL BUCKET CUIR TRIOMPHE in Grained calfskin",
+      "details": "7 x 9 x 4 IN (17 x 22 x 10 CM)Calfskinsuede Calfskin LiningGOLD FINISHINGCross-body and shoulder carrySNAP BUTTON CLOSUREONE MAIN COMPARTMENTONE INNER FLAT POCKETadjustable strap with a minimum drop 19 IN (47 CM) and maximum drop 21 IN (54 CM)Reference : 113783ENY.38NO",
+      "description": "",
+      "price": "67421700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw53890421/images/large/113783ENY.38NO_1_FW23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "67421700",
+          "code": "113783ENY.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw53890421/images/large/113783ENY.38NO_1_FW23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-bucket-cuir-triomphe-in-grained-calfskin-113783ENY.38NO.html"
+    },
+    {
+      "code": "113782FTW.07OC",
+      "name": "SMALL BUCKET CUIR TRIOMPHE in STRIPED TEXTILE AND CALFSKIN",
+      "details": "7 x 9 x 4 IN (17 x 22 x 10 CM)TEXTILE, TRIMMINGS IN CALFSKINTEXTILE LININGGold FinishingCross-body and shoulder carrySNAP BUTTON CLOSUREONE MAIN COMPARTMENTONE INNER FLAT POCKETadjustable strap with a minimum drop 19 IN (47 CM) and maximum drop 21 IN (54 CM)Reference : 113782FTW.07OC",
+      "description": "",
+      "price": "63676000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw249fb664/images/large/113782FTW.07OC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NAVY BLUE",
+          "size": null,
+          "price": "63676000",
+          "code": "113782FTW.07OC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw249fb664/images/large/113782FTW.07OC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-bucket-cuir-triomphe-in-striped-textile-and-calfskin-113782FTW.07OC.html"
+    }
+  ]
 }

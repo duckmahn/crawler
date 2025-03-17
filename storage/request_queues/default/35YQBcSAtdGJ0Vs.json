@@ -1,0 +1,23 @@
+{
+  "id": "35YQBcSAtdGJ0Vs",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/celine-bangle-in-lambskin-461hd3lbs.28lb.html",
+  "order_no": "1742183922159.945000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/celine-bangle-in-lambskin-461HD3LBS.28LB.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/celine-bangle-in-lambskin-461hd3lbs.28lb.html",
+    "id": "35YQBcSAtdGJ0Vs"
+  }
+}

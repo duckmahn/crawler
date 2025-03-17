@@ -1,0 +1,23 @@
+{
+  "id": "qdxZM1UCEAfP2yS",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/graphic/triomphe-metal-02-sunglasses-in-metal-4s254cmlb.35sg.html",
+  "order_no": "1742181095411.801000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/graphic/triomphe-metal-02-sunglasses-in-metal-4S254CMLB.35SG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/graphic/triomphe-metal-02-sunglasses-in-metal-4s254cmlb.35sg.html",
+    "id": "qdxZM1UCEAfP2yS"
+  }
+}

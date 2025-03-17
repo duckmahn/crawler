@@ -1,0 +1,23 @@
+{
+  "id": "tP8bLpaMICej6bj",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-triomphe-camo-in-silk-and-brass-with-gold-finish-460cn2sib.35gc.html",
+  "order_no": "1742183868136.202000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-triomphe-camo-in-silk-and-brass-with-gold-finish-460CN2SIB.35GC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-triomphe-camo-in-silk-and-brass-with-gold-finish-460cn2sib.35gc.html",
+    "id": "tP8bLpaMICej6bj"
+  }
+}

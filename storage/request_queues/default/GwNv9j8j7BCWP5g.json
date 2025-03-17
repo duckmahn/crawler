@@ -1,0 +1,23 @@
+{
+  "id": "GwNv9j8j7BCWP5g",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-wool-cloth-2v35w811r.09gm.html",
+  "order_no": "1742183141215.087000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-wool-cloth-2V35W811R.09GM.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/brompton-jacket-in-wool-cloth-2v35w811r.09gm.html",
+    "id": "GwNv9j8j7BCWP5g"
+  }
+}

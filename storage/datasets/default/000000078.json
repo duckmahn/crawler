@@ -1,4 +1,386 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "362324582D.38NO",
+      "name": "CELINE JUDY DOUBLE STRAP MARY JANE SLINGBACK IN PATENT CALFSKIN",
+      "details": "100% CALFSKIN2.2 IN (55 MM) heelPOINTY TOE SHAPEADJUSTABLE DOUBLE STRAPTRIOMPHE BUCKLESELASTIC ON THE BACK STRAP FOR A BETTER FITLEATHER INSOLELEATHER OUTSOLEMADE IN ITALYReference : 362324582D.38NO",
+      "description": "",
+      "price": "34460000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3b96c4cb/images/large/362324582C.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "34460000",
+          "code": "362324582D.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3b96c4cb/images/large/362324582C.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-judy-double-strap-mary-jane-slingback-in-patent-calfskin-362324582D.38NO.html"
+    },
+    {
+      "code": "362255157D.38WB",
+      "name": "CELINE JUDY CAP TOE SKINGBACK IN CALFSKIN AND LEOPARD PRINTED HAIRY CALFSKIN",
+      "details": "100% CALFSKIN2.2 IN (55 MM) heelPOINTY TOE SHAPEELASTIC ON THE BACK STRAP FOR A BETTER FITLEATHER INSOLELEATHER OUTSOLEMADE IN ITALYReference : 362255157D.38WB",
+      "description": "",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc6bae73c/images/large/362255157C.38WB_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / BROWN / BEIGE",
+          "size": null,
+          "price": "33336300",
+          "code": "362255157D.38WB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc6bae73c/images/large/362255157C.38WB_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-judy-cap-toe-skingback-in-calfskin-and-leopard-printed-hairy-calfskin-362255157D.38WB.html"
+    },
+    {
+      "code": "358022285C.38NO",
+      "name": "CELINE ALMA TRIOMPHE SLINGBACK in GROS-GRAIN",
+      "details": "57% COTTON 43% VISCOSESLIGHTLY INCLINED HEELPOINTY TOE SHAPELARGE METAL TRIOMPHE ON THE TOEELASTIC ON THE BACK STRAP FOR A BETTER FITSLIP-ONLEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 358022285C.38NO",
+      "description": "",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw62915bfa/images/large/358022285C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "33336300",
+          "code": "358022285C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw62915bfa/images/large/358022285C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "33336300",
+          "code": "356832285C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw38e847bf/images/large/356832285C.38NO_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-gros-grain-358022285C.38NO.html"
+    },
+    {
+      "code": "358025005C.35GS",
+      "name": "CELINE ALMA TRIOMPHE SLINGBACK in IRIDESCENT FABRIC",
+      "details": "45% Cotton 20% Polyvinyl chloride 35% PolyesterSLIGHTLY INCLINED HEELPOINTY TOE SHAPELARGE METAL TRIOMPHE ON THE TOEELASTIC ON THE BACK STRAP FOR A BETTER FITSLIP-ONLEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 358025005C.35GS",
+      "description": "",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3103e00b/images/large/358025005C.35GS_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD/ SILVER",
+          "size": null,
+          "price": "33336300",
+          "code": "358025005C.35GS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3103e00b/images/large/358025005C.35GS_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-iridescent-fabric-358025005C.35GS.html"
+    },
+    {
+      "code": "356834371D.38NO",
+      "name": "CELINE ALMA TRIOMPHE SLINGBACK IN GLOSSY CALFSKIN",
+      "details": "100% CALFSKIN100% GOATSKIN LINING2 IN (50 MM) heelSLIGHTLY INCLINED HEELPOINTY TOE SHAPELARGE METAL TRIOMPHE ON THE TOEELASTIC ON THE BACK STRAP FOR A BETTER FITSLIP-ONLEATHER INSOLELEATHER OUTSOLEMADE IN ITALYReference : 356834371D.38NO",
+      "description": "",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdac04a47/images/large/356834371C.38NO_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "33336300",
+          "code": "356834371D.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdac04a47/images/large/356834371C.38NO_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-alma-triomphe-slingback-in-glossy-calfskin-356834371D.38NO.html"
+    },
+    {
+      "code": "356834371C.38NO",
+      "name": "CELINE ALMA TRIOMPHE SLINGBACK in GLOSSY CALFSKIN",
+      "details": "100% CALFSKIN100% Goatskin Lining2 IN (50 MM) heelSLIGHTLY INCLINED HEELPOINTY TOE SHAPELACQUERED LARGE METAL TRIOMPHE ON THE TOEELASTIC ON THE BACK STRAP FOR A BETTER FITSLIP-ONLEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 356834371C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdac04a47/images/large/356834371C.38NO_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "33336300",
+          "code": "356834371C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdac04a47/images/large/356834371C.38NO_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "OPTIC WHITE",
+          "size": null,
+          "price": "33336300",
+          "code": "356834371C.01OP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1b1c6913/images/large/356834371C.01OP_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-glossy-calfskin-356834371C.38NO.html"
+    },
+    {
+      "code": "356834582C.38NO",
+      "name": "CELINE ALMA TRIOMPHE SLINGBACK IN PATENT CALFSKIN",
+      "details": "100% CALFSKIN100% Goatskin Linning2 IN (50 MM) heelSLIGHTLY INCLINED HEELPOINTY TOE SHAPELACQUERED LARGE METAL TRIOMPHE ON THE TOEELASTIC ON THE BACK STRAP FOR A BETTER FITSLIP-ONLEATHER INSOLELEATHER OUTSOLEMADE IN ITALYReference : 356834582C.38NO",
+      "description": "",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa8aef1be/images/large/356834582C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "33336300",
+          "code": "356834582C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa8aef1be/images/large/356834582C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLUSH",
+          "size": null,
+          "price": "33336300",
+          "code": "356834582D.02BH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0027880a/images/large/356834582C.02BH_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-patent-calfskin-356834582C.38NO.html"
+    },
+    {
+      "code": "356834582C.00WC",
+      "name": "CELINE ALMA TRIOMPHE SLINGBACK in PATENT CALFSKIN",
+      "details": "100% CALFSKIN100% Goatskin Linning2 IN (50 MM) heelSLIGHTLY INCLINED HEELPOINTY TOE SHAPELACQUERED LARGE METAL TRIOMPHE ON THE TOEELASTIC ON THE BACK STRAP FOR A BETTER FITSLIP-ONLEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 356834582C.00WC",
+      "description": "",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3fbc3784/images/large/356834582C.00WC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WHITE COTTON",
+          "size": null,
+          "price": "33336300",
+          "code": "356834582C.00WC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3fbc3784/images/large/356834582C.00WC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-patent-calfskin-356834582C.00WC.html"
+    },
+    {
+      "code": "356835022D.07BL",
+      "name": "CELINE ALMA TRIOMPHE SLINGBACK IN DENIM",
+      "details": "100% COTON100% GOATSKIN LINING2 IN (50 MM) heelSLIGHTLY INCLINED HEELPOINTY TOE SHAPELARGE METAL TRIOMPHE ON THE TOEELASTIC ON THE BACK STRAP FOR A BETTER FITSLIP-ONLEATHER INSOLELEATHER OUTSOLEMADE IN ITALYReference : 356835022D.07BL",
+      "description": "",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw60a59dac/images/large/356835022C.07BL_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLUE",
+          "size": null,
+          "price": "33336300",
+          "code": "356835022D.07BL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw60a59dac/images/large/356835022C.07BL_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-alma-triomphe-slingback-in-denim-356835022D.07BL.html"
+    },
+    {
+      "code": "358433676C.38NO",
+      "name": "CELINE KITTEN TRIOMPHE STRAP PUMP in CALFSKIN",
+      "details": "100% CALFSKIN100% Goatskin Lining3.3 IN (85 MM) heelPOINTY TOE SHAPEMETAL TRIOMPHE ON THE FRONT OF THE ANKLE STRAPCELINE ENGRAVED ADJUSTABLE BUCKLELEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 358433676C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "29590700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1b2ecfc3/images/large/358433676C.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "29590700",
+          "code": "358433676C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1b2ecfc3/images/large/358433676C.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-kitten-triomphe-strap-pump-in-calfskin-358433676C.38NO.html"
+    },
+    {
+      "code": "352192175C.38NO",
+      "name": "CELINE KITTEN T-BAR STRAP PUMP in VELVET",
+      "details": "100% Polyester2 IN (50 MM) heelPOINTY TOE SHAPEMETAL TRIOMPHE ON THE T-BAR STRAPCELINE ENGRAVED ADJUSTABLE BUCKLELEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 352192175C.38NO",
+      "description": "",
+      "price": "29590700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw37d97411/images/large/352192175C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "29590700",
+          "code": "352192175C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw37d97411/images/large/352192175C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-kitten-t-bar-strap-pump-in-velvet-352192175C.38NO.html"
+    },
+    {
+      "code": "352193676C.38NO",
+      "name": "CELINE KITTEN T-BAR STRAP PUMP in CALFSKIN",
+      "details": "100% CALFSKIN100% Goatskin Lining2 IN (50 MM) heelPOINTY TOE SHAPEMETAL TRIOMPHE ON THE T-BAR STRAPCELINE ENGRAVED ADJUSTABLE BUCKLELEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 352193676C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "29590700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw20157d72/images/large/352193676C.38NO_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "29590700",
+          "code": "352193676C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw20157d72/images/large/352193676C.38NO_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-kitten-t-bar-strap-pump-in-calfskin-352193676C.38NO.html"
+    },
+    {
+      "code": "352194582C.19DK",
+      "name": "CELINE KITTEN T-BAR STRAP PUMP in PATENT CALFSKIN",
+      "details": "100% CALFSKIN100% Goatskin Linning2 IN (50 MM) heelPOINTY TOE SHAPEMETAL TRIOMPHE ON THE T-BAR STRAPCELINE ENGRAVED ADJUSTABLE BUCKLELEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 352194582C.19DK",
+      "description": "",
+      "price": "29590700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7357f94c/images/large/352194582C.19DK_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK BROWN",
+          "size": null,
+          "price": "29590700",
+          "code": "352194582C.19DK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7357f94c/images/large/352194582C.19DK_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-kitten-t-bar-strap-pump-in-patent-calfskin-352194582C.19DK.html"
+    },
+    {
+      "code": "360743602C.38NO",
+      "name": "CELINE TESS LOAFER in POLISHED BULL",
+      "details": "100% BULLSKIN100% Kidskin LinningROUND TOE SHAPECHUNKY TRIOMPHE CHAIN ON THE ARPONTRIOMPHE DEBOSSED ON THE BACK OF THE SHOESLIP-ONLEATHER PADDED INSOLELEATHER COVERED RUBBER OUTSOLETHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360743602C.38NO",
+      "description": "",
+      "price": "39329300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd890de4e/images/large/360743602C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "39329300",
+          "code": "360743602C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd890de4e/images/large/360743602C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-tess-loafer-in-polished-bull-360743602C.38NO.html"
+    },
+    {
+      "code": "360734582C.38NO",
+      "name": "CELINE TESS BABIES IN PATENT CALFSKIN",
+      "details": "100% CALFSKIN100% Kidskin LinningLEATHER COVERED RUBBER HEELROUND TOE SHAPETRIOMPHE PERFORATED ON THE APRONADJUSTABLE BUCKLES WITH ENGRAVED TRIOMPHELEATHER PADDED INSOLELEATHER COVERED RUBBER OUTSOLETHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360734582C.38NO",
+      "description": "",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0769ad8e/images/large/360734582C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "37081900",
+          "code": "360734582C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0769ad8e/images/large/360734582C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-tess-babies-in-patent-calfskin-360734582C.38NO.html"
+    },
+    {
+      "code": "360314582C.38NO",
+      "name": "CELINE LILY PERFORATED TRIOMPHE BABIES IN PATENT CALFSKIN",
+      "details": "100% CALFSKIN100% Goatskin Linning65MM heelPERFORATED TRIOMPHE ON THE TOETRIOMPHE ENGRAVED ADJUSTABLE BUCKLESLEATHER INSOLELEATHER OUTSOLEReference : 360314582C.38NO",
+      "description": "",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb38318ab/images/large/360314582C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "33336300",
+          "code": "360314582C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb38318ab/images/large/360314582C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/pumps/celine-lily-perforated-triomphe-babies-in-patent-calfskin-360314582C.38NO.html"
+    },
+    {
+      "code": "355063958C.38NO",
+      "name": "CELINE SOIR SANDAL IN LAMBSKIN",
+      "details": "100% LAMBSKIN100% Goatskin Linning3.3 IN (85 MM) heelMETAL TRIOMPHE ON THE FRONT OF THE ANKLE STRAPTHIN STRAPSCELINE ENGRAVED ADJUSTABLE BUCKLELEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 355063958C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "30714300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw24bd1cdf/images/large/355063958C.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "30714300",
+          "code": "355063958C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw24bd1cdf/images/large/355063958C.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-soir-sandal-in-lambskin-355063958C.38NO.html"
+    }
+  ]
 }

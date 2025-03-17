@@ -1,0 +1,23 @@
+{
+  "id": "ZjoyALwuQ1BMxx6",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/cardigan-in-argyle-alpaca-wool-2adin908z.10bl.html",
+  "order_no": "1742183108622.873000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/cardigan-in-argyle-alpaca-wool-2ADIN908Z.10BL.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/cardigan-in-argyle-alpaca-wool-2adin908z.10bl.html",
+    "id": "ZjoyALwuQ1BMxx6"
+  }
+}

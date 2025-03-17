@@ -1,0 +1,23 @@
+{
+  "id": "ErM9nbvCD1NUWBt",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/small-flap-wallet-triomphe-in-niloticus-crocodile-10d784ef9.38no.html",
+  "order_no": "1742182547114.757000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/small-flap-wallet-triomphe-in-niloticus-crocodile-10D784EF9.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/small-flap-wallet-triomphe-in-niloticus-crocodile-10d784ef9.38no.html",
+    "id": "ErM9nbvCD1NUWBt"
+  }
+}

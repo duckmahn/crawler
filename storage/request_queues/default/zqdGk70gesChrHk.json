@@ -1,0 +1,23 @@
+{
+  "id": "zqdGk70gesChrHk",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/western/medium-western-belt-in-python-45bag4apo.38aw.html",
+  "order_no": "1742183591527.949000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/belts/western/medium-western-belt-in-python-45BAG4APO.38AW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/western/medium-western-belt-in-python-45bag4apo.38aw.html",
+    "id": "zqdGk70gesChrHk"
+  }
+}

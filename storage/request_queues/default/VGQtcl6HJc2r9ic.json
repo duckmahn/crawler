@@ -1,0 +1,23 @@
+{
+  "id": "VGQtcl6HJc2r9ic",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-monogram-nylon-2ae80082u.01ob.html",
+  "order_no": "1742183830979.858000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-monogram-nylon-2AE80082U.01OB.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-monogram-nylon-2ae80082u.01ob.html",
+    "id": "VGQtcl6HJc2r9ic"
+  }
+}

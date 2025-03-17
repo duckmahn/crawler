@@ -1,0 +1,23 @@
+{
+  "id": "Z5Xq9vgR3MJd8cl",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-lurex-boutis-2r86o135z.02ag.html",
+  "order_no": "1742182894231.898000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-lurex-boutis-2R86O135Z.02AG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-lurex-boutis-2r86o135z.02ag.html",
+    "id": "Z5Xq9vgR3MJd8cl"
+  }
+}

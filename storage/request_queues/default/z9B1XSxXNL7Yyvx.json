@@ -1,0 +1,23 @@
+{
+  "id": "z9B1XSxXNL7Yyvx",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/clea/mini-chain-besace-clea-in-pearly-python-10m374fiq.02vg.html",
+  "order_no": "1742182439429.678000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/clea/mini-chain-besace-clea-in-pearly-python-10M374FIQ.02VG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/clea/mini-chain-besace-clea-in-pearly-python-10m374fiq.02vg.html",
+    "id": "z9B1XSxXNL7Yyvx"
+  }
+}

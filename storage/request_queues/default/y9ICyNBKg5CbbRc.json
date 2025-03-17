@@ -1,0 +1,23 @@
+{
+  "id": "y9ICyNBKg5CbbRc",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine---tippi-triomphe-sandal-in-calfskin---vegetal-tanning-359814578c.31do.html",
+  "order_no": "1742183322826.573000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine---tippi-triomphe-sandal-in-calfskin---vegetal-tanning-359814578C.31DO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine---tippi-triomphe-sandal-in-calfskin---vegetal-tanning-359814578c.31do.html",
+    "id": "y9ICyNBKg5CbbRc"
+  }
+}

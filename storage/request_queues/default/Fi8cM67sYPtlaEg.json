@@ -1,0 +1,23 @@
+{
+  "id": "Fi8cM67sYPtlaEg",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/straight-cut-blouson-jacket-in-suede-2ej62712k.19es.html",
+  "order_no": "1742182834692.320000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/straight-cut-blouson-jacket-in-suede-2EJ62712K.19ES.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/straight-cut-blouson-jacket-in-suede-2ej62712k.19es.html",
+    "id": "Fi8cM67sYPtlaEg"
+  }
+}

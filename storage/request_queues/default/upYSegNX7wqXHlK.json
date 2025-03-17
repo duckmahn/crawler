@@ -1,0 +1,23 @@
+{
+  "id": "upYSegNX7wqXHlK",
+  "unique_key": "https://www.celine.com/en-vn/celine-maison/travel/medium-cosmetic-pouch-in-triomphe-canvas-and-calfskin-4m1632czj.01bc.html",
+  "order_no": "1742182799387.280000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-maison/travel/medium-cosmetic-pouch-in-triomphe-canvas-and-calfskin-4M1632CZJ.01BC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-maison/travel/medium-cosmetic-pouch-in-triomphe-canvas-and-calfskin-4m1632czj.01bc.html",
+    "id": "upYSegNX7wqXHlK"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ndREhrhaLSIOhft",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/folk-dress-in-silk-georgette-rr05a332f.38ow.html",
+  "order_no": "1742182834695.322000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/folk-dress-in-silk-georgette-RR05A332F.38OW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/folk-dress-in-silk-georgette-rr05a332f.38ow.html",
+    "id": "ndREhrhaLSIOhft"
+  }
+}

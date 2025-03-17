@@ -1,0 +1,24 @@
+{
+  "id": "cxRVFmFFsp68kOq",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves",
+  "order_no": null,
+  "handled_at": "2025-03-17 03:56:22.901313+00:00",
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/",
+    "handled_at": "2025-03-17 03:56:22.901313+00:00",
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves",
+    "id": "cxRVFmFFsp68kOq"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "LOp4U0jQM0rLqlB",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/les-cuirs-celine-bracelet-in-calfskin-and-brass-with-gold-finish-46x623bcf.04gt.html",
+  "order_no": "1742184072703.579000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/les-cuirs-celine-bracelet-in-calfskin-and-brass-with-gold-finish-46X623BCF.04GT.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/les-cuirs-celine-bracelet-in-calfskin-and-brass-with-gold-finish-46x623bcf.04gt.html",
+    "id": "LOp4U0jQM0rLqlB"
+  }
+}

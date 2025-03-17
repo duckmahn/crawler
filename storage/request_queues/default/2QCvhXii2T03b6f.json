@@ -1,0 +1,23 @@
+{
+  "id": "2QCvhXii2T03b6f",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-double-faced-wool-crepe-2r61n666y.38no.html",
+  "order_no": "1742182894227.629000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-double-faced-wool-crepe-2R61N666Y.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-double-faced-wool-crepe-2r61n666y.38no.html",
+    "id": "2QCvhXii2T03b6f"
+  }
+}

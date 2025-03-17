@@ -1,0 +1,23 @@
+{
+  "id": "njq3791FkaJY2I8",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-union-wash-aa044930f.06uw.html",
+  "order_no": "1742183747607.749000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-union-wash-AA044930F.06UW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-union-wash-aa044930f.06uw.html",
+    "id": "njq3791FkaJY2I8"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "b3lLkMkNP55iRTq",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/scarf-in-monogram-wool,-cashmere-and-silk-2ad2m098w.19br.html",
+  "order_no": "1742183782873.805000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/scarf-in-monogram-wool,-cashmere-and-silk-2AD2M098W.19BR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/scarf-in-monogram-wool,-cashmere-and-silk-2ad2m098w.19br.html",
+    "id": "b3lLkMkNP55iRTq"
+  }
+}

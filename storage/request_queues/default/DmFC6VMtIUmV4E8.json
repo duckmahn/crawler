@@ -1,0 +1,23 @@
+{
+  "id": "DmFC6VMtIUmV4E8",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-boston-in-triomphe-canvas-and-calfskin-10p042eup.04lu.html",
+  "order_no": "1742182259646.616000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-boston-in-triomphe-canvas-and-calfskin-10P042EUP.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-boston-in-triomphe-canvas-and-calfskin-10p042eup.04lu.html",
+    "id": "DmFC6VMtIUmV4E8"
+  }
+}

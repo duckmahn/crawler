@@ -1,0 +1,23 @@
+{
+  "id": "SU8SMYQYrx6pj8g",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-04-sunglasses-in-acetate-4s216cplb.33od.html",
+  "order_no": "1742181095406.553000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-04-sunglasses-in-acetate-4S216CPLB.33OD.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-04-sunglasses-in-acetate-4s216cplb.33od.html",
+    "id": "SU8SMYQYrx6pj8g"
+  }
+}

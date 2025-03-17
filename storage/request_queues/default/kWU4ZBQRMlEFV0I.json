@@ -1,0 +1,23 @@
+{
+  "id": "kWU4ZBQRMlEFV0I",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-maxi-triomphe-in-silk-and-brass-with-rhodium-finish-460hf2sib.35gm.html",
+  "order_no": "1742183868137.009000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-maxi-triomphe-in-silk-and-brass-with-rhodium-finish-460HF2SIB.35GM.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-maxi-triomphe-in-silk-and-brass-with-rhodium-finish-460hf2sib.35gm.html",
+    "id": "kWU4ZBQRMlEFV0I"
+  }
+}

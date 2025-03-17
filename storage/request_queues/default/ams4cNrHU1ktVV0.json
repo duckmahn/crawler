@@ -1,0 +1,23 @@
+{
+  "id": "ams4cNrHU1ktVV0",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-triomphe-in-shiny-calfskin-10l833dpv.11ss.html",
+  "order_no": "1742182505568.916000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-triomphe-in-shiny-calfskin-10L833DPV.11SS.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/card-holder-triomphe-in-shiny-calfskin-10l833dpv.11ss.html",
+    "id": "ams4cNrHU1ktVV0"
+  }
+}

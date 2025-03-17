@@ -1,0 +1,23 @@
+{
+  "id": "oI0wRY0WK1bY6BA",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-heritage-cashmere-2ad95317v.02oq.html",
+  "order_no": "1742183782875.228000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-heritage-cashmere-2AD95317V.02OQ.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-heritage-cashmere-2ad95317v.02oq.html",
+    "id": "oI0wRY0WK1bY6BA"
+  }
+}

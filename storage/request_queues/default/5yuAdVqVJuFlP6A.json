@@ -1,0 +1,23 @@
+{
+  "id": "5yuAdVqVJuFlP6A",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/triomphe-crew-neck-sweater-in-fair-isle-wool-2a51z718r.01nz.html",
+  "order_no": "1742183108621.624000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/triomphe-crew-neck-sweater-in-fair-isle-wool-2A51Z718R.01NZ.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/triomphe-crew-neck-sweater-in-fair-isle-wool-2a51z718r.01nz.html",
+    "id": "5yuAdVqVJuFlP6A"
+  }
+}

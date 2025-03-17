@@ -1,0 +1,23 @@
+{
+  "id": "dQC3Bd0f3KtVx0O",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/tomboy-shirt-in-cotton-poplin-2c46b091f.01bc.html",
+  "order_no": "1742182927251.518000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/tomboy-shirt-in-cotton-poplin-2C46B091F.01BC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/tomboy-shirt-in-cotton-poplin-2c46b091f.01bc.html",
+    "id": "dQC3Bd0f3KtVx0O"
+  }
+}

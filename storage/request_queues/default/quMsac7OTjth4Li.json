@@ -1,0 +1,24 @@
+{
+  "id": "quMsac7OTjth4Li",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts",
+  "order_no": null,
+  "handled_at": "2025-03-17 03:51:27.862033+00:00",
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/belts/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.celine.com/en-vn/celine-shop-women/belts/",
+    "handled_at": "2025-03-17 03:51:27.862033+00:00",
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts",
+    "id": "quMsac7OTjth4Li"
+  }
+}

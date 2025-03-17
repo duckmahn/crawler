@@ -1,0 +1,23 @@
+{
+  "id": "44hOHlV4BLf9Q7Z",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-paris-70%e2%80%99s-t-shirt-in-cotton-jersey-2x59j671q.09sh.html",
+  "order_no": "1742182967564.784000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-paris-70%E2%80%99s-t-shirt-in-cotton-jersey-2X59J671Q.09SH.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-paris-70%e2%80%99s-t-shirt-in-cotton-jersey-2x59j671q.09sh.html",
+    "id": "44hOHlV4BLf9Q7Z"
+  }
+}

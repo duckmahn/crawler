@@ -1,0 +1,23 @@
+{
+  "id": "tcZyUT89DKGF3pp",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-paris-t-shirt-in-cotton-jersey-2x93n507z.01ob.html",
+  "order_no": "1742182967559.589000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-paris-t-shirt-in-cotton-jersey-2X93N507Z.01OB.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-paris-t-shirt-in-cotton-jersey-2x93n507z.01ob.html",
+    "id": "tcZyUT89DKGF3pp"
+  }
+}

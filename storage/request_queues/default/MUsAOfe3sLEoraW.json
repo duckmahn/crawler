@@ -1,0 +1,23 @@
+{
+  "id": "MUsAOfe3sLEoraW",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-set-of-3-mini-hair-claws-in-brass-with-gold-finish-and-steel-46y846bsl.35or.html",
+  "order_no": "1742183868141.543000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-set-of-3-mini-hair-claws-in-brass-with-gold-finish-and-steel-46Y846BSL.35OR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-set-of-3-mini-hair-claws-in-brass-with-gold-finish-and-steel-46y846bsl.35or.html",
+    "id": "MUsAOfe3sLEoraW"
+  }
+}

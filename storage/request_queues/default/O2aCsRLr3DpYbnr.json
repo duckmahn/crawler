@@ -1,0 +1,23 @@
+{
+  "id": "O2aCsRLr3DpYbnr",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-ribbed-cotton-2at6a814x.00gt.html",
+  "order_no": "1742183830979.065000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-ribbed-cotton-2AT6A814X.00GT.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/triomphe-socks-in-ribbed-cotton-2at6a814x.00gt.html",
+    "id": "O2aCsRLr3DpYbnr"
+  }
+}

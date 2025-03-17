@@ -1,4 +1,347 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "115853FDU.38NO",
+      "name": "Medium Celine Victoire Bag in SUPPLE GRAINED CALFSKIN",
+      "details": "10 x 6.7 x 3.6 IN (25 x 17 x 9 CM)CALFSKINLAMBSKIN LININGGOLD FINISHINGCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSURETWO MAIN COMPARTMENTsOne Inner flat pocket ONE INNER central ZIPPED POCKETSLIDING CHAIN WITH A MINIMUM DROP 10 IN (29 cm) AND A MAXIMUM DROP 19 IN (50 cm)Reference : 115853FDU.38NO",
+      "description": "",
+      "price": "116115100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd5fdfa0e/images/large/115853FDU.38NO_1_SS24_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "116115100",
+          "code": "115853FDU.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd5fdfa0e/images/large/115853FDU.38NO_1_SS24_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "116115100",
+          "code": "115853FDU.38SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf628c610/images/large/115853FDU.38SI_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BROWN SEPIA",
+          "size": null,
+          "price": "116115100",
+          "code": "115853FDU.18BS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1b3b2161/images/large/115853FDU.18BS_1_SS24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/medium-celine-victoire-bag-in-supple-grained-calfskin-115853FDU.38NO.html"
+    },
+    {
+      "code": "115852FRH.04LU",
+      "name": "Medium Celine Victoire Bag in Triomphe Canvas",
+      "details": "10 x 6.7 x 3.6 IN (25 x 17 x 9 CM)Triomphe Canvaslambskin liningGold FinishingCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSURETWO MAIN COMPARTMENTsOne Inner flat pocket ONE INNER central ZIPPED POCKETONE INNER central ZIPPED POCKETSLIDING CHAIN WITH A MINIMUM DROP 10 IN (29 cm) AND A MAXIMUM DROP 19 IN (50 cm)Reference : 115852FRH.04LU",
+      "description": "",
+      "price": "108682500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2d573bec/images/large/115852FRH.04LU_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "108682500",
+          "code": "115852FRH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2d573bec/images/large/115852FRH.04LU_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/medium-celine-victoire-bag-in-triomphe-canvas-115852FRH.04LU.html"
+    },
+    {
+      "code": "115854FMQ.02VG",
+      "name": "Medium Celine Victoire Bag IN pearly python",
+      "details": "10 x 6.7 x 3.6 IN (25 x 17 x 9 CM)pythonlambskin liningCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSURETWO MAIN COMPARTMENTsOne Inner flat pocket ONE INNER central ZIPPED POCKETSLIDING CHAIN WITH A MINIMUM DROP 10 IN (29 cm) AND A MAXIMUM DROP 19 IN (50 cm)Reference : 115854FMQ.02VG",
+      "description": "",
+      "price": "164897500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3ce7c4b1/images/large/115854FMQ.02VG_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL",
+          "size": null,
+          "price": "164897500",
+          "code": "115854FMQ.02VG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3ce7c4b1/images/large/115854FMQ.02VG_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/medium-celine-victoire-bag-in-pearly-python-115854FMQ.02VG.html"
+    },
+    {
+      "code": "116593FDU.38NO",
+      "name": "TEEN CELINE VICTOIRE BAG in SUPPLE GRAINED CALFSKIN",
+      "details": "9 x 6 x 3 IN (23.5 x 14 x 8 CM)CALFSKINLAMBSKIN LININGGold FinishingCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSURETWO MAIN COMPARTMENTsOne Inner flat pocket ONE INNER central ZIPPED POCKETSLIDING CHAIN WITH A MINIMUM DROP 10 IN (29 cm) AND A MAXIMUM DROP 19 IN (50 cm)Reference : 116593FDU.38NO",
+      "description": "",
+      "price": "108623800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw30161679/images/large/116593FDU.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "108623800",
+          "code": "116593FDU.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw30161679/images/large/116593FDU.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "108623800",
+          "code": "116593FDU.38SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6b9541af/images/large/116593FDU.38SI_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "NUDE",
+          "size": null,
+          "price": "108623800",
+          "code": "116593FDU.03ND",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6efea35c/images/large/116593FDU.03ND_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "108623800",
+          "code": "116593FDU.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw22a5dc25/images/large/116593FDU.01BC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "108682500",
+          "code": "116593FDU.01SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw586590c2/images/large/116593FDU.01SI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-supple-grained-calfskin-116593FDU.38NO.html"
+    },
+    {
+      "code": "116594FMR.24LP",
+      "name": "TEEN CELINE VICTOIRE BAG IN pearly python",
+      "details": "9.2 x 5.5 x 3.1 IN (23.5 x 14 x 8 CM)pythonlambskin liningCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSURETWO MAIN COMPARTMENTsOne Inner flat pocket ONE INNER central ZIPPED POCKETSLIDING CHAIN WITH A MINIMUM DROP 10 IN (29 cm) AND A MAXIMUM DROP 19 IN (50 cm)Reference : 116594FMR.24LP",
+      "description": "",
+      "price": "157402200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdc0e55a1/images/large/116594FMR.24LP_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT PINK",
+          "size": null,
+          "price": "157402200",
+          "code": "116594FMR.24LP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdc0e55a1/images/large/116594FMR.24LP_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-pearly-python-116594FMR.24LP.html"
+    },
+    {
+      "code": "116592FRH.04LU",
+      "name": "TEEN CELINE VICTOIRE BAG in Triomphe Canvas",
+      "details": "9 x 6 x 3 IN (23.5 x 14 x 8 CM)Triomphe Canvaslambskin liningGold FinishingCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSURETWO MAIN COMPARTMENTsOne Inner flat pocket ONE INNER central ZIPPED POCKETSLIDING CHAIN WITH A MINIMUM DROP 10 IN (29 cm) AND A MAXIMUM DROP 19 IN (50 cm)Reference : 116592FRH.04LU",
+      "description": "",
+      "price": "101187100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8798eba5/images/large/116592FRH.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "101187100",
+          "code": "116592FRH.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8798eba5/images/large/116592FRH.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-triomphe-canvas-116592FRH.04LU.html"
+    },
+    {
+      "code": "116592FUF.19LE",
+      "name": "TEEN CELINE VICTOIRE BAG in CELINE CANVAS WITH LEOPARD PRINT",
+      "details": "9 x 6 x 3 IN (23.5 x 14 x 8 CM)CELINE LEOPARD CANVASLAMBSKIN LININGGold FinishingCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSURETWO MAIN COMPARTMENTsOne Inner flat pocket ONE INNER central ZIPPED POCKETSLIDING CHAIN WITH A MINIMUM DROP 10 IN (29 cm) AND A MAXIMUM DROP 19 IN (50 cm)Reference : 116592FUF.19LE",
+      "description": "",
+      "price": "103061000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw87f0374e/images/large/116592FUF.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "103061000",
+          "code": "116592FUF.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw87f0374e/images/large/116592FUF.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-celine-canvas-with-leopard-print-116592FUF.19LE.html"
+    },
+    {
+      "code": "116594FZ2.35OR",
+      "name": "TEEN CELINE VICTOIRE BAG in LAMINATED PYTHON",
+      "details": "9 x 6 x 3 IN (23.5 x 14 x 8 CM)PYTHONCALFSKIN LININGCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSURETWO MAIN COMPARTMENTsOne Inner flat pocket ONE INNER central ZIPPED POCKETSLIDING CHAIN WITH A MINIMUM DROP 10 IN (29 cm) AND A MAXIMUM DROP 19 IN (50 cm)Reference : 116594FZ2.35OR",
+      "description": "",
+      "price": "153571500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6dafa066/images/large/116594FZ2.35OR_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "153571500",
+          "code": "116594FZ2.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6dafa066/images/large/116594FZ2.35OR_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-laminated-python-116594FZ2.35OR.html"
+    },
+    {
+      "code": "116593FYX.36AG",
+      "name": "TEEN CELINE VICTOIRE BAG in PYTHON EFFECT CALFSKIN WITH TRIOMPHE ALL-OVER",
+      "details": "9 x 6 x 3 IN (23.5 x 14 x 8 CM)CALFSKINCALFSKIN LININGCross-body and shoulder carryTRIOMPHE SNAP BUTTON CLOSURETWO MAIN COMPARTMENTsOne Inner flat pocket ONE INNER central ZIPPED POCKETSLIDING CHAIN WITH A MINIMUM DROP 10 IN (29 cm) AND A MAXIMUM DROP 19 IN (50 cm)Reference : 116593FYX.36AG",
+      "description": "",
+      "price": "112369400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw18dfbee7/images/large/116593FYX.36AG_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SILVER",
+          "size": null,
+          "price": "112369400",
+          "code": "116593FYX.36AG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw18dfbee7/images/large/116593FYX.36AG_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/celine-victoire-1/teen-celine-victoire-bag-in-python-effect-calfskin-with-triomphe-all-over-116593FYX.36AG.html"
+    },
+    {
+      "code": "117072FWC.02NC",
+      "name": "CHAIN BUCKET CELINE CLASSIC PANIER in RAFFIA and CALFSKIN",
+      "details": "17 x 10 x 10 IN (43 x 26 x 26 CM)RAFFIA, trimmings in calfskinunlinedGold FinishingShoulder and hand carryTWO CHAINS WITH A DROP 11 IN (26,5 cm)Reference : 117072FWC.02NC",
+      "description": "",
+      "price": "93691800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw53176ed8/images/large/117072FWC.02NC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / BLACK",
+          "size": null,
+          "price": "93691800",
+          "code": "117072FWC.02NC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw53176ed8/images/large/117072FWC.02NC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/chain-bucket-celine-classic-panier-in-raffia-and-calfskin-117072FWC.02NC.html"
+    },
+    {
+      "code": "115202GFG.07FX",
+      "name": "CHAIN SHOULDER BAG CLAUDE IN STRIPED DENIM WITH STRASS",
+      "details": "8.1 x 4.5 x 1.6 IN (20.5 x 11.5 x 4 CM)DENIM LININGShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 11.81 IN (30 CM) drop Reference : 115202GFG.07FX",
+      "description": "",
+      "price": "95565600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw245587bd/images/large/115202GFG.07FX_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Denim",
+          "size": null,
+          "price": "95565600",
+          "code": "115202GFG.07FX",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw245587bd/images/large/115202GFG.07FX_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-striped-denim-with-strass-115202GFG.07FX.html"
+    },
+    {
+      "code": "115203GG6.38NO",
+      "name": "CHAIN SHOULDER BAG CLAUDE in SUEDE CALFSKIN WITH TRIOMPHE STRASS",
+      "details": "8 x 5 x 2 IN (20.5 x 11.5 x 4 CM)CALFSKIN WITH STRASSLAMBSKIN LININGGOLD FINISHINGShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 12 IN (30 CM) dropReference : 115203GG6.38NO",
+      "description": "",
+      "price": "142334600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw96d507ef/images/large/115203GG6.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "142334600",
+          "code": "115203GG6.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw96d507ef/images/large/115203GG6.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-suede-calfskin-with-triomphe-strass-115203GG6.38NO.html"
+    },
+    {
+      "code": "115203FZC.19LE",
+      "name": "CHAIN SHOULDER BAG CLAUDE in PONY CALFSKIN WITH LEOPARD PRINT",
+      "details": "8 x 5 x 2 IN (20.5 x 11.5 x 4 CM)CALFSKINLAMBSKIN LININGShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 12 IN (30 CM) dropReference : 115203FZC.19LE",
+      "description": "",
+      "price": "95514000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw30b19d15/images/large/115203FZC.19LE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "95514000",
+          "code": "115203FZC.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw30b19d15/images/large/115203FZC.19LE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-pony-calfskin-with-leopard-print-115203FZC.19LE.html"
+    },
+    {
+      "code": "115203BF4.38NO",
+      "name": "CHAIN SHOULDER BAG CLAUDE IN shiny calfskin",
+      "details": "8 x 5 x 2 IN (20.5 x 11.5 x 4 CM)CalfskinLambskin LiningGOLD FINISHINGShoulder carryTriomphe Metallic Closureone main compartmentone INNER FLAT POCKETCHAIN with 12 IN (30 CM) dropReference : 115203BF4.38NO",
+      "description": "",
+      "price": "91768400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwee628fa2/images/large/115203BF4.38NO_1_SS24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "91768400",
+          "code": "115203BF4.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwee628fa2/images/large/115203BF4.38NO_1_SS24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/claude/chain-shoulder-bag-claude-in-shiny-calfskin-115203BF4.38NO.html"
+    }
+  ]
 }

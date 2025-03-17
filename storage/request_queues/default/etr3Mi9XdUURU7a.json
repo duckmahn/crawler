@@ -1,0 +1,23 @@
+{
+  "id": "etr3Mi9XdUURU7a",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-calfskin-2au1u0u19.01op.html",
+  "order_no": "1742183747606.934000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-calfskin-2AU1U0U19.01OP.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/bobs-and-caps/triomphe-baseball-cap-in-calfskin-2au1u0u19.01op.html",
+    "id": "etr3Mi9XdUURU7a"
+  }
+}

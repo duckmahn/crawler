@@ -1,0 +1,23 @@
+{
+  "id": "lIUlXHuHa2tHKMU",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-fair-isle-wool-2adry0i78.01ma.html",
+  "order_no": "1742183830976.941000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-fair-isle-wool-2ADRY0I78.01MA.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/socks-and-tights/socks-in-fair-isle-wool-2adry0i78.01ma.html",
+    "id": "lIUlXHuHa2tHKMU"
+  }
+}

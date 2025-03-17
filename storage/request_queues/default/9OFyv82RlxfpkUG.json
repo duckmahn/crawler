@@ -1,0 +1,23 @@
+{
+  "id": "9OFyv82RlxfpkUG",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-lympia-mule-in-embroidered-cotton-canvas-357925174c.02lc.html",
+  "order_no": "1742183239991.361000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-lympia-mule-in-embroidered-cotton-canvas-357925174C.02LC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-lympia-mule-in-embroidered-cotton-canvas-357925174c.02lc.html",
+    "id": "9OFyv82RlxfpkUG"
+  }
+}

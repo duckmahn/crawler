@@ -1,0 +1,23 @@
+{
+  "id": "g5B9CcNJs6B9L3T",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/coat-with-pure-collar-in-double-faced-cashmere-2m9926700.38no.html",
+  "order_no": "1742183159369.924000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/coat-with-pure-collar-in-double-faced-cashmere-2M9926700.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/coats/coat-with-pure-collar-in-double-faced-cashmere-2m9926700.38no.html",
+    "id": "g5B9CcNJs6B9L3T"
+  }
+}

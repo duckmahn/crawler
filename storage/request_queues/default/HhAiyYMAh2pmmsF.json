@@ -1,0 +1,23 @@
+{
+  "id": "HhAiyYMAh2pmmsF",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/small-cabas-thais-in-striped-textile-with-triomphe-199162fu7.18tb.html",
+  "order_no": "1742181701983.459000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/small-cabas-thais-in-striped-textile-with-triomphe-199162FU7.18TB.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/small-cabas-thais-in-striped-textile-with-triomphe-199162fu7.18tb.html",
+    "id": "HhAiyYMAh2pmmsF"
+  }
+}

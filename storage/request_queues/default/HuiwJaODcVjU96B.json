@@ -1,0 +1,23 @@
+{
+  "id": "HuiwJaODcVjU96B",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/mid-celine-rain-boots-in-natural-rubber-360117001c.38no.html",
+  "order_no": "1742183451565.850000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/mid-celine-rain-boots-in-natural-rubber-360117001C.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/boots-and-ankle-boots/mid-celine-rain-boots-in-natural-rubber-360117001c.38no.html",
+    "id": "HuiwJaODcVjU96B"
+  }
+}

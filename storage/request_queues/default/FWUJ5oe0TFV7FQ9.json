@@ -1,0 +1,23 @@
+{
+  "id": "FWUJ5oe0TFV7FQ9",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/triomphe-articulated-bracelet-in-brass-with-rhodium-finish-46z676bra.36si.html",
+  "order_no": "1742183984060.031000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/triomphe-articulated-bracelet-in-brass-with-rhodium-finish-46Z676BRA.36SI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/triomphe-articulated-bracelet-in-brass-with-rhodium-finish-46z676bra.36si.html",
+    "id": "FWUJ5oe0TFV7FQ9"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "D8fK8RLdiz6dp06",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/les-ballerines-celine-criss-cross-babies-ballerina-in-lurex-fabric-360195027c.38no.html",
+  "order_no": "1742183426053.553000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/les-ballerines-celine-criss-cross-babies-ballerina-in-lurex-fabric-360195027C.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/les-ballerines-celine-criss-cross-babies-ballerina-in-lurex-fabric-360195027c.38no.html",
+    "id": "D8fK8RLdiz6dp06"
+  }
+}

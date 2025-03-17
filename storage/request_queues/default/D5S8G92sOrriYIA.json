@@ -1,0 +1,23 @@
+{
+  "id": "D5S8G92sOrriYIA",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/embroidered-romy-shirt-in-cotton-muslin-2c02b455w.01rd.html",
+  "order_no": "1742182927249.873000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/embroidered-romy-shirt-in-cotton-muslin-2C02B455W.01RD.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/embroidered-romy-shirt-in-cotton-muslin-2c02b455w.01rd.html",
+    "id": "D5S8G92sOrriYIA"
+  }
+}

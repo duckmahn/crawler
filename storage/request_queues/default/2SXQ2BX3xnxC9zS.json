@@ -1,0 +1,23 @@
+{
+  "id": "2SXQ2BX3xnxC9zS",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/formes-abstraites-hoops-in-brass-with-gold-finish-461hj6bra.35or.html",
+  "order_no": "1742184072709.209000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/formes-abstraites-hoops-in-brass-with-gold-finish-461HJ6BRA.35OR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/formes-abstraites-hoops-in-brass-with-gold-finish-461hj6bra.35or.html",
+    "id": "2SXQ2BX3xnxC9zS"
+  }
+}

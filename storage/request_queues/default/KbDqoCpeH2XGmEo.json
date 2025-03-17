@@ -1,0 +1,23 @@
+{
+  "id": "KbDqoCpeH2XGmEo",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/margo/wallet-on-chain-margo-in-denim-with-triomphe-all-over-embroidery-and-calfskin-10l462fe1.07at.html",
+  "order_no": "1742182326386.017000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/margo/wallet-on-chain-margo-in-denim-with-triomphe-all-over-embroidery-and-calfskin-10L462FE1.07AT.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/margo/wallet-on-chain-margo-in-denim-with-triomphe-all-over-embroidery-and-calfskin-10l462fe1.07at.html",
+    "id": "KbDqoCpeH2XGmEo"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Hje74cGUGINSMqX",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/mini-boston-in-smooth-calfskin-10p043esm.11ss.html",
+  "order_no": "1742182259646.242000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/mini-boston-in-smooth-calfskin-10P043ESM.11SS.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/mini-boston-in-smooth-calfskin-10p043esm.11ss.html",
+    "id": "Hje74cGUGINSMqX"
+  }
+}

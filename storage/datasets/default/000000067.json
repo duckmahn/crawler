@@ -1,4 +1,360 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "RY085450I.31CR",
+      "name": "celine paris hoodie in cotton and cashmere",
+      "details": "83% cotton 17% cashmereceline paris embroideryclassic fithood with adjustable drawstring and celine-engraved metal aglets1 split kangaroo pocketribbed trimzip closure with triomphe tasselmade in ItalyReference: RY085450I.31CR",
+      "description": "classic zipped hoodie with celine paris embroidery in cotton fleece and cashmereTHE CLASSIC CELINE HOODIE FITS TRUE TO SIZE. WE SUGGEST TAKING YOUR USUAL SIZE.",
+      "price": "40827600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5d656bd7/images/large/RY085450I.31CR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OLIVE / CREAM",
+          "size": null,
+          "price": "40827600",
+          "code": "RY085450I.31CR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5d656bd7/images/large/RY085450I.31CR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-paris-hoodie-in-cotton-and-cashmere-RY085450I.31CR.html"
+    },
+    {
+      "code": "2Y19H978Z.02LC",
+      "name": "tracksuit jacket in triomphe jersey",
+      "details": "embossed triomphe all-overclassic fithigh collar2 diagonal zipped pocketsribbed trimzip closure with triomphe tasselReference: 2Y19H978Z.02LC",
+      "description": "tracksuit jacket in embossed triomphe jersey",
+      "price": "59930400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw17be2d79/images/large/2Y19H978Z.02LC_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BEIGE",
+          "size": null,
+          "price": "59930400",
+          "code": "2Y19H978Z.02LC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw17be2d79/images/large/2Y19H978Z.02LC_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/tracksuit-jacket-in-triomphe-jersey-2Y19H978Z.02LC.html"
+    },
+    {
+      "code": "2Y27G450I.07OW",
+      "name": "Celine sweatshirt in cotton fleece and cashmere",
+      "details": "100% COTTON 14% CASHMERECeline embroideryclassic fitcrew necklong raglan sleevescontrasting side bandsribbed tripmade in ItalyReference : 2Y27G450I.07OW",
+      "description": "Classic sweatshirt with Celine embroidery in cotton fleece and cashmereTHE CLASSIC CELINE SWEATSHIRT IS FITTED TO THE BODY; WE SUGGEST TAKING YOUR USUAL SIZE.",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf42ca838/images/large/2Y27G450I.07OW_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NAVY/OFF WHITE",
+          "size": null,
+          "price": "37081900",
+          "code": "2Y27G450I.07OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf42ca838/images/large/2Y27G450I.07OW_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-sweatshirt-in-cotton-fleece-and-cashmere-2Y27G450I.07OW.html"
+    },
+    {
+      "code": "RX065507Z.38CR",
+      "name": "celine paris t-shirt in cotton jersey",
+      "details": "100% cottonceline triomphe paris printclassic fitcrew necklong raglan sleevescontrasting ribbed trimmade in PortugalReference : RX065507Z.38CR",
+      "description": "classic t-shirt with celine paris triomphe print cotton jerseyTHE CLASSIC CELINE T-SHIRT IS FITTED TO THE BODY.WE SUGGEST TAKING YOUR USUAL SIZE",
+      "price": "19477400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw710a049b/images/large/RX065507Z.38CR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / CREAM",
+          "size": null,
+          "price": "19477400",
+          "code": "RX065507Z.38CR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw710a049b/images/large/RX065507Z.38CR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "OFF WHITE / BLACK",
+          "size": null,
+          "price": "19477400",
+          "code": "2X93N507Z.01OB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbb59423f/images/large/2X93N507Z.01OB_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "OFF WHITE / NAVY / BLACK",
+          "size": null,
+          "price": "18353700",
+          "code": "2X872671Q.01NB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw11034b73/images/large/2X872671Q.01NB_1_WIN21_v8.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "GREY MELANGE/NAVY",
+          "size": null,
+          "price": "19477400",
+          "code": "RX05B507Z.09SH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw84f75220/images/large/RX05B507Z.09SH_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-paris-t-shirt-in-cotton-jersey-RX065507Z.38CR.html"
+    },
+    {
+      "code": "RX07A507Z.01MA",
+      "name": "triomphe t-shirt in cotton jersey",
+      "details": "100% cottontriomphe embroideryclassic fitcrew neckcontrasting long raglan sleevesribbed trim on the collarmade in PortugalReference: RX07A507Z.01MA",
+      "description": "classic t-shirt with triomphe embroidery in cotton jerseyTHE CLASSIC CELINE T-SHIRT FITS TRUE TO SIZE.WE SUGGEST TAKING YOUR USUAL SIZE.",
+      "price": "19477400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb629118f/images/large/RX07A507Z.01MA_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY",
+          "size": null,
+          "price": "19477400",
+          "code": "RX07A507Z.01MA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb629118f/images/large/RX07A507Z.01MA_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/triomphe-t-shirt-in-cotton-jersey-RX07A507Z.01MA.html"
+    },
+    {
+      "code": "RX09C671Q.07OW",
+      "name": "celine blason 70's t-shirt in cotton jersey",
+      "details": "100% cottonceline blason printclassic fitcrew neckcontrasted ribbed trimmade in ITALYReference: RX09C671Q.07OW",
+      "description": "",
+      "price": "20601100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw49f83517/images/large/RX09C671Q.07OW_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NAVY/OFF WHITE",
+          "size": null,
+          "price": "20601100",
+          "code": "RX09C671Q.07OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw49f83517/images/large/RX09C671Q.07OW_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "CREAM / CACAO",
+          "size": null,
+          "price": "20601100",
+          "code": "RX09C671Q.02XI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa64734ca/images/large/RX09C671Q.02XI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-blason-70s-t-shirt-in-cotton-jersey-RX09C671Q.07OW.html"
+    },
+    {
+      "code": "RX07C507Z.38AO",
+      "name": "celine loose t-shirt in cotton jersey",
+      "details": "100% cottonceline paris triomphe printloose fitcrew neckdropped shouldersribbed trim on the collarmade in PortugalReference: RX07C507Z.38AO",
+      "description": "loose t-shirt with celine paris triomphe print in cotton jerseyTHE LOOSE CELINE T-SHIRT IS A LARGE FIT WITH DROPPED SHOULDERS, AND THE LENGTH STOPS BELOW THE HIPS.IT'S POSSIBLE TO CHOOSE ONE SIZE DOWN FROM YOUR USUAL SIZE.",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcbbb7c7f/images/large/RX07C507Z.38AO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / WHITE",
+          "size": null,
+          "price": "18353700",
+          "code": "RX07C507Z.38AO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcbbb7c7f/images/large/RX07C507Z.38AO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-loose-t-shirt-in-cotton-jersey-RX07C507Z.38AO.html"
+    },
+    {
+      "code": "2X48N615Z.38BY",
+      "name": "Celine Triomphe t-shirt in cotton jersey",
+      "details": "100% cottonCeline Paris Triomphe flockingslim fitcropped lengthcrew neckshort raglan sleevesribbed trimmade in FranceReference : 2X48N615Z.38BY",
+      "description": "cropped T-shirt with Celine Paris flocking in stripped cotton jersey",
+      "price": "20601100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw97143725/images/large/2X48N615Z.38BY_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK/OFF WHITE",
+          "size": null,
+          "price": "20601100",
+          "code": "2X48N615Z.38BY",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw97143725/images/large/2X48N615Z.38BY_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-triomphe-t-shirt-in-cotton-jersey-2X48N615Z.38BY.html"
+    },
+    {
+      "code": "2X94M671Q.01MA",
+      "name": "70’s triomphe t-shirt in cotton jersey",
+      "details": "100% cottontriomphe embroideryclassic fitcrew neckshort sleeves1 patch pocket on the chestcontrasting ribbed trimmade in ItalyReference : 2X94M671Q.01MA",
+      "description": "classic 70’s t-shirt with pocket and triomphe embroidery in cotton jerseyTHE CLASSIC CELINE T-SHIRT IS FITTED TO THE BODY.WE SUGGEST TAKING YOUR USUAL SIZE.",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0becb0f/images/large/2X94M671Q.01MA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY",
+          "size": null,
+          "price": "18353700",
+          "code": "2X94M671Q.01MA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0becb0f/images/large/2X94M671Q.01MA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/70%E2%80%99s-triomphe-t-shirt-in-cotton-jersey-2X94M671Q.01MA.html"
+    },
+    {
+      "code": "RX05Z671Q.01OB",
+      "name": "t-shirt with triomphe embroidery in cotton jersey",
+      "details": "100% cottontriomphe sequin embroiderysequin embroidery on the neckline and cuffsclassic fitcrew neckshort sleevesmade in ItalyReference: RX05Z671Q.01OB",
+      "description": "t-shirt with triomphe sequin embroidery in cotton jersey",
+      "price": "24346800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf8d34344/images/large/RX05Z671Q.01OB_1_SPR25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / BLACK",
+          "size": null,
+          "price": "24346800",
+          "code": "RX05Z671Q.01OB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf8d34344/images/large/RX05Z671Q.01OB_1_SPR25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/t-shirt-with-triomphe-embroidery-in-cotton-jersey-RX05Z671Q.01OB.html"
+    },
+    {
+      "code": "2X01L671Q.01NZ",
+      "name": "heart triomphe t-shirt in cotton jersey",
+      "details": "100% cottontriomphe heart printclassic fitcrew neckshort sleevescontrasting ribbed trimmade in ItalyReference : 2X01L671Q.01NZ",
+      "description": "classic t-shirt with triomphe heart print in cotton jerseyTHE CLASSIC CELINE T-SHIRT IS FITTED TO THE BODY.WE SUGGEST YOU CHOOSE YOUR USUAL SIZE.",
+      "price": "20601100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw18033b22/images/large/2X01L671Q.01NZ_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY / RED",
+          "size": null,
+          "price": "20601100",
+          "code": "2X01L671Q.01NZ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw18033b22/images/large/2X01L671Q.01NZ_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/heart-triomphe-t-shirt-in-cotton-jersey-2X01L671Q.01NZ.html"
+    },
+    {
+      "code": "2X872671Q.38AW",
+      "name": "CELINE PARIS T-SHIRT IN COTTON JERSEY",
+      "details": "CELINE PARIS TRIOMPHE PRINTCLASSIC FITCREW NECKSHORT SLEEVESCONTRASTING RIBBED TRIMReference : 2X872671Q.38AW",
+      "description": "CLASSIC T-SHIRT WITH CELINE PARIS TRIOMPHE PRINT IN COTTON JERSEYTHE CLASSIC CELINE T-SHIRT IS FITTED TO THE BODY.WE SUGGEST TAKING YOUR USUAL SIZE.",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa80cc257/images/large/2X872671Q.38AW_1_LIB_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / WHITE",
+          "size": null,
+          "price": "18353700",
+          "code": "2X872671Q.38AW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa80cc257/images/large/2X872671Q.38AW_1_LIB_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-paris-t-shirt-in-cotton-jersey-2X872671Q.38AW.html"
+    },
+    {
+      "code": "2X01N671Q.38CR",
+      "name": "celine paris 70’s t-shirt in cotton jersey",
+      "details": "100% cottonceline paris velvet flockingclassic fitcrew neckshort sleevescontrasting ribbed trimmade in ItalyReference : 2X01N671Q.38CR",
+      "description": "classic 70’s t-shirt with celine paris velvet flocking in cotton jerseyTHE CLASSIC CELINE T-SHIRT IS FITTED TO THE BODY.WE SUGGEST TAKING YOUR USUAL SIZE.",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3a6caeac/images/large/2X01N671Q.38CR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / CREAM",
+          "size": null,
+          "price": "18353700",
+          "code": "2X01N671Q.38CR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3a6caeac/images/large/2X01N671Q.38CR_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "LIGHT ROSE / VIEUX ROSE / CREA",
+          "size": null,
+          "price": "18353700",
+          "code": "2X04O671Q.25AE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3f581db4/images/large/2X04O671Q.25AE_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-paris-70%E2%80%99s-t-shirt-in-cotton-jersey-2X01N671Q.38CR.html"
+    },
+    {
+      "code": "2X59J671Q.09SH",
+      "name": "celine paris 70’s T-shirt in cotton jersey",
+      "details": "100% cottonceline paris satin patchclassic fitcrew neckshort sleevescontrasting ribbed trimmade in ItalyReference : 2X59J671Q.09SH",
+      "description": "classic 70's t-shirt with celine paris satin patch in cotton jerseyTHE CLASSIC CELINE T-SHIRT IS FITTED TO THE BODY.WE SUGGEST TAKING YOUR USUAL SIZE.",
+      "price": "20601100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfb37fd27/images/large/2X59J671Q.09SH_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GREY MELANGE/NAVY",
+          "size": null,
+          "price": "20601100",
+          "code": "2X59J671Q.09SH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfb37fd27/images/large/2X59J671Q.09SH_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/celine-paris-70%E2%80%99s-t-shirt-in-cotton-jersey-2X59J671Q.09SH.html"
+    },
+    {
+      "code": "2X12OA054.38XB",
+      "name": "loose Celine 16 t-shirt in cotton jersey",
+      "details": "100% cottonCeline 16 Paris printloose fitcropped lengthcrew neckshort cape sleevesdropped shouldersribbed trim on the collarmade in PortugalReference : 2X12OA054.38XB",
+      "description": "loose cropped t-shirt with Celine 16 Paris print in cotton jerseyTHE LOOSE CELINE T-SHIRT IS A LARGE FIT WITH DROPPED SHOULDERS. IT'S POSSIBLE TO CHOOSE ONE SIZE DOWN FROM YOUR USUAL SIZE.",
+      "price": "21350200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwca681651/images/large/2X12OA054.38XB_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / MOUTARDE",
+          "size": null,
+          "price": "21350200",
+          "code": "2X12OA054.38XB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwca681651/images/large/2X12OA054.38XB_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/t-shirts-and-sweatshirts/loose-celine-16-t-shirt-in-cotton-jersey-2X12OA054.38XB.html"
+    }
+  ]
 }

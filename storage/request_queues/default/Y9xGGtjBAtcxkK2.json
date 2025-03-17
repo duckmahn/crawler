@@ -1,0 +1,23 @@
+{
+  "id": "Y9xGGtjBAtcxkK2",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/triomphe-15-sunglasses-in-acetate-4s308cplb.19dt.html",
+  "order_no": "1742181163370.497000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/triomphe-15-sunglasses-in-acetate-4S308CPLB.19DT.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/cat-eye/triomphe-15-sunglasses-in-acetate-4s308cplb.19dt.html",
+    "id": "Y9xGGtjBAtcxkK2"
+  }
+}

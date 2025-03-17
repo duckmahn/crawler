@@ -1,0 +1,23 @@
+{
+  "id": "P4jBoToPWVKHkF3",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/tracksuit-jacket-in-triomphe-jersey-2y19h978z.02lc.html",
+  "order_no": "1742182967558.047000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/tracksuit-jacket-in-triomphe-jersey-2Y19H978Z.02LC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/tracksuit-jacket-in-triomphe-jersey-2y19h978z.02lc.html",
+    "id": "P4jBoToPWVKHkF3"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aIBr9IVeHpIu60k",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/pouch-triomphe-in-shiny-calfskin-10n073gez.38no.html",
+  "order_no": "1742182547115.623000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/pouch-triomphe-in-shiny-calfskin-10N073GEZ.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe/pouch-triomphe-in-shiny-calfskin-10n073gez.38no.html",
+    "id": "aIBr9IVeHpIu60k"
+  }
+}

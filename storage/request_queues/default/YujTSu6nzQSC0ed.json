@@ -1,0 +1,23 @@
+{
+  "id": "YujTSu6nzQSC0ed",
+  "unique_key": "https://www.celine.com/en-vn/search?cgid=a00101",
+  "order_no": "1742180995067.211000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/search?cgid=A00101",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/search?cgid=a00101",
+    "id": "YujTSu6nzQSC0ed"
+  }
+}

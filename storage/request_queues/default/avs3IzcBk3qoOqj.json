@@ -1,0 +1,23 @@
+{
+  "id": "avs3IzcBk3qoOqj",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/flared-surf-jeans-in-black-ice-rinse-denim-rp03k444w.08dk.html",
+  "order_no": "1742183038238.918000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/flared-surf-jeans-in-black-ice-rinse-denim-RP03K444W.08DK.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/pants-and-shorts/flared-surf-jeans-in-black-ice-rinse-denim-rp03k444w.08dk.html",
+    "id": "avs3IzcBk3qoOqj"
+  }
+}

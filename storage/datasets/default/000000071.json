@@ -1,4 +1,425 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "2ADKG864Z.07MR",
+      "name": "tunic mini dress in interlock wool",
+      "details": "96% WOOL 4% POLYAMIDEclassic fitmini lengthU-necklineribbed trimmade in ItalyReference : 2ADKG864Z.07MR",
+      "description": "tunic mini dress in interlock wool",
+      "price": "67421700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd632b317/images/large/2ADKG864Z.07MR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NAVY",
+          "size": null,
+          "price": "67421700",
+          "code": "2ADKG864Z.07MR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd632b317/images/large/2ADKG864Z.07MR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/tunic-mini-dress-in-interlock-wool-2ADKG864Z.07MR.html"
+    },
+    {
+      "code": "2AE5K720X.38EC",
+      "name": "triomphe striped mini dress in crocheted cotton",
+      "details": "100% COTTONcrochet triomphe embroideryclassic fitmini lengthmade in ItalyReference : 2AE5K720X.38EC",
+      "description": "striped mini dress with triomphe embroidery in hand-crocheted cotton",
+      "price": "93641200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0cc8de0/images/large/2AE5K720X.38EC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / ECRU",
+          "size": null,
+          "price": "93641200",
+          "code": "2AE5K720X.38EC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0cc8de0/images/large/2AE5K720X.38EC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/triomphe-striped-mini-dress-in-crocheted-cotton-2AE5K720X.38EC.html"
+    },
+    {
+      "code": "RR04B0101.60EB",
+      "name": "triomphe marinière mini dress in wool",
+      "details": "93% wool 7% polyamidetriomphe patchclassic fitmini lengthribbed trimmade in ITALYReference: RR04B0101.60EB",
+      "description": "",
+      "price": "56184700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0b3381d/images/large/RR04B0101.60EB_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ECRU/BLACK",
+          "size": null,
+          "price": "56184700",
+          "code": "RR04B0101.60EB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0b3381d/images/large/RR04B0101.60EB_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/triomphe-mariniere-mini-dress-in-wool-RR04B0101.60EB.html"
+    },
+    {
+      "code": "2AE21106T.38NO",
+      "name": "embroidered tank top in silk and cotton",
+      "details": "55% SILK 45% COTTON all-over sequin embroideryclassic fitlow-cut crew neckmade in ItalyReference : 2AE21106T.38NO",
+      "description": "tank top with sequin embroidery in silk and cotton",
+      "price": "63676000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw62e140b6/images/large/2AE21106T.38NO_1_SPR23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "63676000",
+          "code": "2AE21106T.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw62e140b6/images/large/2AE21106T.38NO_1_SPR23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/embroidered-tank-top-in-silk-and-cotton-2AE21106T.38NO.html"
+    },
+    {
+      "code": "RY04W0101.60EB",
+      "name": "triomphe sleeevess marinière sweater in wool",
+      "details": "93% wool 7% polyamidetriomphe patchclassic fitcropped lengthcrew neckribbed trimmade in ITALYReference: RY04W0101.60EB",
+      "description": "",
+      "price": "31838000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe3feacdd/images/large/RY04W0101.60EB_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ECRU/BLACK",
+          "size": null,
+          "price": "31838000",
+          "code": "RY04W0101.60EB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe3feacdd/images/large/RY04W0101.60EB_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/triomphe-sleeevess-mariniere-sweater-in-wool-RY04W0101.60EB.html"
+    },
+    {
+      "code": "2AE7M845X.01OW",
+      "name": "crop top in floral crocheted cotton",
+      "details": "100% COTTONclassic fitcropped lengthadjustable neckline and waistband with tie closures and triomphe aglets4 crochet buttonsmade in ItalyReference : 2AE7M845X.01OW",
+      "description": "crop top in floral hand-crocheted cotton",
+      "price": "93641200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9ad13204/images/large/2AE7M845X.01OW_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "93641200",
+          "code": "2AE7M845X.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9ad13204/images/large/2AE7M845X.01OW_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crop-top-in-floral-crocheted-cotton-2AE7M845X.01OW.html"
+    },
+    {
+      "code": "RV09U0117.01OW",
+      "name": "triomphe cardigan in aran wool",
+      "details": "100% wooltriomphe embroidery on the pocketclassic fitcrew necklong sleevesribbed trim2 patch pockets5 celine-engraved mother-of-pearl buttonsmade in ItalyReference: RV09U0117.01OW",
+      "description": "cardigan with triomphe embroidery in aran wool",
+      "price": "56184700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw76735d76/images/large/RV09U0117.01OW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "56184700",
+          "code": "RV09U0117.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw76735d76/images/large/RV09U0117.01OW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/triomphe-cardigan-in-aran-wool-RV09U0117.01OW.html"
+    },
+    {
+      "code": "2AH95764U.01OW",
+      "name": "embroidered top in wool",
+      "details": "100% wool all-over sequin embroideryclassic fitlow-cut crew neckshort sleeves2 patch pockets on the chest4 celine blason buttons1 celine blason button on the pocketsmade in ItalyReference : 2AH95764U.01OW",
+      "description": "top with short sleeves and sequin embroidery in wool",
+      "price": "108623800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw88d2aa20/images/large/2AH95764U.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "108623800",
+          "code": "2AH95764U.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw88d2aa20/images/large/2AH95764U.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/embroidered-top-in-wool-2AH95764U.01OW.html"
+    },
+    {
+      "code": "RV0AI0208.01OW",
+      "name": "embroidered cardigan in mohair",
+      "details": "floral triomphe hand embroideryclassic fitcrew necklong raglan sleevesribbed trim6 mother-of-pearl buttonsReference: RV0AI0208.01OW",
+      "description": "cardigan with floral triomphe embroidery in mohair",
+      "price": "59930400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd067e6be/images/large/RV0AI0208.01OW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "59930400",
+          "code": "RV0AI0208.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd067e6be/images/large/RV0AI0208.01OW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/embroidered-cardigan-in-mohair-RV0AI0208.01OW.html"
+    },
+    {
+      "code": "2AE8S844X.01OW",
+      "name": "cropped cardigan in pointelle cotton",
+      "details": "100% COTTONcrochet triomphe embroideryclassic fitcropped lengthhand-crocheted claudine collarshort balloon sleevesribbed trim1 hand-crocheted patch pocket on the chest6 mother-of-pearlmade in ItalyReference : 2AE8S844X.01OW",
+      "description": "cropped cardigan with triomphe embroidery and hand-crocheted collar and pockets in pointelle cotton",
+      "price": "55810200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdc59bcbd/images/large/2AE8S844X.01OW_1_SS24_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "55810200",
+          "code": "2AE8S844X.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdc59bcbd/images/large/2AE8S844X.01OW_1_SS24_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/cropped-cardigan-in-pointelle-cotton-2AE8S844X.01OW.html"
+    },
+    {
+      "code": "RY03N0123.FYW7",
+      "name": "crew neck sweater in fair isle mohair",
+      "details": "55% mohair 45% woolfair isle jacquardtriomphe embroideryoversized fitcrew neckdropped shouldersribbed trimmade in ItalyReference: RY03N0123.FYW7",
+      "description": "oversized crew neck sweater with triomphe embroidery in fair isle mohair",
+      "price": "59930400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw15fcee48/images/large/RY03N0123.FYW7_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BROWN/ECRU",
+          "size": null,
+          "price": "59930400",
+          "code": "RY03N0123.FYW7",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw15fcee48/images/large/RY03N0123.FYW7_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-fair-isle-mohair-RY03N0123.FYW7.html"
+    },
+    {
+      "code": "RY03M0U63.FYX4",
+      "name": "crew neck sweater in striped cashmere and wool",
+      "details": "triomphe embroideryclassic fitcrew necklong raglan sleevesribbed trimReference: RY03M0U63.FYX4",
+      "description": "crew neck sweater with triomphe embroidery in striped cashmere, wool and silk",
+      "price": "58057600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8cb85175/images/large/RY03M0U63.FYX4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "VANILLA/PINK/RED",
+          "size": null,
+          "price": "58057600",
+          "code": "RY03M0U63.FYX4",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8cb85175/images/large/RY03M0U63.FYX4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-striped-cashmere-and-wool-RY03M0U63.FYX4.html"
+    },
+    {
+      "code": "2AE3N743X.01OW",
+      "name": "triomphe crew neck sweater in mohair and silk",
+      "details": "49% mohair 30% wool 21% silk triomphe embroideryoversized fitcrew necklong raglan sleevesribbed trimmade in ItalyReference : 2AE3N743X.01OW",
+      "description": "oversized crew neck sweater with triomphe embroidery in mohair and silk",
+      "price": "54311900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6445cf00/images/large/2AE3N743X.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "54311900",
+          "code": "2AE3N743X.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6445cf00/images/large/2AE3N743X.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/triomphe-crew-neck-sweater-in-mohair-and-silk-2AE3N743X.01OW.html"
+    },
+    {
+      "code": "2A51Z887Z.01NZ",
+      "name": "embroidered crew neck sweater in fair isle wool",
+      "details": "100% wooltriomphe fair isle jacquardcrystal embroideryloose fitcrew necklong raglan sleevesribbed trimmade in ItalyReference : 2A51Z887Z.01NZ",
+      "description": "boxy embroidered crew neck sweater in triomphe fair isle wool",
+      "price": "127352000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfaa2d14e/images/large/2A51Z887Z.01NZ_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY / RED",
+          "size": null,
+          "price": "127352000",
+          "code": "2A51Z887Z.01NZ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfaa2d14e/images/large/2A51Z887Z.01NZ_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/embroidered-crew-neck-sweater-in-fair-isle-wool-2A51Z887Z.01NZ.html"
+    },
+    {
+      "code": "2A51Z718R.01NZ",
+      "name": "triomphe crew neck sweater in fair isle wool",
+      "details": "100% wooltriomphe fair isle jacquardloose fitcrew necklong raglan sleevesribbed trimmade in ItalyReference : 2A51Z718R.01NZ",
+      "description": "boxy crew neck sweater in triomphe fair isle wool",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw98786e66/images/large/2A51Z718R.01NZ_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY / RED",
+          "size": null,
+          "price": "37081900",
+          "code": "2A51Z718R.01NZ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw98786e66/images/large/2A51Z718R.01NZ_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/triomphe-crew-neck-sweater-in-fair-isle-wool-2A51Z718R.01NZ.html"
+    },
+    {
+      "code": "2ADLR888Z.01MA",
+      "name": "crew neck sweater in fair isle wool and cashmere",
+      "details": "55% wool 45% cashmeretriomphe fair isle jacquardtriomphe embroideryoversized fitcrew necklong sleevesdropped shouldersribbed trimmade in ItalyReference : 2ADLR888Z.01MA",
+      "description": "oversized crew neck sweater in triomphe fair isle wool and cashmere",
+      "price": "71167300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7597ac73/images/large/2ADLR888Z.01MA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY",
+          "size": null,
+          "price": "71167300",
+          "code": "2ADLR888Z.01MA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7597ac73/images/large/2ADLR888Z.01MA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-fair-isle-wool-and-cashmere-2ADLR888Z.01MA.html"
+    },
+    {
+      "code": "2AF5A821X.38NO",
+      "name": "cardigan in fine wool",
+      "details": "adjusted fitcrew necklong sleeves7 triomphe mother-of-pearl snap buttonsReference: 2AF5A821X.38NO",
+      "description": "cardigan in fine wool",
+      "price": "43075000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb296944d/images/large/2AF5A821X.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "43075000",
+          "code": "2AF5A821X.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb296944d/images/large/2AF5A821X.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/cardigan-in-fine-wool-2AF5A821X.38NO.html"
+    },
+    {
+      "code": "2ADIN908Z.10BL",
+      "name": "cardigan in argyle alpaca wool",
+      "details": "50% wool 36% alpaca 14% polyamideclassic fitcrew necklong sleevesribbed trim6 triomphe mother-of-pearl buttonsmade in ItalyReference : 2ADIN908Z.10BL",
+      "description": "crew neck cardigan in argyle alpaca wool",
+      "price": "39329300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa6a6fd0e/images/large/2ADIN908Z.10BL_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PEBBLE",
+          "size": null,
+          "price": "39329300",
+          "code": "2ADIN908Z.10BL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa6a6fd0e/images/large/2ADIN908Z.10BL_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/cardigan-in-argyle-alpaca-wool-2ADIN908Z.10BL.html"
+    },
+    {
+      "code": "2ADLE877Z.19LE",
+      "name": "turtleneck sweater in leopard cashmere",
+      "details": "100% CASHMEREclassic fitcrew neckribbed trimmade in ItalyReference : 2ADLE877Z.19LE",
+      "description": "sleeveless turtleneck sweater in leopard cashmere",
+      "price": "54311900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw116886ec/images/large/2ADLE877Z.19LE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "54311900",
+          "code": "2ADLE877Z.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw116886ec/images/large/2ADLE877Z.19LE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/turtleneck-sweater-in-leopard-cashmere-2ADLE877Z.19LE.html"
+    },
+    {
+      "code": "2ADLL875Z.11JA",
+      "name": "crew neck sweater in triomphe fair isle wool",
+      "details": "100% wooltriomphe fair isle jacquardclassic fitcrew necklong sleevesribbed trimmade in ItalyReference : 2ADLL875Z.11JA",
+      "description": "crew neck sweater in triomphe fair isle wool",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw57d7ad56/images/large/2ADLL875Z.11JA_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "YELLOW",
+          "size": null,
+          "price": "37081900",
+          "code": "2ADLL875Z.11JA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw57d7ad56/images/large/2ADLL875Z.11JA_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-triomphe-fair-isle-wool-2ADLL875Z.11JA.html"
+    }
+  ]
 }

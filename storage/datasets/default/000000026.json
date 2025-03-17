@@ -1,4 +1,373 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "114342FF7.04LU",
+      "name": "MEDIUM SUPPLE CELINE CLASSIC PANIER IN Raffia and calfskin",
+      "details": "9 x 12 x 6 IN (22 x 30 x 14 CM)Raffia, trimmings in calfskinunlinedGOLD FINISHINGShoulder carryONE MAIN COMPARTMENT ONE INNER REMOVABLE ZIPPED POUCHTWO LEATHER HANDLES with 14 IN (35 CM) dropHAND-BRAIDED BASKETS, MAKING EACH PIECE UNIQUE. SIZES AND SHAPES MAY SLIGHTLY DIFFER.PLEASE CONTACT OUR CLIENT SERVICE FOR FURTHER INFORMATION.Reference : 114342FF7.04LU",
+      "description": "HAND-BRAIDED BASKETS, MAKING EACH PIECE UNIQUE. SIZES AND SHAPES MAY SLIGHTLY DIFFER.PLEASE CONTACT OUR CLIENT SERVICE FOR FURTHER INFORMATION.",
+      "price": "63676000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef61494b/images/large/114342FF7.04LU_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "63676000",
+          "code": "114342FF7.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef61494b/images/large/114342FF7.04LU_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "RICE",
+          "size": null,
+          "price": "63676000",
+          "code": "114342FF7.01RC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw92d1c50d/images/large/114342FF7.01RC_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/medium-supple-celine-classic-panier-in-raffia-and-calfskin-114342FF7.04LU.html"
+    },
+    {
+      "code": "115802FF7.04LU",
+      "name": "TEEN SUPPLE CELINE CLASSIC PANIER IN Raffia and calfskin",
+      "details": "8 x 9 x 5 IN (21.5 x 22 x 13 CM)Raffia, trimmings in calfskinunlinedGOLD FINISHINGShoulder and hand carryONE MAIN COMPARTMENT ONE INNER REMOVABLE ZIPPED POUCHLEATHER STRAP with 14 IN (36 CM) dropTWO LEATHER HANDLES with 5 IN (12 CM) dropHAND-BRAIDED BASKETS, MAKING EACH PIECE UNIQUE. SIZES AND SHAPES MAY SLIGHTLY DIFFER.PLEASE CONTACT OUR CLIENT SERVICE FOR FURTHER INFORMATION.Reference : 115802FF7.04LU",
+      "description": "HAND-BRAIDED BASKETS, MAKING EACH PIECE UNIQUE. SIZES AND SHAPES MAY SLIGHTLY DIFFER.PLEASE CONTACT OUR CLIENT SERVICE FOR FURTHER INFORMATION.",
+      "price": "52439100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw57aa308d/images/large/115802FF7.04LU_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "52439100",
+          "code": "115802FF7.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw57aa308d/images/large/115802FF7.04LU_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/teen-supple-celine-classic-panier-in-raffia-and-calfskin-115802FF7.04LU.html"
+    },
+    {
+      "code": "115802FF7.24PP",
+      "name": "TEEN SUPPLE CELINE CLASSIC PANIER in Raffia and calfskin",
+      "details": "8 x 9 x 5 IN (21.5 x 22 x 13 CM)Raffia, trimmings in calfskinunlinedGold FinishingShoulder and hand carryONE MAIN COMPARTMENT ONE INNER REMOVABLE ZIPPED POUCHLEATHER STRAP with 14 IN (36 CM) dropTWO LEATHER HANDLES with 5 IN (12 CM) dropHAND-BRAIDED BASKETS, MAKING EACH PIECE UNIQUE. SIZES AND SHAPES MAY SLIGHTLY DIFFER.PLEASE CONTACT OUR CLIENT SERVICE FOR FURTHER INFORMATION.Reference : 115802FF7.24PP",
+      "description": "",
+      "price": "52439100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc64db326/images/large/115802FF7.24PP_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PASTEL PINK",
+          "size": null,
+          "price": "52439100",
+          "code": "115802FF7.24PP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc64db326/images/large/115802FF7.24PP_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/teen-supple-celine-classic-panier-in-raffia-and-calfskin-115802FF7.24PP.html"
+    },
+    {
+      "code": "116572FWE.02NT",
+      "name": "TEEN COUFFIN in WICKER AND NATURAL CALFSKIN",
+      "details": "13 x 6 x 3 IN (32 x 14 x 7 CM)WICKER, trimmings in NATURAL CALFSKINUNLINEDGold FinishingHand carry, shoulder carry and cross-body carryFlap in leather with a Triomphe magnetic closureTWO LEATHER HANDLES with 4 IN (11 CM) dropONE REMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 17 IN (43 CM) AND A MAXIMUM DROP 21 IN (54 CM)Reference : 116572FWE.02NT",
+      "description": "",
+      "price": "86196400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0fded46c/images/large/116572FWE.02NT_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / TAN",
+          "size": null,
+          "price": "86196400",
+          "code": "116572FWE.02NT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0fded46c/images/large/116572FWE.02NT_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/teen-couffin-in-wicker-and-natural-calfskin-116572FWE.02NT.html"
+    },
+    {
+      "code": "117082FWD.02NC",
+      "name": "STRIPED COUFFIN Celine Classic Panier in RAFFIA AND CALFSKIN",
+      "details": "22 x 12 x 7 IN (57 x 31 x 17 CM)RAFFIA, trimmings in calfskinunlinedGold FinishingShoulder carryONE INNER REMOVABLE ZIPPED POCKET IN LEATHERHANDLES IN LEATHER with 13 IN (32.5 CM) dropReference : 117082FWD.02NC",
+      "description": "",
+      "price": "67421700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6a673a61/images/large/117082FWD.02NC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / BLACK",
+          "size": null,
+          "price": "67421700",
+          "code": "117082FWD.02NC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6a673a61/images/large/117082FWD.02NC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/striped-couffin-celine-classic-panier-in-raffia-and-calfskin-117082FWD.02NC.html"
+    },
+    {
+      "code": "117072FWC.02NC",
+      "name": "CHAIN BUCKET CELINE CLASSIC PANIER in RAFFIA and CALFSKIN",
+      "details": "17 x 10 x 10 IN (43 x 26 x 26 CM)RAFFIA, trimmings in calfskinunlinedGold FinishingShoulder and hand carryTWO CHAINS WITH A DROP 11 IN (26,5 cm)Reference : 117072FWC.02NC",
+      "description": "",
+      "price": "93691800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw53176ed8/images/large/117072FWC.02NC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / BLACK",
+          "size": null,
+          "price": "93691800",
+          "code": "117072FWC.02NC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw53176ed8/images/large/117072FWC.02NC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/chain-bucket-celine-classic-panier-in-raffia-and-calfskin-117072FWC.02NC.html"
+    },
+    {
+      "code": "117022FWB.04LU",
+      "name": "CELINE CLASSIC PANIER SMALL BRAIDED TRIOMPHE in RAFFIA and CALFSKIN",
+      "details": "17 x 8 x 5 IN (42 x 21.5 x 12 CM)RAFFIA, trimmings in calfskinunlinedGold FinishingShoulder and hand carryONE MAIN COMPARTMENT ONE INNER REMOVABLE ZIPPED POUCHTWO LEATHER HANDLES with 14 IN (35 CM) dropReference : 117022FWB.04LU",
+      "description": "",
+      "price": "44972100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw233cc239/images/large/117022FWB.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "44972100",
+          "code": "117022FWB.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw233cc239/images/large/117022FWB.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/celine-classic-panier-small-braided-triomphe-in-raffia-and-calfskin-117022FWB.04LU.html"
+    },
+    {
+      "code": "117862FX8.04LU",
+      "name": "CLARA CELINE CLASSIC PANIER in RAFFIA AND CALFSKIN",
+      "details": "8 x 9 x 8 IN (20 x 24 x 20 CM)RAFFIA, TRIMMINGS IN CALFSKINunlinedGold FinishingHand carry, shoulder carry and cross-body carryDRAWSTRING LEATHER TIESONE LEATHER HANDLE with 4 IN (9 CM) dropONE REMOVABLE AND ADJUSTABLE STRAP with a minimum drop 17 IN (47 CM) and maximum drop 20 IN (53 CM)Reference : 117862FX8.04LU",
+      "description": "",
+      "price": "71205800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd1f551f8/images/large/117862FX8.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "71205800",
+          "code": "117862FX8.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd1f551f8/images/large/117862FX8.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/clara-celine-classic-panier-in-raffia-and-calfskin-117862FX8.04LU.html"
+    },
+    {
+      "code": "112772EYR.02NT",
+      "name": "celine classic panier HOBO BAG IN Raffia and Calfskin",
+      "details": "13 x 6 x 2 IN (33 x 16 x 4 CM)Raffia, trimmings in calfskinUNLINEDGOLD FINISHINGShoulder carryHAND-BRAIDED BASKETS, MAKING EACH PIECE UNIQUE. SIZES AND SHAPES MAY SLIGHTLY DIFFER.PLEASE CONTACT OUR CLIENT SERVICE FOR FURTHER INFORMATION.Reference : 112772EYR.02NT",
+      "description": "HAND-BRAIDED BASKETS, MAKING EACH PIECE UNIQUE. SIZES AND SHAPES MAY SLIGHTLY DIFFER.PLEASE CONTACT OUR CLIENT SERVICE FOR FURTHER INFORMATION.",
+      "price": "52467400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6908686a/images/large/112772EYR.02NT_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / TAN",
+          "size": null,
+          "price": "52467400",
+          "code": "112772EYR.02NT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6908686a/images/large/112772EYR.02NT_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "52439100",
+          "code": "112772EYR.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw14bf8a47/images/large/112772EYR.01BC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/celine-classic-panier-hobo-bag-in-raffia-and-calfskin-112772EYR.02NT.html"
+    },
+    {
+      "code": "192622EFA.04LU",
+      "name": "MEDIUM CELINE CLASSIC PANIER in Palm leaves and Calfskin",
+      "details": "10 x 11 x 6 IN (26 x 27 x 16 CM)palm leaves, trimmings in calfskinUnlinedGOLD FINISHINGShoulder carryLeather handles with 13 IN (33.5 CM) dropDue to its handcrafted nature, sizes may differ slightlyReference : 192622EFA.04LU",
+      "description": "HAND-BRAIDED BASKETS, MAKING EACH PIECE UNIQUE. SIZES AND SHAPES MAY SLIGHTLY DIFFER.PLEASE CONTACT OUR CLIENT SERVICE FOR FURTHER INFORMATION.",
+      "price": "20987000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw87ab72bd/images/large/192622EFA.04LU_1_SPR20_V4.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "20987000",
+          "code": "192622EFA.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw87ab72bd/images/large/192622EFA.04LU_1_SPR20_V4.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/medium-celine-classic-panier-in-palm-leaves-and-calfskin-192622EFA.04LU.html"
+    },
+    {
+      "code": "113832EFA.04LU",
+      "name": "TEEN CELINE CLASSIC PANIER in Palm leaves and Calfskin",
+      "details": "9 x 8 x 6 IN (23 x 21 x 15 CM)palm leaves, trimmings in calfskinUnlinedGOLD FINISHINGShoulder and hand carryLEATHER STRAP with 14 IN (35 CM) dropTWO LEATHER HANDLES with 4 IN (10 CM) dropDue to its handcrafted nature, sizes may differ slightlyReference : 113832EFA.04LU",
+      "description": "HAND-BRAIDED BASKETS, MAKING EACH PIECE UNIQUE. SIZES AND SHAPES MAY SLIGHTLY DIFFER.PLEASE CONTACT OUR CLIENT SERVICE FOR FURTHER INFORMATION.",
+      "price": "20237500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6a1b5c0f/images/large/113832EFA.04LU_1_LIB_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "20237500",
+          "code": "113832EFA.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6a1b5c0f/images/large/113832EFA.04LU_1_LIB_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/teen-celine-classic-panier-in-palm-leaves-and-calfskin-113832EFA.04LU.html"
+    },
+    {
+      "code": "199162FYN.14ML",
+      "name": "small cabas thais in STRIPED TEXTILE AND CALFSKIN",
+      "details": "10 x 7 x 5 IN (25.5 x 18.5 x 12 CM)TEXTILE, TRIMMINGS IN CALFSKINTEXTILE LININGHand carry, shoulder carry and cross-body carryone MAIN COMPARTMENTone INNER FLAT POCKETTWO OUTER FLAT POCKETS ON THE SIDESADJUSTABLE LEATHER STRAP with 17 IN (44 CM) dropHANDLES with 4 IN (11 CM) dropReference : 199162FYN.14ML",
+      "description": "",
+      "price": "54311900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw04b8a0dd/images/large/199162FYN.14ML_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "MULTICOLOR",
+          "size": null,
+          "price": "54311900",
+          "code": "199162FYN.14ML",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw04b8a0dd/images/large/199162FYN.14ML_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/small-cabas-thais-in-striped-textile-and-calfskin-199162FYN.14ML.html"
+    },
+    {
+      "code": "199162FV2.02BL",
+      "name": "small cabas thais in STRIPED TEXTILE WITH TRIOMPHE",
+      "details": "10 x 7 x 5 IN (25.5 x 18.5 x 12 CM)TEXTILE, trimmings in calfskintextile liningGold FinishingHand carry, shoulder carry and cross-body carryone MAIN COMPARTMENTone INNER FLAT POCKETTWO OUTER FLAT POCKETS ON THE SIDESADJUSTABLE LEATHER STRAP with 17 IN (44 CM) dropHANDLES with 4 IN (11 CM) dropReference : 199162FV2.02BL",
+      "description": "",
+      "price": "54341300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb82fd10c/images/large/199162FV2.02BL_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BEIGE / BLACK",
+          "size": null,
+          "price": "54341300",
+          "code": "199162FV2.02BL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb82fd10c/images/large/199162FV2.02BL_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TOBACCO",
+          "size": null,
+          "price": "54341300",
+          "code": "199162FU7.18TB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb18a3a8d/images/large/199162FU7.18TB_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/small-cabas-thais-in-striped-textile-with-triomphe-199162FV2.02BL.html"
+    },
+    {
+      "code": "116302FF7.04LU",
+      "name": "SMALL CABAS THAIS IN Raffia and calfskin",
+      "details": "11 x 7 x 5 IN (27 x 19 x 13 CM)Raffia, trimmings in calfskinunlinedGOLD FINISHINGShoulder carryONE INNER REMOVABLE ZIPPED POCKET IN LEATHERHANDLES with 5 IN (12 CM) dropremovable and adjustable strap with a minimum drop 17 IN (44CM) and maximum drop 18 IN (46 CM)HAND-BRAIDED BASKETS, MAKING EACH PIECE UNIQUE. SIZES AND SHAPES MAY SLIGHTLY DIFFER.PLEASE CONTACT OUR CLIENT SERVICE FOR FURTHER INFORMATION.Reference : 116302FF7.04LU",
+      "description": "HAND-BRAIDED BASKETS, MAKING EACH PIECE UNIQUE. SIZES AND SHAPES MAY SLIGHTLY DIFFER.PLEASE CONTACT OUR CLIENT SERVICE FOR FURTHER INFORMATION.",
+      "price": "59930400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw90ff98e6/images/large/116302FF7.04LU_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "59930400",
+          "code": "116302FF7.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw90ff98e6/images/large/116302FF7.04LU_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/small-cabas-thais-in-raffia-and-calfskin-116302FF7.04LU.html"
+    },
+    {
+      "code": "199162FU5.07OC",
+      "name": "small cabas thais in STRIPED TEXTILE",
+      "details": "10 x 7 x 5 IN (25.5 x 18.5 x 12 CM)TEXTILE, trimmings in calfskintextile liningGold FinishingHand carry, shoulder carry and cross-body carryone MAIN COMPARTMENTone INNER FLAT POCKETTWO OUTER FLAT POCKETS ON THE SIDESADJUSTABLE LEATHER STRAP with 17 IN (44 CM) dropHANDLES with 4 IN (11 CM) dropReference : 199162FU5.07OC",
+      "description": "",
+      "price": "54311900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw538bc6e0/images/large/199162FU5.07OC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NAVY BLUE",
+          "size": null,
+          "price": "54311900",
+          "code": "199162FU5.07OC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw538bc6e0/images/large/199162FU5.07OC_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BEIGE",
+          "size": null,
+          "price": "54311900",
+          "code": "199162FEE.02BG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf3e31099/images/large/199162FEE.02BG_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/other-lines/small-cabas-thais-in-striped-textile-199162FU5.07OC.html"
+    },
+    {
+      "code": "199162FK3.02NA",
+      "name": "small cabas thais in raffia effect textile with triomphe jacquard",
+      "details": "10 x 7 x 5 IN (25.5 x 18.5 x 12 CM)Textiletextile liningGOLD FINISHINGHand carry, shoulder carry and cross-body carryone MAIN COMPARTMENTone INNER FLAT POCKETTWO OUTER FLAT POCKETS ON THE SIDESADJUSTABLE LEATHER STRAP with 17 IN (44 CM) dropHANDLES with 4 IN (11 CM) dropReference : 199162FK3.02NA",
+      "description": "",
+      "price": "59930400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7a6a24f2/images/large/199162FK3.02NA_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / SILVER",
+          "size": null,
+          "price": "59930400",
+          "code": "199162FK3.02NA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7a6a24f2/images/large/199162FK3.02NA_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/small-cabas-thais-in-raffia-effect-textile-with-triomphe-jacquard-199162FK3.02NA.html"
+    }
+  ]
 }

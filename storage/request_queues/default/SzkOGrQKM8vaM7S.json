@@ -1,0 +1,23 @@
+{
+  "id": "SzkOGrQKM8vaM7S",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-metal-01-sunglasses-in-metal-4s235cmlb.35sg.html",
+  "order_no": "1742181188321.153000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-metal-01-sunglasses-in-metal-4S235CMLB.35SG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-metal-01-sunglasses-in-metal-4s235cmlb.35sg.html",
+    "id": "SzkOGrQKM8vaM7S"
+  }
+}

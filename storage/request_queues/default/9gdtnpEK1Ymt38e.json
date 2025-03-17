@@ -1,0 +1,23 @@
+{
+  "id": "9gdtnpEK1Ymt38e",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/conti/celine-conti-bag-in-natural-calfskin-199873et7.04lu.html",
+  "order_no": "1742181859738.786000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/conti/celine-conti-bag-in-natural-calfskin-199873ET7.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/conti/celine-conti-bag-in-natural-calfskin-199873et7.04lu.html",
+    "id": "9gdtnpEK1Ymt38e"
+  }
+}

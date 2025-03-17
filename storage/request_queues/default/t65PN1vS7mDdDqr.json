@@ -1,0 +1,23 @@
+{
+  "id": "t65PN1vS7mDdDqr",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/small-cabas-thais-in-striped-textile-199162fee.02bg.html",
+  "order_no": "1742181701985.157000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/small-cabas-thais-in-striped-textile-199162FEE.02BG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/small-cabas-thais-in-striped-textile-199162fee.02bg.html",
+    "id": "t65PN1vS7mDdDqr"
+  }
+}

@@ -1,4 +1,197 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "4S254CMLB.35SG",
+      "name": "Triomphe Metal 02 Sunglasses in Metal",
+      "details": "TEMPLE LENGTH 5.3 INLENS WIDTH 2.1 INNOSE BRIDGE LENGTH 0.6 INMetal FrameGraphic FrameGreen LensesProtects from UVA and UVBTriomphe Signature on templesReference : 4S254CMLB.35SG",
+      "description": "",
+      "price": "17979200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6d42339f/images/large/4S254CMLB.35SG_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / GREEN",
+          "size": null,
+          "price": "17979200",
+          "code": "4S254CMLB.35SG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6d42339f/images/large/4S254CMLB.35SG_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/graphic/triomphe-metal-02-sunglasses-in-metal-4S254CMLB.35SG.html"
+    },
+    {
+      "code": "4S254CMLB.35RS",
+      "name": "Triomphe Metal 02 sunglasses in Metal",
+      "details": "TEMPLE LENGTH 5.3 IN  LENS WIDTH 2.1 IN  NOSE BRIDGE LENGTH 0.6 IN Metal Frame Graphic Frame Smoke Lenses Protects from UVA and UVBTriomphe Signature on templesReference : 4S254CMLB.35RS",
+      "description": "",
+      "price": "17988900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6df7793d/images/large/4S254CMLB.35RS_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Rose Gold / Smoke",
+          "size": null,
+          "price": "17988900",
+          "code": "4S254CMLB.35RS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6df7793d/images/large/4S254CMLB.35RS_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/graphic/triomphe-metal-02-sunglasses-in-metal-4S254CMLB.35RS.html"
+    },
+    {
+      "code": "4S293CMLB.35SG",
+      "name": "Triomphe Metal 04 Sunglasses in Metal",
+      "details": "TEMPLE LENGTH 5.5 INLENS WIDTH 2.2 INNOSE BRIDGE LENGTH 0.6 INMetal FrameCat Eye FrameGreen LensesProtects from UVA and UVBTriomphe Signature on templesReference : 4S293CMLB.35SG",
+      "description": "",
+      "price": "17979200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw54a5cbc1/images/large/4S293CMLB.35SG_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / GREEN",
+          "size": null,
+          "price": "17979200",
+          "code": "4S293CMLB.35SG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw54a5cbc1/images/large/4S293CMLB.35SG_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "SILVER / BLUE",
+          "size": null,
+          "price": "17979200",
+          "code": "4S293CMLB.36SU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw97ad6bdd/images/large/4S293CMLB.36SU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/metal-frame/triomphe-metal-04-sunglasses-in-metal-4S293CMLB.35SG.html"
+    },
+    {
+      "code": "4S235CMLB.35SG",
+      "name": "Triomphe Metal 01 sunglasses in Metal",
+      "details": "TEMPLE LENGTH 5.3 INLENS WIDTH 2.1 INNOSE BRIDGE LENGTH 0.7 INMetal FrameOval FrameGreen LensesProtects from UVA and UVBTriomphe Signature on templesReference : 4S235CMLB.35SG",
+      "description": "",
+      "price": "17979200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw35acf105/images/large/4S235CMLB.35SG_1_SUM22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / GREEN",
+          "size": null,
+          "price": "17979200",
+          "code": "4S235CMLB.35SG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw35acf105/images/large/4S235CMLB.35SG_1_SUM22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/round/triomphe-metal-01-sunglasses-in-metal-4S235CMLB.35SG.html"
+    },
+    {
+      "code": "4S235CMLB.35RB",
+      "name": "Triomphe Metal 01 Sunglasses in Metal",
+      "details": "TEMPLE LENGTH 5.3 INLENS WIDTH 2.1 INNOSE BRIDGE LENGTH 0.7 INMetal FrameOval FrameBrown LensesProtects from UVA and UVBTriomphe Signature on templesReference : 4S235CMLB.35RB",
+      "description": "",
+      "price": "17979200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa8ef6fdc/images/large/4S235CMLB.35RB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "ROSE GOLD / BROWN",
+          "size": null,
+          "price": "17979200",
+          "code": "4S235CMLB.35RB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa8ef6fdc/images/large/4S235CMLB.35RB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "SILVER / SMOKE",
+          "size": null,
+          "price": "17979200",
+          "code": "4S235CMLB.36SM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9d926483/images/large/4S235CMLB.36SM_1_SUM23_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/metal-frame/triomphe-metal-01-sunglasses-in-metal-4S235CMLB.35RB.html"
+    },
+    {
+      "code": "4S284CMSB.35SS",
+      "name": "Triomphe Rhinestone 01 Sunglasses in Metal with Crystals",
+      "details": "TEMPLE LENGTH 5.7 INLENS WIDTH 2.3 INNOSE BRIDGE LENGTH 0.6 INMetal FrameSquare FrameSmoke LensesProtects from UVA and UVBCeline Signature engraved on temples and Triomphe Signature in crystals on lensReference : 4S284CMSB.35SS",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw115a9bc1/images/large/4S284CMSB.35SS_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / SMOKE",
+          "size": null,
+          "price": "15731800",
+          "code": "4S284CMSB.35SS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw115a9bc1/images/large/4S284CMSB.35SS_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "SILVER / GREY",
+          "size": null,
+          "price": "15731800",
+          "code": "4S284CMSB.36SV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcf8a21fb/images/large/4S284CMSB.36SV_1_SS24_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-rhinestone-01-sunglasses-in-metal-with-crystals-4S284CMSB.35SS.html"
+    },
+    {
+      "code": "4S285CMSB.35SG",
+      "name": "Triomphe Rhinestone 02 Sunglasses in Metal with Crystals",
+      "details": "TEMPLE LENGTH 5.7 INLENS WIDTH 2.4 INNOSE BRIDGE LENGTH 0.7 INMetal FrameRectangular FrameGreen LensesProtects from UVA and UVBCeline Signature engraved on temples and Triomphe Signature in crystals on lensReference : 4S285CMSB.35SG",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbcc2335a/images/large/4S285CMSB.35SG_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / GREEN",
+          "size": null,
+          "price": "15731800",
+          "code": "4S285CMSB.35SG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbcc2335a/images/large/4S285CMSB.35SG_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-rhinestone-02-sunglasses-in-metal-with-crystals-4S285CMSB.35SG.html"
+    },
+    {
+      "code": "4S062CMEB.35SG",
+      "name": "METAL FRAME 02 SUNGLASSES IN METAL WITH MINERAL GLASS LENSES",
+      "details": "TEMPLE LENGTH 5.7 INLENS WIDTH 2.3 INNOSE BRIDGE LENGTH 0.5 INMetal FrameAviator FrameMineral Glass LensesGreen LensesProtects from UVA and UVBCeline signature engraved on the top barReference : 4S062CMEB.35SG",
+      "description": "Aviator sunglasses with metal frames and a metallic double bridge",
+      "price": "14233500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw32438bbb/images/large/4S062CMEB.35SG_1_SUM19_143406_V6.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Gold/Green",
+          "size": null,
+          "price": "14233500",
+          "code": "4S062CMEB.35SG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw32438bbb/images/large/4S062CMEB.35SG_1_SUM19_143406_V6.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/metal-frame/metal-frame-02-sunglasses-in-metal-with-mineral-glass-lenses-4S062CMEB.35SG.html"
+    }
+  ]
 }

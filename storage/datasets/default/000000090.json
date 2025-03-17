@@ -1,4 +1,386 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "AA0310U63.FYX4",
+      "name": "triomphe beanie in cashmere, wool and silk",
+      "details": "37% cashmere 37% wool 26% silktriomphe embroideryclassic fitmade in ItalyReference: AA0310U63.FYX4",
+      "description": "beanie with triomphe embroidery in striped cashmere, wool and silk",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw01f8f2f7/images/large/AA0310U63.FYX4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "VANILLA/PINK/RED",
+          "size": null,
+          "price": "18353700",
+          "code": "AA0310U63.FYX4",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw01f8f2f7/images/large/AA0310U63.FYX4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-cashmere%2C-wool-and-silk-AA0310U63.FYX4.html"
+    },
+    {
+      "code": "AA0320U63.FYX4",
+      "name": "triomphe scarf in cashmere, wool and silk",
+      "details": "37% cashmere 37% wool 26% silk35.4 x 35.4 in (197 x 26.5 cm)triomphe embroiderymade in ItalyReference: AA0320U63.FYX4",
+      "description": "scarf with triomphe embroidery in striped cashmere, wool and silk",
+      "price": "25845000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw060b3ea5/images/large/AA0320U63.FYX4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "VANILLA/PINK/RED",
+          "size": null,
+          "price": "25845000",
+          "code": "AA0320U63.FYX4",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw060b3ea5/images/large/AA0320U63.FYX4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-scarf-in-cashmere%2C-wool-and-silk-AA0320U63.FYX4.html"
+    },
+    {
+      "code": "2ADOF0I78.01MA",
+      "name": "beanie in fair isle wool",
+      "details": "100% wooltriomphe fair isle jacquardtriomphe embroideryclassic fitmade in ItalyReference : 2ADOF0I78.01MA",
+      "description": "beanie with pompom in triomphe fair isle wool",
+      "price": "16480900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3aaf5bfb/images/large/2ADOF0I78.01MA_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY",
+          "size": null,
+          "price": "16480900",
+          "code": "2ADOF0I78.01MA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3aaf5bfb/images/large/2ADOF0I78.01MA_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/beanie-in-fair-isle-wool-2ADOF0I78.01MA.html"
+    },
+    {
+      "code": "2ADTJ0I78.01MA",
+      "name": "scarf in fair isle wool",
+      "details": "100% wool9.4 x 78.8 in (24 x 200 cm)triomphe fair isle jacquardtriomphe embroiderymade in ItalyReference : 2ADTJ0I78.01MA",
+      "description": "scarf in triomphe fair isle wool",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw649b275a/images/large/2ADTJ0I78.01MA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY",
+          "size": null,
+          "price": "28092400",
+          "code": "2ADTJ0I78.01MA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw649b275a/images/large/2ADTJ0I78.01MA_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/scarf-in-fair-isle-wool-2ADTJ0I78.01MA.html"
+    },
+    {
+      "code": "2AD760K34.01OW",
+      "name": "triomphe beanie in aran cashmere and wool",
+      "details": "90% wool 10% cashmeretriomphe embroideryclassic fitmade in ItalyReference : 2AD760K34.01OW",
+      "description": "beanie with triomphe embroidery in aran cashmere and wool",
+      "price": "19102800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw908c9413/images/large/2AD760K34.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "19102800",
+          "code": "2AD760K34.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw908c9413/images/large/2AD760K34.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-aran-cashmere-and-wool-2AD760K34.01OW.html"
+    },
+    {
+      "code": "2AD770K34.01OW",
+      "name": "triomphe scarf in aran cashmere and wool",
+      "details": "90% wool 10% cashmere13.8 x 78.8 in (35 x 200 cm)triomphe embroiderymade in ItalyReference : 2AD770K34.01OW",
+      "description": "scarf with triomphe embroidery in aran cashmere and wool",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3be91324/images/large/2AD770K34.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE",
+          "size": null,
+          "price": "28092400",
+          "code": "2AD770K34.01OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3be91324/images/large/2AD770K34.01OW_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-scarf-in-aran-cashmere-and-wool-2AD770K34.01OW.html"
+    },
+    {
+      "code": "2A80T384D.04FG",
+      "name": "triomphe cloche beanie in cashmere",
+      "details": "100% cashmeretriomphe patch2.8 in (7 cm) brimmade in ItalyReference : 2A80T384D.04FG",
+      "description": "cloche beanie with triomphe patch in seamless cashmere",
+      "price": "21350200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2045f28a/images/large/2A80T384D.04FG_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CAMEL",
+          "size": null,
+          "price": "21350200",
+          "code": "2A80T384D.04FG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2045f28a/images/large/2A80T384D.04FG_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-cloche-beanie-in-cashmere-2A80T384D.04FG.html"
+    },
+    {
+      "code": "2ADCG384D.04FG",
+      "name": "triomphe scarf in seamless cashmere",
+      "details": "100% cashmere9.6 x 68.9 in (24.5 x 175 cm)triomphe patchfringe edgemade in ItalyReference : 2ADCG384D.04FG",
+      "description": "fringed scarf with triomphe patch in cashmere",
+      "price": "29216100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfc588ad7/images/large/2ADCG384D.04FG_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CAMEL",
+          "size": null,
+          "price": "29216100",
+          "code": "2ADCG384D.04FG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfc588ad7/images/large/2ADCG384D.04FG_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-scarf-in-seamless-cashmere-2ADCG384D.04FG.html"
+    },
+    {
+      "code": "2AD3M098W.19BR",
+      "name": "beanie in monogram wool, cashmere and silk",
+      "details": "37% wool 37% cashmere 26% silkmonogram jacquardmade in ItalyReference : 2AD3M098W.19BR",
+      "description": "beanie in monogram wool, cashmere and silk",
+      "price": "21350200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5bb8086f/images/large/2AD3M098W.19BR_1_FW23_W_V6.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BROWN",
+          "size": null,
+          "price": "21350200",
+          "code": "2AD3M098W.19BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5bb8086f/images/large/2AD3M098W.19BR_1_FW23_W_V6.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/beanie-in-monogram-wool%2C-cashmere-and-silk-2AD3M098W.19BR.html"
+    },
+    {
+      "code": "2AD2M098W.19BR",
+      "name": "scarf in monogram wool, cashmere and silk",
+      "details": "37% wool 37% cashmere 26% silk7.5 x 78.7 in (19 x 200 cm)monogram jacquardmade in ItalyReference : 2AD2M098W.19BR",
+      "description": "scarf in monogram wool, cashmere and silk",
+      "price": "29216100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw511407b8/images/large/2AD2M098W.19BR_1_FW23_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BROWN",
+          "size": null,
+          "price": "29216100",
+          "code": "2AD2M098W.19BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw511407b8/images/large/2AD2M098W.19BR_1_FW23_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/scarf-in-monogram-wool%2C-cashmere-and-silk-2AD2M098W.19BR.html"
+    },
+    {
+      "code": "2AA32384D.18MU",
+      "name": "triomphe beanie in seamless cashmere",
+      "details": "100% cashmeretriomphe patchclassic fitmade in ItalyReference: 2AA32384D.18MU",
+      "description": "beanie with triomphe patch in seamless cashmere",
+      "price": "19102800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw81f948ac/images/large/2AA32384D.18MU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NUTMEG",
+          "size": null,
+          "price": "19102800",
+          "code": "2AA32384D.18MU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw81f948ac/images/large/2AA32384D.18MU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-seamless-cashmere-2AA32384D.18MU.html"
+    },
+    {
+      "code": "2AA32384D.38NO",
+      "name": "TRIOMPHE BEANIE IN SEAMLESS CASHMERE",
+      "details": "100% CASHMERETRIOMPHE PATCH EMBROIDERYCLASSIC FITMADE IN ITALYReference : 2AA32384D.38NO",
+      "description": "BEANIE WITH TRIOMPHE PATCH IN SEAMLESS CASHMERE",
+      "price": "19102800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdebae131/images/large/2AA32384D.38NO_1_FALL22_V6.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "19102800",
+          "code": "2AA32384D.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdebae131/images/large/2AA32384D.38NO_1_FALL22_V6.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "SAND",
+          "size": null,
+          "price": "19102800",
+          "code": "2AA32384D.03SD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe1677496/images/large/2AA32384D.03SD_1_FALL22_V6.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-seamless-cashmere-2AA32384D.38NO.html"
+    },
+    {
+      "code": "2AD95317V.02OQ",
+      "name": "Triomphe beanie in heritage cashmere",
+      "details": "100% cashmereTriomphe patchmade in ItalyReference : 2AD95317V.02OQ",
+      "description": "cap with Triomphe patch in heritage cashmere",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8de87343/images/large/2AD95317V.02OQ_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OATMEAL",
+          "size": null,
+          "price": "17604600",
+          "code": "2AD95317V.02OQ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8de87343/images/large/2AD95317V.02OQ_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PINK",
+          "size": null,
+          "price": "17604600",
+          "code": "2AD95317V.24ZZ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9058f5aa/images/large/2AD95317V.24ZZ_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-heritage-cashmere-2AD95317V.02OQ.html"
+    },
+    {
+      "code": "2AV9A099O.17MC",
+      "name": "triomphe beanie in striped wool",
+      "details": "100% woolclassic fittriomphe patchmade in ItalyReference : 2AV9A099O.17MC",
+      "description": "beanie with triomphe patch in striped wool",
+      "price": "12735200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe62fa56c/images/large/2AV9A099O.17MC_1_SS24_P1_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BROWN",
+          "size": null,
+          "price": "12735200",
+          "code": "2AV9A099O.17MC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe62fa56c/images/large/2AV9A099O.17MC_1_SS24_P1_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-beanie-in-striped-wool-2AV9A099O.17MC.html"
+    },
+    {
+      "code": "2A71Z887Z.01NZ",
+      "name": "embroidered beanie in fair isle wool",
+      "details": "100% woolcrystal embroidery on triomphe fair isle jacquardclassic fitmade in ItalyReference : 2A71Z887Z.01NZ",
+      "description": "embroidered beanie in triomphe fair isle wool",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1cc5903c/images/large/2A71Z887Z.01NZ_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OFF WHITE / NAVY / RED",
+          "size": null,
+          "price": "37081900",
+          "code": "2A71Z887Z.01NZ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1cc5903c/images/large/2A71Z887Z.01NZ_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/embroidered-beanie-in-fair-isle-wool-2A71Z887Z.01NZ.html"
+    },
+    {
+      "code": "2ADQT875Z.05LB",
+      "name": "beanie in triomphe fair isle wool",
+      "details": "100% woolTriomphe fair isle jacquardmade in ItalyReference : 2ADQT875Z.05LB",
+      "description": "beanie in triomphe fair isle wool",
+      "price": "13858900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbbbfc723/images/large/2ADQT875Z.05LB_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BLUE",
+          "size": null,
+          "price": "13858900",
+          "code": "2ADQT875Z.05LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbbbfc723/images/large/2ADQT875Z.05LB_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/beanie-in-triomphe-fair-isle-wool-2ADQT875Z.05LB.html"
+    },
+    {
+      "code": "2A80T384D.38NO",
+      "name": "Triomphe cloche beanie in cashmere",
+      "details": "100% cashmereTriomphe patch3.1 in (7 cm) brimmade in ItalyReference : 2A80T384D.38NO",
+      "description": "cloche beanie with Triomphe patch in seamless cashmere",
+      "price": "21350200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw73952577/images/large/2A80T384D.38NO_1_SP22_v8.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "21350200",
+          "code": "2A80T384D.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw73952577/images/large/2A80T384D.38NO_1_SP22_v8.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "CREAM",
+          "size": null,
+          "price": "21350200",
+          "code": "2A80T384D.01EM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc4c7de0a/images/large/2A80T384D.01EM_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-cloche-beanie-in-cashmere-2A80T384D.38NO.html"
+    }
+  ]
 }

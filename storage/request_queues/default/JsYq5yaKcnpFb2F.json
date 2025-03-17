@@ -1,0 +1,23 @@
+{
+  "id": "JsYq5yaKcnpFb2F",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-in-monogram-jersey-2z306939t.17br.html",
+  "order_no": "1742182995587.019000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-in-monogram-jersey-2Z306939T.17BR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-in-monogram-jersey-2z306939t.17br.html",
+    "id": "JsYq5yaKcnpFb2F"
+  }
+}

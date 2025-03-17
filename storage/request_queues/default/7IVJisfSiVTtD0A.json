@@ -1,0 +1,23 @@
+{
+  "id": "7IVJisfSiVTtD0A",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/mini-celine-victoire-in-supple-grained-calfskin-10n113ggr.01rc.html",
+  "order_no": "1742182469761.339000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/mini-celine-victoire-in-supple-grained-calfskin-10N113GGR.01RC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/other-lines/mini-celine-victoire-in-supple-grained-calfskin-10n113ggr.01rc.html",
+    "id": "7IVJisfSiVTtD0A"
+  }
+}

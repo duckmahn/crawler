@@ -1,0 +1,23 @@
+{
+  "id": "NTuF3MiZEMdaW6U",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/les-cuirs-celine-double-bracelet-in-calfskin-and-brass-with-gold-finish-460sf3smo.31gd.html",
+  "order_no": "1742184072704.852000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/les-cuirs-celine-double-bracelet-in-calfskin-and-brass-with-gold-finish-460SF3SMO.31GD.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/les-cuirs-celine-double-bracelet-in-calfskin-and-brass-with-gold-finish-460sf3smo.31gd.html",
+    "id": "NTuF3MiZEMdaW6U"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "i65deTbXvQYmKX8",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-men/bags/categories/cross-body-bags",
+  "order_no": "1742180994949.697000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-men/bags/categories/cross-body-bags/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-men/bags/categories/cross-body-bags",
+    "id": "i65deTbXvQYmKX8"
+  }
+}

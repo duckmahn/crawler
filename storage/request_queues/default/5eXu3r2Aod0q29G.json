@@ -1,0 +1,23 @@
+{
+  "id": "5eXu3r2Aod0q29G",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-nightfall-necklace-in-strass-and-brass-with-gold-finish-461hn6bzi.35or.html",
+  "order_no": "1742183984058.032000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-nightfall-necklace-in-strass-and-brass-with-gold-finish-461HN6BZI.35OR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-nightfall-necklace-in-strass-and-brass-with-gold-finish-461hn6bzi.35or.html",
+    "id": "5eXu3r2Aod0q29G"
+  }
+}

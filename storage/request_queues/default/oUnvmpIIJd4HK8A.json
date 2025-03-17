@@ -1,0 +1,23 @@
+{
+  "id": "oUnvmpIIJd4HK8A",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-scarf-in-seamless-cashmere-2az0a384d.18mu.html",
+  "order_no": "1742183643226.460000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-scarf-in-seamless-cashmere-2AZ0A384D.18MU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/triomphe-scarf-in-seamless-cashmere-2az0a384d.18mu.html",
+    "id": "oUnvmpIIJd4HK8A"
+  }
+}

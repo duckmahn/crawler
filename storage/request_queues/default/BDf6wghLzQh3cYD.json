@@ -1,0 +1,23 @@
+{
+  "id": "BDf6wghLzQh3cYD",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/medium-supple-celine-classic-panier-in-raffia-and-calfskin-114342ff7.01rc.html",
+  "order_no": "1742181701977.891000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/medium-supple-celine-classic-panier-in-raffia-and-calfskin-114342FF7.01RC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/medium-supple-celine-classic-panier-in-raffia-and-calfskin-114342ff7.01rc.html",
+    "id": "BDf6wghLzQh3cYD"
+  }
+}

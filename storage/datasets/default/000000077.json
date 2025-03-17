@@ -1,4 +1,386 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "360084610C.18NC",
+      "name": "CELINE DANA WEDGE MULE in SUEDE CALFSKIN AND SHEARLING",
+      "details": "80% CALFSKIN 20% SHEARLING100% Shearling LinningROUND TOE SHAPEHIGH FREQUENCY DEBOSSED TRIOMPHE ON THE BACK OF THE OUTSOLESLIP-ONSHEARLING INSOLE WITH LEATHER PADDED PATCHWEDGE RUBBER OUTSOLE COVERED WITH LEATHERTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360084610C.18NC",
+      "description": "",
+      "price": "39329300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw91b6a6e7/images/large/360084610C.18NC_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "COGNAC",
+          "size": null,
+          "price": "39329300",
+          "code": "360084610C.18NC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw91b6a6e7/images/large/360084610C.18NC_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-dana-wedge-mule-in-suede-calfskin-and-shearling-360084610C.18NC.html"
+    },
+    {
+      "code": "360435129C.38NO",
+      "name": "CELINE BLOCK SLIDE WITH TRIOMPHE IN LAMBSKIN",
+      "details": "100% LambskinROUND TOE SHAPEOVERSIZED TRIOMPHE EMBOSSED ON THE UPPERCELINE EMBOSSED ON THE SIDE AND UNDER THE OUTSOLESLIP-ONTHIS MODEL FITS CORRECTLY, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360435129C.38NO",
+      "description": "",
+      "price": "26968700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf311417d/images/large/360435129C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "26968700",
+          "code": "360435129C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf311417d/images/large/360435129C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-block-slide-with-triomphe-in-lambskin-360435129C.38NO.html"
+    },
+    {
+      "code": "354412276C.38AB",
+      "name": "CELINE BLOCK SLIDE IN MESH & TEXTILE",
+      "details": "100% TEXTILE100% Calfskin Lining2 IN (50 MM) heelROUND TOE SHAPEMESH AND JACQUARD CRISS-CROSSED STRAPSCELINE EMBOSSED ON THE SIDE AND UNDER THE OUTSOLESLIP-ONTEXTILE INSOLE WITH WITH INTERNAL FOAM TO OBTAIN GREAT CONFORTRUBBER WEDGE OUTSOLETHIS MODEL FITS CORRECTLY, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 354412276C.38AB",
+      "description": "THE SHOES RUN SMALL, IF YOU ARE IN BETWEEN TWO SIZES, PLEASE ORDER THE SIZE UP.",
+      "price": "22099400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw96263edc/images/large/354412276C.38AB_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / OPTIC WHITE",
+          "size": null,
+          "price": "22099400",
+          "code": "354412276C.38AB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw96263edc/images/large/354412276C.38AB_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-block-slide-in-mesh-and-textile-354412276C.38AB.html"
+    },
+    {
+      "code": "364293767C.04LU",
+      "name": "CELINE POLLY WEDGE MULE IN CALFSKIN",
+      "details": "100% CALFSKIN100% CALFSKIN LININGOUTSOLE COVERED WITH TWO MAINE PIECES OF LEATHERLARGE TRIOMPHE DEBOSSED ON THE HEEL OF THE OUTSOLETRIOMPHE ENGRAVED BUCKLESSLIP-ONMADE IN ITALYReference: 364293767C.04LU",
+      "description": "",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw576a2e61/images/large/364293767C.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "33336300",
+          "code": "364293767C.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw576a2e61/images/large/364293767C.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-polly-wedge-mule-in-calfskin-364293767C.04LU.html"
+    },
+    {
+      "code": "352463778C.19DK",
+      "name": "CELINE CLEA TRIOMPHE GLADIATOR SANDAL in CALFSKIN - VEGETAL TANNING",
+      "details": "100% CALFSKIN100% CALFSKIN LINING1.6 IN (40 MM) heelTRIOMPHE METAL PIECECELINE EMBOSSED ON THE EXTERNAL SIDE OF THE OUTSOLECELINE DEBOSSED UNDER THE OUTSOLEADJUSTABLE BUCKLELEATHER INSOLECHUNKY LUG RUBBER OUTSOLE WITH DIAMOND PATTERNTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 352463778C.19DK",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "31838000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw930e6bdc/images/large/352463778C.19DK_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK BROWN",
+          "size": null,
+          "price": "31838000",
+          "code": "352463778C.19DK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw930e6bdc/images/large/352463778C.19DK_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "31838000",
+          "code": "352463778C.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa010c710/images/large/352463778C.04LU_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clea-triomphe-gladiator-sandal-in-calfskin---vegetal-tanning-352463778C.19DK.html"
+    },
+    {
+      "code": "352463926C.38WB",
+      "name": "CELINE CLEA TRIOMPHE GLADIATOR SANDAL in LEOPARD PRINTED HAIRY CALFSKIN",
+      "details": "100% CALFSKIN100% CALFSKIN LINING1.6 IN (40 MM) heelTRIOMPHE METAL PIECECELINE EMBOSSED ON THE EXTERNAL SIDE OF THE OUTSOLECELINE DEBOSSED UNDER THE OUTSOLEADJUSTABLE BUCKLELEATHER INSOLECHUNKY LUG RUBBER OUTSOLE WITH DIAMOND PATTERNTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 352463926C.38WB",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfa517899/images/large/352463926C.38WB_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / BROWN / BEIGE",
+          "size": null,
+          "price": "33336300",
+          "code": "352463926C.38WB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfa517899/images/large/352463926C.38WB_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clea-triomphe-gladiator-sandal-in-leopard-printed-hairy-calfskin-352463926C.38WB.html"
+    },
+    {
+      "code": "352464568C.01BU",
+      "name": "CELINE CLEA TRIOMPHE GLADIATOR SANDAL in Python Stamped Goatskin",
+      "details": "100% Goatskin100% Calfskin Lining1.6 IN (40 MM) heelTRIOMPHE METAL PIECECELINE EMBOSSED ON THE EXTERNAL SIDE OF THE OUTSOLECELINE DEBOSSED UNDER THE OUTSOLEADJUSTABLE BUCKLELEATHER INSOLECHUNKY LUG RUBBER OUTSOLE WITH DIAMOND PATTERNTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 352464568C.01BU",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "32587200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwba910907/images/large/352464568C.01BU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WHITE / DARK BROWN",
+          "size": null,
+          "price": "32587200",
+          "code": "352464568C.01BU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwba910907/images/large/352464568C.01BU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clea-triomphe-gladiator-sandal-in-python-stamped-goatskin-352464568C.01BU.html"
+    },
+    {
+      "code": "352463944C.04IC",
+      "name": "CELINE CLEA TRIOMPHE GLADIATOR SANDAL in CROCODILE STAMPED CALFSKIN",
+      "details": "100% CALFSKIN100% CALFSKIN LINING1.6 IN (40 MM) heelTRIOMPHE METAL PIECECELINE EMBOSSED ON THE EXTERNAL SIDE OF THE OUTSOLECELINE DEBOSSED UNDER THE OUTSOLEADJUSTABLE BUCKLELEATHER INSOLECHUNKY LUG RUBBER OUTSOLE WITH DIAMOND PATTERNTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 352463944C.04IC",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "32587200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe1bd68d5/images/large/352463944C.04IC_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT CARAMEL",
+          "size": null,
+          "price": "32587200",
+          "code": "352463944C.04IC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe1bd68d5/images/large/352463944C.04IC_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clea-triomphe-gladiator-sandal-in-crocodile-stamped-calfskin-352463944C.04IC.html"
+    },
+    {
+      "code": "360023778C.38NO",
+      "name": "CELINE - CLEA TRIOMPHE STRAPPY SANDAL IN CALFSKIN - VEGETAL TANNING",
+      "details": "100% CALFSKIN100% Calfskin  LinningTRIOMPHE METAL PIECECELINE EMBOSSED ON THE EXTERNAL SIDE OF THE OUTSOLECELINE DEBOSSED UNDER THE OUTSOLEADJUSTABLE BUCKLE WITH TRIOMPHE ENGRAVEDLEATHER INSOLECHUNKY LUG RUBBER OUTSOLE WITH DIAMOND PATTERNTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360023778C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "31838000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0f4e922c/images/large/360023778C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "31838000",
+          "code": "360023778C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0f4e922c/images/large/360023778C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine---clea-triomphe-strappy-sandal-in-calfskin---vegetal-tanning-360023778C.38NO.html"
+    },
+    {
+      "code": "360023778C.04LU",
+      "name": "CELINE - CLEA TRIOMPHE STRAPPY SANDAL in CALFSKIN - VEGETAL TANNING",
+      "details": "100% CALFSKIN100% Calfskin  LinningTRIOMPHE METAL PIECECELINE EMBOSSED ON THE EXTERNAL SIDE OF THE OUTSOLECELINE DEBOSSED UNDER THE OUTSOLEADJUSTABLE BUCKLE WITH TRIOMPHE ENGRAVEDLEATHER INSOLECHUNKY LUG RUBBER OUTSOLE WITH DIAMOND PATTERNTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360023778C.04LU",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "31838000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1c0d7665/images/large/360023778C.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "31838000",
+          "code": "360023778C.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1c0d7665/images/large/360023778C.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine---clea-triomphe-strappy-sandal-in-calfskin---vegetal-tanning-360023778C.04LU.html"
+    },
+    {
+      "code": "357973766C.04LU",
+      "name": "CELINE LYMPIA GLADIATOR SANDAL IN CALFSKIN",
+      "details": "100% CALFSKIN - VEGETAL TANNING100% Calfskin LiningROUND TOE SHAPEMETAL TRIOMPHE ON THE UPPERLITTLE STUDS ALL OVER THE UPPERCELINE ENGRAVED ADJUSTABLE BUCKLESLIGHTY PADDED LEATHER INSOLERUBBER OUTSOLEMADE IN ITALYReference : 357973766C.04LU",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw245e4794/images/large/357973766C.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "37081900",
+          "code": "357973766C.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw245e4794/images/large/357973766C.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-lympia-gladiator-sandal-in-calfskin-357973766C.04LU.html"
+    },
+    {
+      "code": "355633929C.19LU",
+      "name": "CLEA TRIOMPHE SANDAL in CALFSKIN - VEGETAL TANNING & SUEDE CALFSKIN",
+      "details": "100% CALFSKIN100% CALFSKIN LINING1.6 IN (40 MM) heelTRIOMPHE LEATHER PATCHAJUSTABLE BUCKLELEATHER INSOLECELINE SIGNATURE EMBOSSED ON THE EXTERNAL SIDE OF THE OUTSOLECELINE SIGNATURE DEBOSSED UNDER THE OUTSOLECHUNKY LUG RUBBER OUTSOLE WITH DIAMOND PATTERNTHE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 355633929C.19LU",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dweb3fa84a/images/large/355633929C.19LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT HAVANA/TAN",
+          "size": null,
+          "price": "28092400",
+          "code": "355633929C.19LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dweb3fa84a/images/large/355633929C.19LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/clea-triomphe-sandal-in-calfskin---vegetal-tanning-and-suede-calfskin-355633929C.19LU.html"
+    },
+    {
+      "code": "352473778C.04LU",
+      "name": "CLEA TRIOMPHE SANDAL in CALFSKIN - VEGETAL TANNING",
+      "details": "100% CALFSKIN100% CALFSKIN1.6 IN (40 MM) heelTROIMPHE DEBOSSED AT THE TOP OF THE SHOESCELINE SIGNATURE EMBOSSED ON THE EXTERNAL SIDE OF THE OUTSOLECELINE SIGNATURE DEBOSSED UNDER THE OUTSOLEADJUSTABLE BUCKLELEATHER INSOLECHUNKY LUG RUBBER OUTSOLE WITH DIAMOND PATTERNMADE IN ITALYReference : 352473778C.04LU",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw32fed6d8/images/large/352473778C.04LU_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "28092400",
+          "code": "352473778C.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw32fed6d8/images/large/352473778C.04LU_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/clea-triomphe-sandal-in-calfskin---vegetal-tanning-352473778C.04LU.html"
+    },
+    {
+      "code": "353872350C.03TV",
+      "name": "CELINE CLEA TRIOMPHE SANDAL in Raffia & Calfskin",
+      "details": "50% RAFFIA 50% CALFSKIN100% Calfskin Lining1.6 IN (40 MM) heelTRIOMPHE LEATHER PATCHCELINE EMBOSSED ON THE EXTERNAL SIDE OF THE OUTSOLECELINE DEBOSSED UNDER THE OUTSOLEADJUSTABLE BUCKLELEATHER INSOLECHUNKY LUG RUBBER OUTSOLE WITH DIAMOND PATTERNTHIS MODEL FITS CORRECTLY, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 353872350C.03TV",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw99606862/images/large/353872350C.03TV_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN / NATURAL",
+          "size": null,
+          "price": "28092400",
+          "code": "353872350C.03TV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw99606862/images/large/353872350C.03TV_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clea-triomphe-sandal-in-raffia-and-calfskin-353872350C.03TV.html"
+    },
+    {
+      "code": "359813644C.19DK",
+      "name": "CELINE - TIPPI TRIOMPHE SANDAL in CALFSKIN",
+      "details": "100% CALFSKIN100% Calfskin  LinningADJUSTABLE TRIOMPHE METAL PIECE ON THE UPPER STRAP AND COLLAR BUTTON ON THE LOWER STRAP OF THE SHOEADJUSTABLE BUCKLELEATHER COVERED INSOLERUBBER OUTSOLE WITH FOAM INSERT AND A LEATHER WELTTHE SHOES RUN A BIT LARGE, IF YOU ARE IN BETWEEN TWO SIZES, PLEASE ORDER ONE HALF SIZE DOWNMADE IN ITALYReference : 359813644C.19DK",
+      "description": "THE SHOES RUN LARGE, IF YOU ARE IN BETWEEN TWO SIZES, PLEASE ORDER THE SIZE DOWN",
+      "price": "34460000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwaee84ea4/images/large/359813644C.19DK_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK BROWN",
+          "size": null,
+          "price": "34460000",
+          "code": "359813644C.19DK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwaee84ea4/images/large/359813644C.19DK_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "34460000",
+          "code": "359813766C.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw15f98641/images/large/359813766C.04LU_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine---tippi-triomphe-sandal-in-calfskin-359813644C.19DK.html"
+    },
+    {
+      "code": "359814578C.31DO",
+      "name": "CELINE - TIPPI TRIOMPHE SANDAL in CALFSKIN - VÉGÉTAL TANNING",
+      "details": "100% CALFSKIN100% Calfskin LiningADJUSTABLE TRIOMPHE METAL PIECE ON THE UPPER STRAP AND COLLAR BUTTON ON THE LOWER STRAP OF THE SHOEADJUSTABLE BUCKLELEATHER COVERED INSOLERUBBER OUTSOLE WITH FOAM INSERT AND A LEATHER WELTTHE SHOES RUN A BIT LARGE, IF YOU ARE IN BETWEEN TWO SIZES, PLEASE ORDER ONE HALF SIZE DOWNMADE IN ITALYReference : 359814578C.31DO",
+      "description": "THE SHOES RUN LARGE, IF YOU ARE IN BETWEEN TWO SIZES, PLEASE ORDER THE SIZE DOWN",
+      "price": "34460000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5f7a0a66/images/large/359814578C.31DO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK OLIVE",
+          "size": null,
+          "price": "34460000",
+          "code": "359814578C.31DO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5f7a0a66/images/large/359814578C.31DO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine---tippi-triomphe-sandal-in-calfskin---vegetal-tanning-359814578C.31DO.html"
+    },
+    {
+      "code": "362225042C.38NO",
+      "name": "CELINE MAUD SANDAL WITH TRIOMPHE IN CALFSKIN",
+      "details": "100% CalfskinTriomphe metal pieceELASTIC ON THE BACK STRAP FOR A BETTER FITSLIP-ONcalfskin covered anatomical insoleRUBBER OUTSOLEMADE IN ITALYReference : 362225042C.38NO",
+      "description": "",
+      "price": "29590700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4abac885/images/large/362225042C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "29590700",
+          "code": "362225042C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4abac885/images/large/362225042C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "RUST",
+          "size": null,
+          "price": "29590700",
+          "code": "362225042C.18RS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw76a6ba8d/images/large/362225042C.18RS_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-maud-sandal-with-triomphe-in-calfskin-362225042C.38NO.html"
+    }
+  ]
 }

@@ -1,0 +1,23 @@
+{
+  "id": "eJO2bxm54hWVltG",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/les-perles-celine-maillon-earrings-in-brass-with-gold-finish-and-resin-pearls-461fm6prb.01gi.html",
+  "order_no": "1742183922155.948000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/les-perles-celine-maillon-earrings-in-brass-with-gold-finish-and-resin-pearls-461FM6PRB.01GI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/les-perles-celine-maillon-earrings-in-brass-with-gold-finish-and-resin-pearls-461fm6prb.01gi.html",
+    "id": "eJO2bxm54hWVltG"
+  }
+}

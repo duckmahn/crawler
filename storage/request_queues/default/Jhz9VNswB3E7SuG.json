@@ -1,0 +1,23 @@
+{
+  "id": "Jhz9VNswB3E7SuG",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-reversible-framed-triomphe-belt-in-taurillon-45biz3apd.38tw.html",
+  "order_no": "1742183569654.036000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-reversible-framed-triomphe-belt-in-taurillon-45BIZ3APD.38TW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-reversible-framed-triomphe-belt-in-taurillon-45biz3apd.38tw.html",
+    "id": "Jhz9VNswB3E7SuG"
+  }
+}

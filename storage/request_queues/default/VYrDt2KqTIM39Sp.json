@@ -1,0 +1,23 @@
+{
+  "id": "VYrDt2KqTIM39Sp",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/workwear-mini-dress-in-rinsed-wash-denim-2u145799u.07in.html",
+  "order_no": "1742183074090.045000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/workwear-mini-dress-in-rinsed-wash-denim-2U145799U.07IN.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/workwear-mini-dress-in-rinsed-wash-denim-2u145799u.07in.html",
+    "id": "VYrDt2KqTIM39Sp"
+  }
+}

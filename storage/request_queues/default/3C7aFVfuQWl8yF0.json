@@ -1,0 +1,23 @@
+{
+  "id": "3C7aFVfuQWl8yF0",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/teen-supple-celine-classic-panier-in-raffia-and-calfskin-115802ff7.24pp.html",
+  "order_no": "1742181701978.696000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/teen-supple-celine-classic-panier-in-raffia-and-calfskin-115802FF7.24PP.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/teen-supple-celine-classic-panier-in-raffia-and-calfskin-115802ff7.24pp.html",
+    "id": "3C7aFVfuQWl8yF0"
+  }
+}

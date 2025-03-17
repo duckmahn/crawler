@@ -1,0 +1,23 @@
+{
+  "id": "NJibPcusXZzJAOd",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/gloves-in-monogram-wool,-cashmere-and-silk-2ad1m098w.19br.html",
+  "order_no": "1742183800834.274000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/gloves-in-monogram-wool,-cashmere-and-silk-2AD1M098W.19BR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hats-and-gloves/gloves-in-monogram-wool,-cashmere-and-silk-2ad1m098w.19br.html",
+    "id": "NJibPcusXZzJAOd"
+  }
+}

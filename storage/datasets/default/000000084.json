@@ -1,4 +1,168 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "45BAG3A01.38NO",
+      "name": "MEDIUM WESTERN BELT in Taurillon Leather",
+      "details": "TaurillonMiddle-WaistGOLD FINISHINGWIDTH : 1 IN (2.5 CM)WESTERN BUCKLETWO METAL LOOPS AND ONE METAL TIPCELINE PARIS LOGO ENGRAVED ON THE BOTTOM OF THE FIRST LOOP.Reference : 45BAG3A01.38NO",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa4b65d34/images/large/45BAG3A01.38NO_1_WIN22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "17604600",
+          "code": "45BAG3A01.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa4b65d34/images/large/45BAG3A01.38NO_1_WIN22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "17604600",
+          "code": "45BAG3A01.38SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwce1e4186/images/large/45BAG3A01.38SI_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/western/medium-western-belt-in-taurillon-leather-45BAG3A01.38NO.html"
+    },
+    {
+      "code": "45BAG3A78.04LU",
+      "name": "MEDIUM WESTERN BELT in Natural Calfskin",
+      "details": "CalfskinMiddle-WaistGOLD FINISHINGWIDTH : 1 IN (2.5 CM)WESTERN BUCKLETWO METAL LOOPS AND ONE METAL TIPCELINE PARIS LOGO ENGRAVED ON THE BOTTOM OF THE FIRST LOOP.Reference : 45BAG3A78.04LU",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw269f48bb/images/large/45BAG3A78.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "17604600",
+          "code": "45BAG3A78.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw269f48bb/images/large/45BAG3A78.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/western/medium-western-belt-in-natural-calfskin-45BAG3A78.04LU.html"
+    },
+    {
+      "code": "45BAG3AP9.38AW",
+      "name": "MEDIUM WESTERN BELT in ZEBRA PRINTED PONY CALFSKIN",
+      "details": "CALFSKINMiddle-WaistGOLD FINISHINGWIDTH : 1 IN (2.5 CM)WESTERN BUCKLETWO METAL LOOPS AND ONE METAL TIPCELINE PARIS LOGO ENGRAVED ON THE BOTTOM OF THE FIRST LOOP.Reference : 45BAG3AP9.38AW",
+      "description": "",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf058151c/images/large/45BAG3AP9.38AW_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / WHITE",
+          "size": null,
+          "price": "18353700",
+          "code": "45BAG3AP9.38AW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf058151c/images/large/45BAG3AP9.38AW_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/western/medium-western-belt-in-zebra-printed-pony-calfskin-45BAG3AP9.38AW.html"
+    },
+    {
+      "code": "45BAG4APO.38AW",
+      "name": "MEDIUM WESTERN BELT in PYTHON",
+      "details": "PYTHON(Python Retic./ID)Middle-WaistGOLD FINISHINGWIDTH : 1 IN (2.5 CM)WESTERN BUCKLETWO METAL LOOPS AND ONE METAL TIPCELINE PARIS LOGO ENGRAVED ON THE BOTTOM OF THE FIRST LOOP.Reference : 45BAG4APO.38AW",
+      "description": "",
+      "price": "22848500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbc0cd018/images/large/45BAG4APO.38AW_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / WHITE",
+          "size": null,
+          "price": "22848500",
+          "code": "45BAG4APO.38AW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbc0cd018/images/large/45BAG4APO.38AW_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/western/medium-western-belt-in-python-45BAG4APO.38AW.html"
+    },
+    {
+      "code": "45BAE3A01.38NO",
+      "name": "SMALL WESTERN BELT in Taurillon Leather",
+      "details": "TaurillonMiddle-WaistGOLD FINISHINGWIDTH : 0.7 IN (1.8 CM)WESTERN BUCKLEtwo metal loops and one metal tip.Celine Paris logo engraved on the bottom of the first loop.Reference : 45BAE3A01.38NO",
+      "description": "",
+      "price": "16106300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0a25de67/images/large/45BAE3A01.38NO_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "16106300",
+          "code": "45BAE3A01.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0a25de67/images/large/45BAE3A01.38NO_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "16106300",
+          "code": "45BAE3A01.38SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4cee2704/images/large/45BAE3A01.38SI_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/western/small-western-belt-in-taurillon-leather-45BAE3A01.38NO.html"
+    },
+    {
+      "code": "45BAE3A78.04LU",
+      "name": "SMALL WESTERN BELT in Natural Calfskin",
+      "details": "CalfskinMiddle-WaistGOLD FINISHINGWIDTH : 0.7 IN (1.8 CM)WESTERN BUCKLEtwo metal loops and one metal tip.Celine Paris logo engraved on the bottom of the first loop.Reference : 45BAE3A78.04LU",
+      "description": "",
+      "price": "16106300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe53ca25b/images/large/45BAE3A78.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "16106300",
+          "code": "45BAE3A78.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe53ca25b/images/large/45BAE3A78.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/western/small-western-belt-in-natural-calfskin-45BAE3A78.04LU.html"
+    },
+    {
+      "code": "45AXD4A12.19DK",
+      "name": "WESTERN ELEGANT BELT IN Crocodile",
+      "details": "CrocodileCalfskin LiningMiddle-WaistGOLD FINISHINGWIDTH : 0.7 IN (1.8 CM)WESTERN BUCKLEReference : 45AXD4A12.19DK",
+      "description": "",
+      "price": "56184700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0fbf5d22/images/large/45AXD4A12.19DK_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK BROWN",
+          "size": null,
+          "price": "56184700",
+          "code": "45AXD4A12.19DK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0fbf5d22/images/large/45AXD4A12.19DK_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/western/western-elegant-belt-in-crocodile-45AXD4A12.19DK.html"
+    }
+  ]
 }

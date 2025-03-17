@@ -1,0 +1,23 @@
+{
+  "id": "41K6Cj5Pds2meUp",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/embroidered-tank-top-in-silk-and-cotton-2ae21106t.38no.html",
+  "order_no": "1742183108616.872000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/embroidered-tank-top-in-silk-and-cotton-2AE21106T.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/embroidered-tank-top-in-silk-and-cotton-2ae21106t.38no.html",
+    "id": "41K6Cj5Pds2meUp"
+  }
+}

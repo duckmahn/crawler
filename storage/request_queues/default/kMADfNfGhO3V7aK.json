@@ -1,0 +1,23 @@
+{
+  "id": "kMADfNfGhO3V7aK",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-wool-jersey-2x24o759y.11oc.html",
+  "order_no": "1742182894230.340000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-wool-jersey-2X24O759Y.11OC.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-wool-jersey-2x24o759y.11oc.html",
+    "id": "kMADfNfGhO3V7aK"
+  }
+}

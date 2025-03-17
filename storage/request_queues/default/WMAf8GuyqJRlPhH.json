@@ -1,0 +1,23 @@
+{
+  "id": "WMAf8GuyqJRlPhH",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-wool-jersey-2x49o759y.38cr.html",
+  "order_no": "1742182894227.151000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-wool-jersey-2X49O759Y.38CR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-wool-jersey-2x49o759y.38cr.html",
+    "id": "WMAf8GuyqJRlPhH"
+  }
+}

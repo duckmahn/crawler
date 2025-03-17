@@ -1,0 +1,23 @@
+{
+  "id": "owXwQ1d0YKfoV7h",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/celine-petale-bracelet-in-brass-with-gold-finish-461ca6bra.35or.html",
+  "order_no": "1742184072707.178000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/celine-petale-bracelet-in-brass-with-gold-finish-461CA6BRA.35OR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/bracelets/celine-petale-bracelet-in-brass-with-gold-finish-461ca6bra.35or.html",
+    "id": "owXwQ1d0YKfoV7h"
+  }
+}

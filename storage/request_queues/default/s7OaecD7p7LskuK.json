@@ -1,0 +1,23 @@
+{
+  "id": "s7OaecD7p7LskuK",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-heritage-silk-twill-2awb6596p.02bg.html",
+  "order_no": "1742183703620.815000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-heritage-silk-twill-2AWB6596P.02BG.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/silk-squares/bandana-in-heritage-silk-twill-2awb6596p.02bg.html",
+    "id": "s7OaecD7p7LskuK"
+  }
+}

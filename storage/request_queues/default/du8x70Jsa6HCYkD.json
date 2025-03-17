@@ -1,0 +1,23 @@
+{
+  "id": "du8x70Jsa6HCYkD",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/ava/ava-bag-in-triomphe-canvas-and-calfskin-193952bzj.04lu.html",
+  "order_no": "1742181668623.386000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/ava/ava-bag-in-triomphe-canvas-and-calfskin-193952BZJ.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/ava/ava-bag-in-triomphe-canvas-and-calfskin-193952bzj.04lu.html",
+    "id": "du8x70Jsa6HCYkD"
+  }
+}

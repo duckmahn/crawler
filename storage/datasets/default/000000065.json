@@ -1,4 +1,412 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "RR08P0I57.12CU",
+      "name": "long shirt dress in silk crepon",
+      "details": "100% silklining 100% silkclassic fitmaxi lengthshirt collar2 patch pockets on the chest2 side pockets7 buttons covered with gold triomphe1 button covered with gold triomphe on the cuffsmade in PortugalReference: RR08P0I57.12CU",
+      "description": "long shirt dress in floral bouquet print silk crepon",
+      "price": "103005300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa7bfe02c/images/large/RR08P0I57.12CU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CREME/MULTICOLORE",
+          "size": null,
+          "price": "103005300",
+          "code": "RR08P0I57.12CU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa7bfe02c/images/large/RR08P0I57.12CU_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/long-shirt-dress-in-silk-crepon-RR08P0I57.12CU.html"
+    },
+    {
+      "code": "RR09I0825.03HD",
+      "name": "long dress in triomphe silk",
+      "details": "100% silklining 100% silkclassic fitmaxi lengthlow lavallière collar2 welt pocketsside zip4 triomphe buttons1 triomphe button on the pocket1 triomphe button on the cuffsmade in FranceReference: RR09I0825.03HD",
+      "description": "long lavallière collar dress in shiny matte triomphe silk",
+      "price": "101132500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb00bef6a/images/large/RR09I0825.03HD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CHARDONNAY",
+          "size": null,
+          "price": "101132500",
+          "code": "RR09I0825.03HD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb00bef6a/images/large/RR09I0825.03HD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/long-dress-in-triomphe-silk-RR09I0825.03HD.html"
+    },
+    {
+      "code": "RR05A332F.38OW",
+      "name": "folk dress in silk georgette",
+      "details": "100% silklining 100% silkloose fitmidi lengthlong raglan sleeves tie closure on the cuffs tie belt at the waistv-neck with triomphe buttonmade in ItalyReference: RR05A332F.38OW",
+      "description": "folk dress in polka dot print silk georgette",
+      "price": "89895600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4bf95678/images/large/RR05A332F.38OW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / OFF WHITE",
+          "size": null,
+          "price": "89895600",
+          "code": "RR05A332F.38OW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4bf95678/images/large/RR05A332F.38OW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/folk-dress-in-silk-georgette-RR05A332F.38OW.html"
+    },
+    {
+      "code": "2R13L929W.97TM",
+      "name": "workwear dress in crêpe de chine",
+      "details": "100% silklining 100% silkclassic fitmidi length2 patch pockets with flap on the chestshirt collarshort cape sleeves11 triomphe buttons2 triomphe buttons on the pocketmade in ItalyReference : 2R13L929W.97TM",
+      "description": "workwear dress in striped print and blason lace crêpe de chine",
+      "price": "89895600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwca19ca00/images/large/2R13L929W.97TM_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Ivoire/Toffee/Marron Glacé",
+          "size": null,
+          "price": "89895600",
+          "code": "2R13L929W.97TM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwca19ca00/images/large/2R13L929W.97TM_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/workwear-dress-in-crepe-de-chine-2R13L929W.97TM.html"
+    },
+    {
+      "code": "RR05H0O84.12NC",
+      "name": "skater mini dress in wool organza",
+      "details": "75% wool 25% mohairdoublure 55% viscose 45% silkclassic fitmini lengthlavalliere collarcentral back zip and hook-and-eye closure1 celine paris-engraved button on the cuffsmade in italyReference: RR05H0O84.12NC",
+      "description": "",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1a129263/images/large/RR05H0O84.12NC_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NOIR / CREME",
+          "size": null,
+          "price": "104878100",
+          "code": "RR05H0O84.12NC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1a129263/images/large/RR05H0O84.12NC_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/skater-mini-dress-in-wool-organza-RR05H0O84.12NC.html"
+    },
+    {
+      "code": "2X49O759Y.38CR",
+      "name": "mini trapeze dress in wool jersey",
+      "details": "100% woollining 100% viscoseclassic fitmini length2 patch pockets on the chestcontrasting claudine collarcontrasting cuffs5 triomphe buttons1 triomphe button on the pocketmade in ItalyReference : 2X49O759Y.38CR",
+      "description": "mini trapeze dress in wool jersey",
+      "price": "86149900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3c347473/images/large/2X49O759Y.38CR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / CREAM",
+          "size": null,
+          "price": "86149900",
+          "code": "2X49O759Y.38CR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3c347473/images/large/2X49O759Y.38CR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-wool-jersey-2X49O759Y.38CR.html"
+    },
+    {
+      "code": "2R61N666Y.38NO",
+      "name": "mini trapeze dress in double faced wool crepe",
+      "details": "100% wool52% viscose 48% cupro liningclassic fitmini lengthcrew neckcentral back zip and hook-and-eye closuremade in FranceReference : 2R61N666Y.38NO",
+      "description": "mini trapeze dress with crew neck in double faced wool crepe",
+      "price": "82404300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1e678d41/images/large/2R61N666Y.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "82404300",
+          "code": "2R61N666Y.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1e678d41/images/large/2R61N666Y.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "89895600",
+          "code": "2R67N666Y.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwabc55eec/images/large/2R67N666Y.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-double-faced-wool-crepe-2R61N666Y.38NO.html"
+    },
+    {
+      "code": "2R10K267V.38NO",
+      "name": "trapeze mini dress in floral guipure",
+      "details": "55% COTTON 25% VISCOSE 20% POLYAMIDESECONDARY MATERIAL 55% COTTON 25% VISCOSE 20% POLYAMIDELINING 54% CUPRO 46% VISCOSECLASSIC FITMINI LENGTH2 PATCH POCKETS WITH ARC DE TRIOMPHE BUTTONSCONTRASTING CLAUDINE COLLARCONTRASTING FRILL DETAILS ON THE CUFFSZIP AND HOOK-AND-EYE CLOSURE AT THE BACKMADE IN FRANCEReference : 2R10K267V.38NO",
+      "description": "trapeze mini dress with frilled collar in floral guipure",
+      "price": "168554100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd3c8f43c/images/large/2R10K267V.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "168554100",
+          "code": "2R10K267V.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd3c8f43c/images/large/2R10K267V.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/trapeze-mini-dress-in-floral-guipure-2R10K267V.38NO.html"
+    },
+    {
+      "code": "2R95O471Z.38VA",
+      "name": "Basque mini dress in silk twill",
+      "details": "100% silklining 55% viscose 45% silkclassic fitmini lengthlavallière collarside zip and hook-and-eye closure6 celine paris-engraved buttons1 celine paris-engraved buttons on the cuffsmade in PortugalReference : 2R95O471Z.38VA",
+      "description": "lavallière collar basque mini dress in heritage diamond print silk twill",
+      "price": "84277100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0c28a6e/images/large/2R95O471Z.38VA_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK/VANILLA",
+          "size": null,
+          "price": "84277100",
+          "code": "2R95O471Z.38VA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0c28a6e/images/large/2R95O471Z.38VA_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/basque-mini-dress-in-silk-twill-2R95O471Z.38VA.html"
+    },
+    {
+      "code": "2R04P106L.02DZ",
+      "name": "mini shirt dress in silk twill",
+      "details": "50% silk 50% viscose55% viscose 45% silk liningclassic fitmini lengthshirt collarV-neck6 covered buttons1 covered button on the cuffmade in PortugalReference : 2R04P106L.02DZ",
+      "description": "mini shirt dress with mini Triomphe print in silk twill",
+      "price": "80531400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdfffed95/images/large/2R04P106L.02DZ_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BEIGE/MARRON/CREME",
+          "size": null,
+          "price": "80531400",
+          "code": "2R04P106L.02DZ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdfffed95/images/large/2R04P106L.02DZ_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-shirt-dress-in-silk-twill-2R04P106L.02DZ.html"
+    },
+    {
+      "code": "2L116583C.38NO",
+      "name": "mini dress in soft lambskin",
+      "details": "100% LAMBSKIN LEATHER51% MODAL 49% VISCOSE LININGclassic fitmini length4 round patch pockets with flat2 side pocketsshirt collar4 Triomphe snap buttons1 Triomphe snap button on the pocket1 Triomphe snap button on the cuffinvisible side zipmade in ItalyReference : 2L116583C.38NO",
+      "description": "mini dress with shirt collar in soft lambskin",
+      "price": "157317200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5bba2339/images/large/2L116583C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "157317200",
+          "code": "2L116583C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5bba2339/images/large/2L116583C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/mini-dress-in-soft-lambskin-2L116583C.38NO.html"
+    },
+    {
+      "code": "RR046539W.38NO",
+      "name": "reporter mini dress in cotton twill",
+      "details": "100% cottonlining 100% cottonclassic fitmini lengthshirt collar2 patch pockets with flap on the chest2 patch pockets with flaplong adjustable sleeves and short sleeves with tab2 side vents7 triomphe buttons1 triomphe button on the pocket1 triomphe button on the tabmade in PortugalReference: RR046539W.38NO",
+      "description": "reporter shirt collar mini dress in soft cotton twill",
+      "price": "73040200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwed65e43f/images/large/RR046539W.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "73040200",
+          "code": "RR046539W.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwed65e43f/images/large/RR046539W.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/reporter-mini-dress-in-cotton-twill-RR046539W.38NO.html"
+    },
+    {
+      "code": "2X24O759Y.11OC",
+      "name": "mini dress in wool jersey",
+      "details": "100% wool100% viscose liningclassic fitmini length2 rounded patch pockets with flap and Triomphe buttonsshort sleevesdecorative belt with Triomphe-engraved metal bucklefront box pleatcentral back zip and hook-and-eye closuremade in ItalyReference : 2X24O759Y.11OC",
+      "description": "mini dress with high collar in wool jersey",
+      "price": "82404300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw83c1233b/images/large/2X24O759Y.11OC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "OCRE",
+          "size": null,
+          "price": "82404300",
+          "code": "2X24O759Y.11OC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw83c1233b/images/large/2X24O759Y.11OC_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-wool-jersey-2X24O759Y.11OC.html"
+    },
+    {
+      "code": "RR04A384J.01BC",
+      "name": "babydoll mini dress in striped cotton voile",
+      "details": "100% cottonsecondary material 50% cotton 50% ramielining 100% cottonfloral and triomphe embroidery on the front panelclassic fitmini lengthclaudine collarshort balloon sleevesside zip5 triomphe horn buttons1 triomphe horn button on the cuffsmade in franceReference: RR04A384J.01BC",
+      "description": "babydoll mini dress with claudine collar and embroidered front panel in striped cotton voile",
+      "price": "78658600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4a1eccb5/images/large/RR04A384J.01BC_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "78658600",
+          "code": "RR04A384J.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4a1eccb5/images/large/RR04A384J.01BC_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/babydoll-mini-dress-in-striped-cotton-voile-RR04A384J.01BC.html"
+    },
+    {
+      "code": "2R94N383Z.38NO",
+      "name": "trapeze mini dress in double faced wool tricotine",
+      "details": "99% wool 1% silk51% modal 49% viscose liningclassic fitmini length4 patch pockets with flap and Triomphe half-sphere snap buttonscrew neckcentral back zip and hook-and-eye closuremade in FranceReference : 2R94N383Z.38NO",
+      "description": "trapeze mini dress in double faced wool tricotine",
+      "price": "86149900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8d353a1b/images/large/2R94N383Z.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "86149900",
+          "code": "2R94N383Z.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8d353a1b/images/large/2R94N383Z.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/trapeze-mini-dress-in-double-faced-wool-tricotine-2R94N383Z.38NO.html"
+    },
+    {
+      "code": "2ADKG864Z.07MR",
+      "name": "tunic mini dress in interlock wool",
+      "details": "96% WOOL 4% POLYAMIDEclassic fitmini lengthU-necklineribbed trimmade in ItalyReference : 2ADKG864Z.07MR",
+      "description": "tunic mini dress in interlock wool",
+      "price": "67421700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd632b317/images/large/2ADKG864Z.07MR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NAVY",
+          "size": null,
+          "price": "67421700",
+          "code": "2ADKG864Z.07MR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd632b317/images/large/2ADKG864Z.07MR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/tunic-mini-dress-in-interlock-wool-2ADKG864Z.07MR.html"
+    },
+    {
+      "code": "2R86O135Z.02AG",
+      "name": "mini dress in lurex boutis",
+      "details": "64% polyester 13% metallic polyester 13% silk 10% polyamide51% modal 49% viscose liningclassic fitmini lengthcrew neckcentral back zip and hook-and-eye closuremade in FranceReference : 2R86O135Z.02AG",
+      "description": "mini dress with Triomphe flowers in lurex boutis",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1d155e93/images/large/2R86O135Z.02AG_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BEIGE/ARGENT",
+          "size": null,
+          "price": "104878100",
+          "code": "2R86O135Z.02AG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1d155e93/images/large/2R86O135Z.02AG_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-dress-in-lurex-boutis-2R86O135Z.02AG.html"
+    },
+    {
+      "code": "2R05O189Z.01RD",
+      "name": "mini trapeze dress in silk and wool boutis",
+      "details": "84% wool 9% silk 76% polyamide52% viscose 48% cupro liningclassic fitmini lengthoverturned collarshort cape sleevescentral back zip and hook-and-eye closuremade in FranceReference : 2R05O189Z.01RD",
+      "description": "Mini Triomphe trapeze dress with overturned collar in wool and silk boutis",
+      "price": "104878100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwecf5bc5c/images/large/2R05O189Z.01RD_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CRAIE",
+          "size": null,
+          "price": "104878100",
+          "code": "2R05O189Z.01RD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwecf5bc5c/images/large/2R05O189Z.01RD_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/mini-trapeze-dress-in-silk-and-wool-boutis-2R05O189Z.01RD.html"
+    },
+    {
+      "code": "2R59F811R.09GM",
+      "name": "tunic mini dress in wool cloth",
+      "details": "100% wool52% viscose 48% cupro liningclassic fitmini length2 patch pocketscross back4 Celine-engraved snap buttons2 Celine-engraved snap buttons on the backmade in ItalyReference : 2R59F811R.09GM",
+      "description": "tunic mini dress in technical wool cloth",
+      "price": "78658600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8256aabc/images/large/2R59F811R.09GM_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "MEDIUM GREY",
+          "size": null,
+          "price": "78658600",
+          "code": "2R59F811R.09GM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8256aabc/images/large/2R59F811R.09GM_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/tunic-mini-dress-in-wool-cloth-2R59F811R.09GM.html"
+    }
+  ]
 }

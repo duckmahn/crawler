@@ -1,0 +1,23 @@
+{
+  "id": "6OtYiT84kSPmks8",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/nino/teen-nino-bag-in-vichy-textile-and-calfskin-118112gi9.38aw.html",
+  "order_no": "1742181596687.988000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/nino/teen-nino-bag-in-vichy-textile-and-calfskin-118112GI9.38AW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/nino/teen-nino-bag-in-vichy-textile-and-calfskin-118112gi9.38aw.html",
+    "id": "6OtYiT84kSPmks8"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "nXJ4DiOy08TVfpG",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/classique-triomphe-bag-in-textile-with-triomphe-crochet-embroidery-191242ey1.02nt.html",
+  "order_no": "1742181572633.121000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/classique-triomphe-bag-in-textile-with-triomphe-crochet-embroidery-191242EY1.02NT.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/triomphe/classique-triomphe-bag-in-textile-with-triomphe-crochet-embroidery-191242ey1.02nt.html",
+    "id": "nXJ4DiOy08TVfpG"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bsZtLyEkci2dK22",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/ava/medium-ava-strap-bag-in-smooth-calfskin-196923dgq.04lu.html",
+  "order_no": "1742181839163.468000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/ava/medium-ava-strap-bag-in-smooth-calfskin-196923DGQ.04LU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/ava/medium-ava-strap-bag-in-smooth-calfskin-196923dgq.04lu.html",
+    "id": "bsZtLyEkci2dK22"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "q03PJbTBXhLHF2E",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-fair-isle-mohair-ry03n0123.fyw7.html",
+  "order_no": "1742183108619.832000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-fair-isle-mohair-RY03N0123.FYW7.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/knitwear/crew-neck-sweater-in-fair-isle-mohair-ry03n0123.fyw7.html",
+    "id": "q03PJbTBXhLHF2E"
+  }
+}

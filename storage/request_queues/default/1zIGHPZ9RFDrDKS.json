@@ -1,0 +1,23 @@
+{
+  "id": "1zIGHPZ9RFDrDKS",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-claude-in-triomphe-canvas-two-tone-10i512gbk.28lb.html",
+  "order_no": "1742182355978.737000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-claude-in-triomphe-canvas-two-tone-10I512GBK.28LB.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-claude-in-triomphe-canvas-two-tone-10i512gbk.28lb.html",
+    "id": "1zIGHPZ9RFDrDKS"
+  }
+}

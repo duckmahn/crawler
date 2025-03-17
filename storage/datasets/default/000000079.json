@@ -1,4 +1,399 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "360743602C.38NO",
+      "name": "CELINE TESS LOAFER in POLISHED BULL",
+      "details": "100% BULLSKIN100% Kidskin LinningROUND TOE SHAPECHUNKY TRIOMPHE CHAIN ON THE ARPONTRIOMPHE DEBOSSED ON THE BACK OF THE SHOESLIP-ONLEATHER PADDED INSOLELEATHER COVERED RUBBER OUTSOLETHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360743602C.38NO",
+      "description": "",
+      "price": "39350600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd890de4e/images/large/360743602C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "39350600",
+          "code": "360743602C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd890de4e/images/large/360743602C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-tess-loafer-in-polished-bull-360743602C.38NO.html"
+    },
+    {
+      "code": "357613602C.38NO",
+      "name": "CELINE TRIOMPHE RANGERS DERBY WITH PERFORATED TRIOMPHE in POLISHED BULL",
+      "details": "100% BULLSKIN100% Kidskin Linning1.8 IN (45 MM) heelLARGE TRIOMPHE SIGNATURE PERFORATED ON THE APRONCELINE SIGNATURE ON THE BACK OF THE SHOEPOLYESTER LACESLEATHER INSOLETHICK LUG RUBBER OUTSOLE WITH LEATHER WELTTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 357613602C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbe11c9a2/images/large/357613602C.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "35583700",
+          "code": "357613602C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbe11c9a2/images/large/357613602C.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-triomphe-rangers-derby-with-perforated-triomphe-in-polished-bull-357613602C.38NO.html"
+    },
+    {
+      "code": "357784988C.38NO",
+      "name": "CELINE LUCO TRIOMPHE CHAIN LOAFER in CALFSKIN",
+      "details": "100% CALFSKIN100% Kidskin Linning0.6 IN (15 MM) heelROUND TOE SHAPEBLAKE CONSTRUCTIONTRIOMPHE CHAIN ON THE APRON OF THE SHOETRADITIONAL LOAFER CONSTRUCTION WITH HAND-STITCHED APRONSLIP-ONLEATHER INSOLELEATHER OUTSOLETHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 357784988C.38NO",
+      "description": "",
+      "price": "32587200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc572482c/images/large/357784988C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "32587200",
+          "code": "357784988C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc572482c/images/large/357784988C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-luco-triomphe-chain-loafer-in-calfskin-357784988C.38NO.html"
+    },
+    {
+      "code": "335813001C.38NO",
+      "name": "CELINE LUCO TRIOMPHE LOAFER in Polished Calfskin",
+      "details": "100% CalfskinStraight stacked leather heel0.6 IN (15 MM) heelROUND TOE SHAPEBLAKE CONSTRUCTIONTRIOMPHE METAL PIECE ON THE APRON OF THE SHOETRADITIONAL LOAFER CONSTRUCTION WITH HAND-STITCHED APRONSLIP-ONLEATHER INSOLELEATHER OUTSOLETHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 335813001C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE.",
+      "price": "31838000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8d220889/images/large/335813001C.38NO_1_Fall19_234250v3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Black",
+          "size": null,
+          "price": "31838000",
+          "code": "335813001C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8d220889/images/large/335813001C.38NO_1_Fall19_234250v3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-luco-triomphe-loafer-in-polished-calfskin-335813001C.38NO.html"
+    },
+    {
+      "code": "360093602C.38NO",
+      "name": "CELINE LUCO MULE LOAFER IN POLISHED BULL",
+      "details": "100% BULLSKIN0.6 IN (15 MM) heelROUND TOE SHAPEBLAKE CONSTRUCTIONTRIOMPHE METAL PIECE ON THE APRON OF THE SHOETRADITIONAL LOAFER CONSTRUCTION WITH HAND-STITCHED APRONSLIP-ONLEATHER INSOLELEATHER OUTSOLEReference : 360093602C.38NO",
+      "description": "",
+      "price": "29590700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw22bbe2a5/images/large/360093602C.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "29590700",
+          "code": "360093602C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw22bbe2a5/images/large/360093602C.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-luco-mule-loafer--in-polished-bull-360093602C.38NO.html"
+    },
+    {
+      "code": "335813602C.38NO",
+      "name": "CELINE LUCO LOAFER in POLISHED BULL",
+      "details": "100% BULLSKIN100% Kidskin LinningStraight stacked leather heel0.6 IN (15 MM) heelROUND TOE SHAPEBLAKE CONSTRUCTIONTRIOMPHE METAL PIECE ON THE APRON OF THE SHOETRADITIONAL LOAFER CONSTRUCTION WITH HAND-STITCHED APRONSLIP-ONLEATHER INSOLELEATHER OUTSOLETHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 335813602C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "31838000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2a6c38f3/images/large/335813602C.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "31838000",
+          "code": "335813602C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2a6c38f3/images/large/335813602C.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-luco-loafer-in-polished-bull-335813602C.38NO.html"
+    },
+    {
+      "code": "344893602C.38NO",
+      "name": "CELINE MARGARET LOAFER WITH TRIOMPHE CHAIN in POLISHED BULL",
+      "details": "100% BULLSKIN100% Goatskin Lining1.4 IN (35 MM) heelROUND TOE SHAPECHUNKY TRIOMPHE GOLD CHAIN ON THE APRONHAND-STITCHED APRONFRINGESSLIP-ONLEATHER INSOLERUBBER LUG OUTSOLE WITH TONAL LEATHER WELTCELINE SIGNATURE DEBOSSED UNDER THE OUTSOLEIF YOU HAVE A HIGH ARCH, WE RECOMMEND ORDERING A HALF SIZE BIGGERMADE IN ITALYReference : 344893602C.38NO",
+      "description": "IF YOU HAVE A HIGH ARCH, WE RECOMMEND ORDERING A HALF SIZE BIGGER",
+      "price": "33354300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb383ecb2/images/large/344893602C.38NO_1_WIN21.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "33354300",
+          "code": "344893602C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb383ecb2/images/large/344893602C.38NO_1_WIN21.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-margaret-loafer-with-triomphe-chain-in-polished-bull-344893602C.38NO.html"
+    },
+    {
+      "code": "360813602C.38NO",
+      "name": "CELINE UNIVERSITÉ TRIOMPHE CHAIN LOAFFER in POLISHED BULL",
+      "details": "100% BULLSKIN100% Kidskin LinningROUND TOE SHAPECHAIN WITH MULTIPLE TRIOMPHE ON THE APRON OF THE SHOETRADITIONAL LOAFER CONSTRUCTION WITH HAND-STITCHED APRONSLIP-ONLEATHER INSOLERUBBER OUTSOLE WITH DOUBLE LEATHER WELTTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360813602C.38NO",
+      "description": "",
+      "price": "34460000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2dbdb2fa/images/large/360813602C.38NO_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "34460000",
+          "code": "360813602C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw2dbdb2fa/images/large/360813602C.38NO_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-universite-triomphe-chain-loaffer-in-polished-bull-360813602C.38NO.html"
+    },
+    {
+      "code": "354893602C.38NO",
+      "name": "CELINE MALAQUAIS TRIOMPHE LOAFER in POLISHED BULL",
+      "details": "100% BULLSKIN100% Kidskin Linning1.2 IN (30 MM) heelALMOND TOE SHAPETRIOMPHE GOLD PIN ON THE APRONSLIP-ONLEATHER OUTSOLELEATHER INSOLEMADE IN ITALYReference : 354893602C.38NO",
+      "description": "ALMOND TOE SHAPETUBULAR CONSTRUCTION",
+      "price": "31855200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw735bfb0d/images/large/354893602C.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "31855200",
+          "code": "354893602C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw735bfb0d/images/large/354893602C.38NO_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "LIGHT TAN",
+          "size": null,
+          "price": "31838000",
+          "code": "354893602C.18LA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw429e848a/images/large/354893602C.18LA_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-malaquais-triomphe-loafer-in-polished-bull-354893602C.38NO.html"
+    },
+    {
+      "code": "362554582C.38NO",
+      "name": "CELINE SUZY POINTY TOE BALLERINA IN PATENT CALFSKIN",
+      "details": "100% CALFSKIN100% GOATSKIN LINING0.4 IN (10 MM) heelLEATHER STACKED HEELPOINTY TOE SHAPEBOW WITH DECORATIVE TRIOMPHESLIP-ONLEATHER INSOLELEATHER OUTSOLEReference : 362554582C.38NO",
+      "description": "",
+      "price": "26968700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw198dac4c/images/large/362554582C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "26968700",
+          "code": "362554582C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw198dac4c/images/large/362554582C.38NO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLUSH",
+          "size": null,
+          "price": "26968700",
+          "code": "362554582C.02BH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfdf83afc/images/large/362554582C.02BH_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-suzy-pointy-toe-ballerina-in-patent-calfskin-362554582C.38NO.html"
+    },
+    {
+      "code": "354684582C.38NO",
+      "name": "LES BALLERINES CELINE BABIES in PATENT CALFSKIN",
+      "details": "100% CALFSKIN100% Lambskin Lining0.2 IN (5 MM) heelSTACKED LEATHER HEELALMOND TOE SHAPEADJUSTABLE DOUBLE STRAP WITH TRIOMPHE BUCKLESSLIGHTY PADDED LEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 354684582C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "29606600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw43ae1b4f/images/large/354684582C.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "29606600",
+          "code": "354684582C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw43ae1b4f/images/large/354684582C.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/les-ballerines-celine-babies-in-patent-calfskin-354684582C.38NO.html"
+    },
+    {
+      "code": "360194582C.38NO",
+      "name": "LES BALLERINES CELINE CRISS-CROSS BABIES BALLERINA in PATENT CALFSKIN",
+      "details": "100% CALFSKIN100% Lambskin LinningSTACKED LEATHER HEELALMOND TOE SHAPEADJUSTABLE TRIPLE STRAPTRIOMPHE ENGRAVED BUCKLESLIGHTLY PADDED LEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360194582C.38NO",
+      "description": "",
+      "price": "29606600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw67469d56/images/large/360194582C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "29606600",
+          "code": "360194582C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw67469d56/images/large/360194582C.38NO_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/les-ballerines-celine-criss-cross-babies-ballerina-in-patent-calfskin-360194582C.38NO.html"
+    },
+    {
+      "code": "360195027C.38NO",
+      "name": "LES BALLERINES CELINE CRISS-CROSS BABIES BALLERINA in LUREX FABRIC",
+      "details": "64% Cotton 36% PolyesterSTACKED LEATHER HEELALMOND TOE SHAPEADJUSTABLE TRIPLE STRAPTRIOMPHE ENGRAVED BUCKLESLIGHTLY PADDED LEATHER INSOLELEATHER OUTSOLETHIS MODEL FITS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZETriomphe brodé sur l'arrièreMADE IN ITALYReference : 360195027C.38NO",
+      "description": "",
+      "price": "29606600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0843b9ec/images/large/360195027C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "29606600",
+          "code": "360195027C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0843b9ec/images/large/360195027C.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/les-ballerines-celine-criss-cross-babies-ballerina-in-lurex-fabric-360195027C.38NO.html"
+    },
+    {
+      "code": "358012285C.38NO",
+      "name": "CELINE ALMA TRIOMPHE FLAT SLINGBACK in GROS-GRAIN",
+      "details": "57% COTTON 43% VISCOSE0.2 IN (5 MM) heelPOINTY TOE SHAPELARGE METAL TRIOMPHE ON THE TOEELASTIC ON THE BACK STRAP FOR A BETTER FITSLIP-ONLEATHER INSOLELEATHER OUTSOLETHIS MODEL RUNS SLIGHTLY SMALL, FOR BETTER FIT PLEASE ORDER 0,5 SIZE LARGERMADE IN ITALYReference : 358012285C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "30730900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1e216d65/images/large/358012285C.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "30730900",
+          "code": "358012285C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1e216d65/images/large/358012285C.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-alma-triomphe-flat-slingback-in-gros-grain-358012285C.38NO.html"
+    },
+    {
+      "code": "358014371C.38NO",
+      "name": "CELINE ALMA TRIOMPHE FLAT SLINGBACK in GLOSSY CALFSKIN",
+      "details": "100% CALFSKIN100% Goatskin Lining0.2 IN (5 MM) heelPOINTY TOE SHAPELARGE METAL TRIOMPHE ON THE TOEELASTIC ON THE BACK STRAP FOR A BETTER FITSLIP-ONLEATHER INSOLELEATHER OUTSOLETHIS MODEL RUNS SLIGHTLY SMALL, FOR BETTER FIT PLEASE ORDER 0,5 SIZE LARGERMADE IN ITALYReference : 358014371C.38NO",
+      "description": "THE SHOES HAVE A NORMAL FIT, PLEASE ORDER YOUR USUAL SIZE",
+      "price": "30730900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9f9037da/images/large/358014371C.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "30730900",
+          "code": "358014371C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9f9037da/images/large/358014371C.38NO_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-alma-triomphe-flat-slingback-in-glossy-calfskin-358014371C.38NO.html"
+    },
+    {
+      "code": "360084610C.18NC",
+      "name": "CELINE DANA WEDGE MULE in SUEDE CALFSKIN AND SHEARLING",
+      "details": "80% CALFSKIN 20% SHEARLING100% Shearling LinningROUND TOE SHAPEHIGH FREQUENCY DEBOSSED TRIOMPHE ON THE BACK OF THE OUTSOLESLIP-ONSHEARLING INSOLE WITH LEATHER PADDED PATCHWEDGE RUBBER OUTSOLE COVERED WITH LEATHERTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 360084610C.18NC",
+      "description": "",
+      "price": "39329300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw91b6a6e7/images/large/360084610C.18NC_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "COGNAC",
+          "size": null,
+          "price": "39329300",
+          "code": "360084610C.18NC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw91b6a6e7/images/large/360084610C.18NC_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-dana-wedge-mule-in-suede-calfskin-and-shearling-360084610C.18NC.html"
+    },
+    {
+      "code": "343554434C.05LB",
+      "name": "CELINE FUR SLIDES TRIOMPHE in SHEARLING",
+      "details": "100% SHEARLING95% Shearling 5% Lambskin Linning0.2 IN (5 MM) heelROUND TOE SHAPETRIOMPHE LEATHER PATCH ON THE UPPER STRAP OF THE SHOESlip-onShearling insole with leather padded patchTextured rubber outsoleTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 343554434C.05LB",
+      "description": "",
+      "price": "26968700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb27740f6/images/large/343554434C.05LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BLUE",
+          "size": null,
+          "price": "26968700",
+          "code": "343554434C.05LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb27740f6/images/large/343554434C.05LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-fur-slides-triomphe-in-shearling-343554434C.05LB.html"
+    },
+    {
+      "code": "343553563C.02WN",
+      "name": "CELINE FUR SLIDES TRIOMPHE in Shearling",
+      "details": "100% Shearling100% Shearling Linning0.2 IN (5 MM) heelROUND TOE SHAPETRIOMPHE LEATHER PATCH ON THE UPPER STRAP OF THE SHOESlip-onShearling insole with leather padded patchTextured rubber outsoleTHIS MODEL IS TRUE TO SIZE, PLEASE ORDER YOUR USUAL SIZEMADE IN ITALYReference : 343553563C.02WN",
+      "description": "",
+      "price": "26983300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw03b2e270/images/large/343553563C.02WN_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BEIGE/BROWN",
+          "size": null,
+          "price": "26983300",
+          "code": "343553563C.02WN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw03b2e270/images/large/343553563C.02WN_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/shoes/loafers-and-flats/celine-fur-slides-triomphe-in-shearling-343553563C.02WN.html"
+    }
+  ]
 }

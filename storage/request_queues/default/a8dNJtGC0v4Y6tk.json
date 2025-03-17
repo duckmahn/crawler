@@ -1,0 +1,23 @@
+{
+  "id": "a8dNJtGC0v4Y6tk",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-alpaca-wool-rv07t0489.24rl.html",
+  "order_no": "1742182834690.939000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-alpaca-wool-RV07T0489.24RL.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-alpaca-wool-rv07t0489.24rl.html",
+    "id": "a8dNJtGC0v4Y6tk"
+  }
+}

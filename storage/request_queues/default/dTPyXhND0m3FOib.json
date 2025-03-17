@@ -1,0 +1,23 @@
+{
+  "id": "dTPyXhND0m3FOib",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/workwear-dress-in-crepe-de-chine-2r13l929w.97tm.html",
+  "order_no": "1742182894225.841000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/workwear-dress-in-crepe-de-chine-2R13L929W.97TM.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/workwear-dress-in-crepe-de-chine-2r13l929w.97tm.html",
+    "id": "dTPyXhND0m3FOib"
+  }
+}

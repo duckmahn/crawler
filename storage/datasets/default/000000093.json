@@ -1,4 +1,386 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "461LF2BCP.07GD",
+      "name": "Celine Scrunchy Monogram in Cotton, Polyester and Brass with Gold Finish",
+      "details": "Cotton, Brass and PolyesterEngraved Celine Paris SignatureReference : 461LF2BCP.07GD",
+      "description": "",
+      "price": "9364200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbf27f29b/images/large/461LF2BCP.07GD_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLUE / GOLD",
+          "size": null,
+          "price": "9364200",
+          "code": "461LF2BCP.07GD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbf27f29b/images/large/461LF2BCP.07GD_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-monogram-in-cotton%2C-polyester-and-brass-with-gold-finish-461LF2BCP.07GD.html"
+    },
+    {
+      "code": "461DK2SIB.07GD",
+      "name": "Celine Scrunchy Mini Triomphe in Silk and Brass with Gold finish",
+      "details": "Silk and BrassENGRAVED CELINE PARIS SIGNATURE Reference : 461DK2SIB.07GD",
+      "description": "",
+      "price": "9364200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw31e7da4f/images/large/461DK2SIB.07GD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLUE / GOLD",
+          "size": null,
+          "price": "9364200",
+          "code": "461DK2SIB.07GD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw31e7da4f/images/large/461DK2SIB.07GD_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "Vanilla / Chestnut",
+          "size": null,
+          "price": "9364200",
+          "code": "461DK2SIB.18LV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw23161327/images/large/461DK2SIB.18LV_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-mini-triomphe-in-silk-and-brass-with-gold-finish-461DK2SIB.07GD.html"
+    },
+    {
+      "code": "460PR2BCO.33GE",
+      "name": "Celine Scrunchy Denim in Cotton and Brass with Gold Finish",
+      "details": "Brass and CottonNickel FreeCeline Paris Signature engravedCan be worn as a bracelet or hair accessoryReference : 460PR2BCO.33GE",
+      "description": "",
+      "price": "9364200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3bd28361/images/large/460PR2BCO.33GE_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / BLUE",
+          "size": null,
+          "price": "9364200",
+          "code": "460PR2BCO.33GE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3bd28361/images/large/460PR2BCO.33GE_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-denim-in-cotton-and-brass-with-gold-finish-460PR2BCO.33GE.html"
+    },
+    {
+      "code": "461BV2BOW.07GD",
+      "name": "Celine Scrunchy Fair Isle in Wool and Brass with Gold finish",
+      "details": "Wool and BrassNickel Free ENGRAVED CELINE PARIS SIGNATURECAN BE WORN AS A BRACELET OR HAIR ACCESSORYReference: 461BV2BOW.07GD",
+      "description": "",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw664acdaa/images/large/461BV2BOW.07GD_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLUE / GOLD",
+          "size": null,
+          "price": "11986100",
+          "code": "461BV2BOW.07GD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw664acdaa/images/large/461BV2BOW.07GD_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-fair-isle-in-wool-and-brass-with-gold-finish-461BV2BOW.07GD.html"
+    },
+    {
+      "code": "461BV2BOW.11GD",
+      "name": "Celine Scrunchy Fair Isle in Wool and Brass with Gold Finish",
+      "details": "Wool and BrassNickel Free ENGRAVED CELINE PARIS SIGNATURECAN BE WORN AS A BRACELET OR HAIR ACCESSORYReference: 461BV2BOW.11GD",
+      "description": "",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd52aa8e6/images/large/461BV2BOW.11GD_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "YELLOW/GOLD",
+          "size": null,
+          "price": "11986100",
+          "code": "461BV2BOW.11GD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd52aa8e6/images/large/461BV2BOW.11GD_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-fair-isle-in-wool-and-brass-with-gold-finish-461BV2BOW.11GD.html"
+    },
+    {
+      "code": "460CN2SIB.35GC",
+      "name": "Celine Scrunchy Triomphe Camo in Silk and Brass with Gold Finish",
+      "details": "Silk and BrassNickel FreeCeline Paris Signature engravedCan be worn as a bracelet or hair accessory.Reference : 460CN2SIB.35GC",
+      "description": "",
+      "price": "9364200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0843a663/images/large/460CN2SIB.35GC_1_FALL22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / CRAIE",
+          "size": null,
+          "price": "9364200",
+          "code": "460CN2SIB.35GC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0843a663/images/large/460CN2SIB.35GC_1_FALL22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-triomphe-camo-in-silk-and-brass-with-gold-finish-460CN2SIB.35GC.html"
+    },
+    {
+      "code": "461GX2SIB.25MO",
+      "name": "Celine Scrunchy Triomphe Couture in Silk and Brass with Gold finish",
+      "details": "Silk and BrassEngraved Celine Paris Signature Reference : 461GX2SIB.25MO",
+      "description": "",
+      "price": "9364200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw46a220ab/images/large/461GX2SIB.25MO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "MULTICOLOR/GOLD",
+          "size": null,
+          "price": "9364200",
+          "code": "461GX2SIB.25MO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw46a220ab/images/large/461GX2SIB.25MO_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-triomphe-couture-in-silk-and-brass-with-gold-finish-461GX2SIB.25MO.html"
+    },
+    {
+      "code": "460HF2SIB.35GM",
+      "name": "Celine Scrunchy Maxi Triomphe in Silk and Brass with Rhodium Finish",
+      "details": "Silk and BrassNickel FreeENGRAVED CELINE PARIS SIGNATURECAN BE WORN AS A BRACELET OR HAIR ACCESSORYReference : 460HF2SIB.35GM",
+      "description": "",
+      "price": "9364200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb25447fe/images/large/460HF2SIB.35GM_1_SS24_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Gold / Mordorée",
+          "size": null,
+          "price": "9364200",
+          "code": "460HF2SIB.35GM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb25447fe/images/large/460HF2SIB.35GM_1_SS24_P2_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-maxi-triomphe-in-silk-and-brass-with-rhodium-finish-460HF2SIB.35GM.html"
+    },
+    {
+      "code": "461ES2SIB.35OH",
+      "name": "Celine Scrunchy Blason in Silk and Brass with Gold finish",
+      "details": "Silk and BrassNickel FreeENGRAVED CELINE PARIS SIGNATURECAN BE WORN AS A BRACELET OR HAIR ACCESSORYReference: 461ES2SIB.35OH",
+      "description": "",
+      "price": "9364200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw89394345/images/large/461ES2SIB.35OH_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Gold & White",
+          "size": null,
+          "price": "9364200",
+          "code": "461ES2SIB.35OH",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw89394345/images/large/461ES2SIB.35OH_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-blason-in-silk-and-brass-with-gold-finish-461ES2SIB.35OH.html"
+    },
+    {
+      "code": "461GY2BOW.39BW",
+      "name": "Celine Scrunchy Vichy in Wool and Brass with Gold finish",
+      "details": "Wool and BrassEngraved Celine Paris SignatureReference : 461GY2BOW.39BW",
+      "description": "",
+      "price": "10862400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw71f419e4/images/large/461GY2BOW.39BW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD/BLACK/WHITE",
+          "size": null,
+          "price": "10862400",
+          "code": "461GY2BOW.39BW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw71f419e4/images/large/461GY2BOW.39BW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-scrunchy-vichy-in-wool-and-brass-with-gold-finish-461GY2BOW.39BW.html"
+    },
+    {
+      "code": "461DF2PEB.38PI",
+      "name": "Celine Set of 2 Small Scrunchies in Polyamide, Elastane and Brass with Gold Finish",
+      "details": "Polyamide, Elastane and Brass Nickel Free ENGRAVED CELINE PARIS SIGNATURE CAN BE WORN AS A BRACELET OR HAIR ACCESSORYReference: 461DF2PEB.38PI",
+      "description": "",
+      "price": "12735200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1ed3126a/images/large/461DF2PEB.38PI_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / PINK",
+          "size": null,
+          "price": "12735200",
+          "code": "461DF2PEB.38PI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1ed3126a/images/large/461DF2PEB.38PI_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-set-of-2-small-scrunchies-in-polyamide%2C-elastane-and-brass-with-gold-finish-461DF2PEB.38PI.html"
+    },
+    {
+      "code": "461GW6BZI.36SI",
+      "name": "Celine Bow Hair Clip in Strass and Brass with Rhodium Finish",
+      "details": "2.36IN Brass and CrystalsEngraved Celine Signature Clip Fastener Holding Spikes at the backReference : 461GW6BZI.36SI",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfdabbaea/images/large/461GW6BZI.36SI_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SILVER",
+          "size": null,
+          "price": "17604600",
+          "code": "461GW6BZI.36SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfdabbaea/images/large/461GW6BZI.36SI_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-bow-hair-clip-in-strass-and-brass-with-rhodium-finish-461GW6BZI.36SI.html"
+    },
+    {
+      "code": "46Y856IAS.01AV",
+      "name": "Celine Large Hair Claw in Acetate",
+      "details": "Hair claw dimensions: 1.89 x 2.76 x 1.54 IN (4.8 x 7 x 3.9 CM)Acetate and SteelNickel FreeCeline Paris Signature EngravedReference : 46Y856IAS.01AV",
+      "description": "",
+      "price": "13858900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7c1b3408/images/large/46Y856IAS.01AV_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "IVORY",
+          "size": null,
+          "price": "13858900",
+          "code": "46Y856IAS.01AV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7c1b3408/images/large/46Y856IAS.01AV_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "DARK HAVANA",
+          "size": null,
+          "price": "13858900",
+          "code": "46Y856CST.19DT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw39769e17/images/large/46Y856CST.19DT_1_SP22_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PASTEL PINK",
+          "size": null,
+          "price": "13858900",
+          "code": "46Y856PES.24PP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7352507d/images/large/46Y856PES.24PP_1_FW24_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-large-hair-claw-in-acetate-46Y856IAS.01AV.html"
+    },
+    {
+      "code": "46Y856AST.03ND",
+      "name": "Triomphe Large Hair Claw in Acetate",
+      "details": "Hair claw dimensions: 1.89 x 2.76 x 1.54 IN (4.8 x 7 x 3.9 CM)Acetate and SteelEngraved Celine Paris Signature Reference : 46Y856AST.03ND",
+      "description": "",
+      "price": "13858900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw68e807ba/images/large/46Y856AST.03ND_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NUDE",
+          "size": null,
+          "price": "13858900",
+          "code": "46Y856AST.03ND",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw68e807ba/images/large/46Y856AST.03ND_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/triomphe-large-hair-claw-in-acetate-46Y856AST.03ND.html"
+    },
+    {
+      "code": "460IB6ZAS.35OR",
+      "name": "Celine Medium Hair Claw in Zamak",
+      "details": "Hair claw dimensions: 1.22 X 1.37 X 0.9 IN (3.1 x 3.5 x 2.3 CM )Zamak and SteelNickel FreeCeline Paris Signature EngravedInner Holding SpikesReference : 460IB6ZAS.35OR",
+      "description": "",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf009cf64/images/large/460IB6ZAS.35OR_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "14608100",
+          "code": "460IB6ZAS.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf009cf64/images/large/460IB6ZAS.35OR_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-medium-hair-claw-in-zamak-460IB6ZAS.35OR.html"
+    },
+    {
+      "code": "46Y846BSL.35OR",
+      "name": "Celine Set of 3 Mini Hair Claws in Brass with Gold Finish and Steel",
+      "details": "Dimensions: 0.71 x 0.63 x 0.51 IN (1.8 x 1.6 x 1.3 CM)Brass and SteelNickel FreeCeline Paris Signature EngravedReference : 46Y846BSL.35OR",
+      "description": "",
+      "price": "13858900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6d7884cc/images/large/46Y846BSL.35OR_1_SP22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "13858900",
+          "code": "46Y846BSL.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6d7884cc/images/large/46Y846BSL.35OR_1_SP22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-set-of-3-mini-hair-claws-in-brass-with-gold-finish-and-steel-46Y846BSL.35OR.html"
+    },
+    {
+      "code": "46Y846SLB.36SI",
+      "name": "Celine Set of 3 Mini Hair Claws in Brass with Rhodium Finish and Steel",
+      "details": "Dimensions: 0.71 x 0.63 x 0.51 IN (1.8 x 1.6 x 1.3 CM)Steel and BrassNickel FreeCeline Paris Signature EngravedReference : 46Y846SLB.36SI",
+      "description": "",
+      "price": "13858900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa34ee643/images/large/46Y846SLB.36SI_1_WIN22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SILVER",
+          "size": null,
+          "price": "13858900",
+          "code": "46Y846SLB.36SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa34ee643/images/large/46Y846SLB.36SI_1_WIN22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/hair-accessories/celine-set-of-3-mini-hair-claws-in-brass-with-rhodium-finish-and-steel-46Y846SLB.36SI.html"
+    }
+  ]
 }

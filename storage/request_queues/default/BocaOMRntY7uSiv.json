@@ -1,0 +1,23 @@
+{
+  "id": "BocaOMRntY7uSiv",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/stole-in-monogram-cashmere-muslin-2awf0174y.02et.html",
+  "order_no": "1742183643229.801000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/stole-in-monogram-cashmere-muslin-2AWF0174Y.02ET.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/textile-accessories/beanies-and-scarves/stole-in-monogram-cashmere-muslin-2awf0174y.02et.html",
+    "id": "BocaOMRntY7uSiv"
+  }
+}

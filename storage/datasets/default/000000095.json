@@ -1,4 +1,412 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "461JW6RPB.01GI",
+      "name": "Les Perles Celine Brooch in Strass, Resin Pearls, Brass with Gold Finish and Steel",
+      "details": "Brass, Resin Pearls, Strass and SteelNickel FreeReference : 461JW6RPB.01GI",
+      "description": "",
+      "price": "22099400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb2b36bff/images/large/461JW6RPB.01GI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / IVORY",
+          "size": null,
+          "price": "22099400",
+          "code": "461JW6RPB.01GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb2b36bff/images/large/461JW6RPB.01GI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/les-perles-celine/les-perles-celine-brooch-in-strass%2C-resin-pearls%2C-brass-with-gold-finish-and-steel-461JW6RPB.01GI.html"
+    },
+    {
+      "code": "461JX6RPS.01GI",
+      "name": "Les Perles Celine Ring in Strass, Resin Pearls and Brass with Gold Finish",
+      "details": "Total length 0.8 IN (2 CM)Brass, Strass and Resin PearlsNickel FreeEngraved Celine SignatureReference : 461JX6RPS.01GI",
+      "description": "",
+      "price": "16855500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwba460531/images/large/461JX6RPS.01GI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / IVORY",
+          "size": null,
+          "price": "16855500",
+          "code": "461JX6RPS.01GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwba460531/images/large/461JX6RPS.01GI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/les-perles-celine/les-perles-celine-ring-in-strass%2C-resin-pearls-and-brass-with-gold-finish-461JX6RPS.01GI.html"
+    },
+    {
+      "code": "461JY6RPS.01GI",
+      "name": "Les Perles Celine Studs in Strass, Resin Pearls and Brass with Gold Finish",
+      "details": "Total length 0.5 IN (1.2 CM)Brass, Strass and Resin PearlsNickel FreeEngraved Celine SignatureFor pierced earsReference : 461JY6RPS.01GI",
+      "description": "",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8c4a7c84/images/large/461JY6RPS.01GI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / IVORY",
+          "size": null,
+          "price": "18353700",
+          "code": "461JY6RPS.01GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8c4a7c84/images/large/461JY6RPS.01GI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/les-perles-celine/les-perles-celine-studs-in-strass%2C-resin-pearls-and-brass-with-gold-finish-461JY6RPS.01GI.html"
+    },
+    {
+      "code": "461FM6PRB.01GI",
+      "name": "Les Perles Celine Maillon Earrings in Brass with Gold Finish and Resin Pearls",
+      "details": "Brass and Resin PearlNickel FreeEngraved Celine Paris SignatureClip SystemReference : 461FM6PRB.01GI",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc7727a26/images/large/461FM6PRB.01GI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / IVORY",
+          "size": null,
+          "price": "17604600",
+          "code": "461FM6PRB.01GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc7727a26/images/large/461FM6PRB.01GI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/les-perles-celine-maillon-earrings-in-brass-with-gold-finish-and-resin-pearls-461FM6PRB.01GI.html"
+    },
+    {
+      "code": "461FK6PRB.01GI",
+      "name": "Les Perles Celine Maillon Necklace in Brass with Gold Finish and Resin Pearls",
+      "details": "Total length 16 IN (40.5 CM)Brass and Resin PearlNickel FreeEngraved Celine Paris SignatureConcealed Clasp Link ClosureReference : 461FK6PRB.01GI",
+      "description": "",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw52cdd99e/images/large/461FK6PRB.01GI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / IVORY",
+          "size": null,
+          "price": "33336300",
+          "code": "461FK6PRB.01GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw52cdd99e/images/large/461FK6PRB.01GI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/necklaces/les-perles-celine-maillon-necklace-in-brass-with-gold-finish-and-resin-pearls-461FK6PRB.01GI.html"
+    },
+    {
+      "code": "461GZ6PRB.01GI",
+      "name": "Les Perles Celine Necklace in Resin Pearl and Brass with Gold Finish",
+      "details": "Total length 16.5 IN (42 CM) ADJUSTABLE TO 15.8 IN (40 CM)Additional Adjustement Ring at 15 IN (38 CM)Brass and Resin PearlNickel FreeEngraved Celine Paris SignatureSnap HookReference : 461GZ6PRB.01GI",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9d2d8621/images/large/461GZ6PRB.01GI_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / IVORY",
+          "size": null,
+          "price": "15731800",
+          "code": "461GZ6PRB.01GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw9d2d8621/images/large/461GZ6PRB.01GI_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/the-perfect-gift/les-perles-celine-necklace-in-resin-pearl-and-brass-with-gold-finish-461GZ6PRB.01GI.html"
+    },
+    {
+      "code": "461HA6PRB.01GI",
+      "name": "Les Perles Celine Bracelet in Resin Pearl and Brass with Gold Finish",
+      "details": "Total length 6.7 IN (17 CM) ADJUSTABLE TO 6.3 IN (16 CM)Additional Adjustement Ring at 5.9 IN (15 CM)Brass and Resin PearlNickel FreeEngraved Celine Paris SignatureSnap HookReference : 461HA6PRB.01GI",
+      "description": "",
+      "price": "13858900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw86cb828c/images/large/461HA6PRB.01GI_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / IVORY",
+          "size": null,
+          "price": "13858900",
+          "code": "461HA6PRB.01GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw86cb828c/images/large/461HA6PRB.01GI_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/the-perfect-gift/les-perles-celine-bracelet-in-resin-pearl-and-brass-with-gold-finish-461HA6PRB.01GI.html"
+    },
+    {
+      "code": "461JD6RPS.01GI",
+      "name": "Les Perles Celine Necklace in Strass, Resin Pearls and Brass with Gold Finish",
+      "details": "Total length 16.5 IN (42 CM) ADJUSTABLE TO 15.8 IN (40 CM)Additional Adjustement Ring at 15 IN (38 CM)Brass, Strass and Resin PearlsNickel FreeEngraved Celine Paris SignatureSnap HookReference : 461JD6RPS.01GI",
+      "description": "",
+      "price": "18363600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6b690d1d/images/large/461JD6RPS.01GI_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / IVORY",
+          "size": null,
+          "price": "18363600",
+          "code": "461JD6RPS.01GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6b690d1d/images/large/461JD6RPS.01GI_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/les-perles-celine/les-perles-celine-necklace-in-strass%2C-resin-pearls-and-brass-with-gold-finish-461JD6RPS.01GI.html"
+    },
+    {
+      "code": "461JE6RPS.01GI",
+      "name": "Les Perles Celine Bracelet in Resin Pearls, Strass and Brass with Gold Finish",
+      "details": "Total length 6.7 IN (17 CM) ADJUSTABLE TO 6.3 IN (16 CM)Additional Adjustable Ring at 5.9 IN (15 CM)Brass, Strass and Resin PearlsNickel FreeEngraved Celine Paris SignatureSnap HookReference : 461JE6RPS.01GI",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwab4fa43c/images/large/461JE6RPS.01GI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / IVORY",
+          "size": null,
+          "price": "15731800",
+          "code": "461JE6RPS.01GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwab4fa43c/images/large/461JE6RPS.01GI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/new/les-perles-celine-bracelet-in-resin-pearls%2C-strass-and-brass-with-gold-finish-461JE6RPS.01GI.html"
+    },
+    {
+      "code": "461MJ6PRB.01GI",
+      "name": "Les Perles Celine Sautoir in Resin Pearls and Brass with Gold Finish",
+      "details": "Total length 41.3 IN (105 CM) ADJUSTABLE TO 39.4 IN (100 CM)Additional Adjustement Ring at 37.4 IN (95 CM)Brass and Resin PearlNickel FreeEngraved Celine Paris SignatureSnap HookReference : 461MJ6PRB.01GI",
+      "description": "",
+      "price": "33336300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw86e58d61/images/large/461MJ6PRB.01GI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / IVORY",
+          "size": null,
+          "price": "33336300",
+          "code": "461MJ6PRB.01GI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw86e58d61/images/large/461MJ6PRB.01GI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/les-perles-celine/les-perles-celine-sautoir-in-resin-pearls-and-brass-with-gold-finish-461MJ6PRB.01GI.html"
+    },
+    {
+      "code": "461MB6BRA.35OR",
+      "name": "Celine Heirlooms Médaille Sautoir in Brass with Gold Finish",
+      "details": "Total length 41.3 IN (105 CM) ADJUSTABLE TO 39.4 IN (100 CM)Additional Adjustement Ring at 37.4 IN (95 CM)BrassNickel FreeEngraved Celine Paris SignatureSnap HookReference : 461MB6BRA.35OR",
+      "description": "",
+      "price": "29981400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw41fe1eaa/images/large/461MB6BRA.35OR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "29981400",
+          "code": "461MB6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw41fe1eaa/images/large/461MB6BRA.35OR_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/celine-heirlooms-medaille-sautoir-in-brass-with-gold-finish-461MB6BRA.35OR.html"
+    },
+    {
+      "code": "461ME3CBC.18GC",
+      "name": "Les Cuirs Celine Josephine Bracelet in Calfskin and Brass with Gold Finish",
+      "details": "Brass and CalfskinNickel FreeEngraved Celine Paris SignatureReference : 461ME3CBC.18GC",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw82d1ca79/images/large/461ME3CBC.18GC_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD / CHESTNUT",
+          "size": null,
+          "price": "15731800",
+          "code": "461ME3CBC.18GC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw82d1ca79/images/large/461ME3CBC.18GC_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/les-cuirs-celine-josephine-bracelet-in-calfskin-and-brass-with-gold-finish-461ME3CBC.18GC.html"
+    },
+    {
+      "code": "461HD3LBS.28LB",
+      "name": "Celine Bangle in Lambskin",
+      "details": "LambskinNickel FreeEngraved Celine Paris SignatureReference : 461HD3LBS.28LB",
+      "description": "",
+      "price": "17230000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw57a2394e/images/large/461HD3LBS.28LB_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BURGUNDY",
+          "size": null,
+          "price": "17230000",
+          "code": "461HD3LBS.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw57a2394e/images/large/461HD3LBS.28LB_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "17230000",
+          "code": "461HD3LBS.03TN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw452833c9/images/large/461HD3LBS.03TN_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/celine-bangle-in-lambskin-461HD3LBS.28LB.html"
+    },
+    {
+      "code": "461HC6ALM.35OR",
+      "name": "Celine Bangle in Aluminium",
+      "details": "AluminiumNickel FreeEngraved Celine Paris SignatureReference : 461HC6ALM.35OR",
+      "description": "",
+      "price": "28467000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwead9e024/images/large/461HC6ALM.35OR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "28467000",
+          "code": "461HC6ALM.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwead9e024/images/large/461HC6ALM.35OR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/other-lines/celine-bangle-in-aluminium-461HC6ALM.35OR.html"
+    },
+    {
+      "code": "461EZ6BZI.35OR",
+      "name": "Triomphe Rhinestone Studs in Strass and Brass with Gold Finish",
+      "details": "Total length 0.44 IN (1.1 CM)Triomphe Rhinestone StudsEngraved Celine SignatureFor pierced earsReference : 461EZ6BZI.35OR",
+      "description": "",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfc9a5d09/images/large/461EZ6BZI.35OR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "14608100",
+          "code": "461EZ6BZI.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfc9a5d09/images/large/461EZ6BZI.35OR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-rhinestone-studs-in-strass-and-brass-with-gold-finish-461EZ6BZI.35OR.html"
+    },
+    {
+      "code": "461EZ6BZI.36SI",
+      "name": "Triomphe Rhinestone Studs in Strass and Brass with Rhodium Finish",
+      "details": "Total length 0.44 IN (1.1 CM)Brass and CrystalsNickel FreeEngraved Celine SignatureFor pierced earsReference : 461EZ6BZI.36SI",
+      "description": "",
+      "price": "14608100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw780396f4/images/large/461EZ6BZI.36SI_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SILVER",
+          "size": null,
+          "price": "14608100",
+          "code": "461EZ6BZI.36SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw780396f4/images/large/461EZ6BZI.36SI_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-rhinestone-studs-in-strass-and-brass-with-rhodium-finish-461EZ6BZI.36SI.html"
+    },
+    {
+      "code": "461CY6BRA.35OR",
+      "name": "Triomphe Studs in Brass with Gold Finish",
+      "details": "Total length 0.40 IN (1 CM)BrassNickel FreeEngraved Celine SignatureFor pierced earsReference : 461CY6BRA.35OR",
+      "description": "",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6e90e1ae/images/large/461CY6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "11986100",
+          "code": "461CY6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6e90e1ae/images/large/461CY6BRA.35OR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/triomphe-studs-in-brass-with-gold-finish-461CY6BRA.35OR.html"
+    },
+    {
+      "code": "461CY6BRA.36SI",
+      "name": "Triomphe Studs in Brass with Rhodium Finish",
+      "details": "Total length 0.40 IN (1 CM)BrassNickel FreeEngraved Celine SignatureFor pierced earsReference : 461CY6BRA.36SI",
+      "description": "",
+      "price": "11992600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4dffd181/images/large/461CY6BRA.36SI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "SILVER",
+          "size": null,
+          "price": "11992600",
+          "code": "461CY6BRA.36SI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4dffd181/images/large/461CY6BRA.36SI_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/triomphe-studs-in-brass-with-rhodium-finish-461CY6BRA.36SI.html"
+    },
+    {
+      "code": "461HE6BRA.35OR",
+      "name": "Cœur Celine Necklace in Brass with Gold Finish",
+      "details": "Total length 16.9 IN (43 CM) ADJUSTABLE TO 16.1 IN (41 CM)Additional Adjustement Ring at 15.36 IN (39 CM) and 14.6 IN (37 CM)BrassNickel FreeEngraved Celine Paris SignatureSnap HookReference : 461HE6BRA.35OR",
+      "description": "",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7600d26b/images/large/461HE6BRA.35OR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GOLD",
+          "size": null,
+          "price": "28092400",
+          "code": "461HE6BRA.35OR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7600d26b/images/large/461HE6BRA.35OR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/jewellery/triomphe/c%C5%93ur-celine-necklace-in-brass-with-gold-finish-461HE6BRA.35OR.html"
+    }
+  ]
 }

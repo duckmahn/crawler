@@ -1,4 +1,221 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "45BMB3A01.38NO",
+      "name": "CELINE JOSEPHINE BELT LARGE MODEL IN Taurillon Leather",
+      "details": "Taurillon 100% CALFSKINMiddle-Waist GOLD FINISHINGWIDTH : 1.2 IN (3 CM)METAL TURNLOCK WITH TRIOMPHEReference : 45BMB3A01.38NO",
+      "description": "",
+      "price": "20601100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw10e4c1df/images/large/45BMB3A01.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "20601100",
+          "code": "45BMB3A01.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw10e4c1df/images/large/45BMB3A01.38NO_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/celine-josephine-belt-large-model-in-taurillon-leather-45BMB3A01.38NO.html"
+    },
+    {
+      "code": "45BIZ3APD.04NR",
+      "name": "MEDIUM REVERSIBLE FRAMED TRIOMPHE BELT IN TAURILLON",
+      "details": "TAURILLONMiddle-Waist GOLD FINISHINGWIDTH : 1 IN (2.5 CM)FRAMED TRIOMPHE BUCKLEReference : 45BIZ3APD.04NR",
+      "description": "",
+      "price": "22099400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwafe75b4f/images/large/45BIZ3APD.04NR_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN / RICE",
+          "size": null,
+          "price": "22099400",
+          "code": "45BIZ3APD.04NR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwafe75b4f/images/large/45BIZ3APD.04NR_1_SUM25_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-reversible-framed-triomphe-belt-in-taurillon-45BIZ3APD.04NR.html"
+    },
+    {
+      "code": "45AK93A01.38NN",
+      "name": "Medium Triomphe Belt in Taurillon Leather",
+      "details": "TaurillonMiddle-WaistBlack FinishingWIDTH : 1 IN (2.5 CM)Triomphe Buckle with collar StudReference : 45AK93A01.38NN",
+      "description": "",
+      "price": "19477400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw79477d26/images/large/45AK93A01.38NN_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / BLACK",
+          "size": null,
+          "price": "19477400",
+          "code": "45AK93A01.38NN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw79477d26/images/large/45AK93A01.38NN_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "CHESTNUT",
+          "size": null,
+          "price": "19477400",
+          "code": "45AK93A01.18CS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw81c7f221/images/large/45AK93A01.18CS_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "GLAZED BROWN",
+          "size": null,
+          "price": "19477400",
+          "code": "45AK93A01.19BG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw678c1381/images/large/45AK93A01.19BG_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PEBBLE",
+          "size": null,
+          "price": "19477400",
+          "code": "45AK93A01.10BL",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4b95fc06/images/large/45AK93A01.10BL_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "RICE",
+          "size": null,
+          "price": "19487900",
+          "code": "45AK93A01.01RC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw79c18a01/images/large/45AK93A01.01RC_1_SPR25_P1_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-triomphe-belt-in-taurillon-leather-45AK93A01.38NN.html"
+    },
+    {
+      "code": "45AK93A01.18AE",
+      "name": "Medium Triomphe Belt IN Taurillon Leather",
+      "details": "Taurillon 100% CALFSKINMiddle-Waist GOLD FINISHINGWIDTH : 1 IN (2.5 CM)Triomphe Buckle with collar StudReference : 45AK93A01.18AE",
+      "description": "",
+      "price": "19477400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8d9cab2a/images/large/45AK93A01.18AE_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Smoked Brown",
+          "size": null,
+          "price": "19477400",
+          "code": "45AK93A01.18AE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8d9cab2a/images/large/45AK93A01.18AE_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/medium-triomphe-belt-in-taurillon-leather-45AK93A01.18AE.html"
+    },
+    {
+      "code": "45AX63A01.18CS",
+      "name": "Small Triomphe Belt in Taurillon Leather",
+      "details": "TaurillonMiddle-WaistGOLD FINISHINGWIDTH : 0.7 IN (1.8 CM)Triomphe Buckle with collar studReference : 45AX63A01.18CS",
+      "description": "",
+      "price": "17604600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6500e4f5/images/large/45AX63A01.18CS_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CHESTNUT",
+          "size": null,
+          "price": "17604600",
+          "code": "45AX63A01.18CS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6500e4f5/images/large/45AX63A01.18CS_1_FW23_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "GLAZED BROWN",
+          "size": null,
+          "price": "17604600",
+          "code": "45AX63A01.19BG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw79e8de32/images/large/45AX63A01.19BG_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PAMPA",
+          "size": null,
+          "price": "17604600",
+          "code": "45AX63A01.02PP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dweeff783c/images/large/45AX63A01.02PP_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/triomphe/small-triomphe-belt-in-taurillon-leather-45AX63A01.18CS.html"
+    },
+    {
+      "code": "45BBQ3A01.38NO",
+      "name": "ELEGANT CHARM BELT in Taurillon Leather",
+      "details": "TaurillonMiddle-WaistGOLD FINISHINGWIDTH : 0.7 IN (1.8 CM)RECTANGULAR BUCKLETWO THIN METAL LOOPSTRIOMPHE CHARM ON THE SECOND LOOPReference : 45BBQ3A01.38NO",
+      "description": "",
+      "price": "16106300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw14fc60cb/images/large/45BBQ3A01.38NO_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "16106300",
+          "code": "45BBQ3A01.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw14fc60cb/images/large/45BBQ3A01.38NO_1_FW24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/elegant-charm-belt-in-taurillon-leather-45BBQ3A01.38NO.html"
+    },
+    {
+      "code": "45BBQ3A78.04LU",
+      "name": "ELEGANT CHARM BELT in Natural Calfskin",
+      "details": "CalfskinMiddle-WaistGold finishingWIDTH : 0.7 IN (1.8 CM)RECTANGULAR BUCKLETWO THIN METAL LOOPSTRIOMPHE CHARM ON THE SECOND LOOPReference : 45BBQ3A78.04LU",
+      "description": "",
+      "price": "16106300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef4958c6/images/large/45BBQ3A78.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "16106300",
+          "code": "45BBQ3A78.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef4958c6/images/large/45BBQ3A78.04LU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/other-lines/elegant-charm-belt-in-natural-calfskin-45BBQ3A78.04LU.html"
+    },
+    {
+      "code": "45AXD4A12.19DK",
+      "name": "WESTERN ELEGANT BELT IN Crocodile",
+      "details": "CrocodileCalfskin LiningMiddle-WaistGOLD FINISHINGWIDTH : 0.7 IN (1.8 CM)WESTERN BUCKLEReference : 45AXD4A12.19DK",
+      "description": "",
+      "price": "56184700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0fbf5d22/images/large/45AXD4A12.19DK_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "DARK BROWN",
+          "size": null,
+          "price": "56184700",
+          "code": "45AXD4A12.19DK",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0fbf5d22/images/large/45AXD4A12.19DK_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/belts/western/western-elegant-belt-in-crocodile-45AXD4A12.19DK.html"
+    }
+  ]
 }

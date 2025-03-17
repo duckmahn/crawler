@@ -1,4 +1,276 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "2X54H939T.17BR",
+      "name": "triangle top in monogram matte jersey",
+      "details": "62% POLYAMIDE 38% ELASTANELINING 76% POLYAMIDE 24% ELASTANEclassic fittriomphe links on the front and strapstie closures with triomphe agletsmade in FranceReference : 2X54H939T.17BR",
+      "description": "triangle top with triomphe metalwork in monogram matte jersey",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6eec0177/images/large/2X54H939T.17BR_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TOFFEE / BROWN",
+          "size": null,
+          "price": "18353700",
+          "code": "2X54H939T.17BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6eec0177/images/large/2X54H939T.17BR_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triangle-top-in-monogram-matte-jersey-2X54H939T.17BR.html"
+    },
+    {
+      "code": "2Z273939T.17BR",
+      "name": "swimsuit bottom in monogram matte jersey",
+      "details": "62% polyamide 38% elastanelining 76% polyamide 24% elastaneclassic fitlow-risetie closures on the side with triomphe agletsMade in FranceReference : 2Z273939T.17BR",
+      "description": "swimsuit bottom with triomphe metalwork in monogram matte jersey",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdb2962f2/images/large/2Z273939T.17BR_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TOFFEE / BROWN",
+          "size": null,
+          "price": "18353700",
+          "code": "2Z273939T.17BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdb2962f2/images/large/2Z273939T.17BR_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-bottom-in-monogram-matte-jersey-2Z273939T.17BR.html"
+    },
+    {
+      "code": "2X16F939T.17BR",
+      "name": "triangle top in monogram jersey",
+      "details": "62% polyamide 32% elastanelining 76% polyamide 24% elastaneclassic fittriomphe gourmette chains on the fronttie closures on the back with triomphe agletsmade in FranceReference : 2X16F939T.17BR",
+      "description": "triangle top with triomphe gourmette chain in monogram matte jersey",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw41d590db/images/large/2X16F939T.17BR_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TOFFEE / BROWN",
+          "size": null,
+          "price": "18353700",
+          "code": "2X16F939T.17BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw41d590db/images/large/2X16F939T.17BR_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triangle-top-in-monogram-jersey-2X16F939T.17BR.html"
+    },
+    {
+      "code": "2Z220939T.17BR",
+      "name": "SWIMSUIT BOTTOM IN MONOGRAM JERSEY",
+      "details": "62% polyamide 32% elastanelining 76% polyamide 24% elastaneclassic fitlow-risetriomphe gourmette chainsmade in FranceReference : 2Z220939T.17BR",
+      "description": "swimsuit bottom with triomphe gourmette chains in monogram matte jersey",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7245cb58/images/large/2Z220939T.17BR_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TOFFEE / BROWN",
+          "size": null,
+          "price": "18353700",
+          "code": "2Z220939T.17BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7245cb58/images/large/2Z220939T.17BR_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-bottom-in-monogram-jersey-2Z220939T.17BR.html"
+    },
+    {
+      "code": "2X24M260Y.19LE",
+      "name": "triomphe triangle top in matte jersey",
+      "details": "76% POLYAMIDE 24% ELASTANELINING 76% POLYAMIDE 24% ELASTANESECONDARY MATERIAL 72% POLYAMIDE 28% ELASTANEclassic fittriomphe gourmette chain on the fronttie closures with triomphe agletsmade in PortugalReference : 2X24M260Y.19LE",
+      "description": "triangle top with triomphe gourmette chain in mini leopard print matte jersey",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe6e2a564/images/large/2X24M260Y.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "18353700",
+          "code": "2X24M260Y.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe6e2a564/images/large/2X24M260Y.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "15731800",
+          "code": "2X33M152C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb136c35a/images/large/2X33M152C.38NO_1_SS24_P2_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triomphe-triangle-top-in-matte-jersey-2X24M260Y.19LE.html"
+    },
+    {
+      "code": "2Z695260Y.19LE",
+      "name": "triomphe swimsuit bottom in matte jersey",
+      "details": "72% POLYAMIDE 28% ELASTANELINING 72% POLYAMIDE 28% ELASTANEclassic fitlow-risetriomphe gourmette chainsmade in PortugalReference : 2Z695260Y.19LE",
+      "description": "swimsuit bottom with triomphe gourmette chains in mini leopard print matte jersey",
+      "price": "18353700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdbdc98e3/images/large/2Z695260Y.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "18353700",
+          "code": "2Z695260Y.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdbdc98e3/images/large/2Z695260Y.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "15731800",
+          "code": "2Z697152C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwfe28f975/images/large/2Z697152C.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "LIGHT TAUPE",
+          "size": null,
+          "price": "15731800",
+          "code": "2Z695152C.18LT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbf47b6b4/images/large/2Z695152C.18LT_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "15731800",
+          "code": "2Z273152C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw039431d9/images/large/2Z273152C.38NO_1_SUM23_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triomphe-swimsuit-bottom-in-matte-jersey-2Z695260Y.19LE.html"
+    },
+    {
+      "code": "2Z220152C.38NO",
+      "name": "TRIOMPHE SWIMSUIT BOTTOM IN MATTE JERSEY",
+      "details": "76% POLYAMIDE 24% ELASTANELINING 76% POLYAMIDE 24% ELASTANEclassic fitlow-risetriomphe gourmette chainsmade in FranceReference : 2Z220152C.38NO",
+      "description": "SWIMSUIT BOTTOM WITH TRIOMPHE GOURMETTE CHAINS IN MATTE JERSEY",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7d80de3f/images/large/2Z220152C.38NO_1_FALL22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "15731800",
+          "code": "2Z220152C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7d80de3f/images/large/2Z220152C.38NO_1_FALL22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triomphe-swimsuit-bottom-in-matte-jersey-2Z220152C.38NO.html"
+    },
+    {
+      "code": "2Z306939T.17BR",
+      "name": "SWIMSUIT IN MONOGRAM JERSEY",
+      "details": "62% polyamide 32% elastanelining 76% polyamide 24% elastaneclassic fitcrossover V-necktie closures on the back with triomphe metalwork agletsmade in FranceReference : 2Z306939T.17BR",
+      "description": "one-piece v-neck swimsuit with triomphe metalwork in monogram matte jersey",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdf1c13b0/images/large/2Z306939T.17BR_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TOFFEE / BROWN",
+          "size": null,
+          "price": "28092400",
+          "code": "2Z306939T.17BR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdf1c13b0/images/large/2Z306939T.17BR_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-in-monogram-jersey-2Z306939T.17BR.html"
+    },
+    {
+      "code": "2Z692152C.38NO",
+      "name": "triomphe swimsuit in matte jersey",
+      "details": "76% POLYAMIDE 24% ELASTANELINING 76% POLYAMIDE 24% ELASTANEclassic fitplunging V-neckline and cutouts with triomphe ringtie closures on the neck with triomphe agletsmade in FranceReference : 2Z692152C.38NO",
+      "description": "one-piece swimsuit with triomphe ring in matte jersey",
+      "price": "25845000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw18c9d41c/images/large/2Z692152C.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "25845000",
+          "code": "2Z692152C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw18c9d41c/images/large/2Z692152C.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "25845000",
+          "code": "2Z548152C.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw589698c1/images/large/2Z548152C.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triomphe-swimsuit-in-matte-jersey-2Z692152C.38NO.html"
+    },
+    {
+      "code": "2Z693260Y.19LE",
+      "name": "swimsuit in leopard print matte jersey",
+      "details": "72% POLYAMIDE 28% ELASTANELINING 72% POLYAMIDE 28% ELASTANEclassic fitteardrop neckline with triomphe gourmette chaincrossover front haltertie closures on the neck with triomphe agletsmade in FranceReference : 2Z693260Y.19LE",
+      "description": "one-piece swimsuit with triomphe gourmette chain in mini leopard print matte jersey",
+      "price": "29590700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw61adf7e4/images/large/2Z693260Y.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LEOPARD",
+          "size": null,
+          "price": "29590700",
+          "code": "2Z693260Y.19LE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw61adf7e4/images/large/2Z693260Y.19LE_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/swimsuit-in-leopard-print-matte-jersey-2Z693260Y.19LE.html"
+    },
+    {
+      "code": "2X69J248X.01CQ",
+      "name": "triomphe bustier in striped jersey",
+      "details": "69% POLYESTER 21% POLYAMIDE 10% ELASTANELINING 76% POLYAMIDE 24% ELASTANEclassic fitbustier constructiontriomphe rivet on the frontside zipmade in FranceReference : 2X69J248X.01CQ",
+      "description": "bustier with triomphe signature in striped textured jersey",
+      "price": "20601100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1e0958a4/images/large/2X69J248X.01CQ_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CRAIE/NAVY",
+          "size": null,
+          "price": "20601100",
+          "code": "2X69J248X.01CQ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw1e0958a4/images/large/2X69J248X.01CQ_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/swimwear-and-lingerie/triomphe-bustier-in-striped-jersey-2X69J248X.01CQ.html"
+    }
+  ]
 }

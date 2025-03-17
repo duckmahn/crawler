@@ -1,0 +1,23 @@
+{
+  "id": "qPvjD1UBelbRVo9",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/margo/wallet-on-chain-margo-in-lizard-10l034eb4.31an.html",
+  "order_no": "1742182326386.593000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/margo/wallet-on-chain-margo-in-lizard-10L034EB4.31AN.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/margo/wallet-on-chain-margo-in-lizard-10l034eb4.31an.html",
+    "id": "qPvjD1UBelbRVo9"
+  }
+}

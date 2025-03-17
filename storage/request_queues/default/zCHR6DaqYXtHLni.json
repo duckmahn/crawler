@@ -1,0 +1,23 @@
+{
+  "id": "zCHR6DaqYXtHLni",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/teen-couffin-in-wicker-and-natural-calfskin-116572fwe.02nt.html",
+  "order_no": "1742181701979.103000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/teen-couffin-in-wicker-and-natural-calfskin-116572FWE.02NT.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/classic-panier/teen-couffin-in-wicker-and-natural-calfskin-116572fwe.02nt.html",
+    "id": "zCHR6DaqYXtHLni"
+  }
+}

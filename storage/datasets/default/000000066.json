@@ -1,4 +1,412 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "RC02D008D.01AV",
+      "name": "mia shirt in silk crêpe and acetate",
+      "details": "69% acetate 31% silktriomphe embroideryclassic fitdrugstore collar with frillsbuttoned cuffs8 covered buttons1 covered button on the cuffsrounded hemmade in PortugalReference: RC02D008D.01AV",
+      "description": "",
+      "price": "46820600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw474a1984/images/large/RC02D008D.01AV_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "IVORY",
+          "size": null,
+          "price": "46820600",
+          "code": "RC02D008D.01AV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw474a1984/images/large/RC02D008D.01AV_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/mia-shirt-in-silk-crepe-and-acetate-RC02D008D.01AV.html"
+    },
+    {
+      "code": "2B09B200Z.38CE",
+      "name": "blouse with overturned collar in silk georgette",
+      "details": "100% silkclassic fitoverturned collarcentral back zip and hook-and-eye closure1 Celine Paris-engraved button on the cuffsmade in ItalyReference : 2B09B200Z.38CE",
+      "description": "blouse with overturned collar Iin polka dot print silk georgette",
+      "price": "48318900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcbdce8a7/images/large/2B09B200Z.38CE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NOIR/CRAIE",
+          "size": null,
+          "price": "48318900",
+          "code": "2B09B200Z.38CE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcbdce8a7/images/large/2B09B200Z.38CE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/blouse-with-overturned-collar-in-silk-georgette-2B09B200Z.38CE.html"
+    },
+    {
+      "code": "2B60B118Z.38CE",
+      "name": "lavaliere blouse with bow in silk",
+      "details": "100% silkclassic fitlavaliere collar with bowcentral back zip and hook-and-eye closure1 Celine Paris-engraved button on the cuffmade in PortugalReference : 2B60B118Z.38CE",
+      "description": "blouse with lavaliere collar and bow and Triomphe wallpaper check print silk",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbbf57598/images/large/2B60B118Z.38CE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NOIR/CRAIE",
+          "size": null,
+          "price": "50566300",
+          "code": "2B60B118Z.38CE",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwbbf57598/images/large/2B60B118Z.38CE_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/lavaliere-blouse-with-bow-in-silk-2B60B118Z.38CE.html"
+    },
+    {
+      "code": "2B1040632.12RN",
+      "name": "lavallière blouse in crêpe de chine",
+      "details": "100% silkclassic fitlavallière collarbuttoned cuffs7 celine-engraved mother-of-pearl buttons2 celine-engraved mother-of-pearl button on the cuffsmade in ItalyReference : 2B1040632.12RN",
+      "description": "lavallière collar blouse in triomphe print crêpe de chine",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw999842e8/images/large/2B1040632.12RN_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Crème/Noir",
+          "size": null,
+          "price": "50566300",
+          "code": "2B1040632.12RN",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw999842e8/images/large/2B1040632.12RN_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/lavalliere-blouse-in-crepe-de-chine-2B1040632.12RN.html"
+    },
+    {
+      "code": "2B59B336Z.12CS",
+      "name": "lavaliere blouse with bow in silk twill",
+      "details": "100% silkclassic fitlavaliere collar with bow on the sidecentral back zip and hook-and-eye closure1 Celine Paris-engraved button on the cuffmade in ItalyReference : 2B59B336Z.12CS",
+      "description": "Blouse with lavaliere collar, side bow in charm heritage print silk twill",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4acad762/images/large/2B59B336Z.12CS_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CREME/ARGENT",
+          "size": null,
+          "price": "50566300",
+          "code": "2B59B336Z.12CS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw4acad762/images/large/2B59B336Z.12CS_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/lavaliere-blouse-with-bow-in-silk-twill-2B59B336Z.12CS.html"
+    },
+    {
+      "code": "2B769913S.01EM",
+      "name": "draped neck blouse with rhinestones in lightweight sablé",
+      "details": "100% silklining 53% acetate 47% viscose classic fithigh collar draped to the sidebuttoned cuffscentral back zip and hook-and-eye closure 1 celine-engraved mother-of-pearl button on the cuffsmade in FranceReference : 2B769913S.01EM",
+      "description": "draped neck blouse with rhinestones in lightweight sablé",
+      "price": "67421700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb3caa630/images/large/2B769913S.01EM_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CREAM",
+          "size": null,
+          "price": "67421700",
+          "code": "2B769913S.01EM",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb3caa630/images/large/2B769913S.01EM_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/draped-neck-blouse-with-rhinestones-in-lightweight-sable-2B769913S.01EM.html"
+    },
+    {
+      "code": "2B86B406Z.12CR",
+      "name": "blouse with maxi bow in silk",
+      "details": "100% silkclassic fitmaxi bow collarcentral back zip and hook-and-eye closure1 Triomphe button on the cuffmade in FranceReference : 2B86B406Z.12CR",
+      "description": "blouse with maxi bow in Marrakesh silk",
+      "price": "59962800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw52c8bf23/images/large/2B86B406Z.12CR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CREME",
+          "size": null,
+          "price": "59962800",
+          "code": "2B86B406Z.12CR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw52c8bf23/images/large/2B86B406Z.12CR_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/blouse-with-maxi-bow-in-silk-2B86B406Z.12CR.html"
+    },
+    {
+      "code": "2C14C398Z.12CU",
+      "name": "Romy lavaliere shirt in silk twill",
+      "details": "100% silkclassic fitlavaliere collarbuttoned cuffs6 covered buttons1 covered button on the cuffsrounded hemMade in ItalyReference : 2C14C398Z.12CU",
+      "description": "Romy shirt with lavaliere collar and heritage chain print in silk twill",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8705c270/images/large/2C14C398Z.12CU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CREME/MULTICOLORE",
+          "size": null,
+          "price": "50566300",
+          "code": "2C14C398Z.12CU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw8705c270/images/large/2C14C398Z.12CU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/romy-lavaliere-shirt-in-silk-twill-2C14C398Z.12CU.html"
+    },
+    {
+      "code": "2C90A008D.01AV",
+      "name": "frilled romy shirt in silk crepe and acetate",
+      "details": "69% ACETATE 31% SILKclassic fitcrew neck with tie closurespleated plastron with embroidered fish scale trimsbuttoned cuffs6 mother-of-pearl buttons12 mother-of-pearl buttons on the cuffsrounded hemmade in PortugalReference : 2C90A008D.01AV",
+      "description": "romy shirt with frilled plastron in silk crepe and acetate",
+      "price": "48318900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw52522c40/images/large/2C90A008D.01AV_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "IVORY",
+          "size": null,
+          "price": "48318900",
+          "code": "2C90A008D.01AV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw52522c40/images/large/2C90A008D.01AV_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/frilled-romy-shirt-in-silk-crepe-and-acetate-2C90A008D.01AV.html"
+    },
+    {
+      "code": "RB00I0661.12CR",
+      "name": "cropped blouse in muslin, cotton and wool",
+      "details": "56% cotton 30% wool 14% polyesterlining 100% woolclassic fitcropped lengthhigh collar with frillscentral back zip and hook-and-eye closure2 snap buttons on the cuffsmade in ItalyReference: RB00I0661.12CR",
+      "description": "cropped frilled collar blouse in openwork muslin, cotton and wool",
+      "price": "71167300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5dfea4f7/images/large/RB00I0661.12CR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CREME",
+          "size": null,
+          "price": "71167300",
+          "code": "RB00I0661.12CR",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5dfea4f7/images/large/RB00I0661.12CR_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/cropped-blouse-in-muslin%2C-cotton-and-wool-RB00I0661.12CR.html"
+    },
+    {
+      "code": "2C02B455W.01RD",
+      "name": "embroidered romy shirt in cotton muslin",
+      "details": "100% COTTONtriomphe broderie anglaise on the plastronclassic fithigh collartriomphe embroidered fish scale trims on the collar and front panelbuttoned cuffs4 mother-of-pearl buttons1 mother-of-pearl button on the cuffsrounded hemmade in PortugalReference : 2C02B455W.01RD",
+      "description": "romy shirt with triomphe broderie anglaise plastron in cotton muslin",
+      "price": "54311900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3066229e/images/large/2C02B455W.01RD_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CRAIE",
+          "size": null,
+          "price": "54311900",
+          "code": "2C02B455W.01RD",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3066229e/images/large/2C02B455W.01RD_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/embroidered-romy-shirt-in-cotton-muslin-2C02B455W.01RD.html"
+    },
+    {
+      "code": "2B79A008D.01AV",
+      "name": "blouse with Claudine collar in silk crepe and acetate",
+      "details": "69% acetate 31% silkclassic fitClaudine collar with tie closurepleated front panelshort puffed sleeves7 gold-toned Triomphe covered buttons1 gold-toned Triomphe button on the cuffmade in PortugalReference : 2B79A008D.01AV",
+      "description": "blouse with Claudine collar and bow in silk crepe and acetate",
+      "price": "44573200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw68c2b9fe/images/large/2B79A008D.01AV_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "IVORY",
+          "size": null,
+          "price": "44573200",
+          "code": "2B79A008D.01AV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw68c2b9fe/images/large/2B79A008D.01AV_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/blouse-with-claudine-collar-in-silk-crepe-and-acetate-2B79A008D.01AV.html"
+    },
+    {
+      "code": "2C7490750.CBA2",
+      "name": "oversized shirt in striped cotton poplin",
+      "details": "100% cottontriomphe embroideryoversized fitdrugstore collar1 patch pocket on the chestbuttoned cuffs7 mother-of-pearl buttons1 mother-of-pearl button on the cuffsmade in ItalyReference: 2C7490750.CBA2",
+      "description": "oversized drugstore collar shirt with triomphe embroidery in tokyo striped cotton poplin",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcd583ea6/images/large/2C7490750.CBA2_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CHAMBRAY/CHALK/DARK BROWN",
+          "size": null,
+          "price": "35583700",
+          "code": "2C7490750.CBA2",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcd583ea6/images/large/2C7490750.CBA2_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/oversized-shirt-in-striped-cotton-poplin-2C7490750.CBA2.html"
+    },
+    {
+      "code": "2C775602P.01CX",
+      "name": "oversized shirt in striped chambray cotton",
+      "details": "100% COTTONSECONDARY MATERIAL 100% COTTONtriomphe embroideryoversized fitcontrasting drugstore collar1 patch pocket on the chestcontrasting buttoned cuffs8 mother-of-pearl buttons1 mother-of-pearl button on the cuffsrounded hemmade in ItalyReference : 2C775602P.01CX",
+      "description": "oversized shirt with drugstore collar and triomphe embroidery in striped chambray cotton",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5b14b9f4/images/large/2C775602P.01CX_1_SUM22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CRAIE/BLEU",
+          "size": null,
+          "price": "35583700",
+          "code": "2C775602P.01CX",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5b14b9f4/images/large/2C775602P.01CX_1_SUM22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/oversized-shirt-in-striped-chambray-cotton-2C775602P.01CX.html"
+    },
+    {
+      "code": "2C46B091F.01BC",
+      "name": "tomboy shirt in cotton poplin",
+      "details": "100% cottontriomphe embroiderymasculine fitdrugstore collarbuttoned cuffs6 mother-of-pearl buttons1 mother-of-pearl button on the cuffsrounded hemmade in ItalyReference : 2C46B091F.01BC",
+      "description": "tomboy shirt with drugstore collar and triomphe embroidery in cotton poplin",
+      "price": "29590700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw807a8baa/images/large/2C46B091F.01BC_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "29590700",
+          "code": "2C46B091F.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw807a8baa/images/large/2C46B091F.01BC_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/tomboy-shirt-in-cotton-poplin-2C46B091F.01BC.html"
+    },
+    {
+      "code": "RC00R720T.07DG",
+      "name": "cropped shirt in striped cotton",
+      "details": "100% cottontriomphe embroideryclassic fitcropped lengthdrugstore collar2 patch pockets with flap on the chestbuttoned cuffs7 mother-of-pearl buttons1 mother-of-pearl button on the pocket1 mother-of-pearl button on the cuffsmade in ItalyReference: RC00R720T.07DG",
+      "description": "cropped drugstore collar shirt with triomphe embroidery in Brittany-striped cotton",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw66c4879c/images/large/RC00R720T.07DG_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLEU/BLANC",
+          "size": null,
+          "price": "37081900",
+          "code": "RC00R720T.07DG",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw66c4879c/images/large/RC00R720T.07DG_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "33336300",
+          "code": "2C8370584.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcf0c3882/images/large/2C8370584.01BC_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/cropped-shirt-in-striped-cotton-RC00R720T.07DG.html"
+    },
+    {
+      "code": "2C837830W.01NQ",
+      "name": "cropped shirt in striped cotton and silk",
+      "details": "78% cotton 22% silkTriomphe embroideryloose fitcropped lengthdrugstore collar1 patch pocket on the chestbuttoned cuffs5 mother-of-pearl buttons1 mother-of-pearl button on the cuffsmade in ItalyReference : 2C837830W.01NQ",
+      "description": "loose cropped shirt with drugstore collar and Triomphe embroidery in striped Vauban silk and cotton",
+      "price": "37081900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd069d3cd/images/large/2C837830W.01NQ_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "CRAIE/MARINE",
+          "size": null,
+          "price": "37081900",
+          "code": "2C837830W.01NQ",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd069d3cd/images/large/2C837830W.01NQ_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/cropped-shirt-in-striped-cotton-and-silk-2C837830W.01NQ.html"
+    },
+    {
+      "code": "RC02Z0638.CAZ4",
+      "name": "cropped shirt in silk georgette",
+      "details": "100% silkclassic fitcropped lengthdrugstore collar2 patch pockets with flap on the chestbuttoned cuffs7 mother-of-pearl buttons1 mother-of-pearl button on the pocket1 mother-of-pearl button on the cuffsmade in ItalyReference: RC02Z0638.CAZ4",
+      "description": "cropped drugstore collar shirt in heritage print silk georgette",
+      "price": "50566300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0fe8ac4/images/large/RC02Z0638.CAZ4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "PINK BEIGE/CAMEL/BLACK",
+          "size": null,
+          "price": "50566300",
+          "code": "RC02Z0638.CAZ4",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd0fe8ac4/images/large/RC02Z0638.CAZ4_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/cropped-shirt-in-silk-georgette-RC02Z0638.CAZ4.html"
+    },
+    {
+      "code": "2C61A697Y.01VU",
+      "name": "overshirt in checked cashmere",
+      "details": "100% cashmereloose fitdrugstore collar2 patch pockets with flap on the chest8 triomphe buttons1 triomphe button on the pocket1 triomphe button on the cuffsmade in ItalyReference : 2C61A697Y.01VU",
+      "description": "overshirt in sheffield checked cashmere",
+      "price": "86149900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw515f37b0/images/large/2C61A697Y.01VU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "VANILLE/NOIR",
+          "size": null,
+          "price": "86149900",
+          "code": "2C61A697Y.01VU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw515f37b0/images/large/2C61A697Y.01VU_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/shirts-and-tops/overshirt-in-checked-cashmere-2C61A697Y.01VU.html"
+    }
+  ]
 }

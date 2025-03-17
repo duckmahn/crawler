@@ -1,0 +1,23 @@
+{
+  "id": "kewVv63YgPdE5hN",
+  "unique_key": "https://www.celine.com/en-vn/bag-in-triomphe-aran-wool-2ag2a738x.01ow.html",
+  "order_no": "1742183883523.021000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/bag-in-triomphe-aran-wool-2AG2A738X.01OW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/bag-in-triomphe-aran-wool-2ag2a738x.01ow.html",
+    "id": "kewVv63YgPdE5hN"
+  }
+}

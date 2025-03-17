@@ -1,0 +1,23 @@
+{
+  "id": "MvZjXjRj9aSxTtj",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/dungarees-mini-dress-in-union-wash-denim-2u142930f.07uw.html",
+  "order_no": "1742183074090.484000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/dungarees-mini-dress-in-union-wash-denim-2U142930F.07UW.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/dungarees-mini-dress-in-union-wash-denim-2u142930f.07uw.html",
+    "id": "MvZjXjRj9aSxTtj"
+  }
+}

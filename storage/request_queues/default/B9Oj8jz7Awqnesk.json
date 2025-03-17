@@ -1,0 +1,23 @@
+{
+  "id": "B9Oj8jz7Awqnesk",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/louise/medium-louise-bag-in-suede-calfskin-116613gcd.02de.html",
+  "order_no": "1742181607909.219000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/louise/medium-louise-bag-in-suede-calfskin-116613GCD.02DE.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/louise/medium-louise-bag-in-suede-calfskin-116613gcd.02de.html",
+    "id": "B9Oj8jz7Awqnesk"
+  }
+}

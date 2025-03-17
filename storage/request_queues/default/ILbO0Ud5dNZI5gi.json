@@ -1,0 +1,23 @@
+{
+  "id": "ILbO0Ud5dNZI5gi",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-heloise-bag-in-tartan-textile-and-calfskin-117252ge4.14ml.html",
+  "order_no": "1742182094970.217000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-heloise-bag-in-tartan-textile-and-calfskin-117252GE4.14ML.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/cuir-triomphe/small-heloise-bag-in-tartan-textile-and-calfskin-117252ge4.14ml.html",
+    "id": "ILbO0Ud5dNZI5gi"
+  }
+}

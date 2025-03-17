@@ -1,0 +1,23 @@
+{
+  "id": "sYCxu9da7ROhXv7",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-xl-01-sunglasses-in-acetate-4s282cplb.19tr.html",
+  "order_no": "1742181374407.055000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-xl-01-sunglasses-in-acetate-4S282CPLB.19TR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/sunglasses/categories/square/triomphe-xl-01-sunglasses-in-acetate-4s282cplb.19tr.html",
+    "id": "sYCxu9da7ROhXv7"
+  }
+}

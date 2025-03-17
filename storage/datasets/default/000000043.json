@@ -1,4 +1,360 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "49J493GRG.11JB",
+      "name": "TRIOMPHE pom-pom Charm IN Shearling & Calfskin",
+      "details": "Shearling & CalfskinReference : 49J493GRG.11JB",
+      "description": "",
+      "price": "19102800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw46240fd3/images/large/49J493GRG.11JB_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "JAUNE/BLANC",
+          "size": null,
+          "price": "19102800",
+          "code": "49J493GRG.11JB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw46240fd3/images/large/49J493GRG.11JB_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/triomphe-pom-pom-charm-in-shearling-and-calfskin-49J493GRG.11JB.html"
+    },
+    {
+      "code": "49J493GIV.31LY",
+      "name": "TRIOMPHE pom-pom keyring with HEART in SHEARLING AND CALFSKIN with GOLD FINISHING",
+      "details": "SHEARLING AND CALFSKINCAN BE USED AS A CHARM one hookReference : 49J493GIV.31LY",
+      "description": "",
+      "price": "19102800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw743d65bb/images/large/49J493GIV.31LY_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Light Clay",
+          "size": null,
+          "price": "19102800",
+          "code": "49J493GIV.31LY",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw743d65bb/images/large/49J493GIV.31LY_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "PINK",
+          "size": null,
+          "price": "19102800",
+          "code": "49J493GAV.24PI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf59f9b85/images/large/49J493GAV.24PI_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/triomphe-pom-pom-keyring-with-heart-in-shearling-and-calfskin-with-gold-finishing-49J493GIV.31LY.html"
+    },
+    {
+      "code": "49J557GGP.19TS",
+      "name": "LARGE TRIOMPHE KEYRING CHARM IN ACETATE",
+      "details": "ACETATEReference : 49J557GGP.19TS",
+      "description": "",
+      "price": "12735200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwee583a57/images/large/49J557GGP.19TS_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TORTOISESHELL",
+          "size": null,
+          "price": "12735200",
+          "code": "49J557GGP.19TS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwee583a57/images/large/49J557GGP.19TS_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/large-triomphe-keyring-charm-in-acetate-49J557GGP.19TS.html"
+    },
+    {
+      "code": "49J647GGP.01MI",
+      "name": "TRIOMPHE KEYRING IN ACETATE",
+      "details": "ACETATEReference : 49J647GGP.01MI",
+      "description": "",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc6dbf475/images/large/49J647GGP.01MI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "MILK",
+          "size": null,
+          "price": "11986100",
+          "code": "49J647GGP.01MI",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwc6dbf475/images/large/49J647GGP.01MI_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/triomphe-keyring-in-acetate-49J647GGP.01MI.html"
+    },
+    {
+      "code": "49J327FWL.38NO",
+      "name": "TRIOMPHE KEYRING CHARM in PLEXIGLASS with GOLD FINISHING",
+      "details": "PLEXIGLASSCAN BE USED AS A CHARM one hook one keyringReference : 49J327FWL.38NO",
+      "description": "",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw67e6a152/images/large/49J327FWL.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "11986100",
+          "code": "49J327FWL.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw67e6a152/images/large/49J327FWL.38NO_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TORTOISESHELL",
+          "size": null,
+          "price": "11986100",
+          "code": "49J327FWL.19TS",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw7b02977e/images/large/49J327FWL.19TS_1_FW24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/triomphe-keyring-charm-in-plexiglass-with-gold-finishing-49J327FWL.38NO.html"
+    },
+    {
+      "code": "49S012AEP.38AW",
+      "name": "LONG STRAP IN WOOL WITH CELINE JACQUARD",
+      "details": "36,2 x 2,4 IN (92 x 6 CM)WOOL, TRIMMINGS IN CALFSKINCROSS-BODY AND SHOULDER CARRYTWO METALLIC HOOKSREMOVABLE STRAP WITH 52 CM DROPTO USE IN COMBINATION WITH ANY BAGS WITH HOOKS.THE STRAP IS SOLD SEPARATELY FROM THE BAG.Reference : 49S012AEP.38AW",
+      "description": "",
+      "price": "14982600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa0356215/images/large/49S012AEP.38AW_1_SP22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / WHITE",
+          "size": null,
+          "price": "14982600",
+          "code": "49S012AEP.38AW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa0356215/images/large/49S012AEP.38AW_1_SP22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-wool-with-celine-jacquard-49S012AEP.38AW.html"
+    },
+    {
+      "code": "49S012AEP.09GW",
+      "name": "Long Strap in Wool with Celine jacquard",
+      "details": "36,2 x 2,4 IN (92 x 6 CM)wool, trimmings in calfskinCross-body and shoulder carryTwo metallic hooksREMOVABLE STRAP WITH 52 CM DROPTO USE IN COMBINATION WITH ANY BAGS WITH HOOKS.THE STRAP IS SOLD SEPARATELY FROM THE BAG.Reference : 49S012AEP.09GW",
+      "description": "",
+      "price": "14982600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3696db01/images/large/49S012AEP.09GW_1_SP22_v3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "GREY / WHITE",
+          "size": null,
+          "price": "14982600",
+          "code": "49S012AEP.09GW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3696db01/images/large/49S012AEP.09GW_1_SP22_v3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "BEIGE/WHITE",
+          "size": null,
+          "price": "14982600",
+          "code": "49S012AEP.03BW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw5fdb3f33/images/large/49S012AEP.03BW_1_SP22_v3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-wool-with-celine-jacquard-49S012AEP.09GW.html"
+    },
+    {
+      "code": "49S012AEP.04LV",
+      "name": "Long Strap in Wool with Celine jacquard with GOLD FINISHING",
+      "details": "36 x 2 IN (92 x 6 CM)wool, trimmings in calfskinGOLD FINISHINGCross-body and shoulder carryStrap with 20 IN (52 CM) dropTWO METALLIC HOOKSTO USE IN COMBINATION WITH ANY BAGS WITH HOOKS.THE STRAP IS SOLD SEPARATELY FROM THE BAG.Reference : 49S012AEP.04LV",
+      "description": "",
+      "price": "14982600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwadd6bd19/images/large/49S012AEP.04LV_1_FALL22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN/WHITE",
+          "size": null,
+          "price": "14982600",
+          "code": "49S012AEP.04LV",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwadd6bd19/images/large/49S012AEP.04LV_1_FALL22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-wool-with-celine-jacquard-with-gold-finishing-49S012AEP.04LV.html"
+    },
+    {
+      "code": "49S143AIP.02NT",
+      "name": "long strap in RAFFIA AND CALFSKIN",
+      "details": "36 x 2 IN (92 x 6 CM)CALFSKIN, TRIMMINGS IN RAFFIACross-body and shoulder carrySTRAP with 20 IN (52 CM) dropTWO METALLIC HOOKSTO USE IN COMBINATION WITH ANY BAGS WITH HOOKS.THE STRAP IS SOLD SEPARATELY FROM THE BAG.Reference : 49S143AIP.02NT",
+      "description": "",
+      "price": "22473900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb86459ac/images/large/49S143AIP.02NT_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / TAN",
+          "size": null,
+          "price": "22473900",
+          "code": "49S143AIP.02NT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwb86459ac/images/large/49S143AIP.02NT_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-raffia-and-calfskin-49S143AIP.02NT.html"
+    },
+    {
+      "code": "49S103ERX.38NO",
+      "name": "Long Strap in smooth calfskin with GOLD FINISHING",
+      "details": "36 x 1 IN (92 x 3 CM)calfskinGOLD FINISHINGCross-body and shoulder carryStrap with 20 IN (52 CM) dropTWO METALLIC HOOKSTO USE IN COMBINATION WITH ANY BAGS WITH HOOKS.THE STRAP IS SOLD SEPARATELY FROM THE BAG.Reference : 49S103ERX.38NO",
+      "description": "",
+      "price": "17979200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3955f2bd/images/large/49S103ERX.38NO_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "17979200",
+          "code": "49S103ERX.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3955f2bd/images/large/49S103ERX.38NO_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "17979200",
+          "code": "49S103ERX.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd7133497/images/large/49S103ERX.04LU_1_SPR23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-smooth-calfskin-with-gold-finishing-49S103ERX.38NO.html"
+    },
+    {
+      "code": "49S103AFW.04LU",
+      "name": "Long Strap in smooth CALFSKIN WITH CELINE EMBROIDERY with Gold Finishing",
+      "details": "36 x 1 IN (92 x 3 CM)CALFSKINGold FinishingCross-body and shoulder carryStrap with 20 IN (52 CM) dropTWO METALLIC HOOKSTO USE IN COMBINATION WITH ANY BAGS WITH HOOKS.THE STRAP IS SOLD SEPARATELY FROM THE BAG.Reference : 49S103AFW.04LU",
+      "description": "",
+      "price": "21724800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa5626f58/images/large/49S103AFW.04LU_1_WIN22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "21724800",
+          "code": "49S103AFW.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwa5626f58/images/large/49S103AFW.04LU_1_WIN22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-smooth-calfskin-with-celine-embroidery-with-gold-finishing-49S103AFW.04LU.html"
+    },
+    {
+      "code": "49S033AEQ.02NT",
+      "name": "long strap in Shearling and calfskin",
+      "details": "36 x 2 IN (92 x 6 CM)shearling, trimmings in calfskinGOLD FINISHINGCross-body and shoulder carryTWO METALLIC HOOKSREMOVABLE STRAP  with 20 IN (52 CM) dropTO USE IN COMBINATION WITH ANY BAGS WITH HOOKS.THE STRAP IS SOLD SEPARATLY FROM THE BAG.Reference : 49S033AEQ.02NT",
+      "description": "",
+      "price": "24346800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw54a2b442/images/large/49S033AEQ.02NT_1_WIN21_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / TAN",
+          "size": null,
+          "price": "24346800",
+          "code": "49S033AEQ.02NT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw54a2b442/images/large/49S033AEQ.02NT_1_WIN21_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-shearling-and-calfskin-49S033AEQ.02NT.html"
+    },
+    {
+      "code": "49S113AFX.04LU",
+      "name": "LONG STRAP in smooth CALFSKIN WITH TRIOMPHE STUDS with Gold Finishing",
+      "details": "42 x 1 IN (107 x 3.5 CM)CALFSKINGold FinishingCross-body and shoulder carrySTRAP with 20 IN (52 CM) dropTWO METALLIC HOOKSTO USE IN COMBINATION WITH ANY BAGS WITH HOOKS.THE STRAP IS SOLD SEPARATELY FROM THE BAG.Reference : 49S113AFX.04LU",
+      "description": "",
+      "price": "21724800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw35836221/images/large/49S113AFX.04LU_1_WIN22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "21724800",
+          "code": "49S113AFX.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw35836221/images/large/49S113AFX.04LU_1_WIN22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-smooth-calfskin-with-triomphe-studs-with-gold-finishing-49S113AFX.04LU.html"
+    },
+    {
+      "code": "49S012AD9.02NT",
+      "name": "Long Strap in textile and calfskin",
+      "details": "36 x 2 IN (92 x 6 CM)Wool, trimmings in CalfskinGOLD FINISHINGCross-body and shoulder carryStrap with 20 IN (52 CM) dropTWO METALLIC HOOKSTO USE IN COMBINATION WITH ANY BAGS WITH HOOKS.THE STRAP IS SOLD SEPARATELY FROM THE BAG.Reference : 49S012AD9.02NT",
+      "description": "",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe3f0cc4d/images/large/49S012AD9.02NT_1_SPR21_864356v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Natural / Tan",
+          "size": null,
+          "price": "11986100",
+          "code": "49S012AD9.02NT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe3f0cc4d/images/large/49S012AD9.02NT_1_SPR21_864356v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "11986100",
+          "code": "49S012AEM.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd7842523/images/large/49S012AEM.04LU_1_WIN21_v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/long-strap-in-textile-and-calfskin-49S012AD9.02NT.html"
+    },
+    {
+      "code": "49S022AEP.38AW",
+      "name": "Short Strap in Wool with Celine jacquard",
+      "details": "30,7 x 2,4 IN (78 x 6 CM)wool, trimmings in calfskinShoulder carry, Cross-body carryTwo metallic hooksREMOVABLE STRAP WITH 45 CM DROPTO USE IN COMBINATION WITH ANY BAGS WITH HOOKS.THE STRAP IS SOLD SEPARATELY FROM THE BAG.Reference : 49S022AEP.38AW",
+      "description": "",
+      "price": "13109800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf4fcb2d9/images/large/49S022AEP.38AW_1_SP22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / WHITE",
+          "size": null,
+          "price": "13109800",
+          "code": "49S022AEP.38AW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf4fcb2d9/images/large/49S022AEP.38AW_1_SP22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/handbags/categories/straps-and-accessories/short-strap-in-wool-with-celine-jacquard-49S022AEP.38AW.html"
+    }
+  ]
 }

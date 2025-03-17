@@ -1,4 +1,365 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "10J983DR8.04LU",
+      "name": "SMALL POUCH WITH STRAP CUIR TRIOMPHE IN SMOOTH CALFSKIN",
+      "details": "10 x 7 x 0 IN (25 x 17.5 x 1 CM)calfskincalfskin liningGold FinishingHand carryONE MAIN ZIPPED COMPARTMENTremovable wrist strap with 8 in (20 CM) dropReference : 10J983DR8.04LU",
+      "description": "",
+      "price": "22473900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe31647f4/images/large/10J983DR8.04LU_1_WIN22_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "22473900",
+          "code": "10J983DR8.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe31647f4/images/large/10J983DR8.04LU_1_WIN22_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/small-pouch-with-strap-cuir-triomphe-in-smooth-calfskin-10J983DR8.04LU.html"
+    },
+    {
+      "code": "10J502FBV.02NT",
+      "name": "SMALL POUCH WITH STRAP CUIR TRIOMPHE IN RAFFIA EFFECT TEXTILE AND CALFSKIN",
+      "details": "10 x 7 x 0 IN (25 x 17.5 x 1 CM)Textile, trimmings in calfskintextile liningGOLD FINISHINGHand carryone main zipped compartmentremovable wrist strap with 8 in (20 CM) dropReference : 10J502FBV.02NT",
+      "description": "",
+      "price": "23223100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw80c5b793/images/large/10J502FBV.02NT_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / TAN",
+          "size": null,
+          "price": "23223100",
+          "code": "10J502FBV.02NT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw80c5b793/images/large/10J502FBV.02NT_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/small-pouch-with-strap-cuir-triomphe-in-raffia-effect-textile-and-calfskin-10J502FBV.02NT.html"
+    },
+    {
+      "code": "10J502GBL.14ML",
+      "name": "SMALL POUCH WITH STRAP in STRIPED TEXTILE AND CALFSKIN",
+      "details": "10 x 7 x 0 IN (25 x 17.5 x 1 CM)TEXTILE, TRIMMINGS IN CALFSKINTEXTILE LININGHand carryone main zipped compartmentremovable wrist strap with 8 in (20 CM) dropReference : 10J502GBL.14ML",
+      "description": "",
+      "price": "21724800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw58578e80/images/large/10J502GBL.14ML_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "MULTICOLOR",
+          "size": null,
+          "price": "21724800",
+          "code": "10J502GBL.14ML",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw58578e80/images/large/10J502GBL.14ML_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/small-pouch-with-strap-in-striped-textile-and-calfskin-10J502GBL.14ML.html"
+    },
+    {
+      "code": "10J502FCU.01BC",
+      "name": "SMALL POUCH WITH STRAP in TEXTILE WITH TRIOMPHE PRINT AND CALFSKIN",
+      "details": "10 x 7 x 0 IN (25 x 17.5 x 1 CM)TEXTILE, TRIMMINGS IN CALFSKINTEXTILE LININGGold FinishingHand carryone main zipped compartmentremovable wrist strap with 8 in (20 CM) dropReference : 10J502FCU.01BC",
+      "description": "",
+      "price": "21724800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdd471695/images/large/10J502FCU.01BC_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "21724800",
+          "code": "10J502FCU.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdd471695/images/large/10J502FCU.01BC_1_SS24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/small-pouch-with-strap-in-textile-with-triomphe-print-and-calfskin-10J502FCU.01BC.html"
+    },
+    {
+      "code": "10N513DPQ.04LU",
+      "name": "AIRPODS CASE TRIOMPHE IN Smooth calfskin",
+      "details": "0.8 x 2 x 2.8 IN (2 x 5 x 7 CM)calfskincalfskin liningGOLD FINISHINGSNAP BUTTON CLOSUREONE MAIN COMPARTMENTCAN CONTAIN AIRPODS 3 AND 4 VERSIONSA SNAP-HOOK TO ATTACH ON A BAGReference : 10N513DPQ.04LU",
+      "description": "",
+      "price": "15731800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw287c065c/images/large/10N513DPQ.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "15731800",
+          "code": "10N513DPQ.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw287c065c/images/large/10N513DPQ.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/airpods-case-triomphe-in-smooth-calfskin-10N513DPQ.04LU.html"
+    },
+    {
+      "code": "10M753GB7.04LU",
+      "name": "PHONE POUCH HELOISE in SUPPLE CALFSKIN",
+      "details": "6 x 8 x 1 IN (15 x 19.2 x 3 CM)CALFSKINCALFSKIN LININGCross-body and shoulder carrySNAP BUTTON closureONE MAIN COMPARTMENT ONR INNER FLAT POCKETREMOVABLE AND ADJUSTABLE LEATHER STRAP WITH A MINIMUM DROP 14 IN (36 CM) AND MAXIMUM DROP 22 IN (56,5 CM)Reference : 10M753GB7.04LU",
+      "description": "",
+      "price": "44947800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0bbde669/images/large/10M753GB7.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "44947800",
+          "code": "10M753GB7.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0bbde669/images/large/10M753GB7.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "CAPPUCCINO",
+          "size": null,
+          "price": "44947800",
+          "code": "10M753GB7.03CP",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw6550c5ce/images/large/10M753GB7.03CP_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/phone-pouch-heloise-in-supple-calfskin-10M753GB7.04LU.html"
+    },
+    {
+      "code": "10C663DR8.38NO",
+      "name": "Coin Purse IN smooth calfskin",
+      "details": "5 x 4 x 0 IN (13 x 9 x 1 CM)calfskincalfskin liningGOLD FINISHINGONE MAIN ZIPPED COMPARTMENT ONE KEYRINGReference : 10C663DR8.38NO",
+      "description": "",
+      "price": "13484400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe9c54eb1/images/large/10C663DR8.38NO_1_SPR22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "13484400",
+          "code": "10C663DR8.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe9c54eb1/images/large/10C663DR8.38NO_1_SPR22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "13484400",
+          "code": "10C663DR8.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwef98e9a7/images/large/10C663DR8.04LU_1_SP22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/categories/coin-and-card-holders/coin-purse-in-smooth-calfskin-10C663DR8.38NO.html"
+    },
+    {
+      "code": "10B703EMH.38NO",
+      "name": "CARD HOLDER CUIR TRIOMPHE IN SHINY CALFSKIN",
+      "details": "4 x 3 IN (11 x 7 CM)CALFSKINCALFSKIN LININGGOLD FINISHINGTwo credit card slotsOne flat pocketReference : 10B703EMH.38NO",
+      "description": "",
+      "price": "10113300",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf4f11705/images/large/10B703EMH.38NO_1_WIN22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "10113300",
+          "code": "10B703EMH.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf4f11705/images/large/10B703EMH.38NO_1_WIN22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/card-holder-cuir-triomphe-in-shiny-calfskin-10B703EMH.38NO.html"
+    },
+    {
+      "code": "10K583EMH.38NO",
+      "name": "ZIPPED CARD HOLDER CUIR TRIOMPHE IN SHINY CALFSKIN",
+      "details": "4 x 3 x 1 IN (11 x 7.5 x 2 CM)CALFSKINCALFSKIN LININGGold FinishingONE ZIPPED COMPARTMENTTHREE CREDIT CARD SLOTSONE OUTER FLAT POCKETReference : 10K583EMH.38NO",
+      "description": "",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw840cad7e/images/large/10K583EMH.38NO_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "11986100",
+          "code": "10K583EMH.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw840cad7e/images/large/10K583EMH.38NO_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/zipped-card-holder-cuir-triomphe-in-shiny-calfskin-10K583EMH.38NO.html"
+    },
+    {
+      "code": "10K583EMJ.04LU",
+      "name": "Zipped Card Holder in smooth lambskin",
+      "details": "4 x 3 x 1 IN (11 x 7.5 x 2 CM)lambskincalfskin liningONE ZIPPED COMPARTMENTTHREE CREDIT CARD SLOTSONE OUTER FLAT POCKETReference : 10K583EMJ.04LU",
+      "description": "",
+      "price": "11986100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3b9f9713/images/large/10K583EMJ.04LU_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "11986100",
+          "code": "10K583EMJ.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3b9f9713/images/large/10K583EMJ.04LU_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/zipped-card-holder-in-smooth-lambskin-10K583EMJ.04LU.html"
+    },
+    {
+      "code": "10K543FOW.38NO",
+      "name": "LARGE ZIPPED WALLET in GRAINED CALFSKIN",
+      "details": "7 x 4 x 1 IN (19 x 10 x 2 CM)CALFSKINCALFSKIN LININGGOLD FINISHINGZipped closureOne inner zipped coin pocketTwelve credit card slotsTwo gusset compartmentsTwo flat pocketsReference : 10K543FOW.38NO",
+      "description": "",
+      "price": "24346800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw06e099c1/images/large/10K543FOW.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "24346800",
+          "code": "10K543FOW.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw06e099c1/images/large/10K543FOW.38NO_1_SS24_P2_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/large-zipped-wallet-in-grained-calfskin-10K543FOW.38NO.html"
+    },
+    {
+      "code": "10K543DR8.04LU",
+      "name": "LARGE ZIPPED WALLET CUIR TRIOMPHE IN SMOOTH CALFSKIN",
+      "details": "7 x 4 x 1 IN (19 x 10 x 2 CM)calfskincalfskin liningGold FinishingZipped closureOne inner zipped coin pocketTwelve credit card slotsTwo gusset compartmentsTwo flat pocketsReference : 10K543DR8.04LU",
+      "description": "",
+      "price": "24346800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw229f3f38/images/large/10K543DR8.04LU_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "24346800",
+          "code": "10K543DR8.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw229f3f38/images/large/10K543DR8.04LU_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/large-zipped-wallet-cuir-triomphe-in-smooth-calfskin-10K543DR8.04LU.html"
+    },
+    {
+      "code": "10C662GI2.38AW",
+      "name": "Coin Purse IN VICHY TEXTILE AND CALFSKIN",
+      "details": "5.1 x 3.5 x 0.4 IN (13 x 9 x 1 CM)TEXTILE, TRIMMINGS IN CALFSKINTEXTILE LININGONE MAIN ZIPPED COMPARTMENT ONE KEYRINGReference : 10C662GI2.38AW",
+      "description": "",
+      "price": "11237000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwffc99bbb/images/large/10C662GI2.38AW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK / WHITE",
+          "size": null,
+          "price": "11237000",
+          "code": "10C662GI2.38AW",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwffc99bbb/images/large/10C662GI2.38AW_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/coin-purse-in-vichy-textile-and-calfskin-10C662GI2.38AW.html"
+    },
+    {
+      "code": "10C662GEU.07FX",
+      "name": "Coin Purse IN STRIPED DENIM WITH STRASS",
+      "details": "5.1 x 3.5 x 0.4 IN (13 x 9 x 1 CM)DENIM, TRIMMINGS IN CALFSKINTEXTILE LININGONE MAIN ZIPPED COMPARTMENT ONE KEYRINGReference : 10C662GEU.07FX",
+      "description": "",
+      "price": "15357200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw47622169/images/large/10C662GEU.07FX_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Denim",
+          "size": null,
+          "price": "15357200",
+          "code": "10C662GEU.07FX",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw47622169/images/large/10C662GEU.07FX_1_SPR25_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/coin-purse-in-striped-denim-with-strass-10C662GEU.07FX.html"
+    },
+    {
+      "code": "10K533DR8.38NO",
+      "name": "COMPACT ZIPPED WALLET CUIR TRIOMPHE IN SMOOTH CALFSKIN",
+      "details": "4 x 3 x 1 IN (11 x 8.5 x 2 CM)calfskincalfskin liningGold FinishingZipped closureSix credit card slotsTwo gusset compartmentsReference : 10K533DR8.38NO",
+      "description": "",
+      "price": "19852000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf90ac788/images/large/10K533DR8.38NO_1_SUM23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "BLACK",
+          "size": null,
+          "price": "19852000",
+          "code": "10K533DR8.38NO",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf90ac788/images/large/10K533DR8.38NO_1_SUM23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "19852000",
+          "code": "10K533DR8.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw31258d97/images/large/10K533DR8.04LU_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/compact-zipped-wallet-cuir-triomphe-in-smooth-calfskin-10K533DR8.38NO.html"
+    },
+    {
+      "code": "10L742FAZ.02NT",
+      "name": "COMPACT ZIPPED WALLET CUIR TRIOMPHE in Textile and calfskin",
+      "details": "4 x 3 x 1 IN (11 x 8.5 x 2 CM)Textile, trimmings in calfskincalfskin liningGOLD FINISHINGZipped closureSix credit card slotsTwo gusset compartmentsReference : 10L742FAZ.02NT",
+      "description": "",
+      "price": "19852000",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf53a45cd/images/large/10L742FAZ.02NT_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "NATURAL / TAN",
+          "size": null,
+          "price": "19852000",
+          "code": "10L742FAZ.02NT",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf53a45cd/images/large/10L742FAZ.02NT_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/compact-zipped-wallet-cuir-triomphe-in-textile-and-calfskin-10L742FAZ.02NT.html"
+    }
+  ]
 }

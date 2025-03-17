@@ -1,0 +1,24 @@
+{
+  "id": "N92C6r6kSCE4peZ",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling",
+  "order_no": null,
+  "handled_at": "2025-03-17 03:46:36.132378+00:00",
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "state": 3,
+        "crawlDepth": 1
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling/",
+    "handled_at": "2025-03-17 03:46:36.132378+00:00",
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/leather-and-shearling",
+    "id": "N92C6r6kSCE4peZ"
+  }
+}

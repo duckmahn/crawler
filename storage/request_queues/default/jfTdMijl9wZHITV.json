@@ -1,0 +1,23 @@
+{
+  "id": "jfTdMijl9wZHITV",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/small-flap-wallet-triomphe-in-triomphe-canvas-10d782cqh.01ta.html",
+  "order_no": "1742182595772.421000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/small-flap-wallet-triomphe-in-triomphe-canvas-10D782CQH.01TA.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/triomphe-canvas/small-flap-wallet-triomphe-in-triomphe-canvas-10d782cqh.01ta.html",
+    "id": "jfTdMijl9wZHITV"
+  }
+}

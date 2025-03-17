@@ -1,0 +1,23 @@
+{
+  "id": "yZRyGETsQYiA1Ns",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/necklaces/les-perles-celine-maillon-necklace-in-brass-with-gold-finish-and-resin-pearls-461fk6prb.01gi.html",
+  "order_no": "1742183922157.022000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/necklaces/les-perles-celine-maillon-necklace-in-brass-with-gold-finish-and-resin-pearls-461FK6PRB.01GI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/necklaces/les-perles-celine-maillon-necklace-in-brass-with-gold-finish-and-resin-pearls-461fk6prb.01gi.html",
+    "id": "yZRyGETsQYiA1Ns"
+  }
+}

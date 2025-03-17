@@ -1,0 +1,23 @@
+{
+  "id": "EBXRNYXqAO73xwA",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-shiny-calfskin-115703bf4.29ja.html",
+  "order_no": "1742181821440.311000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-shiny-calfskin-115703BF4.29JA.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/handbags/more-lines/tilly/medium-tilly-bag-in-shiny-calfskin-115703bf4.29ja.html",
+    "id": "EBXRNYXqAO73xwA"
+  }
+}

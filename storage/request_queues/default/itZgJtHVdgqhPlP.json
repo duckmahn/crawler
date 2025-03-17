@@ -1,0 +1,23 @@
+{
+  "id": "itZgJtHVdgqhPlP",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/les-perles-celine-earrings-in-brass-with-gold-finish-and-glass-pearls-46w796bpe.01gi.html",
+  "order_no": "1742184038867.041000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/les-perles-celine-earrings-in-brass-with-gold-finish-and-glass-pearls-46W796BPE.01GI.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/jewellery/categories/earrings/les-perles-celine-earrings-in-brass-with-gold-finish-and-glass-pearls-46w796bpe.01gi.html",
+    "id": "itZgJtHVdgqhPlP"
+  }
+}

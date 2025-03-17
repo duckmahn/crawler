@@ -1,0 +1,23 @@
+{
+  "id": "BLCc8BKGC5upgxz",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clemence-mule-in-lambskin-and-patent-calfskin-362355045c.01mk.html",
+  "order_no": "1742181453494.286000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clemence-mule-in-lambskin-and-patent-calfskin-362355045C.01MK.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-clemence-mule-in-lambskin-and-patent-calfskin-362355045c.01mk.html",
+    "id": "BLCc8BKGC5upgxz"
+  }
+}

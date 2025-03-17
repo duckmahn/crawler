@@ -1,0 +1,23 @@
+{
+  "id": "qFBxPncFlDqL5lf",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/long-shirt-dress-in-silk-crepon-rr08p0i57.12cu.html",
+  "order_no": "1742182834694.672000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/long-shirt-dress-in-silk-crepon-RR08P0I57.12CU.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/long-shirt-dress-in-silk-crepon-rr08p0i57.12cu.html",
+    "id": "qFBxPncFlDqL5lf"
+  }
+}

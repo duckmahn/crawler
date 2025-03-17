@@ -1,0 +1,23 @@
+{
+  "id": "5dKKeTJP8PnsnZO",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/compact-zipped-wallet-cuir-triomphe-in-textile-and-calfskin-10l742faz.02nt.html",
+  "order_no": "1742182624437.510000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/compact-zipped-wallet-cuir-triomphe-in-textile-and-calfskin-10L742FAZ.02NT.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/small-leather-goods/more-lines/cuir-triomphe/compact-zipped-wallet-cuir-triomphe-in-textile-and-calfskin-10l742faz.02nt.html",
+    "id": "5dKKeTJP8PnsnZO"
+  }
+}

@@ -1,4 +1,365 @@
 {
   "brand": "dior",
-  "products": []
+  "products": [
+    {
+      "code": "10P042EUP.04LU",
+      "name": "MINI BOSTON IN Triomphe Canvas and calfskin",
+      "details": "5.5 x 3.7 x 3 IN (14 x 9.5 x 7.5 CM)Triomphe Canvas, trimmings in calfskinTextile liningGOLD FINISHINGHand carry, shoulder carry and cross-body carryZIPPED CLOSUREONE MAIN COMPARTMENTLEATHER HANDLES with 2.95 IN (7.5 CM) drop removable and adjustable strap with a minimum drop 18 IN (46CM) and maximum drop 21 IN (53 CM)Reference : 10P042EUP.04LU",
+      "description": "",
+      "price": "44947800",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw95450e04/images/large/10P042EUP.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "44947800",
+          "code": "10P042EUP.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw95450e04/images/large/10P042EUP.04LU_1_SUM25_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-boston-in-triomphe-canvas-and-calfskin-10P042EUP.04LU.html"
+    },
+    {
+      "code": "10I512DQB.04LU",
+      "name": "MINI CLAUDE in TRIOMPHE CANVAS and calfskin",
+      "details": "5 x 4 x 2 IN (12 x 9.5 x 4 CM)TRIOMPHE CANVAS, trimmings in calfskinTEXTILE and calfskin LININGGOLD FINISHINGHand carry, shoulder carry and cross-body carryTRIOMPHE METALLIC SNAP BUTTON CLOSUREONE MAIN COMPARTMENT ONE INNER FLAT POCKETREMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 18 IN (45 CM) AND MAXIMUM DROP 22 IN (55 CM). TO ENSURE A COMFORTABLE CARRY, THE STRAP SHOULD BE ATTACHED UNDER THE FLAP THROUGH THE LEATHER LOOPS THANKS TO A SNAP BUTTONReference : 10I512DQB.04LU",
+      "description": "",
+      "price": "35602900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd1a561f1/images/large/10I512DQB.04LU_1_SP22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "35602900",
+          "code": "10I512DQB.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd1a561f1/images/large/10I512DQB.04LU_1_SP22.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-claude-in-triomphe-canvas-and-calfskin-10I512DQB.04LU.html"
+    },
+    {
+      "code": "10I512GBK.28LB",
+      "name": "MINI CLAUDE in TRIOMPHE CANVAS TWO-TONE",
+      "details": "5 x 4 x 2 IN (12 x 9.5 x 4 CM)Triomphe Canvas, Trimmings in calfskincalfskin liningHand carry, shoulder carry and cross-body carryTRIOMPHE METALLIC SNAP BUTTON CLOSUREONE MAIN COMPARTMENT ONE INNER FLAT POCKETREMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 18 IN (45 CM) AND MAXIMUM DROP 22 IN (55 CM). TO ENSURE A COMFORTABLE CARRY, THE STRAP SHOULD BE ATTACHED UNDER THE FLAP THROUGH THE LEATHER LOOPS THANKS TO A SNAP BUTTONReference : 10I512GBK.28LB",
+      "description": "",
+      "price": "35583700",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw790035a1/images/large/10I512GBK.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "LIGHT BURGUNDY",
+          "size": null,
+          "price": "35583700",
+          "code": "10I512GBK.28LB",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw790035a1/images/large/10I512GBK.28LB_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/more-lines/claude/mini-claude-in-triomphe-canvas-two-tone-10I512GBK.28LB.html"
+    },
+    {
+      "code": "10M742GCE.04LU",
+      "name": "MICRO SAILOR IN TRIOMPHE CANVAS AND CALFSKIN",
+      "details": "5 x 7 x 4 IN (13 x 18 x 11 CM)TRIOMPHE CANVAS, TRIMMINGS IN CALFSKINTEXTILE LININGGOLD FINISHINGCross-body and shoulder carryDRAWSTRING LEATHER TIESONE MAIN COMPARTMENTADJUSTABLE STRAP WITH A MINIMUM DROP 18 IN  (45 CM) AND MAXIMUM DROP IN 21 (54 CM)Reference : 10M742GCE.04LU",
+      "description": "",
+      "price": "41224400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw557f096e/images/large/10M742GCE.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "41224400",
+          "code": "10M742GCE.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw557f096e/images/large/10M742GCE.04LU_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/micro-sailor-in-triomphe-canvas-and-calfskin-10M742GCE.04LU.html"
+    },
+    {
+      "code": "10M742GCE.01TA",
+      "name": "MICRO SAILOR in TRIOMPHE CANVAS AND CALFSKIN",
+      "details": "5 x 7 x 4 IN (13 x 18 x 11 CM)TRIOMPHE CANVAS, TRIMMINGS IN CALFSKINTEXTILE LININGGold FinishingCross-body and shoulder carryDRAWSTRING LEATHER TIESONE MAIN COMPARTMENTADJUSTABLE STRAP WITH A MINIMUM DROP 18 IN  (45 CM) AND MAXIMUM DROP IN 21 (54 CM)Reference : 10M742GCE.01TA",
+      "description": "",
+      "price": "41202200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw34b814de/images/large/10M742GCE.01TA_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WHITE/TAN",
+          "size": null,
+          "price": "41202200",
+          "code": "10M742GCE.01TA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw34b814de/images/large/10M742GCE.01TA_1_FW24_P1_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/micro-sailor-in-triomphe-canvas-and-calfskin-10M742GCE.01TA.html"
+    },
+    {
+      "code": "10L972DQB.04LU",
+      "name": "MULTIPOCHETTE in TRIOMPHE CANVAS and calfskin",
+      "details": "8 x 4 x 2 IN (20.5 x 11 x 4 CM)TRIOMPHE CANVAS, trimmings in calfskinTEXTILE and calfskin LININGGold FinishingHand carry, shoulder carry and cross-body carryFLAP WITH DECORATIVE TRIOMPHE AND SNAP BUTTON CLOSUREONE MAIN COMPARTMENTONE FLAT POCKETREMOVABLE CHAIN WITH A 9 IN (24 CM) DROPREMOVABLE AND ADJUSTABLE LEATHER STRAP WITH A MINIMUM DROP 18 IN (47 CM) AND MAXIMUM DROP 20 IN (51 CM)Reference : 10L972DQB.04LU",
+      "description": "",
+      "price": "59930400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdc1f2e90/images/large/10L972DQB.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "59930400",
+          "code": "10L972DQB.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwdc1f2e90/images/large/10L972DQB.04LU_1_FW23_W.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/multipochette-in-triomphe-canvas-and-calfskin-10L972DQB.04LU.html"
+    },
+    {
+      "code": "10E382CBX.04LU",
+      "name": "Clutch with Chain in Triomphe canvas and Lambskin",
+      "details": "6 x 4 x 3 IN (16.5 x 11 x 8 CM)coated canvas, trimmings in lambskinTextile LiningGOLD FINISHINGCross-body and shoulder carryzipped closureone main compartmentchain with 22 IN (55 CM) dropReference : 10E382CBX.04LU",
+      "description": "",
+      "price": "28092400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcb2bda3e/images/large/10E382CBX.04LU_1_LIB_V4.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Tan",
+          "size": null,
+          "price": "28092400",
+          "code": "10E382CBX.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcb2bda3e/images/large/10E382CBX.04LU_1_LIB_V4.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE/TAN",
+          "size": null,
+          "price": "28107600",
+          "code": "10E382CBX.01TA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw838304cb/images/large/10E382CBX.01TA_1_LIB_W_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/clutch-with-chain-in-triomphe-canvas-and-lambskin-10E382CBX.04LU.html"
+    },
+    {
+      "code": "10L462DQB.04LU",
+      "name": "WALLET ON CHAIN MARGO in TRIOMPHE CANVAS and calfskin",
+      "details": "8 x 5 x 2 IN (19.5 x 12 x 4 CM)TRIOMPHE CANVAS, trimmings in calfskinTEXTILE and calfskin LININGGOLD FINISHINGHand carry, shoulder carry and cross-body carryTriomphe metallic snap button closureONE MAIN COMPARTMENTSIX CREDIT CARD SLOTSONE FLAT POCKETREMOVABLE CHAIN WITH WITH SHOULDER PAD WITH 20 IN (50 CM) DROPReference : 10L462DQB.04LU",
+      "description": "",
+      "price": "58057600",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf00cca04/images/large/10L462DQB.04LU_1_SPR23_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "58057600",
+          "code": "10L462DQB.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwf00cca04/images/large/10L462DQB.04LU_1_SPR23_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/wallet-on-chain-margo-in-triomphe-canvas-and-calfskin-10L462DQB.04LU.html"
+    },
+    {
+      "code": "10D852CG9.04LU",
+      "name": "Wallet on strap in Triomphe Canvas and Smooth Lambskin",
+      "details": "8 x 5 x 2 IN (20 x 12 x 5 CM)coated canvas, trimmings in lambskinCalfskin and textile liningGOLD FINISHINGCross-body and shoulder carrySnap buttontwo gusset compartments one zipped pocket one flat pocket eight credit card slotsAdjustable calfskin Strap with 19 IN (48 CM) dropfrom 43 to 53 cmReference : 10D852CG9.04LU",
+      "description": "",
+      "price": "46845900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw413ec8f0/images/large/10D852CG9.04LU_1_SPR20_404134v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Tan",
+          "size": null,
+          "price": "46845900",
+          "code": "10D852CG9.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw413ec8f0/images/large/10D852CG9.04LU_1_SPR20_404134v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/wallet-on-strap-in-triomphe-canvas-and-smooth-lambskin-10D852CG9.04LU.html"
+    },
+    {
+      "code": "10K642ECM.04LU",
+      "name": "HALF MOON CASE IN triomphe canvas and calfskin",
+      "details": "7 x 5 x 2 IN (17.5 x 12 x 6 CM)triomphe canvas, trimmings IN calfskintextile liningGOLD FINISHINGHand carry, shoulder carry and cross-body carryZIPPED CLOSUREONE MAIN COMPARTMENTREMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 16 IN (40 CM) AND MAXIMUM DROP 20 IN (50 CM)LEATHER HANDLE WITH 3 IN (7 CM) DROPReference : 10K642ECM.04LU",
+      "description": "",
+      "price": "48693500",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwaa32639e/images/large/10K642ECM.04LU_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "48693500",
+          "code": "10K642ECM.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwaa32639e/images/large/10K642ECM.04LU_1_FW23_W_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/half-moon-case-in-triomphe-canvas-and-calfskin-10K642ECM.04LU.html"
+    },
+    {
+      "code": "10K502EWU.04LU",
+      "name": "MINI BESACE CLEA in Triomphe canvas and calfskin",
+      "details": "6 x 5 x 2 IN (15.5 x 11.5 x 5 CM)Triomphe canvas, trimmings in calfskincalfskin liningGold FinishingHand carry, shoulder carry and cross-body carrytriomphe metallic snap button closureOne main compartment Two inner flat pocketsREMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 20 IN (51 CM) AND MAXIMUM DROP 23 IN (59 CM)LEATHER HANDLE WITH 2 IN (6 CM) DROPReference : 10K502EWU.04LU",
+      "description": "",
+      "price": "74953400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0bb287d8/images/large/10K502EWU.04LU_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "74953400",
+          "code": "10K502EWU.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw0bb287d8/images/large/10K502EWU.04LU_1_SUM23.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-besace-clea-in-triomphe-canvas-and-calfskin-10K502EWU.04LU.html"
+    },
+    {
+      "code": "10I592DQ2.04LU",
+      "name": "CLUTCH ON STRAP TABOU in Triomphe canvas and calfskin",
+      "details": "7 x 4 x 2 IN (18.5 x 9.5 x 5 CM)triomphe canvas, trimmings in calfskintextile and calfskin liningGOLD FINISHINGShoulder and hand carryFLAP WITH DECORATIVE LOCK AND SNAP BUTTON CLOSUREONE MAIN COMPARTMENTONE INNER FLAT POCKETLEATHER STRAP WITH 11 IN (28 CM) DROPLEATHER HANDLE WITH 3 IN (7,5 CM) DROPReference : 10I592DQ2.04LU",
+      "description": "",
+      "price": "41224400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw06f5fc1c/images/large/10I592DQ2.04LU_1_FALL22_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "41224400",
+          "code": "10I592DQ2.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw06f5fc1c/images/large/10I592DQ2.04LU_1_FALL22_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE/TAN",
+          "size": null,
+          "price": "41224400",
+          "code": "10I592DQ2.01TA",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwd40c611f/images/large/10I592DQ2.01TA_1_FALL22_V3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/clutch-on-strap-tabou-in-triomphe-canvas-and-calfskin-10I592DQ2.04LU.html"
+    },
+    {
+      "code": "194372BZK.04LU",
+      "name": "Mini Vertical Cabas IN Triomphe Canvas with Celine print",
+      "details": "7 x 8 x 2 IN (17 x 20.5 x 6 CM)Triomphe Canvas, trimmings in calfskinTextile liningGOLD FINISHINGHand carry, shoulder carry and cross-body carryLeather handles with 4 IN (10 CM) dropRemovable and ajustable with a minimum drop 19 IN (49 CM) and maximum drop 20 IN (50 CM)Reference : 194372BZK.04LU",
+      "description": "",
+      "price": "46845900",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3a61a0c2/images/large/194372BZK.04LU_1_FALL20_723665v1.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "Tan",
+          "size": null,
+          "price": "46845900",
+          "code": "194372BZK.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw3a61a0c2/images/large/194372BZK.04LU_1_FALL20_723665v1.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        },
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "46845900",
+          "code": "194372BZK.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw756d622f/images/large/194372BZK.01BC_1_LIB_613841_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-vertical-cabas-in-triomphe-canvas-with-celine-print-194372BZK.04LU.html"
+    },
+    {
+      "code": "196702BZJ.04LU",
+      "name": "Mini Besace IN Triomphe Canvas and calfskin",
+      "details": "6 x 6 x 2 IN (16 x 14 x 4 CM)Triomphe Canvas, trimmings in calfskinTextile liningGOLD FINISHINGCross-body and shoulder carryFLAP WITH METALLIC TRIOMPHE SNAP CLOSUREONE MAIN COMPARTMENTONE FLAT POCKETadjustable strap with a minimum drop 20 IN (51cm) and maximum drop 23 IN (58cm)Reference : 196702BZJ.04LU",
+      "description": "",
+      "price": "41224400",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcc925cea/images/large/196702BZJ.04LU_1_FALL21_v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "41224400",
+          "code": "196702BZJ.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwcc925cea/images/large/196702BZJ.04LU_1_FALL21_v2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-besace-in-triomphe-canvas-and-calfskin-196702BZJ.04LU.html"
+    },
+    {
+      "code": "196702BZJ.01BC",
+      "name": "Mini Besace in Triomphe Canvas and calfskin",
+      "details": "6 x 6 x 2 IN (16 x 14 x 4 CM)Triomphe Canvas, trimmings in calfskinTextile liningGOLD FINISHINGCross-body and shoulder carryFLAP WITH METALLIC TRIOMPHE SNAP CLOSUREONE MAIN COMPARTMENTONE FLAT POCKETadjustable strap with a minimum drop 20 IN (51cm) and maximum drop 23 IN (58cm)Reference : 196702BZJ.01BC",
+      "description": "",
+      "price": "41202200",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw89f64fdc/images/large/196702BZJ.01BC_1_FALL21_v3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "WHITE",
+          "size": null,
+          "price": "41202200",
+          "code": "196702BZJ.01BC",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dw89f64fdc/images/large/196702BZJ.01BC_1_FALL21_v3.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-besace-in-triomphe-canvas-and-calfskin-196702BZJ.01BC.html"
+    },
+    {
+      "code": "10J762CZ1.04LU",
+      "name": "MINI VANITY CASE in Triomphe Canvas and Calfskin",
+      "details": "4 x 4 x 4 IN (9.5 x 9 x 9 CM)Triomphe Canvas, trimmings in calfskinTextile LiningGOLD FINISHINGHand carry, shoulder carry and cross-body carryone main zipped compartmentREMOVABLE AND ADJUSTABLE STRAP WITH A MINIMUM DROP 20 IN (51 CM) AND MAXIMUM DROP 23 IN (59 CM)LEATHER HANDLE WITH 3 IN (7 CM) DROPReference : 10J762CZ1.04LU",
+      "description": "",
+      "price": "33729100",
+      "currency": "VND",
+      "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe6884678/images/large/10J762CZ1.04LU_1_FALL22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+      "additionalImages": [],
+      "variants": [
+        {
+          "color": "TAN",
+          "size": null,
+          "price": "33729100",
+          "code": "10J762CZ1.04LU",
+          "imageUrl": "https://www.celine.com/on/demandware.static/-/Sites-masterCatalog/default/dwe6884678/images/large/10J762CZ1.04LU_1_FALL22_V2.jpg?im=Resize=(200);AspectCrop=(1,1),xPosition=.5,yPosition=.5",
+          "additionalImages": []
+        }
+      ],
+      "sourceUrl": "https://www.celine.com/en-vn/celine-shop-women/mini-bags/triomphe-canvas/mini-vanity-case-in-triomphe-canvas-and-calfskin-10J762CZ1.04LU.html"
+    }
+  ]
 }

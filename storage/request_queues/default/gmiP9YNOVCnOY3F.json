@@ -1,0 +1,23 @@
+{
+  "id": "gmiP9YNOVCnOY3F",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-sequin-silk-tweed-rv07t181z.03as.html",
+  "order_no": "1742182834691.383000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-sequin-silk-tweed-RV07T181Z.03AS.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/chelsea-jacket-in-sequin-silk-tweed-rv07t181z.03as.html",
+    "id": "gmiP9YNOVCnOY3F"
+  }
+}

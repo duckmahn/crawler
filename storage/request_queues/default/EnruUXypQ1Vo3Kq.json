@@ -1,0 +1,23 @@
+{
+  "id": "EnruUXypQ1Vo3Kq",
+  "unique_key": "https://www.celine.com/en-vn/celine-alma-triomphe-slingback-in-patent-calfskin-356834582d.02bh.html",
+  "order_no": "1742183239987.595000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-alma-triomphe-slingback-in-patent-calfskin-356834582D.02BH.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-alma-triomphe-slingback-in-patent-calfskin-356834582d.02bh.html",
+    "id": "EnruUXypQ1Vo3Kq"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p3S9pJtzLlkfpHK",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/pleated-skirt-in-bouclette-natte-rj02v333j.38no.html",
+  "order_no": "1742181050651.404000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/pleated-skirt-in-bouclette-natte-RJ02V333J.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/dresses-and-skirts/pleated-skirt-in-bouclette-natte-rj02v333j.38no.html",
+    "id": "p3S9pJtzLlkfpHK"
+  }
+}

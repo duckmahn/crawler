@@ -1,0 +1,23 @@
+{
+  "id": "7XpraZr0fHX2ZAO",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/straight-blouson-jacket-in-patent-lambskin-leather-2el09842a.38no.html",
+  "order_no": "1742183196104.286000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/straight-blouson-jacket-in-patent-lambskin-leather-2EL09842A.38NO.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/ready-to-wear/jackets/straight-blouson-jacket-in-patent-lambskin-leather-2el09842a.38no.html",
+    "id": "7XpraZr0fHX2ZAO"
+  }
+}

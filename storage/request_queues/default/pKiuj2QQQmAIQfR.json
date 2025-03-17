@@ -1,0 +1,23 @@
+{
+  "id": "pKiuj2QQQmAIQfR",
+  "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-triomphe-sandal-in-laminated-lambskin-352213162c.35or.html",
+  "order_no": "1742181050656.149000",
+  "handled_at": null,
+  "request": {
+    "url": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-triomphe-sandal-in-laminated-lambskin-352213162C.35OR.html",
+    "method": "GET",
+    "headers": {},
+    "payload": null,
+    "user_data": {
+      "__crawlee": {
+        "crawlDepth": 2
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": null,
+    "handled_at": null,
+    "unique_key": "https://www.celine.com/en-vn/celine-shop-women/shoes/sandals/celine-triomphe-sandal-in-laminated-lambskin-352213162c.35or.html",
+    "id": "pKiuj2QQQmAIQfR"
+  }
+}
