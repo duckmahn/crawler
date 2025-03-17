@@ -13,6 +13,6 @@ async def main() -> None:
 
     await crawler.run(
         [
-            'https://www.dior.com/en_vn/fashion',
+            'https://www.celine.com/en-vn/home',
         ]
     )
