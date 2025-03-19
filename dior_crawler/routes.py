@@ -1,6 +1,8 @@
 from crawlee.crawlers import BeautifulSoupCrawlingContext
 from crawlee.router import Router
 import re
+import json
+import os  # Thêm import os
 
 router = Router[BeautifulSoupCrawlingContext]()
 
@@ -24,7 +26,7 @@ def extract_detail_images(detail_soup):
     return images
 
 def format_price(price_str):
-    if not price_str or price_str == "Price not available":
+    if not price_str or price_str == "Price not avextract_product_details_diorailable":
         return None, None
     
     numeric_str = ''.join(filter(str.isdigit, price_str))
@@ -73,6 +75,7 @@ def extract_product_details_dior(product_elem):
             variant_code = href.split('/products/')[-1] if '/products/' in href else ""
 
         product_data = {
+            "brand": "dior",
             "code": product_id,
             "name": name,
             "description": description,
@@ -119,17 +122,28 @@ async def default_handler(context: BeautifulSoupCrawlingContext) -> None:
                     else:
                         # Create new product entry
                         product_map[base_name] = product_data
+                        
+                        # Tạo thư mục tương ứng với brand trong thư mục storage
+                        brand_folder = os.path.join('storage', product_data['brand'])
+                        os.makedirs(brand_folder, exist_ok=True)  # Tạo thư mục nếu chưa tồn tại
+
+                        # Xuất sản phẩm ra tệp với tên là product.brand - product.code
+                        if product_data["code"]:
+                            file_name = f"{product_data['brand']}-{product_data['code']}.json"
+                            file_path = os.path.join(brand_folder, file_name)  # Đường dẫn tệp
+                            with open(file_path, 'w', encoding='utf-8') as f:
+                                json.dump(product_data, f, ensure_ascii=False, indent=4)
                 
             except Exception as e:
                 print(f"Error processing product: {e}")
 
         # Convert product_map to list for final output
-        product_data = list(product_map.values())
-        await context.push_data(
-        {
-            'brand': 'dior',
-            'products': product_data
-        })
+        # product_data = list(product_map.values())
+        # await context.push_data(
+        # {
+        #     'brand': 'dior',
+        #     'products': product_data
+        # })
     else:
         context.log.error(f'Error processing {context.request.url} ...')
         # print(json.dumps({"brand":"dior","products": product_data}, indent=4, ensure_ascii=False))
